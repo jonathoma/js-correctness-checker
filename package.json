@@ -1,0 +1,25 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "Engineering Honors Capstone project for Jonathan Thomas.",
+  "main": "index.js",
+  "dependencies": {
+    "dom-compare": "^0.3.2",
+    "heapdump": "^0.3.12",
+    "npm": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathoma/js-correctness-checker.git"
+  },
+  "author": "jonathoma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathoma/js-correctness-checker/issues"
+  },
+  "homepage": "https://github.com/jonathoma/js-correctness-checker#readme"
+}
