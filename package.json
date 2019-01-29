@@ -4,9 +4,14 @@
   "description": "Engineering Honors Capstone project for Jonathan Thomas.",
   "main": "index.js",
   "dependencies": {
+    "chrome-remote-interface": "^0.27.0",
     "dom-compare": "^0.3.2",
     "heapdump": "^0.3.12",
-    "npm": "^6.6.0"
+    "jsdom": "^13.2.0",
+    "node-fetch": "^2.3.0",
+    "npm": "^6.7.0",
+    "puppeteer": "^1.11.0",
+    "request": "^2.88.0"
   },
   "devDependencies": {},
   "scripts": {
