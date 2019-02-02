@@ -3,3 +3,6 @@ package-lock.json
 tmp
 *.pages
 *.docx
+*.swp
+proposal
+seminar
