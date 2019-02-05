@@ -38,7 +38,7 @@ async function get_dom_from_browser(url) {
 function compare_simple_dom(dom_1, dom_2) {
     var doc1 = parser.parseFromString(dom_1);
     var doc2 = parser.parseFromString(dom_2);
-    let result = compare(doc1, doc2);
+    const result = compare(doc1, doc2);
     console.log(result);
     return result.getResult();
 }
@@ -77,7 +77,7 @@ function parse_dom(dom_text) {
 
 function main() {
     // Comparison of simple DOM    
-    let doc_1 = "<document> \
+    const doc_1 = "<document> \
         <element attribute=\"10\" attributeX=\"100\"> \
             <text>  text content  </text> \
             <inner> \ <node /> \</inner> \
@@ -85,7 +85,7 @@ function main() {
         <![CDATA[  cdata node]]> \
     </document>"
     
-    let doc_2 = "<document> \
+    const doc_2 = "<document> \
         <!-- comment --> \
         <element attributeX=\"100\" attribute=\"10\"> \
             <text>  text content  </text> \
@@ -96,7 +96,7 @@ function main() {
         <![CDATA[  cdata node]]> \
     </document>"
 
-    let doc_3 = "<document> \
+    const doc_3 = "<document> \
         <element attribute=\"10\" attributeX=\"100\"> \
             <text>text content</text> \
             <inner> \
@@ -111,21 +111,21 @@ function main() {
     console.log("Comparing different: ", compare_simple_dom(doc_2, doc_3), "\n");
 
     // Comparison of real DOM
-    let url = "https://www.google.com";
-    let source_dom_text = get_dom_from_request(url);
-    let source_dom = new JSDOM(source_dom_text);
+    const url = "https://www.google.com";
+    const source_dom_text = get_dom_from_request(url);
+    const source_dom = new JSDOM(source_dom_text);
     // console.log(source_dom);
 
-    // let source_dom_text_2 = get_dom_from_request(url);
-    // let source_dom_2 = new JSDOM(source_dom_text);
+    // const source_dom_text_2 = get_dom_from_request(url);
+    // const source_dom_2 = new JSDOM(source_dom_text);
     // console.log("Fetch same twice: ", source_dom === source_dom_2);
 
-    let rendered_dom_text = get_dom_from_browser(url);
-    let rendered_dom = new JSDOM(rendered_dom_text);
+    const rendered_dom_text = get_dom_from_browser(url);
+    const rendered_dom = new JSDOM(rendered_dom_text);
     // console.log(rendered_dom);
 
-    // let rendered_dom_text_2 = get_dom_from_browser(url);
-    // let rendered_dom_2 = new JSDOM(rendered_dom_text);
+    // const rendered_dom_text_2 = get_dom_from_browser(url);
+    // const rendered_dom_2 = new JSDOM(rendered_dom_text);
     // console.log("Load website same twice: ", rendered_dom === rendered_dom_2);
 
     console.log("\nComparison of real DOM example: "); 
