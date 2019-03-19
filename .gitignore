@@ -1,10 +1,14 @@
 node_modules
-package-lock.json
+*package.json
+*package-lock.json
+*npm-debug.log
 tmp
 *.pages
 *.docx
 *.swp
 seminar
 dom/samples
+dom/output
 dom-compare
 mahimahi
+replay_data
