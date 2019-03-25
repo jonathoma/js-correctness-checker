@@ -1,0 +1,302 @@
+COMPARING LIVE SAMPLES
+www.104.com.tw
+nodes 1332 attributes 1940 differences 0
+0
+www.163.com
+www.6.cn
+www.afreecatv.com
+nodes 1019 attributes 1082 differences 107
+0.050928129462160875
+www.aliyun.com
+nodes 3271 attributes 4425 differences 0
+0
+www.allegro.pl
+www.as.com
+nodes 1874 attributes 1942 differences 24
+0.006289308176100629
+www.babytree.com
+nodes 2166 attributes 2127 differences 0
+0
+www.baidu.com
+nodes 200 attributes 290 differences 3
+0.006122448979591836
+www.bankmellat.ir
+nodes 3618 attributes 3788 differences 0
+0
+www.bestbuy.com
+nodes 3219 attributes 2958 differences 0
+0
+www.biobiochile.cl
+nodes 3279 attributes 3588 differences 39
+0.005679335954565312
+www.bodybuilding.com
+nodes 900 attributes 1663 differences 6
+0.0023410066328521262
+www.bola.com
+nodes 3781 attributes 8848 differences 46
+0.003642410325441444
+www.bzw315.com
+nodes 2404 attributes 2717 differences 0
+0
+www.championat.com
+www.chip.de
+nodes 2840 attributes 3143 differences 0
+0
+www.cimaclub.com
+nodes 3514 attributes 3189 differences 0
+0
+www.cnbeta.com
+nodes 2770 attributes 2814 differences 0
+0
+www.cnnindonesia.com
+nodes 1540 attributes 1690 differences 0
+0
+www.coccoc.com
+nodes 470 attributes 479 differences 0
+0
+www.dailymail.co.uk
+nodes 7302 attributes 8648 differences 0
+0
+www.dhgate.com
+nodes 1310 attributes 1365 differences 7
+0.002616822429906542
+www.digikala.com
+nodes 5869 attributes 10181 differences 0
+0
+www.digitaltrends.com
+nodes 1350 attributes 1889 differences 70
+0.021611608521148504
+www.discuss.com.hk
+nodes 2291 attributes 2926 differences 0
+0
+www.dkn.tv
+nodes 4085 attributes 5009 differences 0
+0
+www.dmm.com
+nodes 2673 attributes 4615 differences 0
+0
+www.ea.com
+nodes 440 attributes 1058 differences 0
+0
+www.eastday.com
+nodes 2702 attributes 3624 differences 0
+0
+www.ebc.net.tw
+nodes 747 attributes 1071 differences 0
+0
+www.eksisozluk.com
+nodes 1254 attributes 1756 differences 0
+0
+www.elpais.com
+nodes 94 attributes 146 differences 37
+0.15416666666666667
+www.ensonhaber.com
+nodes 3144 attributes 4158 differences 0
+0
+www.filehippo.com
+nodes 722 attributes 840 differences 0
+0
+www.food.tmall.com
+nodes 1422 attributes 1204 differences 0
+0
+www.g2a.com
+nodes 11 attributes 0 differences 1
+0.09090909090909091
+www.geeksforgeeks.org
+nodes 2038 attributes 1984 differences 21
+0.00522128294380905
+www.globo.com
+nodes 4064 attributes 6532 differences 0
+0
+www.gmarket.co.kr
+nodes 2763 attributes 3138 differences 0
+0
+www.hespress.com
+nodes 3728 attributes 2975 differences 9
+0.0013426823810234224
+www.hola.com
+nodes 2126 attributes 2742 differences 65
+0.013352506162695153
+www.hp.com
+nodes 2151 attributes 4362 differences 23
+0.003531398740979579
+www.icicibank.com
+www.imdb.com
+nodes 1996 attributes 2103 differences 0
+0
+www.inquirer.net
+nodes 45 attributes 45 differences 5
+0.05555555555555555
+www.iqiyi.com
+nodes 6056 attributes 9590 differences 0
+0
+www.japanpost.jp
+nodes 1585 attributes 1449 differences 0
+0
+www.jio.com
+nodes 1810 attributes 1745 differences 0
+0
+www.jrj.com.cn
+nodes 4764 attributes 3937 differences 0
+0
+www.kapanlagi.com
+nodes 2021 attributes 2271 differences 25
+0.005824790307548928
+www.kumparan.com
+nodes 155 attributes 224 differences 172
+0.45382585751978893
+www.lifebuzz.com
+nodes 777 attributes 803 differences 42
+0.026582278481012658
+www.mail.ru
+nodes 935 attributes 1382 differences 0
+0
+www.mama.cn
+nodes 3054 attributes 2694 differences 0
+0
+www.mlb.com
+www.naija.ng
+nodes 1401 attributes 1936 differences 153
+0.04584956547797423
+www.naver.jp
+nodes 914 attributes 883 differences 0
+0
+www.netflix.com
+nodes 554 attributes 796 differences 5
+0.003703703703703704
+www.ngacn.cc
+nodes 38 attributes 45 differences 0
+0
+www.ok.ru
+nodes 3006 attributes 4117 differences 0
+0
+www.orange.fr
+nodes 1538 attributes 2720 differences 0
+0
+www.pantip.com
+nodes 4672 attributes 5635 differences 0
+0
+www.pastebin.com
+nodes 1034 attributes 1157 differences 93
+0.04244637151985395
+www.pchome.com.tw
+nodes 2229 attributes 1825 differences 0
+0
+www.pixiv.net
+nodes 319 attributes 357 differences 10
+0.014792899408284023
+www.pornq.com
+nodes 2300 attributes 3423 differences 0
+0
+www.rbc.ru
+nodes 1791 attributes 2351 differences 0
+0
+www.rediff.com
+nodes 179 attributes 161 differences 2
+0.0058823529411764705
+www.ria.ru
+nodes 5286 attributes 7574 differences 0
+0
+www.ruten.com.tw
+nodes 3131 attributes 4137 differences 0
+0
+www.rutube.ru
+nodes 4206 attributes 7239 differences 0
+0
+www.sahibinden.com
+nodes 2133 attributes 1577 differences 0
+0
+www.shaparak.ir
+nodes 551 attributes 536 differences 0
+0
+www.sina.com.cn
+nodes 7330 attributes 8925 differences 0
+0
+www.slideshare.net
+nodes 1196 attributes 2505 differences 403
+0.10888948932720886
+www.smzdm.com
+www.so.com
+nodes 248 attributes 285 differences 3
+0.005628517823639775
+www.sohu.com
+nodes 4088 attributes 5423 differences 0
+0
+www.sportbox.ru
+nodes 3276 attributes 2945 differences 0
+0
+www.sports.ru
+nodes 6125 attributes 9006 differences 0
+0
+www.strava.com
+nodes 202 attributes 196 differences 4
+0.010050251256281407
+www.t-online.de
+nodes 3538 attributes 4819 differences 0
+0
+www.techradar.com
+nodes 1706 attributes 2474 differences 19
+0.004545454545454545
+www.telegraf.com.ua
+www.telegraph.co.uk
+www.telewebion.com
+nodes 609 attributes 1485 differences 0
+0
+www.thestartmagazine.com
+nodes 98 attributes 137 differences 6
+0.02553191489361702
+www.tistory.com
+nodes 605 attributes 623 differences 0
+0
+www.tokopedia.com
+nodes 1658 attributes 1640 differences 225
+0.06822316555488174
+www.tomshardware.com
+nodes 2617 attributes 3774 differences 0
+0
+www.uidai.gov.in
+nodes 3115 attributes 3434 differences 0
+0
+www.uniqlo.tmall.com
+nodes 275 attributes 243 differences 3
+0.005791505791505791
+www.uol.com.br
+nodes 4112 attributes 6892 differences 0
+0
+www.upornia.com
+nodes 5042 attributes 6600 differences 0
+0
+www.uzone.id
+www.varzesh3.com
+nodes 5032 attributes 5574 differences 0
+0
+www.vesti.ru
+nodes 1662 attributes 1708 differences 0
+0
+www.vidio.com
+nodes 2019 attributes 5846 differences 67
+0.008518753973299428
+www.vimeo.com
+nodes 1584 attributes 2059 differences 64
+0.017567938512215206
+www.warframe.com
+nodes 715 attributes 627 differences 18
+0.013412816691505217
+www.wunderground.com
+nodes 946 attributes 1081 differences 0
+0
+www.xda-developers.com
+nodes 231 attributes 410 differences 67
+0.10452418096723869
+www.xiami.com
+nodes 1280 attributes 1284 differences 66
+0.02574102964118565
+www.yahoo.co.jp
+nodes 1326 attributes 1138 differences 0
+0
+www.youdao.com
+nodes 579 attributes 424 differences 0
+0
+www.youth.cn
+nodes 1236 attributes 1247 differences 0
+0
