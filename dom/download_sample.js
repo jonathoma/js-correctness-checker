@@ -81,7 +81,7 @@ function download(filename, text) {
   document.body.removeChild(element);
 }
 
-function main(filename, serialize=true, strip=false) {
+function main(filename, serialize=1, strip=0) {
     if (strip) {
       removeScripts();
     }
