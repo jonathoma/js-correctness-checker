@@ -1,0 +1,2575 @@
+<html class="g-lockscroll"><head><script type="text/javascript" async="" src="//target.smi2.net/client/ttag.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://www.tns-counter.ru/tcounter.js"></script><script type="text/javascript" src="https://cstatic.weborama.fr/js/wam/customers/wamfactory_dpm.wildcard.min.js?rnd=0" async=""></script><script type="text/javascript" async="" id="topmailru-code" src="https://top-fwz1.mail.ru/js/code.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+Date=function(r){function n(n,e,t,a,u,i,f){var o;switch(arguments.length){case 0:o=new r(0);break;case 1:o=new r(n);break;default:t=t||1,a=a||0,u=u||0,i=i||0,f=f||0,o=new r(n,e,t,a,u,i,f)}return o}return n.parse=r.parse,n.UTC=r.UTC,n.toString=r.toString,n.prototype=r.prototype,n.now=function(){return 0},n}(Date),Math.exp=function(){function r(r){var n=new ArrayBuffer(8);return new Float64Array(n)[0]=r,0|new Uint32Array(n)[1]}function n(r){var n=new ArrayBuffer(8);return new Float64Array(n)[0]=r,new Uint32Array(n)[0]}function e(r,n){var e=new ArrayBuffer(8);return new Uint32Array(e)[1]=r,new Uint32Array(e)[0]=n,new Float64Array(e)[0]}var t=[.5,-.5],a=[.6931471803691238,-.6931471803691238],u=[1.9082149292705877e-10,-1.9082149292705877e-10];return function(i){var f,o=0,c=0,w=0,y=r(i),s=y>>31&1;if((y&=2147483647)>=1082535490){if(y>=2146435072)return isNaN(i)?i:0==s?i:0;if(i>709.782712893384)return 1/0;if(i<-745.1332191019411)return 0}if(y>1071001154){if(y<1072734898){if(1==i)return Math.E;c=i-a[s],w=u[s],o=1-s-s}else o=1.4426950408889634*i+t[s]|0,f=o,c=i-f*a[0],w=f*u[0];i=c-w}else{if(y<1043333120)return 1+i;o=0}f=i*i;var v=i-f*(.16666666666666602+f*(f*(6613756321437934e-20+f*(4.1381367970572385e-8*f-16533902205465252e-22))-.0027777777777015593));if(0==o)return 1-(i*v/(v-2)-i);var A=1-(w-i*v/(2-v)-c);return o>=-1021?A=e((o<<20)+r(A),n(A)):(A=e((o+1e3<<20)+r(A),n(A)),A*=9.332636185032189e-302)}}(),Math.random=function(){var r,n,e,t;return r=.8725217853207141,n=.520505596883595,e=.22893249243497849,t=1,function(){var a=2091639*r+2.3283064365386963e-10*t;return r=n,n=e,t=0|a,e=a-t}}(),Object.keys=function(r){return function(n){var e;return e=r(n),e.sort(),e}}(Object.keys);
+</script>
+
+<!--[if lte IE 9]>
+<html class="no-js ie-old g-lockscroll"> <![endif]-->
+<!--[if gt IE 9]><!-->
+ <!--<![endif]-->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="address=no">
+    <meta name="csrf-token" content="97bc592b27a9ada2d9a4bb418ed0ebed">
+    <meta name="csrf-param" content="csrf_token">
+
+    
+
+            
+    <title>РБК — новости, акции, курсы валют, доллар, евро</title>
+<meta name="title" content="РБК — новости, акции, курсы валют, доллар, евро">
+<meta name="Description" content="«РосБизнесКонсалтинг» — ведущая российская компания, работающая в сферах масс-медиа и информационных технологий.">
+<meta name="copyright" content="«РосБизнесКонсалтинг»">
+<meta property="og:title" content="РБК – новости в реальном времени">
+<meta property="og:description" content="Главные новости политики, экономики и бизнеса, комментарии аналитиков, финансовые данные с российских и мировых биржевых систем на сайте rbc.ru.">
+<meta property="og:url" content="https://www.rbc.ru/">
+<meta property="og:site_name" content="РБК">
+<meta property="og:image" content="https://s.rbk.ru/v10_rbcnews_static/current/images/rbc-share.png"><link rel="https://s.rbk.ru/v10_rbcnews_static/current/images/rbc-share.png">
+<meta name="twitter:site" content="@ru_rbc">
+<meta name="twitter:creator" content="@ru_rbc">
+<meta name="twitter:title" content="РБК – новости в реальном времени">
+    <meta name="twitter:description" content="Главные новости политики, экономики и бизнеса, комментарии аналитиков, финансовые данные с российских и мировых биржевых систем на сайте rbc.ru.">
+    <meta name="twitter:image" content="https://s.rbk.ru/v10_rbcnews_static/current/images/rbc-share.png">
+    <meta name="twitter:image:alt" content="РБК – новости в реальном времени">
+    <meta itemprop="name" content="РБК – новости в реальном времени">
+    <meta itemprop="description" content="Главные новости политики, экономики и бизнеса, комментарии аналитиков, финансовые данные с российских и мировых биржевых систем на сайте rbc.ru.">
+    <meta name="keywords" content="новости, доллар, политика, курс, акции, облигации, нефть, рубль, евро, финансы, экономика, банк, кредит, вексель, информация, фондовый, инвестиционный, рынок, недвижимость, валюта, эмитент, комментарии, аналитика, продаж/продажа, цена, компания, товары, исследование, прогноз, индекс, рейтинг, биржа, семинар, фондовый, ПИФ, доходность, IPO, паевой">
+    <meta property="og:type" content="article">
+    <meta http-equiv="Reply-to" content="webmaster@rbc.ru">
+    <meta name="twitter:card" content="summary">
+
+
+                
+            <link rel="icon" type="image/png" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/favicon.png">
+        <!--[if IE]><link rel="shortcut icon" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/favicon.ico"/><![endif]-->
+    
+            <link rel="apple-touch-icon" sizes="60x60" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/apple-touch-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/apple-touch-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/android-chrome-192x192.png">
+        <link rel="icon" type="image/png" sizes="512x512" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/android-chrome-512x512.png">
+        <link rel="mask-icon" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/safari-pinned-tab.svg" color="#999999">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/mstile-144x144.png">
+        <meta name="msapplication-square70x70logo" content="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/mstile-70x70.png">
+        <meta name="msapplication-square150x150logo" content="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/mstile-150x150.png">
+        <meta name="msapplication-square310x310logo" content="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/mstile-310x310.png">
+        <meta name="msapplication-wide310x150logo" content="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/mstile-310x150.png">
+        <meta name="theme-color" content="#ffffff">
+    
+            <link rel="stylesheet" href="//s.rbk.ru/files_static/edd/static/fonts/6/build/_common-fonts.css" media="screen">
+        <link rel="stylesheet" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/styles/build/_common.css" media="screen">
+        <!--[if gt IE 8]><!-->
+        <link rel="stylesheet" href="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/styles/build/_print.css" media="print">
+        <!--<![endif]-->
+    
+                        <link rel="stylesheet" href="//s.rbk.ru/v1_rbcbanners_static/rbcbanners-1.30/build/_core.css" media="screen">
+            
+        <link rel="stylesheet" href="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.1.26/styles/build/_main.css" media="screen">
+    <link rel="stylesheet" href="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.1.26/styles/build/_print.css" media="print">
+
+    
+    <script src="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/scripts/build/_core.js"></script>
+
+            <script src="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/scripts/vendor/browser-updater/main.js"></script>
+    
+            <script src="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/scripts/vendor/videojs/main.custom.js"></script>
+    
+    <script>
+        RA.version = 10;
+        RA.env = ('production' || 'production'); // develop, test, staging, production
+        RA.config.set('device.isMobile', true);
+        RA.config.set('layout.mainMenuHeight', 105);
+        RA.config.set('layout.layoutMinBreakpoint', 1260);
+        RA.config.set('layout.layoutMinWidth', 980);
+        RA.config.set('layout.bottomBannerHeight', 250);
+        RA.config.set('layout.billboardHeight', 250);
+        RA.config.set('layout.isLogoBW', false);
+        RA.config.set('layout.templatePath', 'public');
+        RA.config.set('urls.common_static', '//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/');
+        RA.config.set('urls.static', '//s.rbk.ru/v10_rbcnews_static/rbcnews-10.1.26/');
+        RA.config.set('urls.image', 'https://s.rbk.ru/v10_rbcnews_static/current/images/');
+        RA.config.set('domain', '.rbc.ru');
+        RA.config.set('domainAuth', 'https://auth.rbc.ru');
+        RA.config.set('pro.cookie', 'back_votes_session');
+        RA.config.set('video.off', false);
+        RA.config.set('paywall.user.logined', '');
+        RA.config.set('paywall.user.paid', '');
+        RA.config.set('mainPage', true);
+        RA.config.set('showBanners', true);
+    </script>
+
+                        <link rel="manifest" href="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.1.26/app/manifest.json">
+
+        <script>
+        window.bannersVersion = 'v8';         RA.config.set('appPushDomain', 'https://app.rbc.ru/');
+        RA.config.set('apnPushDomen', 'https://app.rbc.ru');
+        RA.config.set('apnWebsitePushId', 'web.ru.rbc.top');
+        RA.config.set('user.region', 'world');
+        RA.config.set('layout.mainMenuHeight', 45);
+        RA.config.set('newsfeed.removeHiddingNews', true);
+
+        
+            </script>
+
+
+                        
+
+
+<!-- google analytics -->
+
+<script type="text/javascript">
+    function recordOutboundLink(link, category, action) {
+        try {
+            _gat._createTracker("UA-8487723-7","myT");
+            _gat._getTrackerByName("myT")._trackEvent(category, action);
+        } catch(err) {}
+    }
+</script>
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(
+            ['_setAccount', 'UA-8487723-7']
+            , ['_setDomainName', 'rbc.ru']
+            , ['_trackPageview']
+        );
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+<script type="text/javascript">
+
+    function checkCookieDevice() {
+        return ( document.cookie.indexOf( "toprbc_device" ) >= 0 ) ? 1 : 0;
+    }
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-8487723-7', 'auto');
+    ga('send', 'event', 'device', 'web', checkCookieDevice());
+    window.pageType = 'index';
+</script>
+
+<!-- /google analytics -->
+</head>
+<body class="index g-lockscroll ">
+            <script async="" src="https://cdn.onthe.io/io.js?k6rtDKrNVwkr"></script>
+        <script>
+    window._io_config = window._io_config || {};
+    window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+    window._io_config["0.2.0"].push({
+        page_url: location.href,
+        page_url_canonical: location.origin + location.pathname,
+        page_title: document.getElementsByTagName('title')[0].innerHTML,
+        page_language: "ru",
+            page_type: "main",
+    });
+</script>        <div class="g-counter">
+    <!--LiveInternet counter-->
+    <script type="text/javascript"><!--
+    new Image().src = "//counter.yadro.ru/hit;RBCRU?r"+
+    escape(document.referrer)+((typeof(screen)=="undefined")?"":
+    ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+            screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+    ";"+Math.random();//--></script>
+    <!--/LiveInternet-->
+    <script type="text/javascript">
+    RA.config.set('counters.li.id', 'RBCRU');
+    </script>
+</div>
+
+        <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "3081030", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = "https://top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div>
+    <img src="https://top-fwz1.mail.ru/counter?id=3081030;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+            <!-- weborama -->
+<script type="text/javascript">
+    var wamid = '2641';
+    var typ = '3';
+    var Wvar=[];
+    Wvar.push("domain",location.host);
+
+    (function() {
+        var w = document.createElement("script");
+        w.type = "text/javascript";
+        w.src = document.location.protocol + "//cstatic.weborama.fr/js/wam/customers/wamfactory_dpm.wildcard.min.js?rnd="+new Date().getTime();
+        w.async = true;
+        var body = document.getElementsByTagName('script')[0];
+        body.parentNode.insertBefore(w,body);
+    })();
+</script>
+<!-- /weborama -->    
+                        
+            
+            
+            
+            <div class="live-tv">
+    <div class="live-tv__overlay js-live-tv-overlay g-event-fullscreen">
+                <div class="live-tv__overlay__navbar">
+            <div class="live-tv__overlay__navbar__close js-live-tv-close"></div>
+        </div>
+                                    <div class="live-tv__banner">
+                    <!-- in_online_fullscreen -->
+                <div class="banner live-tv__banner__bg" data-id="div-gpt-ad-1495101836220-0" data-banner-id="rbc_online_240" data-device="1" data-service="dfp">
+            <div id="div-gpt-ad-1495101836220-0" data-has-wrap="1" class="g-banner-align-center"></div>
+        </div>
+    
+                </div>
+                        </div>
+</div>
+<div class="live-tv__overlay__big_close js-live-tv-close"></div>
+    
+                                        <div class="l-window">
+                    <div class="g-mobile-visible">
+    <div id="id_bmf_container" class="banners__mobile-freeze" style="min-height: 450px; overflow: hidden;" data-limit="1">
+        <div id="id_bmf_preloder" class="banners__mobile-freeze__preloader">
+    <div class="preloader">
+    <div class="preloader__item"></div>
+    <div class="preloader__item"></div>
+    <div class="preloader__item"></div>
+</div></div>        <!-- mobile_before_topline -->
+                <div class="banner" data-id="div-gpt-ad-1539698477869-0" data-banner-id="" data-device="4" data-service="dfp">
+            <div id="div-gpt-ad-1539698477869-0" data-has-wrap="1"></div>
+        </div>
+    
+    </div>
+</div>
+<div id="id_bmf_site_preloder" class="banners__mobile-freeze__site-preloader">
+    <div class="preloader">
+    <div class="preloader__item"></div>
+    <div class="preloader__item"></div>
+    <div class="preloader__item"></div>
+</div></div>                </div>
+                                        <div class="l-window">
+                    <div class="banner__filmstrip g-tablet-visible g-border-bottom">
+    <a href="http://www.adv.rbc.ru" target="_blank" class="banner__container__link">
+    <span class="banner__container__border">
+        <span class="banner__container__text">Реклама на РБК <span class="banner__container__color">www.adv.rbc.ru</span></span>
+    </span>
+</a>        <!-- pad_after_topline -->
+                <div class="banner" data-id="div-gpt-ad-1438337092451-0" data-banner-id="rbc_mobile_top_pad" data-device="2" data-service="dfp">
+            <div id="div-gpt-ad-1438337092451-0" data-has-wrap="1"></div>
+        </div>
+    
+</div>
+
+                </div>
+                                
+            <div class="topline__wrapper topline__wrapper_min">
+            <div class="topline l-window js-topline js-filter-lock-block">
+                                        <div class="topline__inner l-row js-topline"><div class="topline__left js-topline-left"><a class="topline__logo-block" href="https://www.rbc.ru/"><span class="topline__logo "></span></a><div class="topline__projects-wrap js-topline-first"><div class="topline__items-container js-topline-dropdown-container"><div class="topline__projects"><div class="topline__item-block js-topline-item"><a href="http://tv.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;http://tv.rbc.ru/?utm_source=topline&quot;}">
+            Телеканал
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/newspaper/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;https://www.rbc.ru/newspaper/?utm_source=topline&quot;}">
+            Газета
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/magazine/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;https://www.rbc.ru/magazine/?utm_source=topline&quot;}">
+            Журнал
+                    </a></div><div class="topline__item-block js-topline-item"><a href="http://www.rbcplus.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;http://www.rbcplus.ru/?utm_source=topline&quot;}">
+            РБК+
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://pro.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;https://pro.rbc.ru/?utm_source=topline&quot;}">
+            Pro
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://quote.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;https://quote.rbc.ru/?utm_source=topline&quot;}">
+            Quote
+                            <span class="topline__item_bks"></span></a></div><div class="topline__item-block js-topline-item"><a href="https://www.autonews.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;https://www.autonews.ru/?utm_source=topline&quot;}">
+            Авто
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://sportrbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;https://sportrbc.ru/?utm_source=topline&quot;}">
+            Спорт
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://realty.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;https://realty.rbc.ru/?utm_source=topline&quot;}">
+            Недвижимость
+                    </a></div><div class="topline__item-block js-topline-item"><a href="http://style.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;http://style.rbc.ru/?utm_source=topline&quot;}">
+            Стиль
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/crypto/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;https://www.rbc.ru/crypto/?utm_source=topline&quot;}">
+            Крипто
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://marketing.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;https://marketing.rbc.ru/?utm_source=topline&quot;}">
+            Исследования
+                    </a></div><div class="topline__item-block js-topline-item"><a href="http://biztorg.ru/offers/main?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;http://biztorg.ru/offers/main?utm_source=topline&quot;}">
+            Продажа бизнеса
+                    </a></div><div class="topline__item-block js-topline-item"><a href="http://biztorg.ru/franchises/main?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;http://biztorg.ru/franchises/main?utm_source=topline&quot;}">
+            Франшизы
+                    </a></div><div class="topline__item-block js-topline-item"><a href="http://bc.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;http://bc.rbc.ru/?utm_source=topline&quot;}">
+            Конференции
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/awards/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;https://www.rbc.ru/awards/?utm_source=topline&quot;}">
+            Премия РБК 2018
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/awards_spb/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params="{url: &quot;https://www.rbc.ru/awards_spb/?utm_source=topline&quot;}">
+            Премия РБК СПб 2018
+                    </a></div></div></div><div class="topline__more"><div class="topline__item__wrap"><a href="http://rbc.ru/awards" class="topline__item topline__item_special js-yandex-counter" data-yandex-name="topline_1"><span class="topline__item_special-inner">Премия РБК 2018</span></a><a href="http://health.rbc.ru/?utm_source=rbc&amp;utm_medium=rbc_button&amp;utm_campaign=hlth18sp_rbc_button" class="topline__item topline__item_special js-yandex-counter" data-yandex-name="topline_2"><span class="topline__item_special-inner">Здоровье</span></a></div><div class="topline__dropdown"><a href="" class="topline__dropdown__handle js-topline-dropdown">
+                            ...
+                        </a><div class="topline__dropdown__list js-topline-dropdown-list"><div class="topline__dropdown__list__inner js-topline-dropdown-list-inner"></div></div></div></div></div><div class="topline__indicators js-topline-second"><div class="topline__indicators__news"><div class="topline__indicators__move js-topline-move"><a href="https://quote.rbc.ru/ticker/59111" title="USD, 27.02" class="topline__indicators__item js-yandex-counter" data-yandex-name="click_indicators_topline"><span class="topline__indicators__name">
+                            USD
+                        </span><span class="topline__indicators__subname">
+                            Бирж.
+                        </span><span class="topline__indicators__diff">
+                                65,79
+                            </span><span class="topline__indicators__arrow topline__indicators__arrow_green"></span><span class="topline__indicators__diff topline__indicators__diff_grow">
+                                0,09
+                            </span></a><a href="https://quote.rbc.ru/ticker/59090" title="EUR, 27.02" class="topline__indicators__item js-yandex-counter" data-yandex-name="click_indicators_topline"><span class="topline__indicators__name">
+                            EUR
+                        </span><span class="topline__indicators__subname">
+                            Бирж.
+                        </span><span class="topline__indicators__diff">
+                                74,77
+                            </span><span class="topline__indicators__arrow topline__indicators__arrow_red"></span><span class="topline__indicators__diff topline__indicators__diff_fall">
+                                -0,07
+                            </span></a><a href="https://quote.rbc.ru/ticker/181206" title="Brent, 27.02" class="topline__indicators__item js-yandex-counter" data-yandex-name="click_indicators_topline"><span class="topline__indicators__name">
+                            Brent
+                        </span><span class="topline__indicators__subname"></span><span class="topline__indicators__diff">
+                                66,41
+                            </span><span class="topline__indicators__arrow topline__indicators__arrow_green"></span><span class="topline__indicators__diff topline__indicators__diff_grow">
+                                1,82%
+                            </span></a><a href="https://cash.rbc.ru/?currency=3" title="USD, 05:06" class="topline__indicators__item js-yandex-counter" data-yandex-name="click_indicators_topline"><span class="topline__indicators__name">
+                            USD
+                        </span><span class="topline__indicators__subname">
+                            Нал.
+                        </span><span class="topline__indicators__diff">
+                                66,65
+                            </span><span class="topline__indicators__diff">
+                                65,24
+                            </span></a><a href="https://cash.rbc.ru/?currency=2" title="EUR, 05:06" class="topline__indicators__item js-yandex-counter" data-yandex-name="click_indicators_topline"><span class="topline__indicators__name">
+                            EUR
+                        </span><span class="topline__indicators__subname">
+                            Нал.
+                        </span><span class="topline__indicators__diff">
+                                75,76
+                            </span><span class="topline__indicators__diff">
+                                74,24
+                            </span></a><a href="https://quote.rbc.ru/ticker/72413" title="USD, 28.02" class="topline__indicators__item js-yandex-counter" data-yandex-name="click_indicators_topline"><span class="topline__indicators__name">
+                            USD
+                        </span><span class="topline__indicators__subname">
+                            ЦБ
+                        </span><span class="topline__indicators__diff">
+                                65,76
+                            </span><span class="topline__indicators__arrow topline__indicators__arrow_green"></span><span class="topline__indicators__diff topline__indicators__diff_grow">
+                                0,14
+                            </span></a><a href="https://quote.rbc.ru/ticker/72383" title="EUR, 28.02" class="topline__indicators__item js-yandex-counter" data-yandex-name="click_indicators_topline"><span class="topline__indicators__name">
+                            EUR
+                        </span><span class="topline__indicators__subname">
+                            ЦБ
+                        </span><span class="topline__indicators__diff">
+                                74,82
+                            </span><span class="topline__indicators__arrow topline__indicators__arrow_green"></span><span class="topline__indicators__diff topline__indicators__diff_grow">
+                                0,34
+                            </span></a><a href="https://quote.rbc.ru/ticker/59087" title="EUR/USD, 27.02" class="topline__indicators__item js-yandex-counter" data-yandex-name="click_indicators_topline"><span class="topline__indicators__name">
+                            EUR/USD
+                        </span><span class="topline__indicators__subname"></span><span class="topline__indicators__diff">
+                                1,1370
+                            </span><span class="topline__indicators__arrow topline__indicators__arrow_red"></span><span class="topline__indicators__diff topline__indicators__diff_fall">
+                                -0,0022
+                            </span></a><a href="https://www.rbc.ru/crypto/currency/btcusd" title="BTC/USD, 05:06" class="topline__indicators__item js-yandex-counter" data-yandex-name="click_indicators_topline"><span class="topline__indicators__name">
+                            BTC/USD
+                        </span><span class="topline__indicators__subname">
+                            Бирж.
+                        </span><span class="topline__indicators__diff">
+                                3 916,20
+                            </span><span class="topline__indicators__arrow topline__indicators__arrow_green"></span><span class="topline__indicators__diff topline__indicators__diff_grow">
+                                14,70
+                            </span></a><a href="https://quote.rbc.ru/ticker/61867" title="IMOEX, 27.02" class="topline__indicators__item js-yandex-counter" data-yandex-name="click_indicators_topline"><span class="topline__indicators__name">
+                            IMOEX
+                        </span><span class="topline__indicators__subname"></span><span class="topline__indicators__diff">
+                                2 490,65
+                            </span><span class="topline__indicators__arrow topline__indicators__arrow_red"></span><span class="topline__indicators__diff topline__indicators__diff_fall">
+                                -0,14%
+                            </span></a><a href="https://quote.rbc.ru/ticker/32543" title="RTSI, 27.02" class="topline__indicators__item js-yandex-counter" data-yandex-name="click_indicators_topline"><span class="topline__indicators__name">
+                            RTSI
+                        </span><span class="topline__indicators__subname"></span><span class="topline__indicators__diff">
+                                1 191,01
+                            </span><span class="topline__indicators__arrow topline__indicators__arrow_red"></span><span class="topline__indicators__diff topline__indicators__diff_fall">
+                                -0,17%
+                            </span></a><a href="https://quote.rbc.ru/ticker/106064" title="DJIA, 27.02" class="topline__indicators__item js-yandex-counter" data-yandex-name="click_indicators_topline"><span class="topline__indicators__name">
+                            DJIA
+                        </span><span class="topline__indicators__subname"></span><span class="topline__indicators__diff">
+                                25 985,16
+                            </span><span class="topline__indicators__arrow topline__indicators__arrow_red"></span><span class="topline__indicators__diff topline__indicators__diff_fall">
+                                -0,28%
+                            </span></a><a href="https://quote.rbc.ru/ticker/106065" title="Nasdaq, 27.02" class="topline__indicators__item js-yandex-counter" data-yandex-name="click_indicators_topline"><span class="topline__indicators__name">
+                            Nasdaq
+                        </span><span class="topline__indicators__subname"></span><span class="topline__indicators__diff">
+                                7 554,51
+                            </span><span class="topline__indicators__arrow topline__indicators__arrow_green"></span><span class="topline__indicators__diff topline__indicators__diff_grow">
+                                0,07%
+                            </span></a></div></div></div></div><div class="topline__right"><div class="topline__disable-adv topline__disable-adv_no-hidden"><a href="https://auth.rbc.ru/login?utm_source=disable_advertising_topline" class="topline__disable-adv__button">Скрыть баннеры</a></div><div class="topline__region-block"><span class="topline__region__icon-block js-topline-item"><a class="topline__region__icon-link js-regions-toggle__handler"><span class="js-region-current"><span class="topline__region__icon"></span></span></a></span><div class="topline__region js-topline-sub js-regions-toggle"><div class="topline__region__wrap"><div class="topline__region__inner"><div class="topline__region__detector g-hidden js-region-detector"><div class="topline__region__detector__text">Ваше местоположение <span class="topline__region__title js-region-detector-title"></span>?</div><a href="#" class="topline__region__detector__button js-region-detector-button" data-answer="yes">Да</a><a href="#" class="topline__region__detector__link js-region-detector-button" data-answer="no">Выбрать другое</a></div><div class="topline__region__submenu g-hidden js-region-submenu"><div class="topline__region__item"><a href="//www.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item bold active" data-id="world">
+                                    Весь мир
+                                </a></div><div class="topline__region__item"><a href="//www.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item bold" data-id="spb_sz" data-cookie="russia/sankt-peterburg_i_oblast" data-title="Санкт-Петербург и область" data-url="http://www.rbc.ru/">
+                                    Санкт-Петербург и область
+                                </a></div><div class="topline__region__item"><a href="//ekb.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item bold" data-id="ekb" data-cookie="russia/sverdlovskaya_obl" data-title="Екатеринбург" data-url="http://ekb.rbc.ru/">
+                                    Екатеринбург
+                                </a></div><div class="topline__region__item"><a href="//nsk.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item bold" data-id="nsk" data-cookie="russia_sfo" data-title="Новосибирск" data-url="http://nsk.rbc.ru/">
+                                    Новосибирск
+                                </a></div><div class="topline__region__line"></div><div class="topline__region__item"><a href="//ufa.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="ufa" data-cookie="russia/bashkortostan" data-title="Башкортостан" data-url="http://ufa.rbc.ru/">
+                                    Башкортостан
+                                </a></div><div class="topline__region__item"><a href="//vo.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="vo" data-cookie="russia/vologodskaya_obl" data-title="Вологодская область" data-url="http://vo.rbc.ru/">
+                                    Вологодская область
+                                </a></div><div class="topline__region__item"><a href="//kaliningrad.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="kaliningrad" data-cookie="russia/kaliningradskaya_obl" data-title="Калининград" data-url="http://kaliningrad.rbc.ru/">
+                                    Калининград
+                                </a></div><div class="topline__region__item"><a href="//kuban.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="krasnodar" data-cookie="russia/krasnodarskiy_kray" data-title="Краснодарский край" data-url="http://kuban.rbc.ru/">
+                                    Краснодарский край
+                                </a></div><div class="topline__region__item"><a href="//krsk.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="krsk" data-cookie="russia/krasnoyarskiy_kray" data-title="Красноярский край" data-url="http://krsk.rbc.ru/">
+                                    Красноярский край
+                                </a></div><div class="topline__region__item"><a href="//nn.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="nn" data-cookie="russia/nijegorodskaya_obl" data-title="Нижний Новгород" data-url="http://nn.rbc.ru/">
+                                    Нижний Новгород
+                                </a></div><div class="topline__region__item"><a href="//perm.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="perm" data-cookie="russia/permskij_kraj" data-title="Пермский край" data-url="http://perm.rbc.ru/">
+                                    Пермский край
+                                </a></div><div class="topline__region__item"><a href="//rostov.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="rostov" data-cookie="russia/rostovskaya_obl" data-title="Ростов-на-Дону" data-url="http://rostov.rbc.ru/">
+                                    Ростов-на-Дону
+                                </a></div><div class="topline__region__item"><a href="//rt.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="tatarstan" data-cookie="russia/tatarstan" data-title="Татарстан" data-url="http://rt.rbc.ru/">
+                                    Татарстан
+                                </a></div><div class="topline__region__item"><a href="//t.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="tyumen" data-cookie="russia/tyumenskaya_obl" data-title="Тюмень" data-url="http://t.rbc.ru/">
+                                    Тюмень
+                                </a></div><div class="topline__region__item"><a href="//chr.rbc.ru/" class="topline__region__link js-region-item js-topline-sub-item" data-id="chr" data-cookie="russia_chernozemje" data-title="Черноземье" data-url="http://chr.rbc.ru/">
+                                    Черноземье
+                                </a></div></div></div></div></div></div><div class="topline__search-block"><div class="topline__search js-search-block"><div class="topline__search__menu js-search-open"><span class="topline__search__menu__link"></span></div><div class="topline__search__body js-search-body"><a href="#" class="topline__search__close js-search-close"><span></span><span></span></a><div class="topline__search__body__inner"><form action="/search/" class="topline__search__form"><input type="hidden" name="project" value="rbcnews"><input class="topline__search__button" type="submit" value="Найти"><div class="topline__search__text"><div class="topline__search__input-wrap"><input class="topline__search__input js-search-input" type="text" name="query" autocomplete="off" value="" placeholder="Поиск по сайту"></div></div></form><div class="topline__search__rubric"><div class="topline__search__rubric__name">Рубрики</div><div class="topline__search__rubric__block" itemscope="" itemtype="https://www.schema.org/SiteNavigationElement"><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/politics" class="topline__search__rubric__link" itemprop="url">
+                                                                                    Политика
+                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/economics" class="topline__search__rubric__link" itemprop="url">
+                                                                                    Экономика
+                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/finances" class="topline__search__rubric__link" itemprop="url">
+                                                                                    Финансы
+                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/business" class="topline__search__rubric__link" itemprop="url">
+                                                                                    Бизнес
+                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/technology_and_media" class="topline__search__rubric__link" itemprop="url">
+                                                                                    Технологии и медиа
+                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/own_business" class="topline__search__rubric__link" itemprop="url">
+                                                                                    Свое дело
+                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="https://www.rbc.ru/money" class="topline__search__rubric__link" itemprop="url">
+                                                                                    Деньги
+                                                                            </a></div><div class="topline__search__rubric__link-wrap"><a href="http://www.rbc.ru/opinions" class="topline__search__rubric__link" itemprop="url">
+                                                                                    Мнения
+                                                                            </a></div></div></div></div></div></div></div><div class="topline__auth js-topline-profile-container"><a href="#" class="topline__auth__link js-topline-profile-link"></a><div class="topline__auth__profile"><div class="topline__auth__profile__inner"><div class="topline__auth__profile__menu"><div class="topline__auth__profile__menu__item"><a href="https://auth.rbc.ru/login?tab=enter&amp;utm_source=login_topline" class="topline__auth__profile__menu__link js-paywall-login">Вход</a></div><div class="topline__auth__profile__menu__item"><a href="https://auth.rbc.ru/login?utm_source=registration_topline" class="topline__auth__profile__menu__link js-paywall-login">Регистрация</a></div></div></div></div><div class="topline__notifications__container js-topline-notifications-container" data-link="https://auth.rbc.ru"></div></div><div class="topline__menu"><div class="topline__menu__open js-topline-menu js-yandex-counter" data-yandex-name="click_hamburger"><span></span><span></span><span></span></div><div class="topline__menu__close js-topline-menu-close"><span></span><span></span></div></div></div></div><div class="topline__popup js-topline-popup"><div class="topline__popup__inner js-topline-open-popup-content active"><div class="topline__popup__menu"><div class="topline__popup__menu__item topline__popup__menu__item_auth"><a href="https://auth.rbc.ru/login?tab=enter&amp;utm_source=login_topline" class="topline__popup__main-link js-paywall-login">Вход</a></div><div class="topline__popup__menu__item topline__popup__menu__item_search"><a href="#" class="topline__popup__main-link js-topline-open-popup-link" data-content="search">Поиск</a></div><div class="topline__popup__menu__item topline__popup__menu__item_region"><a href="#" class="topline__popup__main-link js-topline-open-popup-link" data-content="region">Смена региона</a></div></div><div class="topline__popup__submenu topline__popup__flex"><div class="topline__popup__submenu__wrap"><a href="http://tv.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;http://tv.rbc.ru/?utm_source=topline&quot;}">Телеканал</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/newspaper/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;https://www.rbc.ru/newspaper/?utm_source=topline&quot;}">Газета</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/magazine/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;https://www.rbc.ru/magazine/?utm_source=topline&quot;}">Журнал</a></div><div class="topline__popup__submenu__wrap"><a href="http://www.rbcplus.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;http://www.rbcplus.ru/?utm_source=topline&quot;}">РБК+</a></div><div class="topline__popup__submenu__wrap"><a href="https://pro.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;https://pro.rbc.ru/?utm_source=topline&quot;}">Pro</a></div><div class="topline__popup__submenu__wrap"><a href="https://quote.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;https://quote.rbc.ru/?utm_source=topline&quot;}">Quote</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.autonews.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;https://www.autonews.ru/?utm_source=topline&quot;}">Авто</a></div><div class="topline__popup__submenu__wrap"><a href="https://sportrbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;https://sportrbc.ru/?utm_source=topline&quot;}">Спорт</a></div><div class="topline__popup__submenu__wrap"><a href="https://realty.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;https://realty.rbc.ru/?utm_source=topline&quot;}">Недвижимость</a></div><div class="topline__popup__submenu__wrap"><a href="http://style.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;http://style.rbc.ru/?utm_source=topline&quot;}">Стиль</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/crypto/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;https://www.rbc.ru/crypto/?utm_source=topline&quot;}">Крипто</a></div><div class="topline__popup__submenu__wrap"><a href="https://marketing.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;https://marketing.rbc.ru/?utm_source=topline&quot;}">Исследования</a></div><div class="topline__popup__submenu__wrap"><a href="http://biztorg.ru/offers/main?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;http://biztorg.ru/offers/main?utm_source=topline&quot;}">Продажа бизнеса</a></div><div class="topline__popup__submenu__wrap"><a href="http://biztorg.ru/franchises/main?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;http://biztorg.ru/franchises/main?utm_source=topline&quot;}">Франшизы</a></div><div class="topline__popup__submenu__wrap"><a href="http://bc.rbc.ru/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;http://bc.rbc.ru/?utm_source=topline&quot;}">Конференции</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/awards/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;https://www.rbc.ru/awards/?utm_source=topline&quot;}">Премия РБК 2018</a></div><div class="topline__popup__submenu__wrap"><a href="https://www.rbc.ru/awards_spb/?utm_source=topline" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params="{url: &quot;https://www.rbc.ru/awards_spb/?utm_source=topline&quot;}">Премия РБК СПб 2018</a></div><div class="topline__popup__submenu__wrap"><a href="http://rbc.ru/awards" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="topline_1"><span class="topline__item_special-inner">Премия РБК 2018</span></a></div><div class="topline__popup__submenu__wrap"><a href="http://health.rbc.ru/?utm_source=rbc&amp;utm_medium=rbc_button&amp;utm_campaign=hlth18sp_rbc_button" class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="topline_2"><span class="topline__item_special-inner">Здоровье</span></a></div></div></div><div class="topline__popup__inner js-topline-open-popup-content search"><div class="topline__popup__search"><form action="/search/" class="topline__popup__search__form"><input type="hidden" name="project" value="rbcnews"><input class="topline__popup__search__button" type="submit" value="Найти"><div class="topline__popup__search__text"><div class="topline__popup__search__input-wrap"><input class="topline__popup__search__input js-search-input" type="text" name="query" autocomplete="off" value="" placeholder="Поиск по сайту"></div></div></form><div class="topline__popup__search__rubric"><div class="topline__popup__search__rubric__name">Рубрики</div><div class="topline__popup__search__rubric__block"><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/politics" class="topline__popup__search__rubric__link">
+                                                                                    Политика
+                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/economics" class="topline__popup__search__rubric__link">
+                                                                                    Экономика
+                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/finances" class="topline__popup__search__rubric__link">
+                                                                                    Финансы
+                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/business" class="topline__popup__search__rubric__link">
+                                                                                    Бизнес
+                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/technology_and_media" class="topline__popup__search__rubric__link">
+                                                                                    Технологии и медиа
+                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/own_business" class="topline__popup__search__rubric__link">
+                                                                                    Свое дело
+                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="https://www.rbc.ru/money" class="topline__popup__search__rubric__link">
+                                                                                    Деньги
+                                                                            </a></div><div class="topline__popup__search__rubric__link-wrap"><a href="http://www.rbc.ru/opinions" class="topline__popup__search__rubric__link">
+                                                                                    Мнения
+                                                                            </a></div></div></div></div></div><div class="topline__popup__inner js-topline-open-popup-content region"><div class="topline__popup__region js-regions-toggle"><div class="topline__popup__region__inner"><div class="topline__popup__region__main topline__popup__flex"><div class="topline__popup__region__wrap"><a href="//www.rbc.ru/" class="topline__popup__region__link topline__popup__region__link_big js-region-item active" data-id="world">
+                                    Весь мир
+                                </a></div><div class="topline__popup__region__wrap"><a href="//www.rbc.ru/" class="topline__popup__region__link topline__popup__region__link_big js-region-item" data-id="spb_sz" data-cookie="russia/sankt-peterburg_i_oblast" data-title="Санкт-Петербург и область" data-url="http://www.rbc.ru/">
+                                    С.-Петербург
+                                </a></div><div class="topline__popup__region__wrap"><a href="//ekb.rbc.ru/" class="topline__popup__region__link topline__popup__region__link_big js-region-item" data-id="ekb" data-cookie="russia/sverdlovskaya_obl" data-title="Екатеринбург" data-url="http://ekb.rbc.ru/">
+                                    Екатеринбург
+                                </a></div><div class="topline__popup__region__wrap"><a href="//nsk.rbc.ru/" class="topline__popup__region__link topline__popup__region__link_big js-region-item" data-id="nsk" data-cookie="russia_sfo" data-title="Новосибирск" data-url="http://nsk.rbc.ru/">
+                                    Новосибирск
+                                </a></div></div></div><div class="topline__popup__region__sub topline__popup__flex"><div class="topline__popup__region__wrap"><a href="//ufa.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="ufa" data-cookie="russia/bashkortostan" data-title="Башкортостан" data-url="http://ufa.rbc.ru/">
+                                Башкортостан
+                            </a></div><div class="topline__popup__region__wrap"><a href="//vo.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="vo" data-cookie="russia/vologodskaya_obl" data-title="Вологодская область" data-url="http://vo.rbc.ru/">
+                                Вологда
+                            </a></div><div class="topline__popup__region__wrap"><a href="//kaliningrad.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="kaliningrad" data-cookie="russia/kaliningradskaya_obl" data-title="Калининград" data-url="http://kaliningrad.rbc.ru/">
+                                Калининград
+                            </a></div><div class="topline__popup__region__wrap"><a href="//kuban.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="krasnodar" data-cookie="russia/krasnodarskiy_kray" data-title="Краснодарский край" data-url="http://kuban.rbc.ru/">
+                                Краснодар
+                            </a></div><div class="topline__popup__region__wrap"><a href="//krsk.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="krsk" data-cookie="russia/krasnoyarskiy_kray" data-title="Красноярский край" data-url="http://krsk.rbc.ru/">
+                                Красноярск
+                            </a></div><div class="topline__popup__region__wrap"><a href="//nn.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="nn" data-cookie="russia/nijegorodskaya_obl" data-title="Нижний Новгород" data-url="http://nn.rbc.ru/">
+                                Н.Новгород
+                            </a></div><div class="topline__popup__region__wrap"><a href="//perm.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="perm" data-cookie="russia/permskij_kraj" data-title="Пермский край" data-url="http://perm.rbc.ru/">
+                                Пермь
+                            </a></div><div class="topline__popup__region__wrap"><a href="//rostov.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="rostov" data-cookie="russia/rostovskaya_obl" data-title="Ростов-на-Дону" data-url="http://rostov.rbc.ru/">
+                                Ростов-на-Дону
+                            </a></div><div class="topline__popup__region__wrap"><a href="//rt.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="tatarstan" data-cookie="russia/tatarstan" data-title="Татарстан" data-url="http://rt.rbc.ru/">
+                                Татарстан
+                            </a></div><div class="topline__popup__region__wrap"><a href="//t.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="tyumen" data-cookie="russia/tyumenskaya_obl" data-title="Тюмень" data-url="http://t.rbc.ru/">
+                                Тюмень
+                            </a></div><div class="topline__popup__region__wrap"><a href="//chr.rbc.ru/" class="topline__popup__region__link js-region-item" data-id="chr" data-cookie="russia_chernozemje" data-title="Черноземье" data-url="http://chr.rbc.ru/">
+                                Черноземье
+                            </a></div></div></div></div></div>
+                                            </div>
+        </div>
+    
+    
+            <div class="l-window l-window-overflow-mob">
+                        <div class="g-relative g-clear">
+                                    <div id="js_col_left" class="l-col-left l-small-width-top-padding">
+                                                                                    <div class="l-col-left-border l-sticky l-small-width-static l-col-left-tv">
+                                                                            
+<div class="live-tv live-tv__main">
+    <div class="live-tv__main__inner js-live-tv-box">
+        <div class="live-tv__main__title">
+            <div class="live-tv__main__radar"></div>
+            <div class="live-tv__main__text">Прямой эфир</div>
+        </div>
+        <div class="live-tv__plug g-icon-medium g-play js-live-tv-play">
+            <div class="live-tv__plug__image-wrap">
+                <img src="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/images/live-tv-plug.gif" class="live-tv__plug__image" alt="">
+            </div>
+        </div>
+    </div>
+</div>                                                                                                                    <div class="topline__forecast js-yandex-counter" data-yandex-show="rbc_quotebks_show">
+        <div class="topline__forecast__news">
+            <div class="topline__forecast__move js-topline-move">
+                                                            <div class="topline__forecast__item">
+                            <div class="topline__forecast__item__inner">
+                                
+                                                                                                    
+                                                                    <a href="https://quote.rbc.ru/news/forecast_idea/5c7657b09a7947395b834286" class="topline__forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                                    <span class="topline__forecast__ticker">
+                                                                                                                                    ТМК
+                                                                                    
+                                                                                                                            
+                                                                                                                            
+                                                                                    ₽88,58
+                                                                            </span>
+
+                                    
+                                                                                                                                                                                                    
+                                    <span class="topline__forecast__change topline__forecast__change_grow">
+                                                                                                                            
+                                                                                    (+82,94%)
+                                                                            </span>
+
+                                    <span class="topline__forecast__text">
+                                        прогноз ВТБ Капитал
+                                                                                    к 27.02.20
+                                                                            </span>
+                                                                    </a>
+                                
+                                                                    <a href="https://quote.rbc.ru/user/buy/59847" class="topline__forecast__button js-yandex-counter" data-yandex-name="quote_buy">
+                                        Купить
+                                    </a>
+                                                            </div>
+                        </div>
+                                            <div class="topline__forecast__item">
+                            <div class="topline__forecast__item__inner">
+                                
+                                                                                                    
+                                                                    <a href="https://quote.rbc.ru/news/forecast_idea/5c5ae5b19a794751fe9035d7" class="topline__forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                                    <span class="topline__forecast__ticker">
+                                                                                                                                    Tesla
+                                                                                    
+                                                                                                                            
+                                                                                                                            
+                                                                                    $450
+                                                                            </span>
+
+                                    
+                                                                                                                                                                                                    
+                                    <span class="topline__forecast__change topline__forecast__change_grow">
+                                                                                                                            
+                                                                                    (+51,64%)
+                                                                            </span>
+
+                                    <span class="topline__forecast__text">
+                                        прогноз Jefferies
+                                                                                    к 07.12.19
+                                                                            </span>
+                                                                    </a>
+                                
+                                                                    <a href="https://quote.rbc.ru/user/buy/177779" class="topline__forecast__button js-yandex-counter" data-yandex-name="quote_buy">
+                                        Купить
+                                    </a>
+                                                            </div>
+                        </div>
+                                            <div class="topline__forecast__item">
+                            <div class="topline__forecast__item__inner">
+                                
+                                                                                                    
+                                                                    <a href="https://quote.rbc.ru/news/forecast_idea/5c3dbf2e9a79470c6101ce45" class="topline__forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                                    <span class="topline__forecast__ticker">
+                                                                                                                                    Target
+                                                                                    
+                                                                                                                            
+                                                                                                                            
+                                                                                    $79
+                                                                            </span>
+
+                                    
+                                                                                                                                                                                                    
+                                    <span class="topline__forecast__change topline__forecast__change_grow">
+                                                                                                                            
+                                                                                    (+9,95%)
+                                                                            </span>
+
+                                    <span class="topline__forecast__text">
+                                        прогноз Credit Suisse
+                                                                                    к 10.01.20
+                                                                            </span>
+                                                                    </a>
+                                
+                                                                    <a href="https://quote.rbc.ru/user/buy/177777" class="topline__forecast__button js-yandex-counter" data-yandex-name="quote_buy">
+                                        Купить
+                                    </a>
+                                                            </div>
+                        </div>
+                                            <div class="topline__forecast__item">
+                            <div class="topline__forecast__item__inner">
+                                
+                                                                                                    
+                                                                    <a href="https://quote.rbc.ru/news/forecast_idea/5c73f09c9a794709b1c8fac4" class="topline__forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                                    <span class="topline__forecast__ticker">
+                                                                                                                                    Electronic Arts
+                                                                                    
+                                                                                                                            
+                                                                                                                            
+                                                                                    $106
+                                                                            </span>
+
+                                    
+                                                                                                                                                                                                    
+                                    <span class="topline__forecast__change topline__forecast__change_grow">
+                                                                                                                            
+                                                                                    (+11,01%)
+                                                                            </span>
+
+                                    <span class="topline__forecast__text">
+                                        прогноз Credit Suisse
+                                                                                    к 31.12.19
+                                                                            </span>
+                                                                    </a>
+                                
+                                                                    <a href="https://quote.rbc.ru/user/buy/177507" class="topline__forecast__button js-yandex-counter" data-yandex-name="quote_buy">
+                                        Купить
+                                    </a>
+                                                            </div>
+                        </div>
+                                            <div class="topline__forecast__item">
+                            <div class="topline__forecast__item__inner">
+                                
+                                                                                                    
+                                                                    <a href="https://quote.rbc.ru/news/forecast_idea/5c7285e59a7947a8fce30c22" class="topline__forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                                    <span class="topline__forecast__ticker">
+                                                                                                                                    Coca-Cola
+                                                                                    
+                                                                                                                            
+                                                                                                                            
+                                                                                    $52
+                                                                            </span>
+
+                                    
+                                                                                                                                                                                                    
+                                    <span class="topline__forecast__change topline__forecast__change_grow">
+                                                                                                                            
+                                                                                    (+15,2%)
+                                                                            </span>
+
+                                    <span class="topline__forecast__text">
+                                        прогноз Deutsche Bank
+                                                                                    к 24.02.20
+                                                                            </span>
+                                                                    </a>
+                                
+                                                                    <a href="https://quote.rbc.ru/user/buy/177736" class="topline__forecast__button js-yandex-counter" data-yandex-name="quote_buy">
+                                        Купить
+                                    </a>
+                                                            </div>
+                        </div>
+                                                                                <div class="topline__forecast__item">
+                            <div class="topline__forecast__item__inner">
+                                
+                                                                                                    
+                                                                    <a href="https://quote.rbc.ru/news/forecast_idea/5c7657b09a7947395b834286" class="topline__forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                                    <span class="topline__forecast__ticker">
+                                                                                                                                    ТМК
+                                                                                    
+                                                                                                                            
+                                                                                                                            
+                                                                                    ₽88,58
+                                                                            </span>
+
+                                    
+                                                                                                                                                                                                    
+                                    <span class="topline__forecast__change topline__forecast__change_grow">
+                                                                                                                            
+                                                                                    (+82,94%)
+                                                                            </span>
+
+                                    <span class="topline__forecast__text">
+                                        прогноз ВТБ Капитал
+                                                                                    к 27.02.20
+                                                                            </span>
+                                                                    </a>
+                                
+                                                                    <a href="https://quote.rbc.ru/user/buy/59847" class="topline__forecast__button js-yandex-counter" data-yandex-name="quote_buy">
+                                        Купить
+                                    </a>
+                                                            </div>
+                        </div>
+                                            <div class="topline__forecast__item">
+                            <div class="topline__forecast__item__inner">
+                                
+                                                                                                    
+                                                                    <a href="https://quote.rbc.ru/news/forecast_idea/5c5ae5b19a794751fe9035d7" class="topline__forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                                    <span class="topline__forecast__ticker">
+                                                                                                                                    Tesla
+                                                                                    
+                                                                                                                            
+                                                                                                                            
+                                                                                    $450
+                                                                            </span>
+
+                                    
+                                                                                                                                                                                                    
+                                    <span class="topline__forecast__change topline__forecast__change_grow">
+                                                                                                                            
+                                                                                    (+51,64%)
+                                                                            </span>
+
+                                    <span class="topline__forecast__text">
+                                        прогноз Jefferies
+                                                                                    к 07.12.19
+                                                                            </span>
+                                                                    </a>
+                                
+                                                                    <a href="https://quote.rbc.ru/user/buy/177779" class="topline__forecast__button js-yandex-counter" data-yandex-name="quote_buy">
+                                        Купить
+                                    </a>
+                                                            </div>
+                        </div>
+                                            <div class="topline__forecast__item">
+                            <div class="topline__forecast__item__inner">
+                                
+                                                                                                    
+                                                                    <a href="https://quote.rbc.ru/news/forecast_idea/5c3dbf2e9a79470c6101ce45" class="topline__forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                                    <span class="topline__forecast__ticker">
+                                                                                                                                    Target
+                                                                                    
+                                                                                                                            
+                                                                                                                            
+                                                                                    $79
+                                                                            </span>
+
+                                    
+                                                                                                                                                                                                    
+                                    <span class="topline__forecast__change topline__forecast__change_grow">
+                                                                                                                            
+                                                                                    (+9,95%)
+                                                                            </span>
+
+                                    <span class="topline__forecast__text">
+                                        прогноз Credit Suisse
+                                                                                    к 10.01.20
+                                                                            </span>
+                                                                    </a>
+                                
+                                                                    <a href="https://quote.rbc.ru/user/buy/177777" class="topline__forecast__button js-yandex-counter" data-yandex-name="quote_buy">
+                                        Купить
+                                    </a>
+                                                            </div>
+                        </div>
+                                            <div class="topline__forecast__item">
+                            <div class="topline__forecast__item__inner">
+                                
+                                                                                                    
+                                                                    <a href="https://quote.rbc.ru/news/forecast_idea/5c73f09c9a794709b1c8fac4" class="topline__forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                                    <span class="topline__forecast__ticker">
+                                                                                                                                    Electronic Arts
+                                                                                    
+                                                                                                                            
+                                                                                                                            
+                                                                                    $106
+                                                                            </span>
+
+                                    
+                                                                                                                                                                                                    
+                                    <span class="topline__forecast__change topline__forecast__change_grow">
+                                                                                                                            
+                                                                                    (+11,01%)
+                                                                            </span>
+
+                                    <span class="topline__forecast__text">
+                                        прогноз Credit Suisse
+                                                                                    к 31.12.19
+                                                                            </span>
+                                                                    </a>
+                                
+                                                                    <a href="https://quote.rbc.ru/user/buy/177507" class="topline__forecast__button js-yandex-counter" data-yandex-name="quote_buy">
+                                        Купить
+                                    </a>
+                                                            </div>
+                        </div>
+                                            <div class="topline__forecast__item">
+                            <div class="topline__forecast__item__inner">
+                                
+                                                                                                    
+                                                                    <a href="https://quote.rbc.ru/news/forecast_idea/5c7285e59a7947a8fce30c22" class="topline__forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                                    <span class="topline__forecast__ticker">
+                                                                                                                                    Coca-Cola
+                                                                                    
+                                                                                                                            
+                                                                                                                            
+                                                                                    $52
+                                                                            </span>
+
+                                    
+                                                                                                                                                                                                    
+                                    <span class="topline__forecast__change topline__forecast__change_grow">
+                                                                                                                            
+                                                                                    (+15,2%)
+                                                                            </span>
+
+                                    <span class="topline__forecast__text">
+                                        прогноз Deutsche Bank
+                                                                                    к 24.02.20
+                                                                            </span>
+                                                                    </a>
+                                
+                                                                    <a href="https://quote.rbc.ru/user/buy/177736" class="topline__forecast__button js-yandex-counter" data-yandex-name="quote_buy">
+                                        Купить
+                                    </a>
+                                                            </div>
+                        </div>
+                                                </div>
+        </div>
+    </div>
+
+                                                                    </div>
+                                                            
+
+<div class="news-feed__wrapper js-news-feed">
+    <div id="js_news_feed_banner" class="news-feed">
+        <div class="news-feed__header">Лента новостей</div>
+
+                                    <div class="g-hidden js-news-feed-currency js-news-feed-item" data-modif="1551262928">
+                    
+                
+<a href="https://quote.rbc.ru/exchanges/info/cb.0/72413/eod" id="id_newsfeed_currencycbusd" class="news-feed__item">
+    <span class="news-feed__item__title news-feed__item_bold">
+        Курс доллара на 28 февраля<br>
+        USD ЦБ: 65,76
+        <span class="news-feed__item__change item__change_grow">
+                        (+0,14)
+        </span>
+    </span>
+
+    <span class="news-feed__item__date">
+        <span class="news-feed__item__date-text">Quote, 27 фев, 13:22</span>
+    </span>
+</a>                </div>
+                            <div class="g-hidden js-news-feed-currency js-news-feed-item" data-modif="1551262928">
+                    
+                
+<a href="https://quote.rbc.ru/exchanges/info/cb.0/72383/eod" id="id_newsfeed_currencycbeur" class="news-feed__item">
+    <span class="news-feed__item__title news-feed__item_bold">
+        Курс евро на 28 февраля<br>
+        EUR ЦБ: 74,82
+        <span class="news-feed__item__change item__change_grow">
+                        (+0,34)
+        </span>
+    </span>
+
+    <span class="news-feed__item__date">
+        <span class="news-feed__item__date-text">Quote, 27 фев, 13:22</span>
+    </span>
+</a>                </div>
+                    
+                            
+                                <script>
+                RA.config.set('newsfeed.timeLastUpdate', 1551319032);
+            </script>
+
+            <div class="js-news-feed-list">
+                                                                        
+    <a href="https://www.rbc.ru/rbcfreenews/5c773f1f9a7947856245f468?from=newsfeed" id="id_newsfeed_5c773f1f9a7947856245f468" data-modif="1551318992" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title">
+            Более 50 рабочих госпитализировали из-за выброса хлора в США
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Политика,&nbsp;04:56<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                                            
+    <a href="https://www.rbc.ru/politics/28/02/2019/5c7731eb9a794782ce3a3e36?from=newsfeed" id="id_newsfeed_5c7731eb9a794782ce3a3e36" data-modif="1551317064" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title news-feed__item_in-main">
+            NASA заинтересовалось возможностью привлечь Украину к исследованию Луны
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Политика,&nbsp;04:24<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                                            
+    <a href="https://www.rbc.ru/rbcfreenews/5c7735519a794784e9d5da8c?from=newsfeed" id="id_newsfeed_5c7735519a794784e9d5da8c" data-modif="1551316620" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title">
+            Reuters сообщил о вывезенных из Центробанка Венесуэлы 8 тоннах золота
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Общество,&nbsp;04:17<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                        <div class="banner__container js-news-feed-banner">
+    <a href="http://www.adv.rbc.ru" target="_blank" class="banner__container__link">
+    <span class="banner__container__border">
+        <span class="banner__container__text">Реклама на РБК <span class="banner__container__color">www.adv.rbc.ru</span></span>
+    </span>
+</a>        <!-- in_newsline -->
+                <div class="banner" data-id="div-gpt-ad-1431616921735-0" data-banner-id="firstpage_left2" data-device="1" data-service="dfp">
+            <div id="div-gpt-ad-1431616921735-0" data-has-wrap="1" class="g-banner-align-center"></div>
+        </div>
+    
+</div>
+
+                                                                                                                                                                    
+    <a href="https://www.rbc.ru/politics/28/02/2019/5c7725d79a7947801c4b6086?from=newsfeed" id="id_newsfeed_5c7725d79a7947801c4b6086" data-modif="1551313617" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title news-feed__item_in-main">
+            Киев заявил о полученном преимуществе в рыболовстве на Азове
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Политика,&nbsp;03:26<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                                            
+    <a href="https://www.rbc.ru/rbcfreenews/5c77294e9a794782433b659a?from=newsfeed" id="id_newsfeed_5c77294e9a794782433b659a" data-modif="1551313517" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title">
+            В Египте назвали причину крушения локомотива на вокзале Каира
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Общество,&nbsp;03:25<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                                            
+    <a href="https://www.rbc.ru/rbcfreenews/5c7722c79a79477fdf05ded4?from=newsfeed" id="id_newsfeed_5c7722c79a79477fdf05ded4" data-modif="1551312203" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title">
+            Россия внесла на рассмотрение Совбеза ООН проект резолюции по Венесуэле
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Политика,&nbsp;03:03<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                                            
+    <a href="https://www.rbc.ru/business/28/02/2019/5c771c989a79477c7ef6e7fe?from=newsfeed" id="id_newsfeed_5c771c989a79477c7ef6e7fe" data-modif="1551310822" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title news-feed__item_in-main">
+            S7 Space подала в суд на РКК «Энергия»
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Бизнес,&nbsp;02:40<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                                            
+    <a href="https://www.rbc.ru/rbcfreenews/5c771d1f9a79477dd31245a7?from=newsfeed" id="id_newsfeed_5c771d1f9a79477dd31245a7" data-modif="1551310556" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title">
+            Ракета «Союз» вывела на орбиту британские спутники связи OneWeb
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Технологии и медиа,&nbsp;02:35<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                                            
+    <a href="https://www.rbc.ru/rbcfreenews/5c7715959a79477cde6ccc70?from=newsfeed" id="id_newsfeed_5c7715959a79477cde6ccc70" data-modif="1551308370" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title">
+            Американский эсминец «Дональд Кук» покинул порт Одессы
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Общество,&nbsp;01:59<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                                            
+    <a href="https://www.rbc.ru/rbcfreenews/5c770f029a79477b7c8e19aa?from=newsfeed" id="id_newsfeed_5c770f029a79477b7c8e19aa" data-modif="1551306647" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title">
+            Дочка «Аэрофлота» ответила на просьбу Совфеда о полетах в Магадан
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Общество,&nbsp;01:30<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                                            
+    <a href="https://sport.rbc.ru/news/5c770ded9a79477b51a5be5d?from=newsfeed" id="id_newsfeed_5c770ded9a79477b51a5be5d" data-modif="1551306370" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title news-feed__item_in-main">
+            «Барселона» разгромила «Реал» и вышла в финал Кубка Испании
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Спорт,&nbsp;01:26<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                                            
+    <a href="https://www.rbc.ru/economics/28/02/2019/5c76f6049a794773b4927bc5?from=newsfeed" id="id_newsfeed_5c76f6049a794773b4927bc5" data-modif="1551305761" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title news-feed__item_in-main">
+            Норвежский фонд избавился от российских гособлигаций на $1 млрд
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Экономика,&nbsp;01:16<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                                            
+    <a href="https://www.rbc.ru/technology_and_media/28/02/2019/5c7707dd9a79477a38e4b0ab?from=newsfeed" id="id_newsfeed_5c7707dd9a79477a38e4b0ab" data-modif="1551305263" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title news-feed__item_in-main">
+            В Гвиане состоялся отложенный старт «Союза» со спутниками OneWeb
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Технологии и медиа,&nbsp;01:07<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                                            
+    <a href="https://www.rbc.ru/rbcfreenews/5c7706f69a79477a319f8f29?from=newsfeed" id="id_newsfeed_5c7706f69a79477a319f8f29" data-modif="1551305255" class="news-feed__item js-news-feed-item js-yandex-counter" data-yandex-name="from_news_feed">
+        <span class="news-feed__item__title">
+            В Росгвардии ответили на сообщения о нарушениях безопасности в 4 музеях
+        </span>
+
+        
+
+    
+<span class="news-feed__item__date">
+    <span class="news-feed__item__date-text"><!--
+        -->Общество,&nbsp;01:07<!--
+    --></span><!--
+    --><!--
+--></span>    </a>
+                                                                        <div class="banner__container js-news-feed-banner">
+    <a href="http://www.adv.rbc.ru" target="_blank" class="banner__container__link">
+    <span class="banner__container__border">
+        <span class="banner__container__text">Реклама на РБК <span class="banner__container__color">www.adv.rbc.ru</span></span>
+    </span>
+</a>        <!-- in_newsline -->
+                <div class="banner" data-id="div-gpt-ad-1431616921735-0-s1" data-banner-id="firstpage_left2" data-device="1" data-service="dfp">
+            <div id="div-gpt-ad-1431616921735-0-s1" data-has-wrap="1" class="g-banner-align-center"></div>
+        </div>
+    
+</div>
+
+                                                                                                                        </div>
+            </div>
+</div>
+                                            </div>
+                
+                <div class="l-col-container">
+                    <div class="l-table">
+                                                                <div class="l-sticky l-small-width-left-margin funny-banner js-funny-banner">
+                    <!-- after_topline -->
+                <div class="banner  g-desktop-visible" data-id="div-gpt-ad-1432742391349-0" data-banner-id="fp_new_top" data-device="1" data-service="dfp">
+            <div id="div-gpt-ad-1432742391349-0" data-has-wrap="1"></div>
+        </div>
+    
+
+        </div>
+                                                        
+                                                    <div class="g-relative">
+                                <div class="l-table l-table-min-height">
+                                                                            <div class="l-col-main">
+                                                <div class="js-indicators-key js-dragscroll">
+        <div class="key-indicators">
+    <div class="key-indicators__wrap js-dragscroll-content">
+        <div class="key-indicators__scroll">
+                            <a href="https://quote.rbc.ru/ticker/59111" title="USD, 27.02" class="key-indicators__item js-indicators-key-dragscroll js-yandex-counter" data-yandex-name="click_indicators_main">
+                    <span class="key-indicators__top">
+                        <span class="key-indicators__name">
+                            USD
+                        </span>
+                        <span class="key-indicators__subname">
+                            Бирж.
+                            27.02
+                        </span>
+                    </span>
+                    <span class="key-indicators__val">
+                                                    
+                                                                                                                                                            
+                            <span class="key-indicators__diff">
+                                65,79
+                            </span>
+                                                            <span class="key-indicators__arrow key-indicators__arrow_green"></span>
+                                                        <span class="key-indicators__diff key-indicators__diff_grow">
+                                0,09
+                            </span>
+                                            </span>
+                </a>
+                            <a href="https://quote.rbc.ru/ticker/59090" title="EUR, 27.02" class="key-indicators__item js-indicators-key-dragscroll js-yandex-counter" data-yandex-name="click_indicators_main">
+                    <span class="key-indicators__top">
+                        <span class="key-indicators__name">
+                            EUR
+                        </span>
+                        <span class="key-indicators__subname">
+                            Бирж.
+                            27.02
+                        </span>
+                    </span>
+                    <span class="key-indicators__val">
+                                                    
+                                                                                                                                                            
+                            <span class="key-indicators__diff">
+                                74,77
+                            </span>
+                                                            <span class="key-indicators__arrow key-indicators__arrow_red"></span>
+                                                        <span class="key-indicators__diff key-indicators__diff_fall">
+                                -0,07
+                            </span>
+                                            </span>
+                </a>
+                            <a href="https://quote.rbc.ru/ticker/181206" title="Brent, 27.02" class="key-indicators__item js-indicators-key-dragscroll js-yandex-counter" data-yandex-name="click_indicators_main">
+                    <span class="key-indicators__top">
+                        <span class="key-indicators__name">
+                            Brent
+                        </span>
+                        <span class="key-indicators__subname">
+                            
+                            27.02
+                        </span>
+                    </span>
+                    <span class="key-indicators__val">
+                                                    
+                                                                                                                                                            
+                            <span class="key-indicators__diff">
+                                66,41
+                            </span>
+                                                            <span class="key-indicators__arrow key-indicators__arrow_green"></span>
+                                                        <span class="key-indicators__diff key-indicators__diff_grow">
+                                1,82%
+                            </span>
+                                            </span>
+                </a>
+                            <a href="https://cash.rbc.ru/?currency=3" title="USD, 05:05" class="key-indicators__item js-indicators-key-dragscroll js-yandex-counter" data-yandex-name="click_indicators_main">
+                    <span class="key-indicators__top">
+                        <span class="key-indicators__name">
+                            USD
+                        </span>
+                        <span class="key-indicators__subname">
+                            Нал.
+                            05:05
+                        </span>
+                    </span>
+                    <span class="key-indicators__val">
+                                                    <span class="key-indicators__diff">
+                                66,65
+                            </span>
+                                                        <span class="key-indicators__diff">
+                                65,24
+                            </span>
+                                                                        </span>
+                </a>
+                            <a href="https://cash.rbc.ru/?currency=2" title="EUR, 05:05" class="key-indicators__item js-indicators-key-dragscroll js-yandex-counter" data-yandex-name="click_indicators_main">
+                    <span class="key-indicators__top">
+                        <span class="key-indicators__name">
+                            EUR
+                        </span>
+                        <span class="key-indicators__subname">
+                            Нал.
+                            05:05
+                        </span>
+                    </span>
+                    <span class="key-indicators__val">
+                                                    <span class="key-indicators__diff">
+                                75,76
+                            </span>
+                                                        <span class="key-indicators__diff">
+                                74,24
+                            </span>
+                                                                        </span>
+                </a>
+                            <a href="https://quote.rbc.ru/ticker/72413" title="USD, 28.02" class="key-indicators__item js-indicators-key-dragscroll js-yandex-counter" data-yandex-name="click_indicators_main">
+                    <span class="key-indicators__top">
+                        <span class="key-indicators__name">
+                            USD
+                        </span>
+                        <span class="key-indicators__subname">
+                            ЦБ
+                            28.02
+                        </span>
+                    </span>
+                    <span class="key-indicators__val">
+                                                    
+                                                                                                                                                            
+                            <span class="key-indicators__diff">
+                                65,76
+                            </span>
+                                                            <span class="key-indicators__arrow key-indicators__arrow_green"></span>
+                                                        <span class="key-indicators__diff key-indicators__diff_grow">
+                                0,14
+                            </span>
+                                            </span>
+                </a>
+                            <a href="https://quote.rbc.ru/ticker/72383" title="EUR, 28.02" class="key-indicators__item js-indicators-key-dragscroll js-yandex-counter" data-yandex-name="click_indicators_main">
+                    <span class="key-indicators__top">
+                        <span class="key-indicators__name">
+                            EUR
+                        </span>
+                        <span class="key-indicators__subname">
+                            ЦБ
+                            28.02
+                        </span>
+                    </span>
+                    <span class="key-indicators__val">
+                                                    
+                                                                                                                                                            
+                            <span class="key-indicators__diff">
+                                74,82
+                            </span>
+                                                            <span class="key-indicators__arrow key-indicators__arrow_green"></span>
+                                                        <span class="key-indicators__diff key-indicators__diff_grow">
+                                0,34
+                            </span>
+                                            </span>
+                </a>
+                            <a href="https://quote.rbc.ru/ticker/59087" title="EUR/USD, 27.02" class="key-indicators__item js-indicators-key-dragscroll js-yandex-counter" data-yandex-name="click_indicators_main">
+                    <span class="key-indicators__top">
+                        <span class="key-indicators__name">
+                            EUR/USD
+                        </span>
+                        <span class="key-indicators__subname">
+                            
+                            27.02
+                        </span>
+                    </span>
+                    <span class="key-indicators__val">
+                                                    
+                                                                                                                                                            
+                            <span class="key-indicators__diff">
+                                1,1370
+                            </span>
+                                                            <span class="key-indicators__arrow key-indicators__arrow_red"></span>
+                                                        <span class="key-indicators__diff key-indicators__diff_fall">
+                                -0,0022
+                            </span>
+                                            </span>
+                </a>
+                            <a href="https://www.rbc.ru/crypto/currency/btcusd" title="BTC/USD, 05:06" class="key-indicators__item js-indicators-key-dragscroll js-yandex-counter" data-yandex-name="click_indicators_main">
+                    <span class="key-indicators__top">
+                        <span class="key-indicators__name">
+                            BTC/USD
+                        </span>
+                        <span class="key-indicators__subname">
+                            Бирж.
+                            05:06
+                        </span>
+                    </span>
+                    <span class="key-indicators__val">
+                                                    
+                                                                                                                                                            
+                            <span class="key-indicators__diff">
+                                3 916,20
+                            </span>
+                                                            <span class="key-indicators__arrow key-indicators__arrow_green"></span>
+                                                        <span class="key-indicators__diff key-indicators__diff_grow">
+                                14,70
+                            </span>
+                                            </span>
+                </a>
+                            <a href="https://quote.rbc.ru/ticker/61867" title="IMOEX, 27.02" class="key-indicators__item js-indicators-key-dragscroll js-yandex-counter" data-yandex-name="click_indicators_main">
+                    <span class="key-indicators__top">
+                        <span class="key-indicators__name">
+                            IMOEX
+                        </span>
+                        <span class="key-indicators__subname">
+                            
+                            27.02
+                        </span>
+                    </span>
+                    <span class="key-indicators__val">
+                                                    
+                                                                                                                                                            
+                            <span class="key-indicators__diff">
+                                2 490,65
+                            </span>
+                                                            <span class="key-indicators__arrow key-indicators__arrow_red"></span>
+                                                        <span class="key-indicators__diff key-indicators__diff_fall">
+                                -0,14%
+                            </span>
+                                            </span>
+                </a>
+                            <a href="https://quote.rbc.ru/ticker/32543" title="RTSI, 27.02" class="key-indicators__item js-indicators-key-dragscroll js-yandex-counter" data-yandex-name="click_indicators_main">
+                    <span class="key-indicators__top">
+                        <span class="key-indicators__name">
+                            RTSI
+                        </span>
+                        <span class="key-indicators__subname">
+                            
+                            27.02
+                        </span>
+                    </span>
+                    <span class="key-indicators__val">
+                                                    
+                                                                                                                                                            
+                            <span class="key-indicators__diff">
+                                1 191,01
+                            </span>
+                                                            <span class="key-indicators__arrow key-indicators__arrow_red"></span>
+                                                        <span class="key-indicators__diff key-indicators__diff_fall">
+                                -0,17%
+                            </span>
+                                            </span>
+                </a>
+                            <a href="https://quote.rbc.ru/ticker/106064" title="DJIA, 27.02" class="key-indicators__item js-indicators-key-dragscroll js-yandex-counter" data-yandex-name="click_indicators_main">
+                    <span class="key-indicators__top">
+                        <span class="key-indicators__name">
+                            DJIA
+                        </span>
+                        <span class="key-indicators__subname">
+                            
+                            27.02
+                        </span>
+                    </span>
+                    <span class="key-indicators__val">
+                                                    
+                                                                                                                                                            
+                            <span class="key-indicators__diff">
+                                25 985,16
+                            </span>
+                                                            <span class="key-indicators__arrow key-indicators__arrow_red"></span>
+                                                        <span class="key-indicators__diff key-indicators__diff_fall">
+                                -0,28%
+                            </span>
+                                            </span>
+                </a>
+                            <a href="https://quote.rbc.ru/ticker/106065" title="Nasdaq, 27.02" class="key-indicators__item js-indicators-key-dragscroll js-yandex-counter" data-yandex-name="click_indicators_main">
+                    <span class="key-indicators__top">
+                        <span class="key-indicators__name">
+                            Nasdaq
+                        </span>
+                        <span class="key-indicators__subname">
+                            
+                            27.02
+                        </span>
+                    </span>
+                    <span class="key-indicators__val">
+                                                    
+                                                                                                                                                            
+                            <span class="key-indicators__diff">
+                                7 554,51
+                            </span>
+                                                            <span class="key-indicators__arrow key-indicators__arrow_green"></span>
+                                                        <span class="key-indicators__diff key-indicators__diff_grow">
+                                0,07%
+                            </span>
+                                            </span>
+                </a>
+                    </div>
+    </div>
+</div>
+    </div>
+    
+<div class="main js-main-reload">
+    <div class="g-tablet-visible g-mobile-visible g-border-bottom">
+        <div class="menu__wrap l-col-center">
+    <div class="menu">
+        <div class="menu__inner">
+            <div class="menu__item active">
+                <div class="menu__item-wrap">
+                    <a href="/" class="menu__link js-yandex-counter" data-yandex-name="click_tab_main">Главное</a>
+                </div>
+            </div>
+            <div class="menu__item">
+                <div class="menu__item-wrap">
+                    <a href="/short_news" class="menu__link js-yandex-counter" data-yandex-name="click_tab_newsfeed">Лента</a>
+                </div>
+            </div>
+            <div class="menu__item">
+                <div class="menu__item-wrap">
+                    <a href="#" class="menu__link js-live-tv-play-mobile js-yandex-counter" data-yandex-name="click_tab_live">Эфир</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    </div>
+    <div class="main__inner l-col-center">
+        <div class="g-desktop-visible">
+                <div class="tabs">
+        <div class="tabs__main">
+            <div class="tabs__item active js-index-tabs">
+                <span class="tabs__link">Главное</span>
+            </div>
+        </div>
+        <div class="tabs__other js-index-tabs-container">
+                        
+                            <div class="tabs__item js-index-tabs">
+                    <a href="https://www.rbc.ru/story/5c66aa9c9a7947a21d3414c0" class="tabs__link">«Дело Baring Vostok»</a>
+                </div>
+                            <div class="tabs__item js-index-tabs">
+                    <a href="https://www.rbc.ru/story/5c5d968a9a794723121e060c" class="tabs__link">Выборы на Украине</a>
+                </div>
+                            <div class="tabs__item js-index-tabs">
+                    <a href="https://www.rbc.ru/story/5c56c16b9a7947b40e8de724" class="tabs__link">Приостановка ДРСМД</a>
+                </div>
+                            <div class="tabs__item js-index-tabs">
+                    <a href="https://www.rbc.ru/story/5c51a57e9a7947ee1b8c99a5" class="tabs__link">Дело клана Арашуковых</a>
+                </div>
+                            <div class="tabs__item js-index-tabs">
+                    <a href="https://www.rbc.ru/story/5c48dcf09a79471e5e920048" class="tabs__link">Госпереворот в Венесуэле</a>
+                </div>
+            
+            <div class="tabs__item tabs__more js-index-tabs-more">
+                <span class="tabs__link tabs__trigger js-index-tabs-trigger">Еще сюжеты</span>
+                <div class="tabs__submenu js-index-tabs-submenu">
+                    <span class="tabs__link tabs__trigger">Еще сюжеты</span>
+                    <div class="js-index-tabs-dropdown"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        </div>
+        <div class="l-row">
+            
+                            <div class="main__big js-main-reload-item" data-id="5c7707dd9a79477a38e4b0ab" data-modif-date="Thu, 28 Feb 2019 02:08:32 +0300" data-vr-zone="Главная новость">
+    <a href="https://www.rbc.ru/technology_and_media/28/02/2019/5c7707dd9a79477a38e4b0ab?from=from_main" class="main__big__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/technology_and_media/28/02/2019/5c7707dd9a79477a38e4b0ab&quot;}" data-vr-contentbox="Position 1" data-vr-contentbox-url="https://www.rbc.ru/technology_and_media/28/02/2019/5c7707dd9a79477a38e4b0ab">
+        <span class="main__big__text-wrap">
+            <span class="main__big__text">
+                <span class="main__big__title" data-vr-headline="">В Гвиане состоялся отложенный старт «Союза» со спутниками OneWeb</span>
+            </span>
+        </span>
+    </a>
+</div>                    </div>
+    </div>
+
+            <div class="main__list" data-vr-zone="Топ новости">
+            <div class="main__inner l-col-center">
+                            <div class="main__feed js-main-reload-item" data-id="5c76f6049a794773b4927bc5" data-modif-date="Thu, 28 Feb 2019 01:37:50 +0300">
+        
+    <a href="https://www.rbc.ru/economics/28/02/2019/5c76f6049a794773b4927bc5?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/economics/28/02/2019/5c76f6049a794773b4927bc5&quot;}" data-vr-contentbox="Position 2" data-vr-contentbox-url="https://www.rbc.ru/economics/28/02/2019/5c76f6049a794773b4927bc5">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->Норвежский фонд избавился от российских гособлигаций на $1 млрд<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                                            <div class="main__feed js-main-reload-item" data-id="5c7725d79a7947801c4b6086" data-modif-date="Thu, 28 Feb 2019 04:27:30 +0300">
+        
+    <a href="https://www.rbc.ru/politics/28/02/2019/5c7725d79a7947801c4b6086?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/politics/28/02/2019/5c7725d79a7947801c4b6086&quot;}" data-vr-contentbox="Position 3" data-vr-contentbox-url="https://www.rbc.ru/politics/28/02/2019/5c7725d79a7947801c4b6086">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->Киев заявил о полученном преимуществе в рыболовстве на Азове<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                                            <div class="main__feed js-main-reload-item" data-id="5c771c989a79477c7ef6e7fe" data-modif-date="Thu, 28 Feb 2019 02:49:40 +0300">
+        
+    <a href="https://www.rbc.ru/business/28/02/2019/5c771c989a79477c7ef6e7fe?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/business/28/02/2019/5c771c989a79477c7ef6e7fe&quot;}" data-vr-contentbox="Position 4" data-vr-contentbox-url="https://www.rbc.ru/business/28/02/2019/5c771c989a79477c7ef6e7fe">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->S7 Space подала в суд на РКК «Энергия»<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                            </div>
+                                <div class="g-mobile-visible">
+                        <div class="forecast js-yandex-counter" data-yandex-show="rbc_quotebks_show">
+        <div class="forecast__wrap">
+                
+                
+    <div class="forecast__item">
+        <div class="forecast__item-wrap">
+                    <a href="https://quote.rbc.ru/news/forecast_idea/5c7657b09a7947395b834286" class="forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                            
+                                                    
+                <span class="forecast__title-block">
+                    <span class="forecast__title">
+                                                                                    ТМК
+                                                    
+                                                    ₽88,58
+                                            </span>
+
+                    
+                                                                                                                    
+                    <span class="forecast__change forecast__change_grow">
+                                                                            
+                                                    (+82,94%)
+                                            </span>
+                </span>
+                <span class="forecast__subtitle">
+                    прогноз ВТБ Капитал
+                                            к&nbsp;27.02.20
+                                    </span>
+                    </a>
+                                    <div class="forecast__button-wrap">
+                    <a href="https://quote.rbc.ru/user/buy/59847" class="forecast__button js-yandex-counter" data-yandex-name="quote_buy">Купить</a>
+                </div>
+                    </div>
+    </div>
+    
+                
+    <div class="forecast__item">
+        <div class="forecast__item-wrap">
+                    <a href="https://quote.rbc.ru/news/forecast_idea/5c5ae5b19a794751fe9035d7" class="forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                            
+                                                    
+                <span class="forecast__title-block">
+                    <span class="forecast__title">
+                                                                                    Tesla
+                                                    
+                                                    $450
+                                            </span>
+
+                    
+                                                                                                                    
+                    <span class="forecast__change forecast__change_grow">
+                                                                            
+                                                    (+51,64%)
+                                            </span>
+                </span>
+                <span class="forecast__subtitle">
+                    прогноз Jefferies
+                                            к&nbsp;07.12.19
+                                    </span>
+                    </a>
+                                    <div class="forecast__button-wrap">
+                    <a href="https://quote.rbc.ru/user/buy/177779" class="forecast__button js-yandex-counter" data-yandex-name="quote_buy">Купить</a>
+                </div>
+                    </div>
+    </div>
+    
+                
+    <div class="forecast__item">
+        <div class="forecast__item-wrap">
+                    <a href="https://quote.rbc.ru/news/forecast_idea/5c3dbf2e9a79470c6101ce45" class="forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                            
+                                                    
+                <span class="forecast__title-block">
+                    <span class="forecast__title">
+                                                                                    Target
+                                                    
+                                                    $79
+                                            </span>
+
+                    
+                                                                                                                    
+                    <span class="forecast__change forecast__change_grow">
+                                                                            
+                                                    (+9,95%)
+                                            </span>
+                </span>
+                <span class="forecast__subtitle">
+                    прогноз Credit Suisse
+                                            к&nbsp;10.01.20
+                                    </span>
+                    </a>
+                                    <div class="forecast__button-wrap">
+                    <a href="https://quote.rbc.ru/user/buy/177777" class="forecast__button js-yandex-counter" data-yandex-name="quote_buy">Купить</a>
+                </div>
+                    </div>
+    </div>
+    
+                
+    <div class="forecast__item">
+        <div class="forecast__item-wrap">
+                    <a href="https://quote.rbc.ru/news/forecast_idea/5c73f09c9a794709b1c8fac4" class="forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                            
+                                                    
+                <span class="forecast__title-block">
+                    <span class="forecast__title">
+                                                                                    Electronic Arts
+                                                    
+                                                    $106
+                                            </span>
+
+                    
+                                                                                                                    
+                    <span class="forecast__change forecast__change_grow">
+                                                                            
+                                                    (+11,01%)
+                                            </span>
+                </span>
+                <span class="forecast__subtitle">
+                    прогноз Credit Suisse
+                                            к&nbsp;31.12.19
+                                    </span>
+                    </a>
+                                    <div class="forecast__button-wrap">
+                    <a href="https://quote.rbc.ru/user/buy/177507" class="forecast__button js-yandex-counter" data-yandex-name="quote_buy">Купить</a>
+                </div>
+                    </div>
+    </div>
+    
+                
+    <div class="forecast__item">
+        <div class="forecast__item-wrap">
+                    <a href="https://quote.rbc.ru/news/forecast_idea/5c7285e59a7947a8fce30c22" class="forecast__link js-yandex-counter" data-yandex-name="rbc_quotebks_click">
+                                                            
+                                                    
+                <span class="forecast__title-block">
+                    <span class="forecast__title">
+                                                                                    Coca-Cola
+                                                    
+                                                    $52
+                                            </span>
+
+                    
+                                                                                                                    
+                    <span class="forecast__change forecast__change_grow">
+                                                                            
+                                                    (+15,2%)
+                                            </span>
+                </span>
+                <span class="forecast__subtitle">
+                    прогноз Deutsche Bank
+                                            к&nbsp;24.02.20
+                                    </span>
+                    </a>
+                                    <div class="forecast__button-wrap">
+                    <a href="https://quote.rbc.ru/user/buy/177736" class="forecast__button js-yandex-counter" data-yandex-name="quote_buy">Купить</a>
+                </div>
+                    </div>
+    </div>
+        </div>
+    </div>
+
+                </div>
+            <div class="main__inner l-col-center">
+                                            <div class="main__feed js-main-reload-item" data-id="5c7731eb9a794782ce3a3e36" data-modif-date="Thu, 28 Feb 2019 04:29:32 +0300">
+        
+    <a href="https://www.rbc.ru/politics/28/02/2019/5c7731eb9a794782ce3a3e36?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/politics/28/02/2019/5c7731eb9a794782ce3a3e36&quot;}" data-vr-contentbox="Position 5" data-vr-contentbox-url="https://www.rbc.ru/politics/28/02/2019/5c7731eb9a794782ce3a3e36">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->NASA заинтересовалось возможностью привлечь Украину к исследованию Луны<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                                            <div class="main__feed js-main-reload-item" data-id="5c76f32f9a794772e8004bd4" data-modif-date="Thu, 28 Feb 2019 00:48:43 +0300">
+        
+    <a href="https://www.rbc.ru/politics/28/02/2019/5c76f32f9a794772e8004bd4?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/politics/28/02/2019/5c76f32f9a794772e8004bd4&quot;}" data-vr-contentbox="Position 6" data-vr-contentbox-url="https://www.rbc.ru/politics/28/02/2019/5c76f32f9a794772e8004bd4">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->Управделами президента закупило сигареты на 19 млн руб.<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                                            <div class="main__feed js-main-reload-item" data-id="5c76fa7d9a794774da25abef" data-modif-date="Thu, 28 Feb 2019 00:51:24 +0300">
+        
+    <a href="https://www.rbc.ru/society/28/02/2019/5c76fa7d9a794774da25abef?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/society/28/02/2019/5c76fa7d9a794774da25abef&quot;}" data-vr-contentbox="Position 7" data-vr-contentbox-url="https://www.rbc.ru/society/28/02/2019/5c76fa7d9a794774da25abef">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->Более половины американцев сочли Россию критической угрозой для США<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                                            <div class="main__feed js-main-reload-item" data-id="5c765e289a79473d85567e78" data-modif-date="Thu, 28 Feb 2019 00:43:32 +0300">
+        
+    <a href="https://www.rbc.ru/finances/28/02/2019/5c765e289a79473d85567e78?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/finances/28/02/2019/5c765e289a79473d85567e78&quot;}" data-vr-contentbox="Position 8" data-vr-contentbox-url="https://www.rbc.ru/finances/28/02/2019/5c765e289a79473d85567e78">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->Часть банков решили отложить полноценный запуск быстрых платежей ЦБ<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                            </div>
+                                                    <div class="g-mobile-visible banner__filmstrip banner__no-borders">
+    <a href="http://www.adv.rbc.ru" target="_blank" class="banner__container__link">
+    <span class="banner__container__border">
+        <span class="banner__container__text">Реклама на РБК <span class="banner__container__color">www.adv.rbc.ru</span></span>
+    </span>
+</a>        <!-- mobile_after_topline -->
+                <div class="banner" data-id="div-gpt-ad-1436522729302-0" data-banner-id="rbc_mobile_top" data-device="4" data-service="dfp">
+            <div id="div-gpt-ad-1436522729302-0" data-has-wrap="1" class="g-banner-align-center"></div>
+        </div>
+    
+</div>
+
+                            <div class="main__inner l-col-center js-main-reload-list">
+                                            <div class="main__feed js-main-reload-item" data-id="5c76e00c9a79476e9bab38cc" data-modif-date="Thu, 28 Feb 2019 00:43:50 +0300">
+        
+    <a href="https://www.rbc.ru/politics/27/02/2019/5c76e00c9a79476e9bab38cc?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/politics/27/02/2019/5c76e00c9a79476e9bab38cc&quot;}" data-vr-contentbox="Position 9" data-vr-contentbox-url="https://www.rbc.ru/politics/27/02/2019/5c76e00c9a79476e9bab38cc">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->СМИ узнали о дезертирстве 400 венесуэльских военных в Колумбию<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                                            <div class="main__feed js-main-reload-item" data-id="5c76b9b79a79476400aa1909" data-modif-date="Wed, 27 Feb 2019 21:04:05 +0300">
+        
+    <a href="https://www.rbc.ru/politics/27/02/2019/5c76b9b79a79476400aa1909?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/politics/27/02/2019/5c76b9b79a79476400aa1909&quot;}" data-vr-contentbox="Position 10" data-vr-contentbox-url="https://www.rbc.ru/politics/27/02/2019/5c76b9b79a79476400aa1909">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->Коэн сообщил конгрессу о докладе Трампу об утечке документов демократов<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                                            <div class="main__feed js-main-reload-item" data-id="5c76cbfb9a794769098a0b0c" data-modif-date="Thu, 28 Feb 2019 01:29:12 +0300">
+        
+    <a href="https://www.rbc.ru/business/27/02/2019/5c76cbfb9a794769098a0b0c?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/business/27/02/2019/5c76cbfb9a794769098a0b0c&quot;}" data-vr-contentbox="Position 11" data-vr-contentbox-url="https://www.rbc.ru/business/27/02/2019/5c76cbfb9a794769098a0b0c">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->Совфед обратился к «Аэрофлоту» из-за «напряженной обстановки» в Магадане<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                                            <div class="main__feed js-main-reload-item" data-id="5c76baac9a794764361e4eaf" data-modif-date="Thu, 28 Feb 2019 00:45:10 +0300">
+        
+    <a href="https://www.rbc.ru/society/27/02/2019/5c76baac9a794764361e4eaf?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/society/27/02/2019/5c76baac9a794764361e4eaf&quot;}" data-vr-contentbox="Position 12" data-vr-contentbox-url="https://www.rbc.ru/society/27/02/2019/5c76baac9a794764361e4eaf">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->Украина отказалась от участия в «Евровидении-2019»<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                                            <div class="main__feed js-main-reload-item" data-id="5c767e079a794749d8fc2423" data-modif-date="Wed, 27 Feb 2019 21:31:47 +0300">
+        
+    <a href="https://www.rbc.ru/economics/27/02/2019/5c767e079a794749d8fc2423?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/economics/27/02/2019/5c767e079a794749d8fc2423&quot;}" data-vr-contentbox="Position 13" data-vr-contentbox-url="https://www.rbc.ru/economics/27/02/2019/5c767e079a794749d8fc2423">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->Путин поручил убрать «чересполосицу» из прожиточных минимумов пенсионеров<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                                            <div class="main__feed js-main-reload-item" data-id="5c76e9979a794770fd6ca20d" data-modif-date="Wed, 27 Feb 2019 23:17:24 +0300">
+        
+    <a href="https://www.rbc.ru/politics/27/02/2019/5c76e9979a794770fd6ca20d?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://www.rbc.ru/politics/27/02/2019/5c76e9979a794770fd6ca20d&quot;}" data-vr-contentbox="Position 14" data-vr-contentbox-url="https://www.rbc.ru/politics/27/02/2019/5c76e9979a794770fd6ca20d">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->Коэн заявил о приказах Трампа угрожать людям и организациям<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                                            <div class="main__feed js-main-reload-item" data-id="5c770ded9a79477b51a5be5d" data-modif-date="Thu, 28 Feb 2019 02:03:57 +0300">
+        
+    <a href="https://sport.rbc.ru/news/5c770ded9a79477b51a5be5d?from=from_main" class="main__feed__link js-yandex-counter" data-yandex-name="from_main" data-yandex-params="{url: &quot;https://sport.rbc.ru/news/5c770ded9a79477b51a5be5d&quot;}" data-vr-contentbox="Position 15" data-vr-contentbox-url="https://sport.rbc.ru/news/5c770ded9a79477b51a5be5d">
+        <span class="main__feed__title-wrap">
+            
+                                                
+            <span class="main__feed__title" data-vr-headline=""><!--
+            -->«Барселона» разгромила «Реал» и вышла в финал Кубка Испании<!--
+         --></span><!--
+            --><!--
+     --></span><!--
+    --></a>
+</div>
+                                        </div>
+        </div>
+    </div>
+            <div class="g-mobile-visible">
+            <!-- mobile_mid -->
+                <div class="banner g-banner__bg g-mobile-visible banner__no-borders" data-id="div-gpt-ad-1465581203161-0" data-banner-id="rbc_mobile_3" data-device="4" data-service="dfp">
+            <div id="div-gpt-ad-1465581203161-0" data-has-wrap="1" class="g-banner-align-center"></div>
+        </div>
+    
+        </div>
+        <div class="g-hidden">
+        <div class="subscribe subscribe_center g-hidden js-index-central-subscribe">
+            <div class="l-col-center js-subscribe-block-center">
+            <div class="subscribe__step subscribe__step_split">
+                <form class="subscribe__split-form subscribe__split-form_visible g-form js-subscribe-form" name="" method="post" action="" novalidate="novalidate">
+                    <div class="subscribe__split-form__placeholder">
+                        <div class="subscribe__split-form__title">Рассылка РБК</div>
+                        <label for="subscribeInput" class="subscribe__split-form__label">E-mail</label>
+                        <a href="/subscribe/" class="subscribe__split-form__text">Пример рассылки</a>
+                    </div>
+                    <div class="subscribe__split-form__error g-form__error js-subscribe-error"></div>
+                    <input class="subscribe__split-form__input js-subscribe-input" type="email" id="subscribeInput" name="email" placeholder="E-mail" autocomplete="off" autocapitalize="off" required="">
+                    <div class="subscribe__split-form__submit-wrap">
+                        <input type="submit" class="subscribe__split-form__submit g-form__submit js-yandex-counter" value="Подписаться" data-yandex-name="subscribe_right">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>    </div>
+    <div class="g-overflow">
+        
+                        <div class="js-index-central-column" data-vr-zone="Центральная колонка new"></div>
+    </div>
+                                        </div>
+                                    
+                                                                            <div class="l-col-right js-safari-sticky-parent">
+                                                <div class="js-indicators">
+            <div class="indicators">
+        <div class="indicators__wrap">
+                <a href="https://cash.rbc.ru/?currency=3" title="USD, 05:06" class="indicators__item js-yandex-counter" data-id="82069" data-yandex-name="click_indicators_main">
+                    <span class="indicators__td indicators__subname">
+                                    Нал.
+                            </span>
+        
+        <span class="indicators__td indicators__name">
+            USD
+        </span>
+        <span class="indicators__td indicators__date">
+            05:06
+        </span>
+
+                                                <span class="indicators__td indicators__sum">66,65</span>
+        <span class="indicators__td indicators__change">
+            65,24
+        </span>
+    </a>
+
+        <a href="https://cash.rbc.ru/?currency=2" title="EUR, 05:06" class="indicators__item js-yandex-counter" data-id="81993" data-yandex-name="click_indicators_main">
+                    <span class="indicators__td indicators__subname">
+                            </span>
+        
+        <span class="indicators__td indicators__name">
+            EUR
+        </span>
+        <span class="indicators__td indicators__date">
+            05:06
+        </span>
+
+                                                <span class="indicators__td indicators__sum">75,76</span>
+        <span class="indicators__td indicators__change">
+            74,24
+        </span>
+    </a>
+
+        <a href="https://quote.rbc.ru/ticker/59111" title="USD, 27.02" class="indicators__item js-yandex-counter" data-id="59111" data-yandex-name="click_indicators_main">
+                    <span class="indicators__td indicators__subname">
+                                    Бирж.
+                            </span>
+        
+        <span class="indicators__td indicators__name">
+            USD
+        </span>
+        <span class="indicators__td indicators__date">
+            27.02
+        </span>
+
+                                            
+                                                                                            <span class="indicators__td indicators__sum">65,79</span>
+        <span class="indicators__td indicators__change indicators__change_grow">
+            +0,09
+        </span>
+    </a>
+
+        <a href="https://quote.rbc.ru/ticker/59090" title="EUR, 27.02" class="indicators__item js-yandex-counter" data-id="59090" data-yandex-name="click_indicators_main">
+                    <span class="indicators__td indicators__subname">
+                            </span>
+        
+        <span class="indicators__td indicators__name">
+            EUR
+        </span>
+        <span class="indicators__td indicators__date">
+            27.02
+        </span>
+
+                                            
+                                                                                            <span class="indicators__td indicators__sum">74,77</span>
+        <span class="indicators__td indicators__change indicators__change_fall">
+            -0,07
+        </span>
+    </a>
+
+        <a href="https://quote.rbc.ru/ticker/72413" title="USD, 28.02" class="indicators__item js-yandex-counter" data-id="72413" data-yandex-name="click_indicators_main">
+                    <span class="indicators__td indicators__subname">
+                                    ЦБ
+                            </span>
+        
+        <span class="indicators__td indicators__name">
+            USD
+        </span>
+        <span class="indicators__td indicators__date">
+            28.02
+        </span>
+
+                                            
+                                                                                            <span class="indicators__td indicators__sum">65,76</span>
+        <span class="indicators__td indicators__change indicators__change_grow">
+            +0,14
+        </span>
+    </a>
+
+        <a href="https://quote.rbc.ru/ticker/72383" title="EUR, 28.02" class="indicators__item js-yandex-counter" data-id="72383" data-yandex-name="click_indicators_main">
+                    <span class="indicators__td indicators__subname">
+                            </span>
+        
+        <span class="indicators__td indicators__name">
+            EUR
+        </span>
+        <span class="indicators__td indicators__date">
+            28.02
+        </span>
+
+                                            
+                                                                                            <span class="indicators__td indicators__sum">74,82</span>
+        <span class="indicators__td indicators__change indicators__change_grow">
+            +0,34
+        </span>
+    </a>
+
+        <a href="https://quote.rbc.ru/ticker/59087" title="EUR/USD, 27.02" class="indicators__item js-yandex-counter" data-id="59087" data-yandex-name="click_indicators_main">
+        
+        <span class="indicators__td indicators__name indicators__name_double">
+            EUR/USD
+        </span>
+        <span class="indicators__td indicators__date">
+            27.02
+        </span>
+
+                                            
+                                                                                            <span class="indicators__td indicators__sum">1,1370</span>
+        <span class="indicators__td indicators__change indicators__change_fall">
+            -0,0022
+        </span>
+    </a>
+
+        <a href="https://www.rbc.ru/crypto/currency/btcusd" title="BTC/USD, 05:06" class="indicators__item js-yandex-counter" data-id="166026" data-yandex-name="click_indicators_main">
+        
+        <span class="indicators__td indicators__name indicators__name_double">
+            BTC/USD
+        </span>
+        <span class="indicators__td indicators__date">
+            05:06
+        </span>
+
+                                            
+                                                                                            <span class="indicators__td indicators__sum">3 916,20</span>
+        <span class="indicators__td indicators__change indicators__change_grow">
+            +14,70
+        </span>
+    </a>
+
+            <div class="indicators__border"></div>
+        <a href="https://quote.rbc.ru/ticker/61867" title="IMOEX, 27.02" class="indicators__item js-yandex-counter" data-id="61867" data-yandex-name="click_indicators_main">
+        
+        <span class="indicators__td indicators__name indicators__name_double">
+            IMOEX
+        </span>
+        <span class="indicators__td indicators__date">
+            27.02
+        </span>
+
+                                            
+                                                                                            <span class="indicators__td indicators__sum">2 490,65</span>
+        <span class="indicators__td indicators__change indicators__change_fall">
+            -0,14%
+        </span>
+    </a>
+
+        <a href="https://quote.rbc.ru/ticker/32543" title="RTSI, 27.02" class="indicators__item js-yandex-counter" data-id="32543" data-yandex-name="click_indicators_main">
+        
+        <span class="indicators__td indicators__name indicators__name_double">
+            RTSI
+        </span>
+        <span class="indicators__td indicators__date">
+            27.02
+        </span>
+
+                                            
+                                                                                            <span class="indicators__td indicators__sum">1 191,01</span>
+        <span class="indicators__td indicators__change indicators__change_fall">
+            -0,17%
+        </span>
+    </a>
+
+        <a href="https://quote.rbc.ru/ticker/181206" title="Brent, 27.02" class="indicators__item js-yandex-counter" data-id="181206" data-yandex-name="click_indicators_main">
+        
+        <span class="indicators__td indicators__name indicators__name_double">
+            Brent
+        </span>
+        <span class="indicators__td indicators__date">
+            27.02
+        </span>
+
+                                            
+                                                                                            <span class="indicators__td indicators__sum">66,41</span>
+        <span class="indicators__td indicators__change indicators__change_grow">
+            +1,82%
+        </span>
+    </a>
+
+        <a href="https://quote.rbc.ru/ticker/106064" title="DJIA, 27.02" class="indicators__item js-yandex-counter" data-id="106064" data-yandex-name="click_indicators_main">
+        
+        <span class="indicators__td indicators__name indicators__name_double">
+            DJIA
+        </span>
+        <span class="indicators__td indicators__date">
+            27.02
+        </span>
+
+                                            
+                                                                                            <span class="indicators__td indicators__sum">25 985,16</span>
+        <span class="indicators__td indicators__change indicators__change_fall">
+            -0,28%
+        </span>
+    </a>
+
+        <a href="https://quote.rbc.ru/ticker/106065" title="Nasdaq, 27.02" class="indicators__item js-yandex-counter" data-id="106065" data-yandex-name="click_indicators_main">
+        
+        <span class="indicators__td indicators__name indicators__name_double">
+            Nasdaq
+        </span>
+        <span class="indicators__td indicators__date">
+            27.02
+        </span>
+
+                                            
+                                                                                            <span class="indicators__td indicators__sum">7 554,51</span>
+        <span class="indicators__td indicators__change indicators__change_grow">
+            +0,07%
+        </span>
+    </a>
+
+            </div>
+    </div>
+
+    </div>
+
+                        
+            <div class="banner__container">
+    <a href="http://www.adv.rbc.ru" target="_blank" class="banner__container__link">
+    <span class="banner__container__border">
+        <span class="banner__container__text">Реклама на РБК <span class="banner__container__color">www.adv.rbc.ru</span></span>
+    </span>
+</a>        <!-- right_1 -->
+                <div class="banner" data-id="div-gpt-ad-1431693059125-0" data-banner-id="firstpage_graph2_new" data-device="1" data-service="dfp">
+            <div id="div-gpt-ad-1431693059125-0" data-has-wrap="1" class="g-banner-align-center"></div>
+        </div>
+    
+</div>
+
+        <!-- right_spec_realty -->
+                <div class="banner" data-id="div-gpt-ad-1525700005426-0" data-banner-id="fp_new_realty_teaser1" data-device="1" data-service="dfp">
+            <div id="div-gpt-ad-1525700005426-0" data-has-wrap="1"></div>
+        </div>
+    
+    
+    <div class="subscribe js-subscribe-block g-hidden">
+    <div class="subscribe__step">
+        <div class="subscribe__content">
+            <div class="subscribe__image"></div>
+            <div class="subscribe__text-block subscribe__text-block_center">
+                <div class="subscribe__title">Подпишись<br> на&nbsp;нашу рассылку</div>
+                <div class="subscribe__text">
+                    Отбираем главные новости и&nbsp;объясняем, что они значат.<br>
+                    <a href="/subscribe/">Пример письма</a>
+                </div>
+            </div>
+        </div>
+        <form class="subscribe__form g-form js-subscribe-form" name="" method="post" action="" novalidate="novalidate">
+            <div class="g-form__error js-subscribe-error"></div>
+            <div class="g-form__row">
+                <input class="g-form__input" type="email" name="email" placeholder="Ваш e-mail" autocomplete="off" autocapitalize="off" required="">
+            </div>
+            <div class="g-form__submit-wrap">
+                <input type="submit" class="g-form__submit js-yandex-counter" value="Подписаться" data-yandex-name="subscribe_right">
+            </div>
+        </form>
+    </div>
+</div>    <div class="poll-opinion">
+    <div class="poll-opinion__wrap">
+        <div class="poll-opinion__image"></div>
+        <div class="poll-opinion__title">Мы&nbsp;постоянно<br>работаем над улучшением сайта РБК.</div>
+        <div class="poll-opinion__text">Пожалуйста, поделитесь вашим мнением</div>
+        <div class="poll-opinion__button-wrap">
+            <a href="https://ru.research.net/r/82W56SH" class="poll-opinion__button js-yandex-counter" data-yandex-name="click_rightcolumn_research" target="_blank">
+                Оставить отзыв
+            </a>
+        </div>
+    </div>
+</div>    <div class="poll__wrapper">
+    <div class="l-row">
+        <div class="js-polls poll" data-type="acceptor" data-acceptor="process" data-name="active_poll" data-symbols-after-dot="1"></div>
+    </div>
+</div>
+            <div class="l-sticky l-sticky-right">
+            <div class="banner__container banner__border-left">
+    <a href="http://www.adv.rbc.ru" target="_blank" class="banner__container__link">
+    <span class="banner__container__border">
+        <span class="banner__container__text">Реклама на РБК <span class="banner__container__color">www.adv.rbc.ru</span></span>
+    </span>
+</a>        <!-- right_2 -->
+                <div class="banner" data-id="div-gpt-ad-1430152982600-0" data-banner-id="firstpage_graph_new" data-device="1" data-service="dfp">
+            <div id="div-gpt-ad-1430152982600-0" data-has-wrap="1" class="g-banner-align-center"></div>
+        </div>
+    
+</div>
+
+            <!-- right_spec_auto -->
+                <div class="banner" data-id="div-gpt-ad-1525699856877-0" data-banner-id="fp_new_auto_teaser1" data-device="1" data-service="dfp">
+            <div id="div-gpt-ad-1525699856877-0" data-has-wrap="1"></div>
+        </div>
+    
+        </div>
+                                            </div>
+                                                                    </div>
+                            </div>
+                                                    <div class="js-load-more-container"></div>
+                    </div>
+                                                                        <div class="banner__filmstrip g-mobile-visible">
+    <a href="http://www.adv.rbc.ru" target="_blank" class="banner__container__link">
+    <span class="banner__container__border">
+        <span class="banner__container__text">Реклама на РБК <span class="banner__container__color">www.adv.rbc.ru</span></span>
+    </span>
+</a>        <!-- mobile_filmstrip -->
+                <div class="banner" data-id="div-gpt-ad-1436522789782-0" data-banner-id="rbc_mobile_bot" data-device="4" data-service="dfp">
+            <div id="div-gpt-ad-1436522789782-0" data-has-wrap="1" class="g-banner-align-center"></div>
+        </div>
+    
+</div>
+
+                            <div class="banner__filmstrip g-tablet-visible">
+    <a href="http://www.adv.rbc.ru" target="_blank" class="banner__container__link">
+    <span class="banner__container__border">
+        <span class="banner__container__text">Реклама на РБК <span class="banner__container__color">www.adv.rbc.ru</span></span>
+    </span>
+</a>        <!-- pad_filmstrip -->
+                <div class="banner" data-id="div-gpt-ad-1438337231902-0" data-banner-id="rbc_mobile_bot" data-device="2" data-service="dfp">
+            <div id="div-gpt-ad-1438337231902-0" data-has-wrap="1"></div>
+        </div>
+    
+</div>
+
+                                                            </div>
+            </div>
+            <div class="l-row">
+                                    <div class="footer js-footer">
+    <div class="footer__wrap">
+        <div class="footer__inner">
+            <div class="footer__col footer__col_double">
+                <div class="footer__subcol">
+                    <div class="footer__title">РБК</div>
+                    <div class="footer__list">
+                        <div class="footer__item">
+                            <a href="http://www.rbcholding.ru/about.shtml" class="footer__link">О&nbsp;компании</a>
+                        </div>
+                        <div class="footer__item active">
+                            <a href="https://www.rbc.ru/contacts/" class="footer__link">Контактная информация</a>
+                        </div>
+                        <div class="footer__item active">
+                            <a href="https://www.rbc.ru/editors/" class="footer__link">Редакция</a>
+                        </div>
+                        <div class="footer__item">
+                            <a href="https://rbc.ru/advert/" class="footer__link">Размещение рекламы</a>
+                        </div>
+                            <div class="footer__item">
+        <a href="http://intern.rbc.ru/" class="footer__link">Стажерская программа</a>
+    </div>
+                    </div>
+                </div>
+                <div class="footer__subcol">
+                    <div class="footer__title">Социальные сети</div>
+                    <div class="footer__list">
+                                                    <div class="footer__item">
+                                <a href="http://facebook.com/rbcru" class="footer__link" target="_blank">Facebook</a>
+                            </div>
+                            <div class="footer__item">
+                                <a href="https://vk.com/rbc" class="footer__link" target="_blank">ВКонтакте</a>
+                            </div>
+                            <div class="footer__item">
+                                <a href="http://twitter.com/ru_rbc" class="footer__link" target="_blank">Twitter</a>
+                            </div>
+                            <div class="footer__item">
+                                <a href="http://www.odnoklassniki.ru/group/51670727852273" class="footer__link" target="_blank">Одноклассники</a>
+                            </div>
+                            <div class="footer__item">
+                                <a href="http://www.youtube.com/user/tvrbcnews" class="footer__link" target="_blank">YouTube</a>
+                            </div>
+                            <div class="footer__item">
+                                <a href="https://t.me/rbc_news" class="footer__link" target="_blank">Telegram</a>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+
+                            <div class="footer__col footer__col_custom">
+            <div class="footer__title">Региональные версии</div>
+            <div class="footer__list">
+                                    <div class="footer__item">
+                        <a href="https://www.rbc.ru/spb_sz/" class="footer__link">Санкт-Петербург и область</a>
+                    </div>
+                                    <div class="footer__item">
+                        <a href="https://ekb.rbc.ru/ekb/" class="footer__link">Екатеринбург</a>
+                    </div>
+                                    <div class="footer__item">
+                        <a href="https://nsk.rbc.ru/nsk/" class="footer__link">Новосибирск</a>
+                    </div>
+                                    <div class="footer__item">
+                        <a href="https://ufa.rbc.ru/ufa/" class="footer__link">Башкортостан</a>
+                    </div>
+                                    <div class="footer__item">
+                        <a href="https://vo.rbc.ru/vo/" class="footer__link">Вологодская область</a>
+                    </div>
+                                    <div class="footer__item">
+                        <a href="https://kaliningrad.rbc.ru/kaliningrad/" class="footer__link">Калининград</a>
+                    </div>
+                                    <div class="footer__item">
+                        <a href="https://kuban.rbc.ru/krasnodar/" class="footer__link">Краснодарский край</a>
+                    </div>
+                                    <div class="footer__item">
+                        <a href="https://krsk.rbc.ru/krsk/" class="footer__link">Красноярский край</a>
+                    </div>
+                                    <div class="footer__item">
+                        <a href="https://nn.rbc.ru/nn/" class="footer__link">Нижний Новгород</a>
+                    </div>
+                                    <div class="footer__item">
+                        <a href="https://perm.rbc.ru/perm/" class="footer__link">Пермский край</a>
+                    </div>
+                                    <div class="footer__item">
+                        <a href="https://rostov.rbc.ru/rostov/" class="footer__link">Ростов-на-Дону</a>
+                    </div>
+                                    <div class="footer__item">
+                        <a href="https://rt.rbc.ru/tatarstan/" class="footer__link">Татарстан</a>
+                    </div>
+                                    <div class="footer__item">
+                        <a href="https://t.rbc.ru/tyumen/" class="footer__link">Тюмень</a>
+                    </div>
+                                    <div class="footer__item">
+                        <a href="https://chr.rbc.ru/chr/" class="footer__link">Черноземье</a>
+                    </div>
+                            </div>
+        </div>
+    
+            <div class="footer__col footer__col_double">
+                <div class="footer__subcol">
+                    <div class="footer__title">Подписки</div>
+                    <div class="footer__list">
+                                                    <div class="footer__item active footer_disable-adv">
+                                                                                                                                    <a href="https://auth.rbc.ru/login?utm_source=disable_advertising_footer" class="footer__link">Скрыть баннеры</a>
+                            </div>
+                                                <div class="footer__item active">
+                            <a href="https://www.rbc.ru/subscribe/" class="footer__link">Рассылка РБК</a>
+                        </div>
+                    </div>
+                    <div class="footer__title">Уведомления</div>
+                    <div class="footer__list">
+                                                    <div class="footer__item">
+                                <a href="http://static.feed.rbc.ru/rbc/logical/footer/news.rss" class="footer__link">RSS</a>
+                            </div>
+                                                    <div class="footer__item">
+        <a href="https://app.rbc.ru/gpn/unsubscribe.html" class="footer__link js-push-notification">Оповещения RBC.ru</a>
+    </div>
+                    </div>
+                </div>
+                <div class="footer__subcol">
+                    <div class="footer__title">Приложения</div>
+                    <div class="footer__list">
+                        <div class="footer__item">
+                            <a href="https://itunes.apple.com/ru/app/%D1%80%D0%B1%D0%BA-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5/id483524731?mt=8" class="footer__link" target="_blank">iOS</a>
+                        </div>
+                        <div class="footer__item">
+                            <a href="https://play.google.com/store/apps/details?id=ru.rbc.news.starter" class="footer__link" target="_blank">Android</a>
+                        </div>
+                    </div>
+                    <div class="footer__title">Другие продукты РБК</div>
+                    <div class="footer__list">
+                        <div class="footer__item">
+                            <a href="https://www.nic.ru/" class="footer__link" target="_blank">Домены и&nbsp;хостинг</a>
+                        </div>
+                        <div class="footer__item">
+                            <a href="http://www.public.ru/" class="footer__link" target="_blank">Медиапоиск и&nbsp;анализ</a>
+                        </div>
+                        <div class="footer__item">
+                            <a href="http://loveplanet.ru/" class="footer__link" target="_blank">Знакомства</a>
+                        </div>
+                        <div class="footer__item footer__item_duplicate active">
+                            <a href="https://www.rbc.ru/restrictions" class="footer__link">Информация об&nbsp;ограничениях</a>
+                        </div>
+                        <div class="footer__item footer__item_duplicate active">
+                            <a href="https://www.rbc.ru/info/" class="footer__link">Правовая информация</a>
+                        </div>
+                        <div class="footer__item footer__item_duplicate active">
+                            <a href="http://www.rbc.ru/privacy/" class="footer__link">О&nbsp;соблюдении авторских прав</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer__col">
+                <div class="footer__title">Юридическая информация</div>
+                <div class="footer__list">
+                    <div class="footer__item">
+                        <a href="https://www.rbc.ru/restrictions" class="footer__link">Информация об&nbsp;ограничениях</a>
+                    </div>
+                    <div class="footer__item">
+                        <a href="https://www.rbc.ru/info/" class="footer__link">Правовая информация</a>
+                    </div>
+                    <div class="footer__item">
+                        <a href="http://www.rbc.ru/privacy/" class="footer__link">О&nbsp;соблюдении авторских прав</a>
+                    </div>
+                </div>
+                <div class="footer__copyright">
+                    <div class="footer__info active">
+                        ©&nbsp;АО&nbsp;«РОСБИЗНЕСКОНСАЛТИНГ», <span class="footer__nowrap">1995–2019</span>. Сообщения и&nbsp;материалы информационного агентства «РБК» (зарегистрировано Федеральной службой по&nbsp;надзору в&nbsp;сфере связи, информационных технологий и&nbsp;массовых коммуникаций (Роскомнадзор) 09.12.2015 за&nbsp;номером ИА №ФС77-63848) сопровождаются пометкой «РБК». Отдельные публикации могут содержать информацию, не&nbsp;предназначенную для пользователей до&nbsp;18&nbsp;лет. <a href="mailto:letters@rbc.ru" class="footer__link">letters@rbc.ru</a>                    </div>
+                    <div class="footer__info">
+                        Котировки мировых финансовых инструментов предоставлены <a class="footer__link" href="https://www.rbc.ru/restrictions#reuters" target="_blank">Reuters</a>
+                    </div>
+                                            <div class="footer__info">
+                            Чтобы отправить редакции сообщение, выделите часть текста в&nbsp;статье и&nbsp;нажмите Ctrl+Enter
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                            </div>
+        </div><!-- .l-window -->
+    
+    <span class="g-mobile"></span>
+    <span class="g-tablet"></span>
+    <span class="g-desktop-small"></span>
+    <span class="g-desktop"></span>
+
+                            <div id="id_ra_overlay" class="page-overlay"></div>    
+    <div class="live-tv live-tv_mobile js-live-tv-mobile"></div>
+    <div class="g-zeropixel">
+            <div class="g-counter">
+    <script>RA.config.set('counters.tns.tmsec', 'rbcru_news');</script>
+
+    <!-- tns-counter.ru -->
+    <script type="text/javascript">
+        (function(win, doc, cb){
+            (win[cb] = win[cb] || []).push(function() {
+                try {
+                    tnsCounterRbc_ru = new TNS.TnsCounter({
+                        'account':'rbc_ru',
+                        'tmsec': 'rbcru_news'
+                    });
+                } catch(e){}
+            });
+
+            var tnsscript = doc.createElement('script');
+            tnsscript.type = 'text/javascript';
+            tnsscript.async = true;
+            tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') +
+            '//www.tns-counter.ru/tcounter.js';
+            var s = doc.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(tnsscript, s);
+        })(window, this.document,'tnscounter_callback');
+    </script>
+    <noscript>
+        <img src="//www.tns-counter.ru/V13a****rbc_ru/ru/UTF-8/tmsec=rbcru_news/" width="0" height="0" alt="" />
+    </noscript>
+    <!--/ tns-counter.ru -->
+</div>
+
+            <div class="g-counter">
+    <script>RA.config.set('counters.ya.idCounter', '16443139');</script>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        var yaParams = {region: 'world'};
+        yaParams.paywall = 'unpaid';
+        function getCookie(name) {
+            var matches = document.cookie.match(new RegExp(
+                "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+            ));
+            return matches ? decodeURIComponent(matches[1]) : undefined;
+        }
+
+        if(document.cookie.indexOf( "toprbc_device" ) >= 0){
+
+            yaParams.mobile_cookies = getCookie( "toprbc_device" );
+        }
+
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter16443139 = new Ya.Metrika({id:16443139, triggerEvent: true, enableAll: true, webvisor:true, params: window.yaParams||{}});
+                } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                    s = d.createElement("script"),
+                    f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript><div><img src="//mc.yandex.ru/watch/16443139" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+</div>
+
+                            <!-- SMI2 pixel -->
+<script type="text/javascript">
+    var ttagsmi2_data = {
+        tag: 20300,
+        ver: 2,
+        format: 'pixel',
+        cdt: '2016-12-22 12:59:14'
+    };
+    (function() {
+        var sc = document.createElement('script');
+        sc.type = 'text/javascript';
+        sc.async = true;
+        sc.src = '//target.smi2.net/client/ttag.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(sc, s);
+    }());
+</script>
+<!-- / SMI2 pixel -->
+    </div>
+
+                <script type="text/javascript">
+    RA.config.set('banners.refreshConfig', [{"place_name":"","nick":"firstpage_left2","refresh_timeout":3,"max_refresh_count":1,"tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"","nick":"firstpage_spec","refresh_timeout":1,"max_refresh_count":999,"tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"","nick":"fp_new_top","refresh_timeout":3,"max_refresh_count":1,"tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"","nick":"fp_new_bot","refresh_timeout":3,"max_refresh_count":1,"tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"","nick":"firstpage_graph2_new","refresh_timeout":3,"max_refresh_count":1,"tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"","nick":"firstpage_graph_new","refresh_timeout":3,"max_refresh_count":1,"tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"","nick":"fp_new_realty_teaser1","refresh_timeout":3,"max_refresh_count":999,"tab_refresh":true,"viewable_only":false,"is_disabled":false},{"place_name":"","nick":"fp_new_auto_teaser1","refresh_timeout":3,"max_refresh_count":999,"tab_refresh":true,"viewable_only":false,"is_disabled":false},{"place_name":"","nick":"right_spec_realty","refresh_timeout":3,"max_refresh_count":999,"tab_refresh":true,"viewable_only":false,"is_disabled":false},{"place_name":"","nick":"right_spec_auto","refresh_timeout":3,"max_refresh_count":999,"tab_refresh":true,"viewable_only":false,"is_disabled":false}]);
+</script>
+                    <script src="/dfp_site"></script>
+    
+                <script src="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.1.26/scripts/gt-targeting-index.js"></script>
+    
+                        <script>RA.config.set('banners.staticPath', '//s.rbk.ru/v1_rbcbanners_static/rbcbanners-1.30/');</script>
+<script src="//s.rbk.ru/v1_rbcbanners_static/rbcbanners-1.30/build/_core.js"></script>
+
+            
+    <script id="js_common_script" src="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/scripts/build/_common.js" data-param="17"></script>
+
+            <script>
+    RA.config.set('paywall.staticPath', '//s.rbk.ru/v1_paywall_static/paywall-1.1.5/');
+    RA.config.set('domainAuth', 'https://auth.rbc.ru');
+    RA.config.set('paywall.onboardingData', 'https://auth.rbc.ru/onboarding');
+</script>
+<script src="//s.rbk.ru/v1_paywall_static/paywall-1.1.5/scripts/build/_paywall.js"></script>
+
+    
+            <script src="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/scripts/vendor/firebase/firebase.js"></script>
+    
+            <script src="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/scripts/build/_main.js"></script>
+            <div class="push-allow js-push-allow"></div>    <script src="//s.rbk.ru/v10_rbcnews_static/common/common-10.1.16/scripts/vendor/firebase/firebase.js"></script>
+    <script src="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.1.26/scripts/build/_main.js"></script>
+        <script src="//s.rbk.ru/v10_rbcnews_static/rbcnews-10.1.26/scripts/build/_index.js"></script>
+
+                <script>
+            window.RA.repo.banner.activeViewDistance(0.5);
+            window.RA.repo.banner.init();
+        </script>
+        
+    <!--AB: ab05554:Z; -->
+
+            <!--[if lte IE 9]>
+        <div class="browser-updater js-browser-updater">
+    <div class="browser-updater__close js-browser-updater-close">×</div>
+    <div class="browser-updater__title">Ваш браузер устарел</div>
+    <div class="browser-updater__subtitle">
+        Пожалуйста, обновите его или установите
+        <a class="browser-updater__link" href="https://yandex.ru/soft/browsers/" target="_blank">новый</a>.
+    </div>
+    <div class="browser-updater__description">
+        Ваш браузер не&nbsp;обновлялся уже несколько лет. За&nbsp;это время некоторые сайты стали использовать новые технологии, которые он
+        не&nbsp;поддерживает и&nbsp;не&nbsp;может корректно отобразить страницу. Чтобы это исправить, попробуйте установить новый браузер.
+    </div>
+</div>        <![endif]-->
+    
+
+</body></html>

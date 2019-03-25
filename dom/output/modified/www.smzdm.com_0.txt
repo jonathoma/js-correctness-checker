@@ -1,0 +1,1094 @@
+<html><head><script async="" src="https://res-ga.smzdm.com/gtm.js?id=GTM-T48BDF"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
+Date=function(r){function n(n,e,t,a,u,i,f){var o;switch(arguments.length){case 0:o=new r(0);break;case 1:o=new r(n);break;default:t=t||1,a=a||0,u=u||0,i=i||0,f=f||0,o=new r(n,e,t,a,u,i,f)}return o}return n.parse=r.parse,n.UTC=r.UTC,n.toString=r.toString,n.prototype=r.prototype,n.now=function(){return 0},n}(Date),Math.exp=function(){function r(r){var n=new ArrayBuffer(8);return new Float64Array(n)[0]=r,0|new Uint32Array(n)[1]}function n(r){var n=new ArrayBuffer(8);return new Float64Array(n)[0]=r,new Uint32Array(n)[0]}function e(r,n){var e=new ArrayBuffer(8);return new Uint32Array(e)[1]=r,new Uint32Array(e)[0]=n,new Float64Array(e)[0]}var t=[.5,-.5],a=[.6931471803691238,-.6931471803691238],u=[1.9082149292705877e-10,-1.9082149292705877e-10];return function(i){var f,o=0,c=0,w=0,y=r(i),s=y>>31&1;if((y&=2147483647)>=1082535490){if(y>=2146435072)return isNaN(i)?i:0==s?i:0;if(i>709.782712893384)return 1/0;if(i<-745.1332191019411)return 0}if(y>1071001154){if(y<1072734898){if(1==i)return Math.E;c=i-a[s],w=u[s],o=1-s-s}else o=1.4426950408889634*i+t[s]|0,f=o,c=i-f*a[0],w=f*u[0];i=c-w}else{if(y<1043333120)return 1+i;o=0}f=i*i;var v=i-f*(.16666666666666602+f*(f*(6613756321437934e-20+f*(4.1381367970572385e-8*f-16533902205465252e-22))-.0027777777777015593));if(0==o)return 1-(i*v/(v-2)-i);var A=1-(w-i*v/(2-v)-c);return o>=-1021?A=e((o<<20)+r(A),n(A)):(A=e((o+1e3<<20)+r(A),n(A)),A*=9.332636185032189e-302)}}(),Math.random=function(){var r,n,e,t;return r=.8725217853207141,n=.520505596883595,e=.22893249243497849,t=1,function(){var a=2091639*r+2.3283064365386963e-10*t;return r=n,n=e,t=0|a,e=a-t}}(),Object.keys=function(r){return function(n){var e;return e=r(n),e.sort(),e}}(Object.keys);
+</script>
+
+
+
+    
+    <meta charset="UTF-8">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="telephone=no,email=no" name="format-detection">
+
+    <meta name="applicable-device" content="mobile">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+    <link rel="manifest" href="//m.smzdm.com/manifest.json">
+    
+    <link href="http://res.smzdm.com/app/v1.0/dist/img/embed/icon114-114.png" rel="apple-touch-icon-precomposed">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <!--PWA-->
+    <script>
+        if ('serviceWorker' in navigator) {
+            var EventUtil = {
+                init: function() {
+                    if (navigator.onLine) EventUtil.unregHandler();
+
+                    window.addEventListener('online', EventUtil.unregHandler, false);
+                    navigator.serviceWorker.addEventListener('messege', EventUtil.swUpdate, false);
+                },
+                unregHandler: function() {
+                    navigator.serviceWorker.getRegistration(window.location.href).then(function(e) {
+                        if (e) e.unregister();
+                        caches.keys().then(function(cache) {
+                            cache.forEach(function(name) {
+                                if(/my-cache/i.test(name)) {
+                                    // caches.delete('my-cache');
+                                }
+                            });
+                        });
+                    });
+                },
+                swUpdate: function(e) {
+                    if (e.origin.indexOf(window.location.host) < 0) return;
+                    console.log('接收：');
+                    console.log(e, e.data);
+                    if (e.data === 'sw.update') {
+                        // window.location.reload();
+                    }
+                }
+            };
+            EventUtil.init();
+        }
+    </script>
+    <!--header_v2-->
+    <link href="https://res.smzdm.com/mobile/wap_v2/dist/css/index/index.5668020.css" rel="stylesheet">
+    <link href="https://res.smzdm.com/mobile/wap_v2/dist/css/commons.3682391.css" rel="stylesheet">
+    
+    <!-- SEO 相关 -->
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.smzdm.com",
+        "logo": "https://res.smzdm.com/images/2018/05/logo.png" 
+    }
+    </script>
+            <title>什么值得买 | 高性价比网购产品推荐_国内促销_海淘特价_商家优惠券</title>
+        <meta name="description" content="什么值得买是一家消费门户网站，实时推送优质的网购优惠信息，真实的原创购物攻略，力求成为消费者心目中的“品质消费第一站”，内容涉及3C家电、家居生活、时尚运动、海淘、旅游、汽车、信用卡等多个领域，网购就上什么值得买，让您的消费更值！">
+        <meta name="keywords" content="什么值得买,值得买,国内,海淘,网购,特价,打折,促销,优惠券,网友点评">
+    
+    <script type="text/javascript">
+        // var browse_edition = $.cookie("browse_edition");
+        // if ("web" == browse_edition) {
+
+        // }
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    
+    
+                        <link rel="canonical" href="https://www.smzdm.com/">
+                
+
+<link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=m.smzdm.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=m.smzdm.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_308.js" async=""></script></head>
+
+<!-- gtm 相关 -->
+
+<body><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T48BDF"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- Google Tag Manager -->
+<script>
+    window.onload = function () {
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=w.location.search.match(/55gtmpreview=1/)?
+            '//www.googletagmanager.com/gtm.js?id='+i+dl:'https://res-ga.smzdm.com/gtm.js?id=' + i + dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T48BDF');
+    }
+</script>
+
+
+
+
+    <!-- 从百度过来时显示的banner -->
+        
+    <header class="head_banner header-top fixed" id="J_header_top">
+    <div class="header-in fixed">
+                    <!-- 顶部白色logo -->
+            <div class="header-white">
+                <div class="logo-img">
+                    <div id="logo">
+                        <a href="https://m.smzdm.com/"><img src="//res.smzdm.com/mobile/wap_v2/dist/img/embed/logo.png"></a>
+                    </div>
+                </div>
+
+                <div class="logo-search">
+                    <i class="icon-search zm-icon-search-o"></i>
+                    <input type="text" name="search" placeholder="搜索分类/品牌/商品" id="J_enter_search">
+                    <img src="//res.smzdm.com/mobile/wap_v2/dist/img/embed/delete.png" class="icon-cancel" id="J_icon_cancel">
+                </div>
+
+                <div class="logo-download"><a target="_blank" class="J_ota" href="//m.smzdm.com/app/?is_detail=" onclick="dataLayer.push({'event':'WAP站banner下载浮层','tag':'home_list','name':'列表页','type':'顶部导航栏'})">下载</a></div>
+            </div>
+                        <div class="header-tab">
+            <div class="header-inner">
+                <div class="channel-list">
+                    <ul style="transition-timing-function: cubic-bezier(0.1, 0.57, 0.1, 1); transition-duration: 200ms; transform: translate(0px, 0px) translateZ(0px);">
+                                            <li><a href="https://m.smzdm.com/" onclick="dataLayer.push({'event':'2300001','tab':'首页'})" class="cur-tab">首页</a></li>
+                                            <li><a href="https://m.smzdm.com/youhui/" onclick="dataLayer.push({'event':'2300001','tab':'国内好价'})">国内好价</a></li>
+                                            <li><a href="https://haitao.m.smzdm.com/" onclick="dataLayer.push({'event':'2300001','tab':'海淘好价'})">海淘好价</a></li>
+                                            <li><a href="https://faxian.m.smzdm.com/" onclick="dataLayer.push({'event':'2300001','tab':'全部好价'})">全部好价</a></li>
+                                            <li><a href="https://post.m.smzdm.com/" onclick="dataLayer.push({'event':'2300001','tab':'好文'})">好文</a></li>
+                                            <li><a href="https://h5.smzdm.com/user/coupon/coupon_list/?f=wap" onclick="dataLayer.push({'event':'2300001','tab':'优惠券'})">优惠券</a></li>
+                                            <li><a href="https://m.smzdm.com/tag/白菜党/faxian/" onclick="dataLayer.push({'event':'2300001','tab':'白菜党'})">白菜党</a></li>
+                                            <li><a href="https://m.smzdm.com/list/" onclick="dataLayer.push({'event':'2300001','tab':'好物榜单'})">好物榜单</a></li>
+                                        </ul>
+                </div>
+                <div class="all-tabs">
+                    <a href="https://m.smzdm.com/fenlei/">
+                        <i class="icon-tab-list"></i>
+                        <span>分类</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+            </div>
+</header>
+
+<div id="ch-mirrors"></div>
+
+<input type="hidden" id="search_top_category" value="">
+
+<!--slider 轮播图-->
+<!-- Slider main container -->
+<div class="swiper-container swiper-container-horizontal">
+    <!-- Additional required wrapper -->
+    <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-1500px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="5" style="width: 750px;"><a onclick="dataLayer.push({'event':'WAP首页_轮播图','文章标题':'Mac软件指南 篇一：GitHub Mac免费开源软件推荐','位置':'0'});" class="pic" href="https://post.smzdm.com/p/akmrmd2r/"><img src="https://tp-eimg.smzdm.com/201902/27/5c75e7a240a132009.png"></a></div>
+        <!-- Slides -->
+                            <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="0" style="width: 750px;"><a onclick="dataLayer.push({'event':'WAP首页_轮播图','文章标题':'好的、贵的，都不一定是对的——实战430平方米房屋WiFi信号全覆盖一例','位置':'0'});" class="pic" href="https://post.smzdm.com/p/a25rz4dp/"><img src="https://tp-eimg.smzdm.com/201902/25/5c7341bb82d764350.png"></a></div>
+
+                    <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="1" style="width: 750px;"><a onclick="dataLayer.push({'event':'WAP首页_轮播图','文章标题':'2018年好看的国产电影，都在这了！—年度国产片观影记录','位置':'0'});" class="pic" href="https://post.smzdm.com/p/aqnd0x2v/"><img src="https://tp-eimg.smzdm.com/201902/26/5c749bfcae0148801.jpg"></a></div>
+
+                    <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" style="width: 750px;"><a onclick="dataLayer.push({'event':'WAP首页_轮播图','文章标题':'28日0点、促销活动： 京东 adidas官方旗舰店 蝴蝶节大促 领300-60/600-120元值友专享券，可叠加平台券','位置':'0'});" class="pic" href="https://www.smzdm.com/p/12784770/"><img src="https://tp-eimg.smzdm.com/201902/27/5c764265be4764661.png"></a></div>
+
+                    <div class="swiper-slide" data-swiper-slide-index="3" style="width: 750px;"><a onclick="dataLayer.push({'event':'WAP首页_轮播图','文章标题':'【值得Try】得200元京东E卡——女神节横评','位置':'0'});" class="pic" href="https://test.smzdm.com/p/7219/"><img src="https://tp-eimg.smzdm.com/201902/27/5c7665b16eda38088.png"></a></div>
+
+                    <div class="swiper-slide" data-swiper-slide-index="4" style="width: 750px;"><a onclick="dataLayer.push({'event':'WAP首页_轮播图','文章标题':'装修小白的秘籍 篇五：浅析家装木地板的选购指南和铺设施工注意事项','位置':'0'});" class="pic" href="https://post.smzdm.com/p/and2qxep/"><img src="https://tp-eimg.smzdm.com/201902/28/5c7735cd749692767.png"></a></div>
+
+                    <div class="swiper-slide" data-swiper-slide-index="5" style="width: 750px;"><a onclick="dataLayer.push({'event':'WAP首页_轮播图','文章标题':'Mac软件指南 篇一：GitHub Mac免费开源软件推荐','位置':'0'});" class="pic" href="https://post.smzdm.com/p/akmrmd2r/"><img src="https://tp-eimg.smzdm.com/201902/27/5c75e7a240a132009.png"></a></div>
+
+            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 750px;"><a onclick="dataLayer.push({'event':'WAP首页_轮播图','文章标题':'好的、贵的，都不一定是对的——实战430平方米房屋WiFi信号全覆盖一例','位置':'0'});" class="pic" href="https://post.smzdm.com/p/a25rz4dp/"><img src="https://tp-eimg.smzdm.com/201902/25/5c7341bb82d764350.png"></a></div></div>
+
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+<input type="hidden" id="J_is_detail" value="0">
+<input type="hidden" id="past_num" value="20">
+<!--list feed流 -->
+<div class="wrap-content" id="wrapper">
+    <ul id="J_scroll_ul" class="card-group-ul">
+                                                    <li class="card-group-list" timesort="155131946657">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'誉福园 三峡高山椪柑 10斤'})" href="https://m.smzdm.com/p/12814986/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201902/27/5c765035c26694083.jpg_a200.jpg" alt="誉福园 三峡高山椪柑 10斤">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">誉福园 三峡高山椪柑 10斤</div>
+                                <div class="card-price">
+                                    24.9元包邮（需用券）                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">天猫精选</span>
+                                    <span>02-27 17:25</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>0                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>50%                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131944938">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'UCC 日本进口 清咖啡饮料 185g*6罐 *2件'})" href="https://m.smzdm.com/p/12820940/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201902/13/5c63616406e9a5829.jpg_a200.jpg" alt="UCC 日本进口 清咖啡饮料 185g*6罐 *2件">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">UCC 日本进口 清咖啡饮料 185g*6罐 *2件</div>
+                                <div class="card-price">
+                                    41.9元（下单立减）                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">天猫精选</span>
+                                    <span>10:04</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>0                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>0                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131943413">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'预售：aquamelon 水美乐 万流归宗款精铜加厚洗衣机地漏'})" href="https://m.smzdm.com/p/12722868/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201902/20/5c6d0436c4db92865.jpg_a200.jpg" alt="预售：aquamelon 水美乐 万流归宗款精铜加厚洗衣机地漏">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">预售：aquamelon 水美乐 万流归宗款精铜加厚洗衣机地漏</div>
+                                <div class="card-price">
+                                    49元包邮(需定金1元)                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">苏宁易购</span>
+                                    <span>10:03</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>4                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>92%                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131942437">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'MIDO HOUSE 铭都家纺 羽丝绒枕芯 中枕 送60支枕套一对  *2件'})" href="https://m.smzdm.com/p/12822139/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201902/21/5c6e03ed212ff7291.jpg_a200.jpg" alt="MIDO HOUSE 铭都家纺 羽丝绒枕芯 中枕 送60支枕套一对  *2件">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">MIDO HOUSE 铭都家纺 羽丝绒枕芯 中枕 送60支枕套一对  *2件</div>
+                                <div class="card-price">
+                                    132元包邮（合66元/件）                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">京东</span>
+                                    <span>10:03</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>0                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>0                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131940623">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'预售：aquamelon 水美乐 包罗万象款精铜加厚洗衣机地漏'})" href="https://m.smzdm.com/p/12722891/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201902/21/5c6e0cd5e029a7610.jpg_a200.jpg" alt="预售：aquamelon 水美乐 包罗万象款精铜加厚洗衣机地漏">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">预售：aquamelon 水美乐 包罗万象款精铜加厚洗衣机地漏</div>
+                                <div class="card-price">
+                                    49元包邮（需定金1元）                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">苏宁易购</span>
+                                    <span>10:03</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>7                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>90%                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131940236">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'LOVO 乐我家纺 良品格调 棉绒毛双面加厚四件套 220*240cm'})" href="https://m.smzdm.com/p/12819600/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201902/28/5b7358a11b74a6534.jpg_a200.jpg" alt="LOVO 乐我家纺 良品格调 棉绒毛双面加厚四件套 220*240cm">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">LOVO 乐我家纺 良品格调 棉绒毛双面加厚四件套 220*240cm</div>
+                                <div class="card-price">
+                                    399元包邮（需用券）                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">京东</span>
+                                    <span>10:03</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>0                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>0                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131938035">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'竹木兰花 鹰嘴指甲钳 甲沟炎专用指甲刀'})" href="https://m.smzdm.com/p/12822006/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201901/11/5c38399a7bcb36620.jpg_a200.jpg" alt="竹木兰花 鹰嘴指甲钳 甲沟炎专用指甲刀">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">竹木兰花 鹰嘴指甲钳 甲沟炎专用指甲刀</div>
+                                <div class="card-price">
+                                    10元包邮（需用券）                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">京东</span>
+                                    <span>10:03</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>0                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>0                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131937834">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'网易考拉黑卡会员：KOSE 高丝 雪肌精 化妆水 360ml + 乳液 140ml + 旅行装4件套'})" href="https://m.smzdm.com/p/12821543/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201902/28/5c7740e326bb29301.jpg_a200.jpg" alt="网易考拉黑卡会员：KOSE 高丝 雪肌精 化妆水 360ml + 乳液 140ml + 旅行装4件套">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">网易考拉黑卡会员：KOSE 高丝 雪肌精 化妆水 360ml + 乳液 140ml + 旅行装4件套</div>
+                                <div class="card-price">
+                                    383.04元含税包邮（需用券）                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">网易考拉</span>
+                                    <span>10:02</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>0                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>0                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131936733">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'Aptamil 爱他美 幼儿配方奶粉 3段 800g'})" href="https://m.smzdm.com/p/12822211/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201902/28/5c7740f3010504273.jpg_a200.jpg" alt="Aptamil 爱他美 幼儿配方奶粉 3段 800g">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">Aptamil 爱他美 幼儿配方奶粉 3段 800g</div>
+                                <div class="card-price">
+                                    185元包邮（拼购价）                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">苏宁易购</span>
+                                    <span>10:02</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>0                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>0                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131936432">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'1日0点：AUX 奥克斯 KFR-51LW/R1PYA1+2 2匹 定频冷暖 立柜式空调'})" href="https://m.smzdm.com/p/12819913/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201808/06/5b67ee05b82ba5888.jpg_a200.jpg" alt="1日0点：AUX 奥克斯 KFR-51LW/R1PYA1+2 2匹 定频冷暖 立柜式空调">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">1日0点：AUX 奥克斯 KFR-51LW/R1PYA1+2 2匹 定频冷暖 立柜式空调</div>
+                                <div class="card-price">
+                                    3699元包邮                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">京东</span>
+                                    <span>10:02</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>2                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>0                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131935131">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'促销活动：京东 reebok官方旗舰店 蝴蝶节大促'})" href="https://m.smzdm.com/p/12822000/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://y.zdmimg.com/201902/28/5c7740e6275844236.png_a200.jpg" alt="促销活动：京东 reebok官方旗舰店 蝴蝶节大促">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">促销活动：京东 reebok官方旗舰店 蝴蝶节大促</div>
+                                <div class="card-price">
+                                    低至五折+双券叠加                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">京东</span>
+                                    <span>10:02</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>0                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>0                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131934630">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'森德 丝毛加厚地垫 40*60cm'})" href="https://m.smzdm.com/p/12821230/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://y.zdmimg.com/201811/30/5c01175ee477e4589.jpg_a200.jpg" alt="森德 丝毛加厚地垫 40*60cm">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">森德 丝毛加厚地垫 40*60cm</div>
+                                <div class="card-price">
+                                    6.9元包邮（需用券）                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">天猫精选</span>
+                                    <span>10:02</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>0                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>67%                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131932129">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'卫生间整洁小法宝 喜佳优 免打孔吹风机架 4色可选'})" href="https://m.smzdm.com/p/12821791/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://y.zdmimg.com/201901/17/5c3fd8df6fb45909.jpg_a200.jpg" alt="卫生间整洁小法宝 喜佳优 免打孔吹风机架 4色可选">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">卫生间整洁小法宝 喜佳优 免打孔吹风机架 4色可选</div>
+                                <div class="card-price">
+                                    7.9元包邮（需用券）                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">天猫精选</span>
+                                    <span>10:02</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>0                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>0                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131931428">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'依能 加锌苏打水无糖无汽弱碱性饮用水 350ml*24瓶'})" href="https://m.smzdm.com/p/12821542/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://y.zdmimg.com/201902/28/5c7737bdca8194439.jpg_a200.jpg" alt="依能 加锌苏打水无糖无汽弱碱性饮用水 350ml*24瓶">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">依能 加锌苏打水无糖无汽弱碱性饮用水 350ml*24瓶</div>
+                                <div class="card-price">
+                                    29.9元包邮（需用券）                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">天猫精选</span>
+                                    <span>10:01</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>0                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>0                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131931235">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'XIANGUOLAN 鲜菓篮 海南贵妃芒果 含箱10斤'})" href="https://m.smzdm.com/p/12788782/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201902/27/5c764c48248b9728.jpg_a200.jpg" alt="XIANGUOLAN 鲜菓篮 海南贵妃芒果 含箱10斤">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">XIANGUOLAN 鲜菓篮 海南贵妃芒果 含箱10斤</div>
+                                <div class="card-price">
+                                    28.8元包邮                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">聚划算</span>
+                                    <span>10:01</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>27                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>25%                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131930627">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'中经汇通 1000元加油卡'})" href="https://m.smzdm.com/p/12821963/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201902/28/5c773ef9eeda86490.jpg_a200.jpg" alt="中经汇通 1000元加油卡">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">中经汇通 1000元加油卡</div>
+                                <div class="card-price">
+                                    950元                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">京东</span>
+                                    <span>10:01</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>0                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>100%                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131928632">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'限前5000：展卉 云南沃柑 单果150g以上 精品9个装'})" href="https://m.smzdm.com/p/12811540/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201902/27/5c766000999666297.jpg_a200.jpg" alt="限前5000：展卉 云南沃柑 单果150g以上 精品9个装">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">限前5000：展卉 云南沃柑 单果150g以上 精品9个装</div>
+                                <div class="card-price">
+                                    14.8元包邮                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">聚划算</span>
+                                    <span>10:01</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>11                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>38%                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131927819">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'甘福园 云南沃柑 10斤'})" href="https://m.smzdm.com/p/12811155/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://y.zdmimg.com/201902/27/5c7618374adaa1875.jpg_a200.jpg" alt="甘福园 云南沃柑 10斤">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">甘福园 云南沃柑 10斤</div>
+                                <div class="card-price">
+                                    26.6元包邮                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">聚划算</span>
+                                    <span>10:01</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>47                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>70%                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131926940">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'褚橙 实建褚柑 优级 礼盒装 6斤'})" href="https://m.smzdm.com/p/12812858/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://qny.smzdm.com/201902/27/5c7660fa7e0734886.jpg_a200.jpg" alt="褚橙 实建褚柑 优级 礼盒装 6斤">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">褚橙 实建褚柑 优级 礼盒装 6斤</div>
+                                <div class="card-price">
+                                    40元包邮（需用券）                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">天猫精选</span>
+                                    <span>10:01</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>15                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>46%                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                                             <li class="card-group-list" timesort="155131923826">
+                    <a onclick="dataLayer.push({'event':'WAP首页_标题','pagetitle':'美京 木糖醇饼干 1500g 盒装'})" href="https://m.smzdm.com/p/12822035/">
+                        <div class="zm-card">
+                            <div class="zm-card-media">
+                                <img src="https://y.zdmimg.com/201902/28/5c773fec6e5d59442.png_a200.jpg" alt="美京 木糖醇饼干 1500g 盒装">
+                                <div class="card-label card-label-guonei">国内                                </div>
+                            </div>
+                            <div class="zm-card-content">
+                                <div class="zm-card-title">美京 木糖醇饼干 1500g 盒装</div>
+                                <div class="card-price">
+                                    19.9元包邮（需用券）                                </div>
+                                <div class="zm-card-actions">
+                                    <div class="zm-card-actions-left">
+                                    <span>
+                            <span class="card-mall">天猫精选</span>
+                                    <span>10:00</span>
+                                    </span>
+                                    </div>
+                                    <div class="zm-card-actions-right">
+                                    <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>0                        </span>
+                                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>0                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                                         </ul>
+    <div class="loading" id="J_loading">
+        <img src="https://res.smzdm.com/activity/img/iphone_active/loading.gif">
+    </div>
+    <div class="pagination"><div class="prev"><a href="https://m.smzdm.com/p2/"><i class="zm-icon-arrow-left"></i></a></div><span>第3页</span><div class="next"><a href="https://m.smzdm.com/p4/"><i class="zm-icon-arrow-right"></i></a></div></div></div>
+
+<script type="x-tmpl-mushache" id="J_feed_template">
+{{#is_tad}}
+<li class="card-group-list J_ad_click" data-clicked="{{click_tracking_url}}" data-exposure="{{impression_tracking_url}}"  timesort="{{time_sort}}" >
+    <a href="{{ url }}" target="_blank" class="ad-link"  onclick="dataLayer.push({'event':'2290002', 'position':'{{position}}', 'type':'通栏模式'});">
+        <img src="{{ img }}" alt="{{ title }}">
+    </a>
+    {{#is_show_label}}
+    <span class="ad-span">
+        <span></span>
+        {{show_tag}}
+    </span>
+    {{/is_show_label}}
+</li>
+{{/is_tad}}
+{{#is_leftad}}
+<li class="card-group-list J_ad_click" data-clicked="{{click_tracking_url}}" data-exposure="{{impression_tracking_url}}"  timesort="{{time_sort}}" >
+    <a href="{{ url }}" target="_blank" onclick="dataLayer.push({'event':'2290002', 'position': '{{position}}', 'type': '一文一图'});">
+        <div class="zm-card">
+            <div class="zm-card-media">
+                <img src="{{ img }}" alt="{{ title }}" />
+            </div>
+            <div class="zm-card-content">
+                <div class="zm-card-title">{{title}}</div>
+                <div class="card-price">
+                    {{subtitle}}
+                </div>
+                {{#is_show_label}}
+                <div class="zm-card-actions">
+                    <div class="zm-card-actions-left">
+                        <span>
+                            <span class="card-mall">{{show_tag}}</span>
+                        </span>
+                    </div>
+                </div>
+                {{/is_show_label}}
+            </div>
+        </div>
+    </a>
+</li>
+{{/is_leftad}}
+{{#is_guonei}}
+<li class="card-group-list" timesort="{{timesort}}" articleid="{{ article_channel_id }}_{{ article_id }}">
+    <a href="{{ article_url }}" onclick="dataLayer.push({'event':'WAP首页_标题', 'pagetitle':'{{article_title}}'})">
+        <div class="zm-card">
+            <div class="zm-card-media">
+                <img src="{{ article_pic }}" alt="{{ article_title }}" />
+                <div class="card-label card-label-guonei">国内</div>
+            </div>
+            <div class="zm-card-content">
+                <div class="zm-card-title">{{article_title}}</div>
+                <div class="card-price">{{ article_price }}</div>
+                <div class="zm-card-actions">
+                    <div class="zm-card-actions-left">
+                        <span>
+                            <span class="card-mall">{{ article_mall }}</span>
+                            <span>{{ article_format_date }}</span>
+                        </span>
+                    </div>
+                    <div class="zm-card-actions-right">
+                        <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>{{ article_comment }}
+                        </span>
+                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>{{article_worthy}}
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>
+{{/is_guonei}}
+{{#is_yuanchuang}}
+<li class="card-group-list" timesort="{{timesort}}" articleid="{{ article_channel_id }}_{{ article_id }}">
+    <a href="{{ article_url }}" onclick="dataLayer.push({'event':'WAP首页_标题', 'pagetitle':'{{article_title}}'})">
+        <div class="zm-card">
+            <div class="zm-card-media">
+                <img src="{{ article_pic }}" alt="{{ article_title }}" />
+                <div class="card-label card-label-yuanchuang">原创</div>
+            </div>
+            <div class="zm-card-content">
+                <div class="zm-card-title">{{article_title}}</div>
+                <div class="card-yuanchuang">
+                    {{tag_category}}
+                </div>
+                <div class="zm-card-actions">
+                    <div class="zm-card-actions-left">
+                        <span class="card-btm-user-info"><img src="{{article_referrals_avatar}}" alt="{{article_referrals}}">
+                        <span>{{article_referrals}}</span>
+                        </span>
+                    </div>
+                    <div class="zm-card-actions-right">
+                        <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>{{ article_comment }}
+                        </span>
+                        <span class="icon-group">
+                            <i class="zm-icon-star-o"></i>{{ article_collection }}
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>
+{{/is_yuanchuang}}
+{{#is_zixun}}
+<li class="card-group-list" timesort="{{timesort}}" articleid="{{ article_channel_id }}_{{ article_id }}">
+    <a href="{{ article_url }}" onclick="dataLayer.push({'event':'WAP首页_标题', 'pagetitle':'{{article_title}}'})">
+        <div class="zm-card">
+            <div class="zm-card-media">
+                <img src="{{ article_pic }}" alt="{{ article_title }}" />
+                <div class="card-label card-label-zixun">资讯</div>
+            </div>
+            <div class="zm-card-content">
+                <div class="zm-card-title">{{article_title}}</div>
+                <div class="card-zixun">{{article_price}}</div>
+                <div class="zm-card-actions">
+                    <div class="zm-card-actions-left">
+                        <span>
+                            <span class="card-mall">{{article_rzlx_name}}</span>
+                            <span>{{article_format_date}}</span>
+                        </span>
+                    </div>
+                    <div class="zm-card-actions-right">
+                        <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>{{ article_comment }}
+                        </span>
+                        <span class="icon-group">
+                            <i class="zm-icon-thumb-up-o"></i>{{article_love_count}}
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>
+{{/is_zixun}}
+{{#is_haitao}}
+<li class="card-group-list" timesort="{{timesort}}" articleid="{{ article_channel_id }}_{{ article_id }}">
+    <a href="{{ article_url }}" onclick="dataLayer.push({'event':'WAP首页_标题', 'pagetitle':'{{article_title}}'})">
+        <div class="zm-card">
+            <div class="zm-card-media">
+                <img src="{{ article_pic }}" alt="{{ article_title }}" />
+                <div class="card-label card-label-haitao">海淘</div>
+            </div>
+            <div class="zm-card-content">
+                <div class="zm-card-title">{{article_title}}</div>
+                <div class="card-price">{{ article_price }}</div>
+                <div class="zm-card-actions">
+                    <div class="zm-card-actions-left">
+                        <span>
+                            <span class="card-mall">{{ article_mall }}</span>
+                            <span>{{ article_format_date }}</span>
+                        </span>
+                    </div>
+                    <div class="zm-card-actions-right">
+                        <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>{{ article_comment }}
+                        </span>
+                        <span class="icon-group">
+                            <i class="zm-icon-zhi-char"></i>{{article_worthy}}
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>
+{{/is_haitao}}
+{{#is_zhongce}}
+<li class="card-group-list" timesort="{{timesort}}" articleid="{{ article_channel_id }}_{{ article_id }}">
+    <a href="{{ article_url }}" onclick="dataLayer.push({'event':'WAP首页_标题', 'pagetitle':'{{article_title}}'})">
+        <div class="zm-card">
+            <div class="zm-card-media">
+                <img src="{{ article_pic }}" alt="{{ article_title }}" />
+                <div class="card-label card-label-zhongce">众测</div>
+            </div>
+            <div class="zm-card-content">
+                <div class="zm-card-title">{{article_title}}</div>
+                <div class="zm-card-actions">
+                    <div class="zm-card-actions-left">
+                        <span class="card-btm-user-info"><img src="{{article_referrals_avatar}}" alt="{{article_referrals}}">
+                        <span>{{article_referrals}}</span>
+                        </span>
+                    </div>
+                    <div class="zm-card-actions-right">
+                        <span class="icon-group">
+                            <i class="zm-icon-comments-o"></i>{{ article_comment }}
+                        </span>
+                        <span class="icon-group">
+                            <i class="zm-icon-star-o"></i>{{ article_collection }}
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>
+{{/is_zhongce}}
+</script>
+<!-- PWA 技术 -->
+<script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+            navigator.serviceWorker
+                .register('https://m.smzdm.com/sw.js')
+                .then(function (registration) {
+                    console.log('SW registered: ', registration);
+                })
+                .catch(function (registrationError) {
+                    console.log('SW registration failed: ', registrationError);
+                });
+        }, false);
+
+        // 存储当前页面url
+        caches && caches.open('cur-url').then(function(cache) {
+            return cache.keys().then(function(keys) {
+                keys && keys.length && keys.forEach(function(request, index, array) {
+                    cache.delete(request);
+                });
+                cache.addAll([
+                    window.location.href
+                ]);
+            });
+        });
+    }
+</script>
+
+<div class="foot-banner"><div class="download-normal" style="display: block;">
+        <a id="moRenFuCeng" target="_blank" class="J_ota" data-href="//m.smzdm.com/app/?is_detail=" onclick="dataLayer.push({'event':'WAP站banner下载浮层','tag':'home_list','name':'列表页'})">
+        <span class="download-left">
+            <img id="fuCengIcon" src="https://res.smzdm.com/mobile/wap/dist/img/download_logo.png" class="download-logo" style="margin-top: 11.25px;">
+            <em class="download-info">
+                <span id="fuCengWenAn1">高性价比网购推荐</span>
+                <br>
+                <span id="fuCengWenAn2">品质生活起点站</span>
+            </em>
+        </span>
+        <span id="fuCengButton" class="download-btn">立即查看</span>
+        </a>
+        <a href="javascript:void(0);" class="download-close"><img src="//res.smzdm.com/mobile/wap/dist/img/download_close.png"></a>
+    </div>
+    <input type="hidden" id="J_from_share" value="">
+    <input type="hidden" id="J_ga_tag" value="home_list">
+    <input type="hidden" id="J_ga_name" value="列表页">
+    <input type="hidden" id="J_share_link" value="">
+    <input type="hidden" id="J_share_pic" value="http://y.zdmimg.com/201902/13/5c6381a2314d87639.png">
+    
+    <div class="mode">
+        <div class="mode-touch">当前为触屏版</div>
+        <div class="mode-pc"><a href="//m.smzdm.com/switch_edition">切换到电脑版<em><img src="//res.smzdm.com/mobile/wap/dist/img/download_arrow.png"></em></a></div>
+    </div>
+    <!--foot-banner end-->
+    <div class="right-return-top">
+        <div class="return-top">
+            <img src="//res.smzdm.com/mobile/wap/dist/img/return_top.png">
+        </div>
+    <a target="_blank" class="download-mini J_ota" href="//m.smzdm.com/app/?is_detail=" onclick="dataLayer.push({'event':'WAP站banner下载浮层','tag':'home_list','name':'列表页'})"><img src="//res.smzdm.com/mobile/wap/dist/img/open_icon.png"></a></div>
+</div>
+<!-- 搜索浮层模板 -->
+<div class="search-cover" id="J_search_cover" style="display: none;">
+
+    <!-- 搜索页头部搜索框 -->
+    <form action="//search.m.smzdm.com" method="get" class="search-header" id="J_search_form">
+
+        <i class="search-return zm-icon-arrow-left" id="J_search_close"></i>
+        <div class="search-input" id="J_search_sug">
+            <i class="icon-search zm-icon-search-o"></i>
+            <input type="text" name="s" placeholder="搜索分类/品牌/商品" id="J_search_input" autocomplete="off">
+            <img src="//res.smzdm.com/mobile/wap_v2/dist/img/embed/delete.png" class="icon-cancel" id="J_search_clear">
+        </div>
+        <button type="submit" class="search-button" id="J_search_btn">搜索</button>
+
+    </form>
+
+    <div class="search-hot">
+        <div class="hot-title">热门搜索</div>
+        <ul class="hot-list">
+                        <li><a href="https://search.m.smzdm.com/?s=显卡&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'显卡','搜索方式':'热门搜索'})">显卡</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=七彩虹&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'七彩虹','搜索方式':'热门搜索'})">七彩虹</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=安卓手机&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'安卓手机','搜索方式':'热门搜索'})">安卓手机</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=跑鞋&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'跑鞋','搜索方式':'热门搜索'})">跑鞋</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=阿迪达斯&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'阿迪达斯','搜索方式':'热门搜索'})">阿迪达斯</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=阿迪达斯 休闲运动&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'阿迪达斯 休闲运动','搜索方式':'热门搜索'})">阿迪达斯 休闲运动</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=松下&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'松下','搜索方式':'热门搜索'})">松下</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=移动硬盘&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'移动硬盘','搜索方式':'热门搜索'})">移动硬盘</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=休闲运动鞋&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'休闲运动鞋','搜索方式':'热门搜索'})">休闲运动鞋</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=小米&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'小米','搜索方式':'热门搜索'})">小米</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=西部数据&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'西部数据','搜索方式':'热门搜索'})">西部数据</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=多门冰箱&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'多门冰箱','搜索方式':'热门搜索'})">多门冰箱</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=篮球鞋&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'篮球鞋','搜索方式':'热门搜索'})">篮球鞋</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=索尼&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'索尼','搜索方式':'热门搜索'})">索尼</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=新鲜水果&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'新鲜水果','搜索方式':'热门搜索'})">新鲜水果</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=苹果&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'苹果','搜索方式':'热门搜索'})">苹果</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=玻璃杯&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'玻璃杯','搜索方式':'热门搜索'})">玻璃杯</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=星巴克&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'星巴克','搜索方式':'热门搜索'})">星巴克</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=对开门冰箱&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'对开门冰箱','搜索方式':'热门搜索'})">对开门冰箱</a></li>
+                       <li><a href="https://search.m.smzdm.com/?s=耐克&amp;source=hot_keyword" onclick="dataLayer.push({'event':'2320001','关键词':'耐克','搜索方式':'热门搜索'})">耐克</a></li>
+                   </ul>
+    </div>
+</div>
+
+<script type="text/javascript" src="https://res.smzdm.com/mobile/wap_v2/dist/js/manifest.82a3b51.js"></script>
+<script type="text/javascript" src="https://res.smzdm.com/mobile/wap_v2/dist/js/commons.16b4421.js"></script>
+<script type="text/javascript" src="https://res.smzdm.com/mobile/wap_v2/dist/js/index/index.b23f344.js"></script>
+
+<div style="display:none">
+
+    <script>
+        var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+        document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F9b7ac3d38f30fe89ff0b8a0546904e58' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src=" https://hm.baidu.com/h.js?9b7ac3d38f30fe89ff0b8a0546904e58" type="text/javascript"></script>
+
+</div>
+
+
+
+
+<div class="autocomplete-suggestions" style="position: absolute; display: none; width: 100%; z-index: 200;"></div></body></html>

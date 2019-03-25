@@ -1,0 +1,754 @@
+<html class="no-js" lang="en"><head><script type="text/javascript" async="" src="//avd.innity.com/dc/cb/?mt=_iampt._cbUC"></script><script src="https://connect.facebook.net/signals/config/547379412311032?v=2.8.42&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://avd.innity.net/lib/dc.js"></script><script type="text/javascript" async="" src="https://ssl-avd.innity.net/254/container_57e4d9521c51b1315c101158.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NJ2J94K"></script><script>
+Date=function(r){function n(n,e,t,a,u,i,f){var o;switch(arguments.length){case 0:o=new r(0);break;case 1:o=new r(n);break;default:t=t||1,a=a||0,u=u||0,i=i||0,f=f||0,o=new r(n,e,t,a,u,i,f)}return o}return n.parse=r.parse,n.UTC=r.UTC,n.toString=r.toString,n.prototype=r.prototype,n.now=function(){return 0},n}(Date),Math.exp=function(){function r(r){var n=new ArrayBuffer(8);return new Float64Array(n)[0]=r,0|new Uint32Array(n)[1]}function n(r){var n=new ArrayBuffer(8);return new Float64Array(n)[0]=r,new Uint32Array(n)[0]}function e(r,n){var e=new ArrayBuffer(8);return new Uint32Array(e)[1]=r,new Uint32Array(e)[0]=n,new Float64Array(e)[0]}var t=[.5,-.5],a=[.6931471803691238,-.6931471803691238],u=[1.9082149292705877e-10,-1.9082149292705877e-10];return function(i){var f,o=0,c=0,w=0,y=r(i),s=y>>31&1;if((y&=2147483647)>=1082535490){if(y>=2146435072)return isNaN(i)?i:0==s?i:0;if(i>709.782712893384)return 1/0;if(i<-745.1332191019411)return 0}if(y>1071001154){if(y<1072734898){if(1==i)return Math.E;c=i-a[s],w=u[s],o=1-s-s}else o=1.4426950408889634*i+t[s]|0,f=o,c=i-f*a[0],w=f*u[0];i=c-w}else{if(y<1043333120)return 1+i;o=0}f=i*i;var v=i-f*(.16666666666666602+f*(f*(6613756321437934e-20+f*(4.1381367970572385e-8*f-16533902205465252e-22))-.0027777777777015593));if(0==o)return 1-(i*v/(v-2)-i);var A=1-(w-i*v/(2-v)-c);return o>=-1021?A=e((o<<20)+r(A),n(A)):(A=e((o+1e3<<20)+r(A),n(A)),A*=9.332636185032189e-302)}}(),Math.random=function(){var r,n,e,t;return r=.8725217853207141,n=.520505596883595,e=.22893249243497849,t=1,function(){var a=2091639*r+2.3283064365386963e-10*t;return r=n,n=e,t=0|a,e=a-t}}(),Object.keys=function(r){return function(n){var e;return e=r(n),e.sort(),e}}(Object.keys);
+</script>
+
+
+
+	<meta charset="utf-8">
+	<link rel="icon" href="/fav-icon.ico" type="image/x-icon">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+		<script src="https://pantip.com/files/script.js"></script>
+																	
+				<title>Pantip - Learn, Share &amp; Fun</title>
+	<meta name="description" content="ร่วมพูดคุยแลกเปลี่ยนความคิดเห็นในทุกประเด็น ทั้งบันเทิง หุ้น ความงาม ท่องเที่ยว รถยนต์ กีฬา โทรศัพท์มือถือ อาหาร การเมือง ครอบครัว บ้าน วิทยาศาสตร์ สุขภาพ ธุรกิจ">
+	
+		<meta property="og:title" content="Pantip - Learn, Share &amp; Fun">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://pantip.com">
+	<meta property="og:image" content="https://ptcdn.info/pantip/pantip_logo_02.png">
+	<meta property="og:site_name" content="Pantip">
+	<meta property="og:description" content="ร่วมพูดคุยแลกเปลี่ยนความคิดเห็นในทุกประเด็น ทั้งบันเทิง หุ้น ความงาม ท่องเที่ยว รถยนต์ กีฬา โทรศัพท์มือถือ อาหาร การเมือง ครอบครัว บ้าน วิทยาศาสตร์ สุขภาพ ธุรกิจ">
+	<meta property="article:author" content="https://www.facebook.com/pantipdotcom">
+	<meta property="article:publisher" content="https://www.facebook.com/pantipdotcom">
+	<meta property="fb:app_id" content="117368861736328">
+	<meta name="twitter:title" content="Pantip - Learn, Share &amp; Fun">
+	<meta name="twitter:url" content="https://pantip.com">
+	<meta name="twitter:site" content="@pantip1996">
+	<meta name="twitter:creator" content="@pantip1996">
+	<meta name="twitter:domain" content="pantip.com">
+	<meta name="twitter:description" content="ร่วมพูดคุยแลกเปลี่ยนความคิดเห็นในทุกประเด็น ทั้งบันเทิง หุ้น ความงาม ท่องเที่ยว รถยนต์ กีฬา โทรศัพท์มือถือ อาหาร การเมือง ครอบครัว บ้าน วิทยาศาสตร์ สุขภาพ ธุรกิจ">
+	<meta name="twitter:image:src" content="https://ptcdn.info/pantip/pantip_logo.png">
+	<meta name="pt:data" content="ZVE1NThKcGNHRWlPaUl4TkRFdU1qRXlMakV4TUM0NE9DSXNJbWx3ZUNJNklqRTBNUzR5TVRJdU1URXdMamc0SWl3aWFYQjJOaUk2SWlJc0lteHZaMmRsWkdsdUlqb2lSa0ZNVTBVaUxDSjBZeUk2SW5CdWJUVXpOalp0YW1KVlIybDJkVkoxZEV3aWY4eT09">
+															<script type="text/javascript" src="https://m.pantip.com/js/final-menu-2018.js"></script><meta class="foundation-mq-small"><meta class="foundation-mq-medium"><meta class="foundation-mq-large"><meta class="foundation-mq-xlarge"><meta class="foundation-mq-xxlarge"><style></style>
+<script type="text/javascript" src="https://m.pantip.com/js/profile-menu-2018.js"></script><script type="text/vbscript">
+Function IEBinary_getByteAt(strBinary, iOffset)
+	IEBinary_getByteAt = AscB(MidB(strBinary, iOffset + 1, 1))
+End Function
+Function IEBinary_getBytesAt(strBinary, iOffset, iLength)
+  Dim aBytes()
+  ReDim aBytes(iLength - 1)
+  For i = 0 To iLength - 1
+   aBytes(i) = IEBinary_getByteAt(strBinary, iOffset + i)
+  Next
+  IEBinary_getBytesAt = aBytes
+End Function
+Function IEBinary_getLength(strBinary)
+	IEBinary_getLength = LenB(strBinary)
+End Function
+</script>
+
+<script type="text/javascript" src="https://m.pantip.com/js/m0305paclickstream.min.js"></script>
+<script type="text/javascript" src="https://m.pantip.com/js/function-smart4-2018.min.js"></script>
+<link type="text/css" rel="stylesheet" href="https://m.pantip.com/css/final-smart-2018-08.min.css">
+
+<script>
+var dataLayer = [];
+dataLayer.push({'User Type': 'Visitor'});</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJ2J94K');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript">
+	function setIframeHeight(iframeId) {
+		var iframe = document.getElementById(iframeId);
+		var sUsrAg = navigator.userAgent;
+		var delayInMilliseconds = 1000; //1 second
+		setTimeout(function() {
+			if (iframe) {
+				if(iframe.contentDocument.parentWindow)
+				{
+					var iframeWin = iframe.contentDocument.parentWindow;
+					if (iframeWin.document.body) {
+						iframe.height = iframeWin.document.body.scrollHeight+5;
+					}
+				}
+				else if(iframe.contentWindow)
+				{
+					var iframeWin = iframe.contentWindow;
+					if (iframeWin.document.body) {
+						iframe.height = iframeWin.document.documentElement.offsetHeight;
+						if (sUsrAg.indexOf("Firefox") > -1) {
+							iframe.height = iframeWin.document.body.scrollHeight+5;
+						}
+						if(iframeId == 'ads-topcomment2')
+						{
+							var classAdsa = document.getElementById('c_ads-topcomment2');
+							classAdsa.className = 'p45b-speech-gap';
+							if(iframe.height < 250)
+							{
+								classAdsa.className = 'p45b-1pxspeech-gap';
+							}
+						}
+					}
+				}
+			}
+		}, delayInMilliseconds);
+	};
+</script>
+<!-- Start Advenue DMP Container -->
+<script type="text/javascript" charset="UTF-8">(function(w,d,s,i,c){var f=d.createElement(s);f.type="text/javascript";f.async=true;f.src=("https:"==d.location.protocol? "https://ssl-avd.innity.net":"http://avd.innity.net")+"/"+i+"/container_"+c+".js";var g=d.getElementsByTagName(s)[0];g.parentNode.insertBefore(f, g);})(window, document, "script", "254", "57e4d9521c51b1315c101158");</script>
+<!-- End Advenue DMP Container -->
+<style>
+.p45b-1pxspeech-gap {
+    height:1px;
+}
+.p45b-speech-gap {
+    margin:10px 0 8px 0;
+}
+.img-in-emotion {
+	max-width: 120px !important;
+}
+</style>
+	<meta class="foundation-mq-topbar"></head>
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJ2J94K"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<div class="off-canvas-wrap" data-offcanvas="">
+			<div class="inner-wrap">
+				
+<nav class="tab-bar m-fixed" style="text-align:center;">
+	<section style="float:left; line-height:40px;"><a class="search-icon" alt="ค้นหา" href="/search"></a></section>
+	<section class="menu-logo">
+	   <img alt="Pantip Logo" src="https://ptcdn.info/mobile/images/pantip-new-logo-min.svg"> 
+	</section>
+	
+	<section class="right-small"> 
+		<div class="main-menu">
+			<div class="one"></div>
+			<div class="two"></div>
+			<div class="three"></div>
+		</div>
+	</section>
+	
+	<div class="menu-expand" id="my-style" style="height: 600px;">
+	<div class="force-overflow">
+					<a href="/login" title="เข้าสู่ระบบ" class="panel-toggle">เข้าสู่ระบบ</a>
+				
+		<a href="/" title="หน้าแรก" class="panel-toggle">หน้าแรก</a>
+		<a href="/rooms" title="เลือกห้อง" class="room-toggle">เลือกห้อง</a>
+		  
+			</div>	
+</div>	
+</nav>
+
+
+<script>bingsuMaker("mpantip:home:home");</script>
+<section class="main-section">
+	<p></p>
+	<div class="row">
+		<div class="columns ">
+			<div class="m-desktopsite">
+				<a class="godesktop" href="https://m.pantip.com/desktop/">ดูเนื้อหาแบบ Desktop Version
+					<em>
+						<i class="fa fa-desktop"></i>
+					</em>
+				</a>
+			</div>
+			<div class="m-room">
+				<ul>
+					<li class="home">
+						<span class="room-topic-icon">
+							<img src="https://ptcdn.info/mobile/images/ic-pin.png" width="16">
+						</span>
+						<span class="room-topic-name">หน้าแรก</span>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<p></p>
+	<center>
+		<script>var str = '<iframe src="https://m.pantip.com/ads.php?position=mobile:highlight1" marginwidth="0" marginheight="0" width="300" height="150" scrolling="no" frameborder="0" id="m-adshome1" onload="setIframeHeight( this.id )"></iframe>';var res = str.replace(/src(?:.*):(?:\w+)/g,'$&&t='+new Date().getTime()); document.write(res);</script><iframe src="https://m.pantip.com/ads.php?position=mobile:highlight1&amp;t=0" marginwidth="0" marginheight="0" width="300" height="0" scrolling="no" frameborder="0" id="m-adshome1" onload="setIframeHeight( this.id )"></iframe>	</center>
+	<p></p>
+	<div class="row">
+		<div class="columns">
+			<div class="m-topic">
+				<h4>Pantip Now</h4>
+				<div class="m-icon-topic icon-topic-suggest">
+					<img src="https://ptcdn.info/mobile/images/icon-topic-trending.png" width="55" height="auto">
+				</div>
+			</div>
+		</div>
+				<!-- .columns -->
+				<div class="columns">
+					  													<div class="m-thumb">
+								<a href="/topic/38601074" target="_blank">
+																		<div class="small-3 columns">
+										<img src="https://f.ptcdn.info/704/062/000/pnlg0a2cicDkiRx6gxo-s.jpg"> </div>
+																		<div class="small-9 columns counting-columns">
+										<div class="subject">" ทองเอก ศิษย์หมอยา "  VS  "  กล้า เฟรนโซน "  คุณเชียร์ข้างใหนครับ มวยตับจากคู่นี้ ใน EP.9 ฮาแน่นอน</div>
+										<div class="counting-bis-bottom">		
+											<div class="counting-author">นายแสนดีจากซีแอตเทิล</div>								
+											<div class="counting-comments">
+												<span class="icon-postlist-status-bis"></span>
+												<span class="countnumber-bis">15</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</div>
+					  																													<a href="https://ads.pantip.com/ads/redirectExc.php?18860" target="_blank" style="color:#c2c2c2;">
+									<div class="m-thumb">
+										<div class="small-3 columns">
+																						<iframe src="https://ads.pantip.com/ads/banner.php?id=18860" width="100%" height="79" scrolling="no" frameborder="0"></iframe>
+																					</div>
+										<div class="small-9 columns">
+											<div class="subject">ปสก. เรียนต่อป.โท แบบสองปริญญาที่ไทยและฝรั่งเศส </div>
+											<div class="pr"><img class="pr-img" src="https://ptcdn.info/images/icon-tag-ad.png" width="29" height="18"></div>											
+										</div>
+									</div>
+								</a>
+																												<div class="m-thumb">
+								<a href="/topic/38596939" target="_blank">
+																		<div class="small-12 columns counting-columns">
+										<div class="subject">ใครเคยให้ลูกเรียนซ้ำชั้น เพราะลูกเรียนเร็วบ้างคะ</div>
+										<div class="counting-bis-bottom">		
+											<div class="counting-author">สมาชิกหมายเลข 5146554</div>								
+											<div class="counting-comments">
+												<span class="icon-postlist-status-bis"></span>
+												<span class="countnumber-bis">13</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</div>
+					  													<div class="m-thumb">
+								<a href="/topic/38595910" target="_blank">
+																		<div class="small-3 columns">
+										<img src="https://f.ptcdn.info/681/062/000/pnj2h5qznY5A1U2Qskw-s.jpg"> </div>
+																		<div class="small-9 columns counting-columns">
+										<div class="subject">[CR] บุกแดนกุมภีล์ ฟาร์มจระเข้สมุทรปราการ</div>
+										<div class="counting-bis-bottom">		
+											<div class="counting-author">สมาชิกหมายเลข 3915106</div>								
+											<div class="counting-comments">
+												<span class="icon-postlist-status-bis"></span>
+												<span class="countnumber-bis">8</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</div>
+					  													<div class="m-thumb">
+								<a href="/topic/38594811" target="_blank">
+																		<div class="small-3 columns">
+										<img src="https://f.ptcdn.info/676/062/000/pnio2s119bHZyOBusMm5-s.jpg"> </div>
+																		<div class="small-9 columns counting-columns">
+										<div class="subject">ไปพุทธคยาง่ายมาก บินตรง กุมภาพันธ์ 2019 (รายละเอียดทุกขั้นตอน)</div>
+										<div class="counting-bis-bottom">		
+											<div class="counting-author">สมาชิกหมายเลข 2351368</div>								
+											<div class="counting-comments">
+												<span class="icon-postlist-status-bis"></span>
+												<span class="countnumber-bis">4</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</div>
+					  													<div class="m-thumb">
+								<a href="/topic/38598995" target="_blank">
+																		<div class="small-12 columns counting-columns">
+										<div class="subject">ผู้ชายจะหมดรักผู้หญิง ก็ต่อเมื่อ....?</div>
+										<div class="counting-bis-bottom">		
+											<div class="counting-author">สมาชิกหมายเลข 2117473</div>								
+											<div class="counting-comments">
+												<span class="icon-postlist-status-bis"></span>
+												<span class="countnumber-bis">13</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</div>
+					  													<div class="m-thumb">
+								<a href="/topic/38601453" target="_blank">
+																		<div class="small-12 columns counting-columns">
+										<div class="subject">ดูเส้นทางได้พื้นที่ UCL ของแมนยูแล้ว ยากมาก</div>
+										<div class="counting-bis-bottom">		
+											<div class="counting-author">kaikaikaikai(ใครขายไข่ไก่)</div>								
+											<div class="counting-comments">
+												<span class="icon-postlist-status-bis"></span>
+												<span class="countnumber-bis">5</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</div>
+					  													<div class="m-thumb">
+								<a href="/topic/38601489" target="_blank">
+																		<div class="small-3 columns">
+										<img src="https://f.ptcdn.info/706/062/000/pnlxif9npqD84RS52mg6-s.jpg"> </div>
+																		<div class="small-9 columns counting-columns">
+										<div class="subject">เบื้องหลังการถ่ายทำโฆษณาเหล่าสาวๆ BNK กับ Grab / HBD นักเลงชอบท้าต่อย เจ้าผักเยลลี่แดง</div>
+										<div class="counting-bis-bottom">		
+											<div class="counting-author">Scudetto</div>								
+											<div class="counting-comments">
+												<span class="icon-postlist-status-bis"></span>
+												<span class="countnumber-bis">1</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</div>
+					  													<div class="m-thumb">
+								<a href="/topic/38601316" target="_blank">
+																		<div class="small-3 columns">
+										<img src="https://f.ptcdn.info/704/062/000/pnlh6cngjK9wdGV9W61-s.jpg"> </div>
+																		<div class="small-9 columns counting-columns">
+										<div class="subject">[K-POP] แปลความคิดเห็นชาวเน็ต “Produce X 101 ขยายสัญญาเป็น 5 ปี”</div>
+										<div class="counting-bis-bottom">		
+											<div class="counting-author">Yogie BB</div>								
+											<div class="counting-comments">
+												<span class="icon-postlist-status-bis"></span>
+												<span class="countnumber-bis">12</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</div>
+					  													<div class="m-thumb">
+								<a href="/topic/38599854" target="_blank">
+																		<div class="small-12 columns counting-columns">
+										<div class="subject">India vs pakistan จากทัพอากาศ ตอนนี้ทัพบกซัดกันแล้ว</div>
+										<div class="counting-bis-bottom">		
+											<div class="counting-author">Skyforce</div>								
+											<div class="counting-comments">
+												<span class="icon-postlist-status-bis"></span>
+												<span class="countnumber-bis">6</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</div>
+					  													<div class="m-thumb">
+								<a href="/topic/38601139" target="_blank">
+																		<div class="small-12 columns counting-columns">
+										<div class="subject">สอบถามผลงานเขียนนามปากกา จุฬามณี</div>
+										<div class="counting-bis-bottom">		
+											<div class="counting-author">สมาชิกหมายเลข 5034846</div>								
+											<div class="counting-comments">
+												<span class="icon-postlist-status-bis"></span>
+												<span class="countnumber-bis">4</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</div>
+					  				</div>
+				<div class="columns">
+					<div class="m-more">
+						<a class="more" href="/now" target="_blank">ดูทั้งหมด
+							<em class="right">
+								<i class="fa fa-1x fa-angle-right"></i>
+							</em>
+						</a>
+					</div>
+				</div>
+			</div>
+		<p></p>
+		<center>
+			<script>var str = '<iframe src="https://m.pantip.com/ads.php?position=mobile:highlight2" marginwidth="0" marginheight="0" width="300" height="150" scrolling="no" frameborder="0" id="m-adshome2" onload="setIframeHeight( this.id )"></iframe>';var res = str.replace(/src(?:.*):(?:\w+)/g,'$&&t='+new Date().getTime()); document.write(res);</script><iframe src="https://m.pantip.com/ads.php?position=mobile:highlight2&amp;t=0" marginwidth="0" marginheight="0" width="300" height="0" scrolling="no" frameborder="0" id="m-adshome2" onload="setIframeHeight( this.id )"></iframe>		</center>
+		<p></p>
+		<div class="row">
+			<div class="columns">
+				<div class="m-topic">
+					<h4>Pantip Pick</h4>
+					<div class="m-icon-topic icon-topic-suggest">
+						<img src="https://ptcdn.info/mobile/images/icon-pick.png" width="55" height="auto">
+					</div>
+				</div>
+			</div>
+
+			<!-- .columns -->
+			<div class="columns">
+				  				<div class="m-thumb">
+					<a href="/topic/38598771" target="_blank">
+												<div class="small-12 columns counting-columns">
+							<div class="subject">"กรงกรรม" กับดักแห่งกรรมที่นำพาคนเหล่านี้ได้มาเจอกัน</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สมาชิกหมายเลข 2512857</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">4</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38595910" target="_blank">
+												<div class="small-3 columns">
+							<img src="https://ptcdn.info/pick/255/000/000/pnj2h5qznY5A1U2Qskw-s.jpg"> </div>
+												<div class="small-9 columns counting-columns">
+							<div class="subject">[CR] บุกแดนกุมภีล์ ฟาร์มจระเข้สมุทรปราการ</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สมาชิกหมายเลข 3915106</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">8</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38596939" target="_blank">
+												<div class="small-12 columns counting-columns">
+							<div class="subject">ใครเคยให้ลูกเรียนซ้ำชั้น เพราะลูกเรียนเร็วบ้างคะ</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สมาชิกหมายเลข 5146554</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">13</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38594811" target="_blank">
+												<div class="small-3 columns">
+							<img src="https://ptcdn.info/pick/255/000/000/pnio2s119bHZyOBusMm5-s.jpg"> </div>
+												<div class="small-9 columns counting-columns">
+							<div class="subject">ไปพุทธคยาง่ายมาก บินตรง กุมภาพันธ์ 2019 (รายละเอียดทุกขั้นตอน)</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สมาชิกหมายเลข 2351368</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">4</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38598995" target="_blank">
+												<div class="small-12 columns counting-columns">
+							<div class="subject">ผู้ชายจะหมดรักผู้หญิง ก็ต่อเมื่อ....?</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สมาชิกหมายเลข 2117473</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">13</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38598543" target="_blank">
+												<div class="small-3 columns">
+							<img src="https://ptcdn.info/pick/255/000/000/pnkhfqb6fs8xXDhNz95-s.png"> </div>
+												<div class="small-9 columns counting-columns">
+							<div class="subject">อาหารจากที่สูง " แกงส้มผักหวาน ไข่มดแดง "</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">แม่ผีเรือน</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">6</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38596125" target="_blank">
+												<div class="small-3 columns">
+							<img src="https://ptcdn.info/pick/255/000/000/pnj2d54zlEOH5ABQ6DS-s.jpg"> </div>
+												<div class="small-9 columns counting-columns">
+							<div class="subject">[CR] 11 Hrs Transit at Changi Airport Singapore.</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สมาชิกหมายเลข 4999340</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">5</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38597334" target="_blank">
+												<div class="small-3 columns">
+							<img src="https://ptcdn.info/pick/255/000/000/pnk8e7cdeHl7YTmFm4T-s.jpg"> </div>
+												<div class="small-9 columns counting-columns">
+							<div class="subject">[CR] (รีวิว)เที่ยวเวียดนามเหนือกับเงินเหลือๆไม่กี่พัน</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">sayporn_pha</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">12</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38597036" target="_blank">
+												<div class="small-3 columns">
+							<img src="https://ptcdn.info/pick/255/000/000/pnjfrda34ZaV9WOSlYk-s.jpg"> </div>
+												<div class="small-9 columns counting-columns">
+							<div class="subject">[CR] India In dream 10:เที่ยวอมฤตสาร์และธรรมศาลา</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">The Yearling</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">11</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38595443" target="_blank">
+												<div class="small-12 columns counting-columns">
+							<div class="subject">ผลน้ำตาลในเลือดสูงมากใช้มะเขือพวงช่วยได้ไหมครับ</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สมาชิกหมายเลข 1626187</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">27</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  			</div>
+			<div class="columns">
+				<div class="m-more">
+					<a class="more" href="/pick" target="_blank">ดูทั้งหมด
+						<em class="right">
+							<i class="fa fa-1x fa-angle-right"></i>
+						</em>
+					</a>
+				</div>
+			</div>
+		</div>
+				<div class="row">
+			<div class="columns">
+				<div class="m-bxslider">
+					<a class="wrap-m-bxslider" href="https://pantip.com/s/A104V " target="_blank">
+						<img src="https://ptcdn.info/home/20520981475c5170f026665_5de5e1d84da2676fda7464789155ea7c_photo.jpg" alt="" style="height:150px; width:300px;">
+						<div class="wrap-text">
+							ร่วมเดินทางไปกับเราในกิจกรรม ลองรักปักษ์ใต้ เที่ยวสบายๆ วันธรรมดา </div>
+					</a>
+				</div>
+			</div>
+		</div>
+				<p></p>
+		<div class="row">
+			<div class="columns">
+				<div class="m-topic">
+					<h4>Pantip Trend</h4>
+					<div class="m-icon-topic icon-topic-suggest">
+						<img src="https://ptcdn.info/mobile/images/icon-trend.png" width="55" height="auto">
+					</div>
+				</div>
+			</div>
+			<div class="columns">
+				  				<div class="m-thumb">
+					<a href="/topic/38583179" target="_blank">
+												<div class="small-12 columns counting-columns">
+							<div class="subject">เห็นบ้านที่เปิดไฟอยู่นั่นไหม ลูกชายเขาตาย</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สมาชิกหมายเลข 2227735</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">484</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38598363" target="_blank">
+												<div class="small-12 columns counting-columns">
+							<div class="subject">แฟนผม (ผู้หญิง) สนิทกับรุ่นพี่ที่ทำงาน ซ้อนมอไซต์กลับด้วยกันทุกวัน ผมไม่ชอบเลย ทำยังไงดีครับ !!</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สมาชิกหมายเลข 1385497</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">130</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38591448" target="_blank">
+												<div class="small-12 columns counting-columns">
+							<div class="subject">อีกหนึ่งเหตุการณ์ที่จะไม่ลืม จากเด็กวัดสิงห์</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สมาชิกหมายเลข 5098532</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">124</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38584813" target="_blank">
+												<div class="small-3 columns">
+							<img src="https://f.ptcdn.info/623/062/000/pnc5404fb9thYQAdfxz-s.jpg"> </div>
+												<div class="small-9 columns counting-columns">
+							<div class="subject">มารู้จักน้องคลิกันเถอะ</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สาลิกาโบยบิน</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">41</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/34524196" target="_blank">
+												<div class="small-12 columns counting-columns">
+							<div class="subject">ประสบการณ์มีลูกยาก ติดทีเดียวแฝดสามใช้เงินไปเฉียดล้าน</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">maibat</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">58</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38568918" target="_blank">
+												<div class="small-3 columns">
+							<img src="https://f.ptcdn.info/550/062/000/pn4lj96v01yOXMocOmsb-s.png"> </div>
+												<div class="small-9 columns counting-columns">
+							<div class="subject">มนุษย์เงินเดือนที่รายได้เกินแสนนี่มีจริงรึเปล่าคะ</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">Amor patriae</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">65</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38589802" target="_blank">
+												<div class="small-12 columns counting-columns">
+							<div class="subject">แนะนำหน่อยครับ ทำไงดี แฟนบอกว่า ตัวเองไม่ผูกพันกับลูก ที่เพิ่งเกิด</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สมาชิกหมายเลข 5141838</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">71</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38598028" target="_blank">
+												<div class="small-12 columns counting-columns">
+							<div class="subject">ทำไมกงกรรมเจมส์จิให้สัมภาษณ์ว่าไม่ใช่พระเอกน่ะ  แล้วสรุปว่าใครเป็นพระเอกน่ะ</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สมาชิกหมายเลข 1288580</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">25</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38598076" target="_blank">
+												<div class="small-12 columns counting-columns">
+							<div class="subject">ในความเป็นจริงนั้น ผิดไหม? ถ้าผู้หญิงที่รูปร่างหน้าตาไม่ดีและโสด เฝ้ารอคอยมองหาชายหนุ่มที่ "หล่อและโปรไฟล์ดี" เท่านั้น</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">สมาชิกหมายเลข 5147430</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">66</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  				<div class="m-thumb">
+					<a href="/topic/38598439" target="_blank">
+												<div class="small-12 columns counting-columns">
+							<div class="subject">เรตติ้งเปิดตัว #กรงกรรม จ้าาาาาา</div>
+							<div class="counting-bis-bottom">		
+								<div class="counting-author">You dont wanna know</div>								
+								<div class="counting-comments">
+									<span class="icon-postlist-status-bis"></span>
+									<span class="countnumber-bis">33</span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				  			</div>
+			<div class="columns">
+				<div class="m-more">
+					<a class="more" href="/trend" target="_blank">ดูทั้งหมด
+						<em class="right">
+							<i class="fa fa-1x fa-angle-right"></i>
+						</em>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="columns">
+				<div class="m-contact">
+					<a class="contact" href="/advertising" target="_blank">ติดต่อลงโฆษณา
+						<em class="right">
+							<i class="fa fa-1x fa-angle-right unfocus-txt"></i>
+						</em>
+					</a>
+				</div>
+			</div>
+		</div>
+</section>
+				<input type="hidden" name="redirecturl" class="redirecturl" value="aHR0cHM6Ly9tLnBhbnRpcC5jb20v">
+				<p></p>
+								<a href="javascript:void(0);" class="wrap-scroll-to-top btn-scroll-top" style="display: none;">
+					<div class="scroll-to-top"></div>
+				</a>
+				<div class="m-footer">
+					<div class="transparent-border ">
+					  <div class="light-border"></div>
+					  <div class="dark-border"></div>
+					</div>
+					<div class="large-12 columns">
+					  <div class="footer-inner">
+						<div class="pantip-partner">
+						  						  <a target="_blank" href="https://pantip.com">Desktop Site</a>&nbsp;|&nbsp;
+						  						  <a target="_blank" href="/advertising">ติดต่อลงโฆษณา</a> 
+						</div>
+					  </div>
+					</div>
+				</div>
+			</div>
+					</div>
+	
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","547379412311032");fbq("set","agent","tmgoogletagmanager","547379412311032");fbq("track","PageView");</script>
+</body></html>

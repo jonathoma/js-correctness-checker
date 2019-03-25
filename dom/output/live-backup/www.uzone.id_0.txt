@@ -1,0 +1,2160 @@
+<html itemscope="itemscope" itemtype="http://schema.org/WebPage" style="overflow-x: hidden;"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Uzone | Your Latest Entertainment Zone</title>
+    <meta name="title" content="Uzone | Your Latest Entertainment Zone">
+    <meta name="description" content="Uzone merupakan portal yang menyajikan berita dan informasi menarik yang menghibur, bermanfaat dan inspiratif.">
+    <meta name="news_keywords" content="Uzone, Telkom Indonesia, Portal Berita, Lifestyle, Metranet">
+    <meta name="keywords" content="Uzone, Telkom Indonesia, Portal Berita, Lifestyle, Metranet">
+    <meta content="index,follow" name="googlebot-news">
+    <meta content="index,follow" name="googlebot">
+    <meta name="robots" content="index,follow">
+    <meta content="Uzone.id - Telkom Indonesia | Metranet" name="author">
+	<meta content="Uzone.id" name="editor">
+    <meta content="id" name="language">
+    <meta content="id" name="geo.country">
+    <meta http-equiv="content-language" content="In-Id">
+    <meta content="Indonesia" name="geo.placename">
+    <meta http-equiv="Cache-control" content="no-store">
+    <meta name="theme-color" content="#333333">
+	<meta name="meta_partner" content="">	
+	<meta name="channel_category" content="">
+	<meta name="google-site-verification" content="i9KJQk-nGkXxht7G1VpoPxHisw1HIShRKy5atBc72e4">	
+    <!--
+    <link rel="canonical" href="www.uzone.id/" />
+    -->
+    <link rel="canonical" href="https://uzone.id/">
+    <!--META TAG SOCIAL MEDIA-->
+
+        
+        <!--FACEBOOK TAG-->
+            <meta property="fb:app_id" content="1677115449233700">
+            <meta property="og:url" content="">
+            <meta property="og:type" content="article">
+            <meta property="og:title" content="Uzone | Your Latest Entertainment Zone">
+            <meta property="og:description" content="Uzone merupakan portal yang menyajikan berita dan informasi menarik yang menghibur, bermanfaat dan inspiratif.">
+            <meta property="og:image" content="https://cdn4.uzone.id/assets/uploads/others/uzone/ShareSocmed.jpg">
+            <meta property="og:image:secure_url" content="https://cdn4.uzone.id/assets/uploads/others/uzone/ShareSocmed.jpg">
+            <meta property="og:image:type" content="image/jpeg">
+        <!--FACEBOOK TAG-->
+        
+        <!--TWITTER TAG-->
+
+            <meta property="twitter:card" content="summary_large_image">
+            <meta property="twitter:image:src" content="https://cdn4.uzone.id/assets/uploads/others/uzone/ShareSocmed.jpg">
+            <meta property="twitter:site" content="@uzoneindonesia">
+            <meta property="twitter:site:id" content="@uzoneindonesia">
+            <meta property="twitter:creator" content="@uzoneindonesia">
+            <meta property="twitter:url" content="">
+            <meta property="twitter:description" content="Uzone merupakan portal yang menyajikan berita dan informasi menarik yang menghibur, bermanfaat dan inspiratif.">
+            <meta property="twitter:title" content="Uzone | Your Latest Entertainment Zone">
+           
+        <!--
+            <meta property="og:url" content="https://www.uzone.id/" />
+        -->
+        <!--
+            <meta property="og:title" content="Uzone | Your Latest Entertainment Zone" />
+            <meta property="og:description" content="Uzone merupakan portal yang menyajikan berita dan informasi menarik yang menghibur, bermanfaat dan inspiratif." />
+            <meta property="og:image" content="https://cdn4.uzone.id/assets/uploads/others/uzone/ShareSocmed.jpg" />
+            -->
+        <!--TWITTER TAG-->
+            <!--SCHEMA.ORG-->
+            <meta itemprop="name" content="Uzone | Your Latest Entertainment Zone">
+            <meta itemprop="description" content="Uzone merupakan portal yang menyajikan berita dan informasi menarik yang menghibur, bermanfaat dan inspiratif.">
+            <meta itemprop="image" content="https://cdn4.uzone.id/assets/uploads/others/uzone/ShareSocmed.jpg">
+            <!--SCHEMA.ORG-->
+    <!-- Facebook Pixel Code -->
+	<!--
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '560970900774546'); // Insert your pixel ID here.
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=560970900774546&ev=PageView&noscript=1"
+    /></noscript>
+	-->
+    <!-- DO NOT MODIFY -->
+      
+    <!-- End Facebook Pixel Code -->  
+    <!-- Google Tag Manager -->
+    <script src="https://cdn.ampproject.org/rtv/011903070012530/amp4ads-host-v0.js"></script><script type="text/javascript" src="https://cdn.navdmp.com/req?v=7&amp;id=a1379b338f41b9768870eca4e09%7C0&amp;acc=51046&amp;tit=Uzone%2520%257C%2520Your%2520Latest%2520Entertainment%2520Zone&amp;upd=1&amp;ref=https%253A%2F%2Fwww.uzone.id%2F&amp;h1=EDITOR%2527S%2520PICK" async=""></script><script async="" src="https://d14q5p32f7kkhk.cloudfront.net/ovvYzBykqMR.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script src="https://tag.navdmp.com/universal.min.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_319.js"></script><script src="https://pagead2.googlesyndication.com/pub-config/r20160913/ca-pub-9014285205252746.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MB4RN9"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MB4RN9');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Start Alexa Certify Javascript -->
+
+    <script type="text/javascript">
+    _atrk_opts = { atrk_acct:"m/hBm1akKd60bm", domain:"uzone.id",dynamic: true};
+    (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+    </script>
+    <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=m/hBm1akKd60bm" style="display:none" height="1" width="1" alt="" /></noscript>
+    <!-- End Alexa Certify Javascript --> 
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-64122943-11', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    <!-- GA End Here -->
+
+    <!-- START TRACKING BIG DATA -->
+	<!--
+    <script type='text/javascript'>
+    var _tar = {};_tar.ID = '08232b82-4586-475d-9429-75f0e68970a4';
+    </script>
+    <script src='https://track.analytic.rocks/load/' async></script>
+	-->
+    <!-- END TRACKING BIG DATA -->
+
+
+	
+    <!--META TAG SOCIAL MEDIA-->
+	<!--
+    <link href="https://www.uzone.id/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="https://www.uzone.id/assets/css/navbar.css" rel="stylesheet">
+    <link href="https://www.uzone.id/assets/css_reborn/style_reborn.css" rel="stylesheet">
+    <link href="https://www.uzone.id/assets/font-awesome-4.6.3/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://www.uzone.id/assets/css/global_custom.css" />   
+    <link rel='stylesheet' id='studio-fonts-css'  href='https://www.uzone.id/assets/css/fonts.googleapis.css'>
+	-->
+	
+		
+    <link href="https://cdn4.uzone.id/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="https://cdn4.uzone.id/assets/css/navbar.css" rel="stylesheet">
+    <link href="https://cdn4.uzone.id/assets/css/style_reborn.css" rel="stylesheet">
+    <link href="https://cdn4.uzone.id/assets/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn4.uzone.id/assets/css/global_custom.css">   
+    <link rel="stylesheet" id="studio-fonts-css" href="https://cdn4.uzone.id/assets/css/fonts.googleapis.css">
+	<!--
+    <link href="https://cdn.uzone.id/assets/uzone/css/bootstrap.css" rel="stylesheet">
+    <link href="https://cdn.uzone.id/assets/uzone/css/navbar.css" rel="stylesheet">
+    <link href="https://cdn4.uzone.id/assets/css/style_reborn.css" rel="stylesheet">
+    <link href="https://cdn4.uzone.id/assets/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn.uzone.id/assets/uzone/css/global_custom.css" />   
+    <link rel='stylesheet' id='studio-fonts-css'  href='https://cdn4.uzone.id/assets/css/fonts.googleapis.css'>
+	-->
+	    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Raleway:400,500" rel="stylesheet">      
+                    <script type="text/javascript" src="https://cdn4.uzone.id/assets/js/jquery-2.2.4.min.js"></script> 
+        	<script type="text/javascript" src="https://cdn4.uzone.id/assets/js/bootstrap.new.js"></script>
+    <!--
+	<script type="text/javascript" src="https://www.uzone.id/assets/js/bootstrap.new.js"></script>
+    <link rel="shortcut icon" href="https://www.uzone.id/assets/css/images/logo21.png" />
+    -->
+    <link rel="shortcut icon" href="https://cdn4.uzone.id/assets/uploads/others/uzone/favicon-2.png">
+ 
+
+    <!-- ON ERROR IMAGE -->
+    <script type="text/javascript">
+        function imgError(image) {
+            image.onerror = "";
+            image.src   = "https://cdn4.uzone.id/assets/uploads/others/uzone/620x350.jpg";
+            return true;
+        }
+    </script>
+	<script>
+		$(function () {
+		  $('[data-toggle="tooltip"]').tooltip();
+		});	
+	</script>
+    <!-- ON ERROR IMAGE --> 
+    <meta name="dailymotion-domain-verification" content="dmyoa8ds5m215sglw">
+<!--ADASIA-->
+<script type="application/javascript" src="//ced.sascdn.com/tag/2060/smart.js" async=""></script>
+<script type="application/javascript">
+	var sas = sas || {};
+	sas.cmd = sas.cmd || [];
+	sas.cmd.push(function() {
+		sas.setup({ networkid: 2060, domain: "//adnetwork.adasiaholdings.com", async: true });
+	});
+</script>	
+<!--ADASIA-->
+	
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+// var adslot0;
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/89929222/UzoneId', [728, 90], 'div-gpt-ad-1479366789318-0').addService(googletag.pubads());
+		
+	googletag.defineSlot('/89929222/UzoneId/uzoneid_sticky_internal_970x60', [970, 60], 'div-gpt-ad-1490070249673-0').addService(googletag.pubads());
+		
+	//SKINNER
+    googletag.defineSlot('/89929222/UzoneId/uzone_skinner_left_160x600', [160, 600], 'div-gpt-ad-1513584713521-0').addService(googletag.pubads());
+    googletag.defineSlot('/89929222/UzoneId/Uzone_skinner_right_160x600', [160, 600], 'div-gpt-ad-1513584803536-0').addService(googletag.pubads());	
+	//SKINNER
+    googletag.pubads().enableSingleRequest();
+	// googletag.pubads().disableInitialLoad();
+    googletag.enableServices();
+  });
+
+</script>
+<style>
+    .alert{
+        border-radius: 0 !important;
+    }
+</style>
+<!-- AdAsia Tag Manager -->
+<script type="text/javascript" src="//adasiatagmanager.appspot.com/js/v1/account/5703897561694208/atm.js"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.uzone.id" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.uzone.id"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_319.js" async=""></script>
+<!-- End AdAsia Tag Manager -->
+<link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/r20190320/r20190131/show_ads_impl.js" as="script"><script type="text/javascript" id="_kiss-overlay" src="https://venue-files.locatise.io/clusters/12/starter.js"></script><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-32/html/container.html"><script>
+            ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];p.GlobalSnowplowNamespace.push(i);
+            p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];
+            n.async=1;n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,'script','https://d14q5p32f7kkhk.cloudfront.net/ovvYzBykqMR.js','_kakkusp'));
+            window._kakkusp('newTracker', 'cf', 'ie.locatise.io', {
+            appId: 'venue.locatise.io',
+            forceSecureTracker: true,
+            cookieDomain: '.locatise.io'});
+        </script></head>
+<body style="overflow-x: hidden;">
+<div id="wrapper">
+<div class="overlay"></div>
+    <section class="header-top for-desktop">
+        <div class="container">
+            <div class="row">
+                <div class="trending-container">
+                    <div class="trending-left">
+                        TRENDING
+                    </div>
+                    <div class="trending-right">
+                        <ul class="trending-right-list">
+							                            <li class="active">
+                                <a href="https://uzone.id/tag/pubg" class="animate" alt="Halal-Haram PUBG" title="Halal-Haram PUBG">
+                                    <span class="arrow"><img src="https://cdn4.uzone.id/assets/css/images_reborn/arrow.png"></span> Halal-Haram PUBG                                </a>
+                            </li>
+							                            <li>
+                                <a href="https://uzone.id/tag/seungri" class="animate" alt="Megaskandal Seungri BIGBANG" title="Megaskandal Seungri BIGBANG">
+                                    <span class="arrow"><img src="https://cdn4.uzone.id/assets/css/images_reborn/arrow.png"></span> Megaskandal Seungri BIGBANG                                </a>
+                            </li>
+							                            <li>
+                                <a href="https://uzone.id/tag/dilan-1991" class="animate" alt="Heboh Film Dilan 1991" title="Heboh Film Dilan 1991">
+                                    <span class="arrow"><img src="https://cdn4.uzone.id/assets/css/images_reborn/arrow.png"></span> Heboh Film Dilan 1991                                </a>
+                            </li>
+							                            <li>
+                                <a href="https://uzone.id/tag/syahrini-nikah" class="animate" alt="Pernikahan Syahrini" title="Pernikahan Syahrini">
+                                    <span class="arrow"><img src="https://cdn4.uzone.id/assets/css/images_reborn/arrow.png"></span> Pernikahan Syahrini                                </a>
+                            </li>
+							                        </ul>
+                    </div>
+                    <div style="clear:both;"></div>
+                </div>
+            </div>
+        </div>        
+    </section>
+    <section class="top-ads-container">
+        <div class="container">
+            <div class="row">
+                <div class="top-ads">
+					 						  
+							 <div class="box-728">
+								<iframe id="aa145937" name="aa145937" src="https://a03.uadexchange.com/delivery/afr.php?zoneid=318&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="728" height="90"><a href='https://a03.uadexchange.com/delivery/ck.php?n=a44fbdb6&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://a03.uadexchange.com/delivery/avw.php?zoneid=318&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a44fbdb6' border='0' alt='' /></a></iframe>		
+							 </div>               
+							 <div class="box-320">
+							 </div>
+						 
+						 						                 </div>
+            </div>        
+        </div>
+    </section>
+    <section class="header-top for-mobile">
+        <div class="container">
+            <div class="row">
+                <div class="trending-container">
+                    <div class="trending-left">
+                        TRENDING
+                    </div>
+                    <div class="trending-right">
+                        <ul class="trending-right-list">
+							                            <li class="active">
+                                <a href="https://www.uzone.id/tag/pubg" class="animate" alt="Halal-Haram PUBG" title="Halal-Haram PUBG">
+                                    <span class="arrow"><img src="https://cdn4.uzone.id/assets/css/images_reborn/arrow.png"></span> Halal-Haram PUBG                                </a>
+                            </li>
+							                            <li>
+                                <a href="https://www.uzone.id/tag/seungri" class="animate" alt="Megaskandal Seungri BIGBANG" title="Megaskandal Seungri BIGBANG">
+                                    <span class="arrow"><img src="https://cdn4.uzone.id/assets/css/images_reborn/arrow.png"></span> Megaskandal Seungri BIGBANG                                </a>
+                            </li>
+							                            <li>
+                                <a href="https://www.uzone.id/tag/dilan-1991" class="animate" alt="Heboh Film Dilan 1991" title="Heboh Film Dilan 1991">
+                                    <span class="arrow"><img src="https://cdn4.uzone.id/assets/css/images_reborn/arrow.png"></span> Heboh Film Dilan 1991                                </a>
+                            </li>
+							                            <li>
+                                <a href="https://www.uzone.id/tag/syahrini-nikah" class="animate" alt="Pernikahan Syahrini" title="Pernikahan Syahrini">
+                                    <span class="arrow"><img src="https://cdn4.uzone.id/assets/css/images_reborn/arrow.png"></span> Pernikahan Syahrini                                </a>
+                            </li>
+							                            <li>
+                                <a href="https://www.uzone.id/tag/oscar-2019" class="animate" alt="Oscar 2019" title="Oscar 2019">
+                                    <span class="arrow"><img src="https://cdn4.uzone.id/assets/css/images_reborn/arrow.png"></span> Oscar 2019                                </a>
+                            </li>
+							                        </ul>
+                    </div>
+                    <div style="clear:both;"></div>
+                </div>
+            </div>
+        </div>        
+    </section>
+    <section class="top-menu-container navbar-background animate">
+        <div class="container">
+            <div class="row">
+                <div class="top-menu">
+                    <nav class="navbar"> 
+                        <div class="navbar-header">
+                            <a class="navbar-brand mobile-logo animate" href="https://uzone.id/">
+                                <img src="https://cdn4.uzone.id/assets/uploads/others/uzone/new-logo-small.png" style="max-width:125px;">
+                            </a>
+                            <div class="pull-right search-mobile">
+							                                <ul class="nav navbar-nav right login-button" style="margin:0px;">
+                                    <li>
+                                        <a href="#" class="anchor-mobile-login" data-toggle="modal" data-target="#modalLogin">
+                                            <span class="fa fa-sign-in animate"></span> Account
+                                        </a>
+                                    </li>
+                                </ul>                                								
+							                                <ul class="nav navbar-nav right social-2 search-icon-2" style="margin:0px;">
+                                    <li>
+                                        <a class="anchor-mobile-search">
+                                            <span class="fa fa-search animate" title="search" alt="search"></span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="search-mobile-box" style="clear: both;">
+                            <ul class="nav navbar-nav right search-box" style="margin:0px;margin-top:-3px;">
+                                <li class="search-2">
+                                    <input type="text" class="animate" id="search_mobile" placeholder="Search ...">
+                                </li>
+                            </ul>                             
+                        </div>
+                        <div class="top-menu-mobile" style="clear: both;">
+                            <div class="owl-carousel owl-container owl-theme" id="owl-0" style="opacity: 0; display: block;">
+							<!--
+                                <div class="item">
+                                    <a href="http://streaming.uzone.id">
+                                        <div class="content-row-images">
+                                            e-Concert
+                                        </div>
+                                    </a>
+                                </div>-->
+                                <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 350px; left: 0px; display: block;"><div class="owl-item" style="width: 25px;"><div class="item">
+                                    <a href="https://uzone.id/festival-gadget">
+                                        <div class="content-row-images">
+                                            Festival Gadget
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item" style="width: 25px;"><div class="item">
+                                    <a href="https://entertainment.uzone.id/">
+                                        <div class="content-row-images">
+                                            Entertainment
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item" style="width: 25px;"><div class="item">
+                                    <a href="https://technology.uzone.id/">
+                                        <div class="content-row-images">
+                                            Technology
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item" style="width: 25px;"><div class="item">
+                                    <a href="https://automotive.uzone.id/">
+                                        <div class="content-row-images">
+                                            Automotive
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item" style="width: 25px;"><div class="item">
+                                    <a href="https://travel.uzone.id/">
+                                        <div class="content-row-images">
+                                            Travel
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item" style="width: 25px;"><div class="item">
+                                    <a href="https://music.uzone.id/">
+                                        <div class="content-row-images">
+                                            <i>Langit</i> Musik
+                                        </div>
+                                    </a>
+                                </div></div><div class="owl-item" style="width: 25px;"><div class="item">
+                                    <a href="https://hangout.uzone.id/">
+                                        <div class="content-row-images">
+                                            HangOut
+                                        </div>
+                                    </a>
+                                </div></div></div></div>
+                                
+                                
+                                
+                                
+                                
+                                
+                             </div>
+                            <div class="customNavigation">
+                              <a class="btn-prev previous-owl"><span class="fa fa-angle-left"></span></a>
+                              <a class="btn-next next-owl"><span class="fa fa-angle-right"></span></a>
+                            </div>                             
+                        </div>
+                        <div class="collapse navbar-collapse js-navbar-collapse">
+                         
+                            <ul class="nav navbar-nav" id="nav-desktop">
+                                <li><a href="https://entertainment.uzone.id/" class="animate">Entertainment</a></li>
+                            </ul>
+                            
+                            <ul class="nav navbar-nav" id="nav-desktop">
+                                <li><a href="https://technology.uzone.id/" class="animate">Technology</a></li>
+                            </ul>
+             
+                            <ul class="nav navbar-nav" id="nav-desktop">
+                                <li><a href="https://automotive.uzone.id/" class="animate">Automotive</a></li>
+                            </ul>
+                            <ul class="nav navbar-nav" id="nav-desktop">
+                                <li><a href="https://travel.uzone.id/" class="animate">Travel</a></li>
+                            </ul>
+                            <ul class="nav navbar-nav" id="nav-desktop">
+                                <li><a href="https://music.uzone.id/" class="animate"><i>Langit</i> Musik</a></li>
+                            </ul>
+                            <ul class="nav navbar-nav" id="nav-desktop">
+                                <li>
+									<a href="https://hangout.uzone.id/" class="animate">HangOut</a>
+								</li>
+                            </ul>
+							<!--
+                            <ul class="nav navbar-nav" id="nav-desktop">
+                                <li class="active-menu"><a href="http://streaming.uzone.id" class="animate">e-Concert</a></li>
+                            </ul>-->
+                            <ul class="nav navbar-nav" id="nav-desktop">
+                                <li class="active-menu"><a href="https://uzone.id/festival-gadget" class="animate">Festival Gadget</a></li>
+                            </ul>
+							                            <ul class="nav navbar-nav right social nav-tablet">
+								<li class="dropdown">
+									<a href="#" class="dropdown-user">
+										<span class="fa fa-sign-in animate" title="user" alt="user"></span> Account
+									</a>
+									<div class="dropdown-menu dropdown-menu-user">
+										<div class="login-box facebook-theme">
+											<a href="https://uzone.id/callback/Facebook?current_url=http%3A%2F%2Fwww.uzone.id%2F">
+												<span class="fa fa-facebook"></span> Login With Facebook
+											</a>
+										</div>
+										<div class="login-box twitter-theme">
+											<a href="https://uzone.id/callback/Twitter?current_url=http%3A%2F%2Fwww.uzone.id%2F">
+												<span class="fa fa-twitter"></span> Login With Twitter
+											</a>
+										</div>
+										<div class="login-box google-theme">
+											<a href="https://uzone.id/callback/Google?current_url=http%3A%2F%2Fwww.uzone.id%2F">
+												<span class="fa fa-google"></span> Login With Google
+											</a>
+										</div>
+										<div class="login-box" style="color:#FFF;background-color:red;">
+											<a href="https://uzone.id/members/login">
+												<span class="fa fa-mobile"></span> Login With Phone
+											</a>
+										</div>
+									</div>
+								</li>								
+                            </ul>                                              
+								
+							                            <ul class="nav navbar-nav right social">
+                                <li><a href="https://www.youtube.com/c/uzoneindonesia" target="_blank" class="youtube"><span class="fa fa-youtube animate" title="youtube" alt="youtube"></span></a></li>
+                            </ul>
+                            <ul class="nav navbar-nav right social">
+                                <li><a href="https://www.instagram.com/uzoneindonesia/" target="_blank" class="instagram"><span class="fa fa-instagram animate" title="instagram" alt="instagram"></span></a></li>
+                            </ul>
+                            <ul class="nav navbar-nav right social">
+                                <li><a href="https://twitter.com/UZoneIndonesia" target="_blank" class="twitter"><span class="fa fa-twitter animate" title="twitter" alt="twitter"></span></a></li>
+                            </ul>
+                            <ul class="nav navbar-nav right social">
+                                <li><a href="https://www.facebook.com/UZoneIndonesia/" target="_blank" class="facebook"><span class="fa fa-facebook animate" title="facebook" alt="facebook"></span></a></li>
+                            </ul>
+                            <ul class="nav navbar-nav right social-2 search-icon-3">
+                                <li><a href="#"><span class="fa fa-search animate" title="search" alt="search"></span></a></li>
+                            </ul>
+                            <ul class="nav navbar-nav right search-box">
+                                <li class="search">
+                                    <input type="text" class="animate searchtext" id="search" placeholder="Search ...">
+                                </li>
+                            </ul>    
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>
+		<!--
+	<div class="container">
+		<div class="row">
+					</div>
+	</div>-->
+		
+<style>
+	/*SKINNER*/
+	.skinner-left{
+		top:230px;
+		height: 200px;
+		left: 50%;
+		margin-left: -652px;
+		position: absolute;
+		transition:all ease 0.5s;
+		-webkit-transition:all ease 0.5s;
+		-moz-transition:all ease 0.5s;
+		-o-transition:all ease 0.5s;	
+	}
+	.skinner-right{
+		top:230px;
+		height: 200px;
+		position: absolute;
+		right: 50%;
+		margin-right: -650px;
+		transition:all ease 0.5s;
+		-webkit-transition:all ease 0.5s;
+		-moz-transition:all ease 0.5s;
+		-o-transition:all ease 0.5s;	
+	}
+	.fixed-skinner{
+		position:fixed;
+		top:70px;
+		transition:all ease 0.5s;
+		-webkit-transition:all ease 0.5s;
+		-moz-transition:all ease 0.5s;
+		-o-transition:all ease 0.5s;
+	}
+	@media(max-width:991px){
+		.skinner-left{
+			position: fixed;
+		}
+		.skinner-right{
+			position: fixed;
+		}
+	}	
+	/*
+	.nav.navbar-nav li a span {
+		padding-top: 3.5px;
+		padding-bottom: 7.5px;
+		font-size: 12px;
+	}	
+	*/	
+	.active-menu{
+		background-color:#e12725 !important;
+	}
+	.active-menu a{
+		color:#FFF !important;
+	}
+	ul.nav li {
+		font-size: 11px;
+	}	
+	/*SKINNER*/
+</style>
+
+	
+       
+<!--SKINNER LEFT-->	
+<div class="skinner-left">
+	<!-- /89929222/UzoneId/uzone_skinner_left_160x600 -->
+	<div id="div-gpt-ad-1513584713521-0" style="height:600px; width:160px;margin:auto;" data-google-query-id="CP-oz_rVmeECFY3ewAodFJ0NBg">
+	
+	<div id="google_ads_iframe_/89929222/UzoneId/uzone_skinner_left_160x600_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/89929222/UzoneId/uzone_skinner_left_160x600_0" title="3rd party ad content" name="google_ads_iframe_/89929222/UzoneId/uzone_skinner_left_160x600_0" width="160" height="600" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="3" data-load-complete="true"></iframe></div></div>	
+</div>	
+<!--SKINNER LEFT-->		
+<!--SKINNER RIGHT-->	
+<div class="skinner-right">
+	<!-- /89929222/UzoneId/Uzone_skinner_right_160x600 -->
+	<div id="div-gpt-ad-1513584803536-0" style="height:600px; width:160px;margin:auto;" data-google-query-id="CLfDzfrVmeECFY3ewAodFJ0NBg">
+	<script>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1513584803536-0'); });
+	</script>
+	<div id="google_ads_iframe_/89929222/UzoneId/Uzone_skinner_right_160x600_0__container__" style="border: 0pt none; width: 160px; height: 600px;"></div></div>	
+</div>	
+
+<!--SKINNER RIGHT-->	
+   
+<!--CONTENT-->
+    <section class="content-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-12">
+                    <div class="row">
+                        <div class="margin-right-20 left-content">
+                            <div class="content-carousel-container-1">
+                                <!--CAROUSEL DESKTOP-->
+                                <div style="" class="carousel-desktop">
+                                <div id="fullwidthHeaderImg1">
+                                    <div id="carousel-nav" class="crsl-nav">
+                                        <a href="#" class="previous">Previous</a>
+                                        <a href="#" class="next">Next</a>
+                                    </div>
+                                    <div class="carousel-slider">
+                                        <div class="crsl-items" data-navigation="carousel-nav" imagewideclass="wide-image" style="width: 100%;">
+                                            <div class="crsl-wrap" style="width: 3720px; margin-left: -1240px;">
+												                                                <figure class="carousel-slide crsl-item crsl-opacity" imagewideclass="wide-image" style="position: relative; float: left; overflow: hidden; height: auto; width: 620px; margin-right: 0px;">
+                                                    <a href="https://www.uzone.id/kena-serangan-jantung-butet-kertaradjasa-ambruk-saat-pentas">
+														                                                        <img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/feeding/o_1apsjt5tu199d1cll1kje12o21lo2a.jpg/700" style="object-fit:cover; " alt="Kena Serangan Jantung, Butet Kertaradjasa Ambruk Saat Pentas" title="Kena Serangan Jantung, Butet Kertaradjasa Ambruk Saat Pentas">
+                                                        <div class="carousel-caption-masthead">
+                                                            <p>Kena Serangan Jantung, Butet Kertaradjasa Ambruk Saat Pentas</p>
+                                                            <div class="carousel-caption-masthead-bottom">
+                                                                <span class="carousel-caption-masthead-bottom-category">Entertainment</span>
+                                                                <span class="carousel-caption-masthead-bottom-time">12 Hour's ago</span>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </figure><figure class="carousel-slide crsl-item crsl-opacity" imagewideclass="wide-image" style="position: relative; float: left; overflow: hidden; height: auto; width: 620px; margin-right: 0px;">
+                                                    <a href="https://www.uzone.id/akhirnya-samsung-pay-bisa-dipakai-di-indonesia">
+														                                                        <img onerror="imgError(this);" src="https://cdn4.uzone.id//assets/uploads/Uzone/Technology/samsung-pay-ilustrasi.jpg/700" style="object-fit:cover; object-position: 43% 1%;" alt="Akhirnya, Samsung Pay Bisa Dipakai di Indonesia" title="Akhirnya, Samsung Pay Bisa Dipakai di Indonesia">
+                                                        <div class="carousel-caption-masthead">
+                                                            <p>Akhirnya, Samsung Pay Bisa Dipakai di Indonesia</p>
+                                                            <div class="carousel-caption-masthead-bottom">
+                                                                <span class="carousel-caption-masthead-bottom-category">Technology</span>
+                                                                <span class="carousel-caption-masthead-bottom-time">13 Hour's ago</span>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </figure><figure class="carousel-slide crsl-item crsl-active" imagewideclass="wide-image" style="position: relative; float: left; overflow: hidden; height: auto; width: 620px; margin-right: 0px;">
+                                                    <a href="https://www.uzone.id/bahaya-mandi-air-dingin-setelah-begadang">
+														                                                        <img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/feeding/shutterstock_127984400.jpg/700" style="object-fit:cover; " alt="Bahaya Mandi Air Dingin Setelah Begadang" title="Bahaya Mandi Air Dingin Setelah Begadang">
+                                                        <div class="carousel-caption-masthead">
+                                                            <p>Bahaya Mandi Air Dingin Setelah Begadang</p>
+                                                            <div class="carousel-caption-masthead-bottom">
+                                                                <span class="carousel-caption-masthead-bottom-category">Health</span>
+                                                                <span class="carousel-caption-masthead-bottom-time">21 Minute's ago</span>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </figure>
+                                                															<figure class="carousel-slide crsl-item crsl-opacity" imagewideclass="wide-image" style="position: relative; float: left; overflow: hidden; height: auto; width: 620px; margin-right: 0px;">
+																 <a href="https://uzone.id/festival-gadget?utm_source=headline_banner">
+																 <img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/others/uzone/apps/festivalgadget2.jpg">
+																 </a>
+															</figure>														
+														<!--ADS MASTHEAD-->
+														<!--
+															<figure class="carousel-slide crsl-item" imageWideClass='wide-image'>
+																<a href="https://www.uzone.id/festival-gadget">
+																	<img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/others/uzone/Banner-620x350-Kerupuk.jpg" style="object-fit:cover;" alt="Uzone Festival Gadget" title="Uzone Festival Gadget"/>
+																</a>
+															</figure>-->
+														
+																													<!--ADS MASTHEAD-->
+														                                                <figure class="carousel-slide crsl-item crsl-opacity" imagewideclass="wide-image" style="position: relative; float: left; overflow: hidden; height: auto; width: 620px; margin-right: 0px;">
+                                                    <a href="https://www.uzone.id/dipromosikan-ke-asia-apa-keunggulan-wisata-golf-indonesia-">
+														                                                        <img onerror="imgError(this);" src="https://cdn4.uzone.id//assets/uploads/Uzone/Travel/Agoda/court-prather-663694-unsplash.jpg/700" style="object-fit:cover; object-position: 93% 59%;" alt="Dipromosikan ke Asia, Apa Keunggulan Wisata Golf Indonesia?" title="Dipromosikan ke Asia, Apa Keunggulan Wisata Golf Indonesia?">
+                                                        <div class="carousel-caption-masthead">
+                                                            <p>Dipromosikan ke Asia, Apa Keunggulan Wisata Golf Indonesia?</p>
+                                                            <div class="carousel-caption-masthead-bottom">
+                                                                <span class="carousel-caption-masthead-bottom-category">Travel</span>
+                                                                <span class="carousel-caption-masthead-bottom-time">1 Hour ago</span>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </figure>
+                                                                                                <figure class="carousel-slide crsl-item crsl-opacity" imagewideclass="wide-image" style="position: relative; float: left; overflow: hidden; height: auto; width: 620px; margin-right: 0px;">
+                                                    <a href="https://www.uzone.id/viral-patung-putri-duyung-telanjang-dada-di-ancol-ditutup-kain">
+														                                                        <img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/feeding/88499-patung-putri-duyung-di-ancol-sebelum-ditutup-kain-instagramatheriyanto-liem.jpg/700" style="object-fit:cover; " alt="Viral Patung Putri Duyung Telanjang Dada di Ancol Ditutup Kain" title="Viral Patung Putri Duyung Telanjang Dada di Ancol Ditutup Kain">
+                                                        <div class="carousel-caption-masthead">
+                                                            <p>Viral Patung Putri Duyung Telanjang Dada di Ancol Ditutup Kain</p>
+                                                            <div class="carousel-caption-masthead-bottom">
+                                                                <span class="carousel-caption-masthead-bottom-category">News</span>
+                                                                <span class="carousel-caption-masthead-bottom-time">9 Hour's ago</span>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </figure>
+                                                                                                
+                                                                                                
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                </div>
+                                <!--CAROUSEL DESKTOP-->
+                                <!--CAROUSEL MOBILE-->
+                                <div class="owl-carousel owl-container carousel-mobile owl-theme" id="owlo-1" style="opacity: 1; display: block;">
+																	
+                                    <div class="owl-wrapper-outer autoHeight" style="height: 350px;"><div class="owl-wrapper" style="width: 7500px; left: 0px; display: block; transition: all 800ms ease 0s; transform: translate3d(-750px, 0px, 0px);"><div class="owl-item" style="width: 750px;"><div class="item">
+                                        <a href="https://www.uzone.id/bahaya-mandi-air-dingin-setelah-begadang">
+										                                            <div class="content-row-images">
+												                                                <img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/feeding/shutterstock_127984400.jpg/700" style="object-fit:cover; " alt="Bahaya Mandi Air Dingin Setelah Begadang" title="Bahaya Mandi Air Dingin Setelah Begadang">
+                                                <div class="caption-carousel-mobile">
+                                                    <p>Bahaya Mandi Air Dingin Setelah Begadang</p>
+                                                    <div class="carousel-caption-masthead-bottom">
+                                                        <span class="carousel-caption-masthead-bottom-category">Health</span>
+                                                        <span class="carousel-caption-masthead-bottom-time">21 Minute's ago</span>
+                                                    </div>                                                    
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div></div><div class="owl-item" style="width: 750px;"><div class="item">
+                                        <a href="https://www.uzone.id/dipromosikan-ke-asia-apa-keunggulan-wisata-golf-indonesia-">
+										                                            <div class="content-row-images">
+												                                                <img onerror="imgError(this);" src="https://cdn4.uzone.id//assets/uploads/Uzone/Travel/Agoda/court-prather-663694-unsplash.jpg/700" style="object-fit:cover; object-position: 93% 59%;" alt="Dipromosikan ke Asia, Apa Keunggulan Wisata Golf Indonesia?" title="Dipromosikan ke Asia, Apa Keunggulan Wisata Golf Indonesia?">
+                                                <div class="caption-carousel-mobile">
+                                                    <p>Dipromosikan ke Asia, Apa Keunggulan Wisata Golf Indonesia?</p>
+                                                    <div class="carousel-caption-masthead-bottom">
+                                                        <span class="carousel-caption-masthead-bottom-category">Travel</span>
+                                                        <span class="carousel-caption-masthead-bottom-time">1 Hour ago</span>
+                                                    </div>                                                    
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div></div><div class="owl-item" style="width: 750px;"><div class="item">
+                                        <a href="https://www.uzone.id/viral-patung-putri-duyung-telanjang-dada-di-ancol-ditutup-kain">
+										                                            <div class="content-row-images">
+												                                                <img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/feeding/88499-patung-putri-duyung-di-ancol-sebelum-ditutup-kain-instagramatheriyanto-liem.jpg/700" style="object-fit:cover; " alt="Viral Patung Putri Duyung Telanjang Dada di Ancol Ditutup Kain" title="Viral Patung Putri Duyung Telanjang Dada di Ancol Ditutup Kain">
+                                                <div class="caption-carousel-mobile">
+                                                    <p>Viral Patung Putri Duyung Telanjang Dada di Ancol Ditutup Kain</p>
+                                                    <div class="carousel-caption-masthead-bottom">
+                                                        <span class="carousel-caption-masthead-bottom-category">News</span>
+                                                        <span class="carousel-caption-masthead-bottom-time">9 Hour's ago</span>
+                                                    </div>                                                    
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div></div><div class="owl-item" style="width: 750px;"><div class="item">
+                                        <a href="https://www.uzone.id/kena-serangan-jantung-butet-kertaradjasa-ambruk-saat-pentas">
+										                                            <div class="content-row-images">
+												                                                <img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/feeding/o_1apsjt5tu199d1cll1kje12o21lo2a.jpg/700" style="object-fit:cover; " alt="Kena Serangan Jantung, Butet Kertaradjasa Ambruk Saat Pentas" title="Kena Serangan Jantung, Butet Kertaradjasa Ambruk Saat Pentas">
+                                                <div class="caption-carousel-mobile">
+                                                    <p>Kena Serangan Jantung, Butet Kertaradjasa Ambruk Saat Pentas</p>
+                                                    <div class="carousel-caption-masthead-bottom">
+                                                        <span class="carousel-caption-masthead-bottom-category">Entertainment</span>
+                                                        <span class="carousel-caption-masthead-bottom-time">12 Hour's ago</span>
+                                                    </div>                                                    
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div></div><div class="owl-item" style="width: 750px;"><div class="item">
+                                        <a href="https://www.uzone.id/akhirnya-samsung-pay-bisa-dipakai-di-indonesia">
+										                                            <div class="content-row-images">
+												                                                <img onerror="imgError(this);" src="https://cdn4.uzone.id//assets/uploads/Uzone/Technology/samsung-pay-ilustrasi.jpg/700" style="object-fit:cover; object-position: 43% 1%;" alt="Akhirnya, Samsung Pay Bisa Dipakai di Indonesia" title="Akhirnya, Samsung Pay Bisa Dipakai di Indonesia">
+                                                <div class="caption-carousel-mobile">
+                                                    <p>Akhirnya, Samsung Pay Bisa Dipakai di Indonesia</p>
+                                                    <div class="carousel-caption-masthead-bottom">
+                                                        <span class="carousel-caption-masthead-bottom-category">Technology</span>
+                                                        <span class="carousel-caption-masthead-bottom-time">13 Hour's ago</span>
+                                                    </div>                                                    
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div></div></div></div>
+									<!--
+											<div class="item">
+												<a href="https://expose.uzone.id/democracy-of-centennial?utm_source=uzone_20190324&utm_medium=banner">
+													<div class="content-row-images">
+														<img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/others/uzone/centennialmobile.gif" style="object-fit:cover;width:100%;" alt="centennial" title="centennial"/>
+													</div>
+												</a>
+											</div>-->
+											<!--
+											<div class="item">
+												<a href="https://uzone.id/tag/samsung-galaxy-note-9">
+													<img src="https://cdn4.uzone.id/assets/uploads/others/uzone/Banner-320x200_samsung.jpg" style="width:100%;">
+												</a>
+											</div>
+											-->
+																			
+                                    
+																	
+                                    
+																	
+                                    
+																	
+                                    
+									                                 <div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page"><span class="fa fa-circle"></span></div><div class="owl-page active"><span class="fa fa-circle"></span></div><div class="owl-page"><span class="fa fa-circle"></span></div><div class="owl-page"><span class="fa fa-circle"></span></div><div class="owl-page"><span class="fa fa-circle"></span></div></div></div></div>   
+                                 <!--CAROUSEL MOBILE-->                             
+                            </div>     
+                            <div class="content-box">
+                                <div class="col-md-12 box-right-content">
+                                    <div class="row">
+										<div class="content-box-right">
+											<div class="col-md-6">
+												<div class="row">
+													<div class="content-box-news">
+																																											<!--
+														<div class="content-box-news-list col-md-12 col-sm-6 col-xs-6 ">
+															<a href="https://www.uzone.id/jalan-jalan-murah-ke-jepang-saat-musim-semi-ini-caranya-" alt="Jalan-jalan Murah ke Jepang Saat Musim Semi? Ini Caranya!" title="Jalan-jalan Murah ke Jepang Saat Musim Semi? Ini Caranya!" class="animate">
+																<div class="content-box-news-list-images">
+																																	
+																	<img onerror="imgError(this);" src="https://cdn4.uzone.id//assets/uploads/Uzone/Travel/Traveloka/6.jpg/600" alt="Jalan-jalan Murah ke Jepang Saat Musim Semi? Ini Caranya!" title="Jalan-jalan Murah ke Jepang Saat Musim Semi? Ini Caranya!" style="object-fit:cover;object-position: 49% 34%;" class="animate">
+																																	</div>
+																<div class="content-box-news-list-description animate">
+																	<p>Jalan-jalan Murah ke Jepang Saat Musim Semi? Ini Caranya!</p>
+																	<div class="content-box-list-news-description-bottom">
+																		<span class="content-box-list-news-description-bottom-category">Travel</span>
+																		<span class="content-box-list-news-description-bottom-time">11 March 2019</span>
+																	</div>
+																</div>
+															</a>
+														</div>-->
+																													<div class="content-box-news-list col-md-12 col-sm-6 col-xs-6 ">
+															<a href="https://www.uzone.id/6-drama-korea-kim-jae-wook-yang-memikat-di-berbagai-genre-film" alt="6 Drama Korea Kim Jae Wook yang Memikat di Berbagai Genre Film" title="6 Drama Korea Kim Jae Wook yang Memikat di Berbagai Genre Film" class="animate">
+																<div class="content-box-news-list-images">
+																																	
+																	<img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/feeding/main-cover-image-b41a47fb-9887-4264-be00-7aca46782989.jpg/600" alt="6 Drama Korea Kim Jae Wook yang Memikat di Berbagai Genre Film" title="6 Drama Korea Kim Jae Wook yang Memikat di Berbagai Genre Film" style="object-fit:cover;object-position: 49% 34%;" class="animate">
+																																	</div>
+																<div class="content-box-news-list-description animate">
+																	<p>6 Drama Korea Kim Jae Wook yang Memikat di Berbagai Genre Film</p>
+																	<div class="content-box-list-news-description-bottom">
+																		<span class="content-box-list-news-description-bottom-category">Film</span>
+																		<span class="content-box-list-news-description-bottom-time">10 Hour's ago</span>
+																	</div>
+																</div>
+															</a>
+														</div>
+																																											<!--
+															<div id="AdAsia"></div>
+															-->
+																													<div class="content-box-news-list col-md-12 col-sm-6 col-xs-6 ">
+															<a href="https://www.uzone.id/gisella-anastasia-sudah-mengenal-keluarga-wijaya-saputra" alt="Gisella Anastasia Sudah Mengenal Keluarga Wijaya Saputra" title="Gisella Anastasia Sudah Mengenal Keluarga Wijaya Saputra" class="animate">
+																<div class="content-box-news-list-images">
+																																	
+																	<img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/feeding/gisella-anastasia_bam20190130_-41.jpg/600" alt="Gisella Anastasia Sudah Mengenal Keluarga Wijaya Saputra" title="Gisella Anastasia Sudah Mengenal Keluarga Wijaya Saputra" style="object-fit:cover;object-position: 50% 13%;" class="animate">
+																																	</div>
+																<div class="content-box-news-list-description animate">
+																	<p>Gisella Anastasia Sudah Mengenal Keluarga Wijaya Saputra</p>
+																	<div class="content-box-list-news-description-bottom">
+																		<span class="content-box-list-news-description-bottom-category">Entertainment</span>
+																		<span class="content-box-list-news-description-bottom-time">11 Hour's ago</span>
+																	</div>
+																</div>
+															</a>
+														</div>
+																																										<div class="content-box-news-list col-md-12 col-sm-6 col-xs-6 ">
+															<a href="https://www.uzone.id/-i-dear-i-xiaomi-gimana-nasib-note-7-pro-di-indonesia-" alt="<i>Dear</i> Xiaomi, Gimana Nasib Note 7 Pro di Indonesia?" title="<i>Dear</i> Xiaomi, Gimana Nasib Note 7 Pro di Indonesia?" class="animate">
+																<div class="content-box-news-list-images">
+																																	
+																	<img onerror="imgError(this);" src="https://cdn4.uzone.id//assets/uploads/Uzone/Technology/Xiaomi_Redmi_Note_7/redmi-note-7-12.jpg/600" alt="<i>Dear</i> Xiaomi, Gimana Nasib Note 7 Pro di Indonesia?" title="<i>Dear</i> Xiaomi, Gimana Nasib Note 7 Pro di Indonesia?" style="object-fit:cover;object-position: 54% 10%;" class="animate">
+																																	</div>
+																<div class="content-box-news-list-description animate">
+																	<p><i>Dear</i> Xiaomi, Gimana Nasib Note 7 Pro di Indonesia?</p>
+																	<div class="content-box-list-news-description-bottom">
+																		<span class="content-box-list-news-description-bottom-category">Technology</span>
+																		<span class="content-box-list-news-description-bottom-time">12 Hour's ago</span>
+																	</div>
+																</div>
+															</a>
+														</div>
+																																										<div class="content-box-news-list col-md-12 col-sm-6 col-xs-6 ">
+															<a href="https://www.uzone.id/tatapan-chelsea-islan-ke-jokowi-bikin-netizen-rontok" alt="Tatapan Chelsea Islan ke Jokowi Bikin Netizen Rontok" title="Tatapan Chelsea Islan ke Jokowi Bikin Netizen Rontok" class="animate">
+																<div class="content-box-news-list-images">
+																																	
+																	<img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/feeding/28742-chelsea-islan-menatap-presiden-jokowi-twitter.jpg/600" alt="Tatapan Chelsea Islan ke Jokowi Bikin Netizen Rontok" title="Tatapan Chelsea Islan ke Jokowi Bikin Netizen Rontok" style="object-fit:cover;" class="animate">
+																																	</div>
+																<div class="content-box-news-list-description animate">
+																	<p>Tatapan Chelsea Islan ke Jokowi Bikin Netizen Rontok</p>
+																	<div class="content-box-list-news-description-bottom">
+																		<span class="content-box-list-news-description-bottom-category">Entertainment</span>
+																		<span class="content-box-list-news-description-bottom-time">13 Hour's ago</span>
+																	</div>
+																</div>
+															</a>
+														</div>
+																																										<div class="content-box-news-list col-md-12 col-sm-6 col-xs-6 ">
+															<a href="https://www.uzone.id/seungri-bigbang-undur-diri-sekali-lagi-aku-meminta-maaf-kepada-kalian" alt="Seungri BigBang Undur Diri: Sekali Lagi Aku Meminta Maaf kepada Kalian" title="Seungri BigBang Undur Diri: Sekali Lagi Aku Meminta Maaf kepada Kalian" class="animate">
+																<div class="content-box-news-list-images">
+																																	
+																	<img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/feeding/bigbang-seungri-sumber-billboard.jpg/600" alt="Seungri BigBang Undur Diri: Sekali Lagi Aku Meminta Maaf kepada Kalian" title="Seungri BigBang Undur Diri: Sekali Lagi Aku Meminta Maaf kepada Kalian" style="object-fit:cover;" class="animate">
+																																	</div>
+																<div class="content-box-news-list-description animate">
+																	<p>Seungri BigBang Undur Diri: Sekali Lagi Aku Meminta Maaf kepada Kalian</p>
+																	<div class="content-box-list-news-description-bottom">
+																		<span class="content-box-list-news-description-bottom-category">Music</span>
+																		<span class="content-box-list-news-description-bottom-time">14 Hour's ago</span>
+																	</div>
+																</div>
+															</a>
+														</div>
+																																										<div class="content-box-news-list col-md-12 col-sm-6 col-xs-6 ">
+															<a href="https://www.uzone.id/ojek-online-boleh-antar-jemput-penumpang-di-stasiun-mrt-ini-lokasinya" alt="Ojek Online Boleh Antar Jemput Penumpang di Stasiun MRT, Ini Lokasinya" title="Ojek Online Boleh Antar Jemput Penumpang di Stasiun MRT, Ini Lokasinya" class="animate">
+																<div class="content-box-news-list-images">
+																																	
+																	<img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/feeding/17527-ilustrasi-ojek-online-suaracom.jpg/600" alt="Ojek Online Boleh Antar Jemput Penumpang di Stasiun MRT, Ini Lokasinya" title="Ojek Online Boleh Antar Jemput Penumpang di Stasiun MRT, Ini Lokasinya" style="object-fit:cover;" class="animate">
+																																	</div>
+																<div class="content-box-news-list-description animate">
+																	<p>Ojek Online Boleh Antar Jemput Penumpang di Stasiun MRT, Ini Lokasinya</p>
+																	<div class="content-box-list-news-description-bottom">
+																		<span class="content-box-list-news-description-bottom-category">News</span>
+																		<span class="content-box-list-news-description-bottom-time">15 Hour's ago</span>
+																	</div>
+																</div>
+															</a>
+														</div>
+																																										<div class="content-box-news-list col-md-12 col-sm-6 col-xs-6 desktop-hide">
+															<a href="https://www.uzone.id/5-tempat-indah-yang-cocok-untuk-menyelenggarakan-garden-party-wedding" alt="5 Tempat Indah yang Cocok Untuk Menyelenggarakan Garden Party Wedding" title="5 Tempat Indah yang Cocok Untuk Menyelenggarakan Garden Party Wedding" class="animate">
+																<div class="content-box-news-list-images">
+																																	
+																	<img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/feeding/main_image_9863.jpg/600" alt="5 Tempat Indah yang Cocok Untuk Menyelenggarakan Garden Party Wedding" title="5 Tempat Indah yang Cocok Untuk Menyelenggarakan Garden Party Wedding" style="object-fit:cover;object-position: 62% 64%;" class="animate">
+																																	</div>
+																<div class="content-box-news-list-description animate">
+																	<p>5 Tempat Indah yang Cocok Untuk Menyelenggarakan Garden Party Wedding</p>
+																	<div class="content-box-list-news-description-bottom">
+																		<span class="content-box-list-news-description-bottom-category">Lifestyle</span>
+																		<span class="content-box-list-news-description-bottom-time">17 Hour's ago</span>
+																	</div>
+																</div>
+															</a>
+														</div>
+																																										<div class="content-box-news-list col-md-12 col-sm-6 col-xs-6 desktop-hide">
+															<a href="https://www.uzone.id/asmara-abigail-disiksa-saat-masuk-dalam-perkumpulan-sekte" alt="Asmara Abigail Disiksa saat Masuk Dalam Perkumpulan Sekte" title="Asmara Abigail Disiksa saat Masuk Dalam Perkumpulan Sekte" class="animate">
+																<div class="content-box-news-list-images">
+																																	
+																	<img onerror="imgError(this);" src="https://cdn4.uzone.id//assets/uploads/Uzone/Film/Sekte_film2.jpg/600" alt="Asmara Abigail Disiksa saat Masuk Dalam Perkumpulan Sekte" title="Asmara Abigail Disiksa saat Masuk Dalam Perkumpulan Sekte" style="object-fit:cover;object-position: 4% 2%;" class="animate">
+																																	</div>
+																<div class="content-box-news-list-description animate">
+																	<p>Asmara Abigail Disiksa saat Masuk Dalam Perkumpulan Sekte</p>
+																	<div class="content-box-list-news-description-bottom">
+																		<span class="content-box-list-news-description-bottom-category">Film</span>
+																		<span class="content-box-list-news-description-bottom-time">18 Hour's ago</span>
+																	</div>
+																</div>
+															</a>
+														</div>
+																											
+													</div>
+													<div style="clear:both;"></div>
+
+												</div>
+											</div>
+																						
+											<div class="col-md-6">
+												<div class="box-list-content-index-container box-ajax-content">
+																										
+													<div class="box-list-content-index infinite" id="1553392202" uri="indexreborn" param="">
+														<a href="https://www.uzone.id/usai-menangkan-ihearts-radio-awards-ini-target-agnez-mo-selanjutnya" alt="Usai Menangkan iHearts Radio Awards, Ini Target Agnez Mo Selanjutnya" title="Usai Menangkan iHearts Radio Awards, Ini Target Agnez Mo Selanjutnya">
+															<div class="box-list-content-index-images">
+																																<img onerror="imgError(this);" style="object-fit:cover; " src="https://cdn4.uzone.id/assets/uploads/feeding/agnez-mo_ani_2.jpg/400" alt="Usai Menangkan iHearts Radio Awards, Ini Target Agnez Mo Selanjutnya" title="Usai Menangkan iHearts Radio Awards, Ini Target Agnez Mo Selanjutnya" class="animate">
+															</div>
+															<div class="box-list-content-index-description animate">
+																<span>Music</span>
+																<small>4 Minute's ago</small>
+																<p class="animate">Usai Menangkan iHearts Radio Awards, Ini Target Agnez Mo Selanjutnya</p>
+															</div>
+															<div style="clear: both;"></div>
+														</a>
+													</div>
+													<div style="clear: both;"></div>
+													
+																										
+																										
+													<div class="box-list-content-index infinite" id="1553388652" uri="indexreborn" param="">
+														<a href="https://www.uzone.id/gisella-anastasia-bukan-tertangkap-memang-kami-jalan-menyerahkan-diri" alt="Gisella Anastasia: Bukan Tertangkap, Memang Kami Jalan Menyerahkan Diri" title="Gisella Anastasia: Bukan Tertangkap, Memang Kami Jalan Menyerahkan Diri">
+															<div class="box-list-content-index-images">
+																																<img onerror="imgError(this);" style="object-fit:cover; " src="https://cdn4.uzone.id/assets/uploads/feeding/gisella-anastasia_yuri_3.jpg/400" alt="Gisella Anastasia: Bukan Tertangkap, Memang Kami Jalan Menyerahkan Diri" title="Gisella Anastasia: Bukan Tertangkap, Memang Kami Jalan Menyerahkan Diri" class="animate">
+															</div>
+															<div class="box-list-content-index-description animate">
+																<span>Entertainment</span>
+																<small>1 Hour ago</small>
+																<p class="animate">Gisella Anastasia: Bukan Tertangkap, Memang Kami Jalan Menyerahkan Diri</p>
+															</div>
+															<div style="clear: both;"></div>
+														</a>
+													</div>
+													<div style="clear: both;"></div>
+													
+																										
+																										
+													<div class="box-list-content-index infinite" id="1553387431" uri="indexreborn" param="">
+														<a href="https://www.uzone.id/sebelum-tidurzee-zee-shahab-berterima-kasih-dan-minta-maaf-kepada-suami" alt="Sebelum Tidur&nbsp;Zee Zee Shahab Berterima Kasih dan Minta Maaf kepada Suami" title="Sebelum Tidur&nbsp;Zee Zee Shahab Berterima Kasih dan Minta Maaf kepada Suami">
+															<div class="box-list-content-index-images">
+																																<img onerror="imgError(this);" style="object-fit:cover; " src="https://cdn4.uzone.id/assets/uploads/feeding/zee-zee-sumber-instagram-zeezeeshahab-3.jpg/400" alt="Sebelum Tidur&nbsp;Zee Zee Shahab Berterima Kasih dan Minta Maaf kepada Suami" title="Sebelum Tidur&nbsp;Zee Zee Shahab Berterima Kasih dan Minta Maaf kepada Suami" class="animate">
+															</div>
+															<div class="box-list-content-index-description animate">
+																<span>Entertainment</span>
+																<small>1 Hour ago</small>
+																<p class="animate">Sebelum Tidur&nbsp;Zee Zee Shahab Berterima Kasih dan Minta Maaf kepada Suami</p>
+															</div>
+															<div style="clear: both;"></div>
+														</a>
+													</div>
+													<div style="clear: both;"></div>
+													
+																										
+																										
+													<div class="box-list-content-index infinite" id="1553359857" uri="indexreborn" param="">
+														<a href="https://www.uzone.id/dibayar-rp-66-miliar-per-pekan-sanchez-pemain-mu-dengan-gaji-tertinggi" alt="Dibayar Rp 6,6 Miliar Per Pekan, Sanchez Pemain MU dengan Gaji Tertinggi" title="Dibayar Rp 6,6 Miliar Per Pekan, Sanchez Pemain MU dengan Gaji Tertinggi">
+															<div class="box-list-content-index-images">
+																																<img onerror="imgError(this);" style="object-fit:cover; " src="https://cdn4.uzone.id/assets/uploads/feeding/86991-alexis-sanchez.jpg/400" alt="Dibayar Rp 6,6 Miliar Per Pekan, Sanchez Pemain MU dengan Gaji Tertinggi" title="Dibayar Rp 6,6 Miliar Per Pekan, Sanchez Pemain MU dengan Gaji Tertinggi" class="animate">
+															</div>
+															<div class="box-list-content-index-description animate">
+																<span>Sport</span>
+																<small>9 Hour's ago</small>
+																<p class="animate">Dibayar Rp 6,6 Miliar Per Pekan, Sanchez Pemain MU dengan Gaji Tertinggi</p>
+															</div>
+															<div style="clear: both;"></div>
+														</a>
+													</div>
+													<div style="clear: both;"></div>
+													
+																										
+																										
+													<div class="box-list-content-index infinite" id="1553354423" uri="indexreborn" param="">
+														<a href="https://www.uzone.id/menurut-studi-kini-fobia-ketinggian-bisa-diobati-dengan-teknologi-vr" alt="Menurut Studi, Kini Fobia Ketinggian Bisa Diobati dengan Teknologi VR" title="Menurut Studi, Kini Fobia Ketinggian Bisa Diobati dengan Teknologi VR">
+															<div class="box-list-content-index-images">
+																																<img onerror="imgError(this);" style="object-fit:cover; " src="https://cdn4.uzone.id/assets/uploads/feeding/91043-virtual-reality.jpg/400" alt="Menurut Studi, Kini Fobia Ketinggian Bisa Diobati dengan Teknologi VR" title="Menurut Studi, Kini Fobia Ketinggian Bisa Diobati dengan Teknologi VR" class="animate">
+															</div>
+															<div class="box-list-content-index-description animate">
+																<span>Technology</span>
+																<small>10 Hour's ago</small>
+																<p class="animate">Menurut Studi, Kini Fobia Ketinggian Bisa Diobati dengan Teknologi VR</p>
+															</div>
+															<div style="clear: both;"></div>
+														</a>
+													</div>
+													<div style="clear: both;"></div>
+													
+																										
+																										
+													<div class="box-list-content-index infinite" id="1553352610" uri="indexreborn" param="">
+														<a href="https://www.uzone.id/gading-marten-bantah-kabar-teman-temannya-ingin-hajar-wijin" alt="Gading Marten Bantah Kabar Teman-temannya Ingin Hajar Wijin" title="Gading Marten Bantah Kabar Teman-temannya Ingin Hajar Wijin">
+															<div class="box-list-content-index-images">
+																																<img onerror="imgError(this);" style="object-fit:cover; " src="https://cdn4.uzone.id/assets/uploads/feeding/52451-gading-marten.jpg/400" alt="Gading Marten Bantah Kabar Teman-temannya Ingin Hajar Wijin" title="Gading Marten Bantah Kabar Teman-temannya Ingin Hajar Wijin" class="animate">
+															</div>
+															<div class="box-list-content-index-description animate">
+																<span>Entertainment</span>
+																<small>11 Hour's ago</small>
+																<p class="animate">Gading Marten Bantah Kabar Teman-temannya Ingin Hajar Wijin</p>
+															</div>
+															<div style="clear: both;"></div>
+														</a>
+													</div>
+													<div style="clear: both;"></div>
+													
+																										
+																										
+													<div class="box-list-content-index infinite" id="1553350804" uri="indexreborn" param="">
+														<a href="https://www.uzone.id/hadapi-norwegia-spanyol-bertekad-curi-kembali-hati-suporter" alt="Hadapi Norwegia, Spanyol Bertekad Curi Kembali Hati Suporter" title="Hadapi Norwegia, Spanyol Bertekad Curi Kembali Hati Suporter">
+															<div class="box-list-content-index-images">
+																																<img onerror="imgError(this);" style="object-fit:cover; " src="https://cdn4.uzone.id/assets/uploads/feeding/13932-luis-enrique.jpg/400" alt="Hadapi Norwegia, Spanyol Bertekad Curi Kembali Hati Suporter" title="Hadapi Norwegia, Spanyol Bertekad Curi Kembali Hati Suporter" class="animate">
+															</div>
+															<div class="box-list-content-index-description animate">
+																<span>Sport</span>
+																<small>11 Hour's ago</small>
+																<p class="animate">Hadapi Norwegia, Spanyol Bertekad Curi Kembali Hati Suporter</p>
+															</div>
+															<div style="clear: both;"></div>
+														</a>
+													</div>
+													<div style="clear: both;"></div>
+													
+																										
+																										
+													<div class="box-list-content-index infinite" id="1553349055" uri="indexreborn" param="">
+														<a href="https://www.uzone.id/ketiak-gatal-mengganggu-jangan-digaruk-ini-5-cara-mengatasinya" alt="Ketiak Gatal Mengganggu? Jangan Digaruk, Ini 5 Cara Mengatasinya" title="Ketiak Gatal Mengganggu? Jangan Digaruk, Ini 5 Cara Mengatasinya">
+															<div class="box-list-content-index-images">
+																																<img onerror="imgError(this);" style="object-fit:cover; " src="https://cdn4.uzone.id/assets/uploads/feeding/shutterstock_639030631.jpg/400" alt="Ketiak Gatal Mengganggu? Jangan Digaruk, Ini 5 Cara Mengatasinya" title="Ketiak Gatal Mengganggu? Jangan Digaruk, Ini 5 Cara Mengatasinya" class="animate">
+															</div>
+															<div class="box-list-content-index-description animate">
+																<span>Health</span>
+																<small>12 Hour's ago</small>
+																<p class="animate">Ketiak Gatal Mengganggu? Jangan Digaruk, Ini 5 Cara Mengatasinya</p>
+															</div>
+															<div style="clear: both;"></div>
+														</a>
+													</div>
+													<div style="clear: both;"></div>
+													
+																										
+																										
+													<div class="box-list-content-index infinite" id="1553347840" uri="indexreborn" param="">
+														<a href="https://www.uzone.id/fabiano-beltrame-resmi-berseragam-persib-bandung" alt="Fabiano Beltrame Resmi Berseragam Persib Bandung" title="Fabiano Beltrame Resmi Berseragam Persib Bandung">
+															<div class="box-list-content-index-images">
+																																<img onerror="imgError(this);" style="object-fit:cover; " src="https://cdn4.uzone.id/assets/uploads/feeding/o_19i57072m145oaqb42q354auea.jpg/400" alt="Fabiano Beltrame Resmi Berseragam Persib Bandung" title="Fabiano Beltrame Resmi Berseragam Persib Bandung" class="animate">
+															</div>
+															<div class="box-list-content-index-description animate">
+																<span>Sport</span>
+																<small>12 Hour's ago</small>
+																<p class="animate">Fabiano Beltrame Resmi Berseragam Persib Bandung</p>
+															</div>
+															<div style="clear: both;"></div>
+														</a>
+													</div>
+													<div style="clear: both;"></div>
+													
+																										
+																										
+													<div class="box-list-content-index infinite" id="1553346651" uri="indexreborn" param="">
+														<a href="https://www.uzone.id/awas-ini-bahayanya-menelan-air-kolam-renang" alt="Awas! Ini Bahayanya Menelan Air Kolam Renang" title="Awas! Ini Bahayanya Menelan Air Kolam Renang">
+															<div class="box-list-content-index-images">
+																																<img onerror="imgError(this);" style="object-fit:cover; object-position: 20% 16%;" src="https://cdn4.uzone.id/assets/uploads/feeding/air-kolam-renang.jpg/400" alt="Awas! Ini Bahayanya Menelan Air Kolam Renang" title="Awas! Ini Bahayanya Menelan Air Kolam Renang" class="animate">
+															</div>
+															<div class="box-list-content-index-description animate">
+																<span>Health</span>
+																<small>12 Hour's ago</small>
+																<p class="animate">Awas! Ini Bahayanya Menelan Air Kolam Renang</p>
+															</div>
+															<div style="clear: both;"></div>
+														</a>
+													</div>
+													<div style="clear: both;"></div>
+													
+																										
+																									</div>
+												<div style="padding-bottom:15px;margin-bottom:20px;">
+													<div class="button-load-more">
+														<a href="https://www.uzone.id/latest" class="animate">
+															LOAD MORE
+														</a>
+													</div>
+													<div class="button-load-more-mobile">
+														LOAD MORE
+													</div>												
+												</div>													
+											</div>
+										
+											<div style="clear: both;"></div>
+										</div>
+										<div style="clear: both;"></div>
+										
+                                    </div>                                    
+                                </div>
+                                <div style="clear: both;"></div>
+                            </div>                       
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <div class="row">
+                        <div class="right-content">
+	                    	<h1>Editor's Pick</h1>
+                            <div class="right-content-news">
+								                                <div class="right-content-news-list">
+									<div class="col-sm-6 col-md-12 col-xs-12">
+										<div class="row">
+											<a href="https://www.uzone.id/dukung-tim-kampus-kamu-di-final-pubg-mobile-hari-ini" class="animate" alt="Dukung Tim Kampus Kamu di Final PUBG Mobile, Hari Ini" title="Dukung Tim Kampus Kamu di Final PUBG Mobile, Hari Ini">
+												<div class="right-content-news-list-images">
+																										<img onerror="imgError(this);" src="https://cdn4.uzone.id//assets/uploads/Uzone/Games/PUBGCampus.jpg/600" alt="Dukung Tim Kampus Kamu di Final PUBG Mobile, Hari Ini" title="Dukung Tim Kampus Kamu di Final PUBG Mobile, Hari Ini">
+																								
+												</div>                                
+												<div class="right-content-news-list-description">
+													<p>Dukung Tim Kampus Kamu di Final PUBG Mobile, Hari Ini</p>
+													<div class="right-content-news-list-description-bottom">
+														<span class="right-content-news-list-description-bottom-category">Games</span>
+														<span class="right-content-news-list-description-bottom-time">41 Minute's ago</span>
+													</div>                                
+												</div>  
+											</a>    
+										</div>
+									</div>
+									<div class="clear-both-tab"></div>
+                                </div>      
+																	
+										<div class="box-ads-300">
+											<div style="margin:auto;">
+												<iframe id="a1727ae0" name="a1727ae0" src="https://a03.uadexchange.com/delivery/afr.php?zoneid=330&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="300" height="250"><a href='https://a03.uadexchange.com/delivery/ck.php?n=a776bbcf&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://a03.uadexchange.com/delivery/avw.php?zoneid=330&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a776bbcf' border='0' alt='' /></a></iframe>
+											</div>								
+										</div>									
+									
+									                                <div class="right-content-news-list">
+									<div class="col-sm-6 col-md-12 col-xs-12">
+										<div class="row">
+											<a href="https://www.uzone.id/garap-album-solo-terbaru-agnez-mo-pasang-target-tinggi" class="animate" alt="Garap Album Solo Terbaru, Agnez Mo Pasang Target Tinggi" title="Garap Album Solo Terbaru, Agnez Mo Pasang Target Tinggi">
+												<div class="right-content-news-list-images">
+																										<img onerror="imgError(this);" src="https://cdn4.uzone.id/assets/uploads/feeding/64785-agnes-monica-alias-agnez-mo-usai-bertemu-presiden-jokowi-di-istana-presiden-jakarta.jpg/600" alt="Garap Album Solo Terbaru, Agnez Mo Pasang Target Tinggi" title="Garap Album Solo Terbaru, Agnez Mo Pasang Target Tinggi">
+																								
+												</div>                                
+												<div class="right-content-news-list-description">
+													<p>Garap Album Solo Terbaru, Agnez Mo Pasang Target Tinggi</p>
+													<div class="right-content-news-list-description-bottom">
+														<span class="right-content-news-list-description-bottom-category">Entertainment</span>
+														<span class="right-content-news-list-description-bottom-time">9 Hour's ago</span>
+													</div>                                
+												</div>  
+											</a>    
+										</div>
+									</div>
+									<div class="clear-both-tab"></div>
+                                </div>      
+																<div style="clear:both;"></div>
+								
+                                <div class="box-ads-300">
+									<div style="margin:auto;">
+										<script type="text/javascript"><!--
+										google_ad_client = "ca-pub-9014285205252746";
+										/* Uzone 2017 */
+										google_ad_slot = "1821946265";
+										google_ad_width = 300;
+										google_ad_height = 250;
+										//-->
+										</script>
+										<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+										</script><ins id="aswift_0_expand" style="display:inline-table;border:none;height:250px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent;" data-ad-slot="1821946265"><ins id="aswift_0_anchor" style="display:block;border:none;height:250px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent;"><iframe width="300" height="250" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0px;width:300px;height:250px;"></iframe></ins></ins>
+									</div>								
+								</div>
+                               <div class="box-left-content">
+                                    <div class="row">
+                                        <div class="content-box-left">
+                                            <div class="box-trending">
+                                                <h3>MOST POPULAR</h3>
+                                                <ul>
+																													<li>
+																	<a href="http://uzone.id/-i-dear-i-xiaomi-gimana-nasib-note-7-pro-di-indonesia-" class="animate">
+																		<i>Dear</i> Xiaomi, Gimana Nasib Note 7 Pro di Indonesia?																	</a>
+																</li>															
+																															<li>
+																	<a href="http://uzone.id/viral-patung-putri-duyung-telanjang-dada-di-ancol-ditutup-kain" class="animate">
+																		Viral Patung Putri Duyung Telanjang Dada di Ancol Ditutup Kain																	</a>
+																</li>															
+																															<li>
+																	<a href="http://uzone.id/kena-serangan-jantung-butet-kertaradjasa-ambruk-saat-pentas" class="animate">
+																		Kena Serangan Jantung, Butet Kertaradjasa Ambruk Saat Pentas																	</a>
+																</li>															
+																															<li>
+																	<a href="http://uzone.id/garap-album-solo-terbaru-agnez-mo-pasang-target-tinggi" class="animate">
+																		Garap Album Solo Terbaru, Agnez Mo Pasang Target Tinggi																	</a>
+																</li>															
+																															<li>
+																	<a href="http://uzone.id/syahrinireino-barack-menyantap-makanan-termahal-di-dunia-intip-yuk" class="animate">
+																		Syahrini - Reino Barack Menyantap Makanan Termahal di Dunia, Intip Yuk!																	</a>
+																</li>															
+															                                                </ul>
+                                            </div>
+											<!--
+                                            <div class="box-ads">
+                                                <div>
+													<div style="margin:auto;text-align:center;">
+														<div id='div-gpt-ad-1496741603205-0' style='height:600px; width:300px;'>
+														<script>
+														googletag.cmd.push(function() { googletag.display('div-gpt-ad-1496741603205-0'); });
+														</script>
+														</div>		
+													</div>		                                                    
+                                                </div>
+                                            </div>                                            
+											-->
+                                        </div>
+                                    </div>
+                                </div>         								
+                            </div>
+                        
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>        
+        </div>        
+    </section> 
+    <section class="hangout-container" id="hangout">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+                    <div class="row">
+                        <div class="videoWrapper">
+							
+										<div class="box-video">
+											<iframe src="https://www.youtube.com/embed/q3joK9w6SME" frameborder="0" allowfullscreen="" style="width: 100%;height: 100%;"></iframe>
+										</div>									
+															
+							<!--
+                            <iframe src="http://www.youtube.com/embed/zdnPaW6L3K8" frameborder="0" allowfullscreen style="width: 100%;height: 100%;"></iframe>
+							-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="row">
+                        <div class="hangout-content-list">
+							                            <div class="hangout-content-list-item col-sm-4 col-md-12 col-xs-4" style="">
+								                                <a href="https://www.uzone.id/tonton-video-test-drive-wuling-almaz-libas-sukabumi-ciletuh-bandung" alt="Tonton Video Test Drive Wuling Almaz, Libas Sukabumi, Ciletuh, Bandung" title="Tonton Video Test Drive Wuling Almaz, Libas Sukabumi, Ciletuh, Bandung" class="animate">								
+																	                                    <img onerror="imgError(this);" src="https://cdn4.uzone.id//assets/uploads/Uzone/Automotive/Wuling/Almaz%20Test%201.jpg/400" alt="Tonton Video Test Drive Wuling Almaz, Libas Sukabumi, Ciletuh, Bandung" title="Tonton Video Test Drive Wuling Almaz, Libas Sukabumi, Ciletuh, Bandung">
+										
+								</a>
+                            </div>  
+							                            <div class="hangout-content-list-item col-sm-4 col-md-12 col-xs-4" style="">
+								                                <a href="https://www.uzone.id/tonton-video-review-suzuki-ertiga-improvement-2019-signifikansip-" alt="Tonton Video Review Suzuki Ertiga Improvement 2019, Signifikansip!" title="Tonton Video Review Suzuki Ertiga Improvement 2019, Signifikansip!" class="animate">								
+																	                                    <img onerror="imgError(this);" src="https://cdn4.uzone.id//assets/uploads/Uzone/Automotive/Ertiga%20Improve%202019.jpg/400" alt="Tonton Video Review Suzuki Ertiga Improvement 2019, Signifikansip!" title="Tonton Video Review Suzuki Ertiga Improvement 2019, Signifikansip!">
+										
+								</a>
+                            </div>  
+							                            <div class="hangout-content-list-item col-sm-4 col-md-12 col-xs-4" style="">
+								                                <a href="https://www.uzone.id/foto-test-drive-wuling-almaz-libas-jakarta-sukabumi-ciletuh-bandung" alt="Foto Test Drive Wuling Almaz Libas Jakarta, Sukabumi, Ciletuh, Bandung" title="Foto Test Drive Wuling Almaz Libas Jakarta, Sukabumi, Ciletuh, Bandung" class="animate">								
+																	                                    <img onerror="imgError(this);" src="https://cdn4.uzone.id//assets/uploads/Uzone/Automotive/Wuling/Almaz%20test%209.jpg/400" alt="Foto Test Drive Wuling Almaz Libas Jakarta, Sukabumi, Ciletuh, Bandung" title="Foto Test Drive Wuling Almaz Libas Jakarta, Sukabumi, Ciletuh, Bandung">
+										
+								</a>
+                            </div>  
+							
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>        
+    </section>
+    <section class="bottom-list-container">
+        <div class="container">
+            <div class="row">
+                <!--LIST CONTENT BOTTOM-->
+                <div class="col-md-3">
+                    <div>
+                        <div class="bottom-list-content-box">
+                            <h1>Health</h1>
+														                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/4-gaya-hidup-orang-tua-yang-punya-dampak-buruk-bagi-anak" class="animate" alt="4 Gaya Hidup Orang Tua yang Punya Dampak Buruk bagi Anak" title="4 Gaya Hidup Orang Tua yang Punya Dampak Buruk bagi Anak">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        4 Gaya Hidup Orang Tua yang Punya Dampak Buruk bagi Anak                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/lidah-tertusuk-jarum-saat-makan-burger-di-restoran" class="animate" alt="Lidah Tertusuk Jarum Saat Makan Burger di Restoran" title="Lidah Tertusuk Jarum Saat Makan Burger di Restoran">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Lidah Tertusuk Jarum Saat Makan Burger di Restoran                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/katanya-migrain-itu-juga-tanda-hamil-benarkah" class="animate" alt="Katanya, Migrain Itu Juga Tanda Hamil. Benarkah?" title="Katanya, Migrain Itu Juga Tanda Hamil. Benarkah?">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Katanya, Migrain Itu Juga Tanda Hamil. Benarkah?                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/anak-sering-mendengkur-apakahamandel-harus-diangkat" class="animate" alt="Anak Sering Mendengkur Apakah&nbsp;Amandel Harus Diangkat?" title="Anak Sering Mendengkur Apakah&nbsp;Amandel Harus Diangkat?">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Anak Sering Mendengkur Apakah&nbsp;Amandel Harus Diangkat?                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/angka-kelahiran-di-china-terus-turun-apa-penyebabnya" class="animate" alt="Angka Kelahiran di China Terus Turun, Apa Penyebabnya?" title="Angka Kelahiran di China Terus Turun, Apa Penyebabnya?">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Angka Kelahiran di China Terus Turun, Apa Penyebabnya?                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/minum-minuman-beralkohol-bikin-kurus-mitos-atau-fakta" class="animate" alt="Minum Minuman Beralkohol Bikin Kurus, Mitos atau Fakta?" title="Minum Minuman Beralkohol Bikin Kurus, Mitos atau Fakta?">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Minum Minuman Beralkohol Bikin Kurus, Mitos atau Fakta?                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+															                        </div>
+                    </div>
+                </div>
+                <!--LIST CONTENT BOTTOM-->
+                <!--LIST CONTENT BOTTOM-->
+                <div class="col-md-3">
+                    <div>
+                        <div class="bottom-list-content-box">
+                            <h1>Film</h1>
+														                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/7-film-comeback-yang-kembali-angkat-karir-pemain-utamanya" class="animate" alt="7 Film Comeback yang Kembali Angkat Karir Pemain Utamanya" title="7 Film Comeback yang Kembali Angkat Karir Pemain Utamanya">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        7 Film Comeback yang Kembali Angkat Karir Pemain Utamanya                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/5-drama-korea-yang-se-jong-yang-bikin-wajahnya-makin-dikenal-keepome" class="animate" alt="5 Drama Korea Yang Se Jong yang Bikin Wajahnya Makin Dikenal" title="5 Drama Korea Yang Se Jong yang Bikin Wajahnya Makin Dikenal">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        5 Drama Korea Yang Se Jong yang Bikin Wajahnya Makin Dikenal                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/7-film-romantis-indonesia-yang-diangkat-dari-novel-terlaris-keepome" class="animate" alt="7 Film Romantis Indonesia yang Diangkat Dari Novel Terlaris" title="7 Film Romantis Indonesia yang Diangkat Dari Novel Terlaris">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        7 Film Romantis Indonesia yang Diangkat Dari Novel Terlaris                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/saling-suka-kirana-larasati-dan-gading-marten-tak-berani-nyatakan-cinta" class="animate" alt="Saling Suka, Kirana Larasati dan Gading Marten Tak Berani Nyatakan Cinta" title="Saling Suka, Kirana Larasati dan Gading Marten Tak Berani Nyatakan Cinta">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Saling Suka, Kirana Larasati dan Gading Marten Tak Berani Nyatakan Cinta                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/keluar-dari-zona-nyaman-raline-shah-pertama-kali-main-film-action-seperti-apa-aksinya-" class="animate" alt="Keluar dari Zona Nyaman, Raline Shah Pertama Kali Main Film Action! Seperti Apa Aksinya?" title="Keluar dari Zona Nyaman, Raline Shah Pertama Kali Main Film Action! Seperti Apa Aksinya?">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Keluar dari Zona Nyaman, Raline Shah Pertama Kali Main Film Action! Seperti Apa Aksinya?                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/sinopsis-rumput-tetangga-yang-siap-tayang-18-april-2019" class="animate" alt="Sinopsis 'Rumput Tetangga' yang Siap Tayang 18 April 2019" title="Sinopsis 'Rumput Tetangga' yang Siap Tayang 18 April 2019">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Sinopsis 'Rumput Tetangga' yang Siap Tayang 18 April 2019                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+															            
+                        </div>
+                    </div>
+                </div>
+                <!--LIST CONTENT BOTTOM-->
+                <!--LIST CONTENT BOTTOM-->
+                <div class="col-md-3">
+                    <div>
+                        <div class="bottom-list-content-box">
+                            <h1>Sport</h1>
+														                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/inggris-bantai-republik-ceko-sterling-cetak-trigol" class="animate" alt="Inggris Bantai Republik Ceko, Sterling Cetak Trigol" title="Inggris Bantai Republik Ceko, Sterling Cetak Trigol">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Inggris Bantai Republik Ceko, Sterling Cetak Trigol                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/berkat-zinedine-zidane-eden-hazard-mulai-bermain-sepak-bola" class="animate" alt="Berkat Zinedine Zidane, Eden Hazard Mulai Bermain Sepak Bola" title="Berkat Zinedine Zidane, Eden Hazard Mulai Bermain Sepak Bola">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Berkat Zinedine Zidane, Eden Hazard Mulai Bermain Sepak Bola                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/pelatih-persib-dukung-penggunaan-var-di-liga-1" class="animate" alt="Pelatih Persib Dukung Penggunaan VAR di Liga 1" title="Pelatih Persib Dukung Penggunaan VAR di Liga 1">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Pelatih Persib Dukung Penggunaan VAR di Liga 1                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/messi-siap-jadi-starter-setelah-sembilan-bulan-absen-perkuat-argentina" class="animate" alt="Messi Siap Jadi Starter Setelah Sembilan Bulan Absen Perkuat Argentina" title="Messi Siap Jadi Starter Setelah Sembilan Bulan Absen Perkuat Argentina">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Messi Siap Jadi Starter Setelah Sembilan Bulan Absen Perkuat Argentina                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/jim-ratcliffe-masih-punya-kans-akhiri-rezim-abramovich-di-chelsea" class="animate" alt="Jim Ratcliffe Masih Punya Kans Akhiri Rezim Abramovich di Chelsea" title="Jim Ratcliffe Masih Punya Kans Akhiri Rezim Abramovich di Chelsea">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Jim Ratcliffe Masih Punya Kans Akhiri Rezim Abramovich di Chelsea                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/imbangi-huddersfield-performa-garuda-select-dikomentari-legenda-arsenal" class="animate" alt="Imbangi Huddersfield, Performa Garuda Select Dikomentari Legenda Arsenal" title="Imbangi Huddersfield, Performa Garuda Select Dikomentari Legenda Arsenal">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Imbangi Huddersfield, Performa Garuda Select Dikomentari Legenda Arsenal                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+															                 
+                        </div>
+                    </div>
+                </div>
+                <!--LIST CONTENT BOTTOM-->
+                <!--LIST CONTENT BOTTOM-->
+                <div class="col-md-3">
+                    <div>
+                        <div class="bottom-list-content-box">
+                            <h1>Games</h1>
+														                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/tagar-pubgharam-menggema-di-twitter" class="animate" alt="Tagar #PUBGharam Menggema di Twitter" title="Tagar #PUBGharam Menggema di Twitter">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Tagar #PUBGharam Menggema di Twitter                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/siapa-penentu-haram-halal-pubg-mui-atau-kominfo-" class="animate" alt="Siapa Penentu 'Haram - Halal' PUBG, MUI atau Kominfo?" title="Siapa Penentu 'Haram - Halal' PUBG, MUI atau Kominfo?">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Siapa Penentu 'Haram - Halal' PUBG, MUI atau Kominfo?                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/fatwa-haram-playerunknowns-battlegrounds-meluas-giliran-mui-jabar" class="animate" alt="Fatwa Haram PlayerUnknowns Battlegrounds Meluas, Giliran MUI Jabar" title="Fatwa Haram PlayerUnknowns Battlegrounds Meluas, Giliran MUI Jabar">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Fatwa Haram PlayerUnknowns Battlegrounds Meluas, Giliran MUI Jabar                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/stadia-layanan-streaming-video-game-dari-google" class="animate" alt="Stadia, Layanan Streaming Video Game dari Google" title="Stadia, Layanan Streaming Video Game dari Google">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Stadia, Layanan Streaming Video Game dari Google                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/dianggap-permainan-iblis-ketahuan-main-pubg-di-india-bisa-dipenjara" class="animate" alt="Dianggap Permainan Iblis, Ketahuan Main PUBG di India Bisa Dipenjara" title="Dianggap Permainan Iblis, Ketahuan Main PUBG di India Bisa Dipenjara">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        Dianggap Permainan Iblis, Ketahuan Main PUBG di India Bisa Dipenjara                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+																						                            <div class="bottom-list-content-box-item">
+                                <a href="https://www.uzone.id/april-2019-snapchat-luncurkan-platform-game" class="animate" alt="April 2019, Snapchat Luncurkan Platform Game?" title="April 2019, Snapchat Luncurkan Platform Game?">
+                                    <div class="bottom-list-content-box-item-description-2">
+                                        April 2019, Snapchat Luncurkan Platform Game?                                    </div>
+                                    <div style="clear: both;"></div>
+                                </a>
+                            </div>       
+                            <div class="divider2"></div>                     
+								
+															                 
+                        </div>
+                    </div>
+                </div>
+                <!--LIST CONTENT BOTTOM-->				
+            </div>
+        </div>        
+    </section>
+<!--CONTENT-->    
+<style>
+.bottom-list-content-box h1{
+	font-size:22px;
+}
+</style>
+<script>
+$(".video").click(function(){
+	var url = $(this).attr("data");
+	$(".videoWrapper").html("<div class='box-video'><iframe src='" + url + "' frameborder='0' allowfullscreen style='width: 100%;height: 100%;'></iframe></div>");
+});
+	$(document).ready(function(){
+		var count = 0;
+		$('.button-load-more-mobile').click(function(){
+			setTimeout(function(){
+				$('.button-load-more-mobile').html("Waiting For a Seconds ...");
+			}, 0);					
+			if(count == 0){
+				count = 1;						
+				setTimeout(function(){
+					getmoredataindex();
+					$('.button-load-more-mobile').html("Load More");
+					count = 0;
+				}, 1000);											
+			}
+			console.log(count);
+		});
+	});
+
+  	
+	 function getmoredataindex(){
+
+	 	var id= $('.infinite:last').attr("id");
+		var uri = $('.infinite:last').attr("uri");
+		var param = $('.infinite:last').attr("param");
+		console.log(param +' - '+id+' - '+uri);
+        $.ajax({
+            type: 'POST',
+            url: 'https://www.uzone.id/reborn_canal/getDataInfinite',
+            data : 'csrfuzone2016=5eac65d7382f305ec57ee0f0b367257e&id='+id+'&uri='+uri+'&param='+param,
+            success: function(response) {
+				$('.box-ajax-content').append(response); 
+            }
+        });
+    }
+	$(window).scroll(function() {
+		windowsize = $(window).width();
+        if(windowsize <= 992){
+			if ($(window).scrollTop() > 300 && $(window).scrollTop() < 800){
+				$('.box-social-media').addClass('active');
+			} else {
+				$('.box-social-media').removeClass('active');
+			}            
+        }
+	});  	
+</script>
+<script async="" src="//compass.adop.cc/assets/js/adop/adopJ.js?v=10"></script><ins class="adsbyadop_3e31e398-ffcf-4d95-b8a5-9281dd77e94d1nX" _adop_zon="3e31e398-ffcf-4d95-b8a5-9281dd77e94d" _adop_type="re" style="display:inline-block;width:1px;height:1px;" _page_url=""><div style="width:1px;height:1px; "><iframe id="adopB18821" frameborder="0" marginwidth="0" marginheight="0" paddingwidth="0" paddingheight="0" scrolling="no" style="width: 1px; height: 0px; max-width: none; max-height: none; position: static; z-index: auto; border: 0px none rgb(0, 0, 0); transition: all 0s ease 0s; right: 0.1px; bottom: 0.1px;"></iframe></div></ins>	
+
+
+
+	
+<script type="text/javascript">
+    (function () {
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.id = '_kiss-overlay';
+        s.src = 'https://venue-files.locatise.io/clusters/12/starter.js';
+        window._kakku_kiss_publisher = {
+            ipContent: '226.0.1.2', 
+            advertisingConfigUrl: 'https://venue-files.locatise.io/venues/63/publisher-config.json'
+        };
+        document.head.appendChild(s);
+    })();
+</script>
+    <footer class="footer-box">
+        <div class="container">
+            <div class="row">
+                <div class="box-footer">
+                    <div class="col-md-6">
+                        Copyright © 2017 PT. Metra-Net. All rights reserved.
+                    </div>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>
+                                <a href="https://uzone.id/redaksi">Redaksi</a>
+                            </li>
+                            <li>
+                                <a href="https://uzone.id/ketentuan-layanan">Ketentuan Layanan</a>
+                            </li>
+                            <li>
+                                <a href="https://uzone.id/kebijakan-privasi">Kebijakan Privasi</a>
+                            </li>
+                            <li>
+                                <a href="https://uzone.id/pedoman-media-siber">Pedoman Media Siber</a>
+                            </li>
+                            <li>
+                                <a href="https://uzone.id/advertise-with-us">Pasang Iklan</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div style="clear:both;"></div>
+                </div>
+            </div>
+        </div>
+    </footer>
+<!--END WRAPPER-->
+</div>
+<!--END WRAPPER-->
+<div id="sas_44269"><script id="sas_script1" type="text/javascript" src="//adnetwork.adasiaholdings.com/ac?nwid=2060&amp;siteid=134496&amp;pgid=748235&amp;fmtid=44269&amp;async=1&amp;visit=m&amp;tmstp=7423344986&amp;tag=sas_44269&amp;sh=800&amp;sw=1280&amp;pgDomain=https%3A%2F%2Fwww.uzone.id%2F&amp;noadcbk=sas.noad" async=""></script></div>
+<script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.call("std", {
+            siteId: 134496, // 
+            pageId: 748235, // Page : ID_uzone.id/uzone_allpages
+            formatId: 44269, // Format : Video-Read 1x1
+            target: '' // Targeting
+        });
+    });
+</script>
+<noscript>
+    <a href="//adnetwork.adasiaholdings.com/ac?jump=1&nwid=2060&siteid=134496&pgname=uzone_allpages&fmtid=44269&visit=m&tmstp=[timestamp]&out=nonrich" target="_blank">
+        <img src="//adnetwork.adasiaholdings.com/ac?out=nonrich&nwid=2060&siteid=134496&pgname=uzone_allpages&fmtid=44269&visit=m&tmstp=[timestamp]" border="0" alt="" />
+    </a>
+</noscript>
+
+<script type="text/javascript" src="https://cdn4.uzone.id/assets/css/js/responsiveCarouselCustom.js"></script>
+<script type="text/javascript" src="https://cdn4.uzone.id/assets/css/js/sticky.js"></script>
+<script type="text/javascript" id="">_atrk_opts={atrk_acct:"m/hBm1akKd60bm",domain:"uzone.id",dynamic:!0};(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://d31qbv1cthcecs.cloudfront.net/atrk.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=m/hBm1akKd60bm" style="display:none" height="1" width="1" alt=""></noscript>
+ <script type="text/javascript" id="gtm-scroll-tracking">(function(b,g,a){function l(){if(!b.querySelector||!b.body.getBoundingClientRect)return!1;a.dataLayerName=a.dataLayerName||"dataLayer";a.distances=a.distances||{};p();n(g,"scroll",v(p,500))}function q(e,f,c,d,a){var k;for(k=0;k<f.length;k++){var b=parseInt(f[k],10),h="%"!==c?b+a:b/100*d+a;b+=c;h<=d+a&&(e[b]=h)}return e}function r(e,a){var c=parseInt(e,10),d=a/c,f=[],b;for(b=1;b<d+1;b++)f.push(b*c);return f}function p(){var e=t(a.bottom),f=t(a.top),c=b.body,d=b.documentElement;c=Math.max(c.scrollHeight,
+c.offsetHeight,d.clientHeight,d.scrollHeight,d.offsetHeight);f&&(c-=f);e&&(c=e-(f||0));e=c-5;f=f||0;c={};d=[];var h=[];if(a.distances.percentages&&(a.distances.percentages.each&&(d=d.concat(a.distances.percentages.each)),a.distances.percentages.every)){var k=r(a.distances.percentages.every,100);d=d.concat(k)}a.distances.pixels&&(a.distances.pixels.each&&(h=h.concat(a.distances.pixels.each)),a.distances.pixels.every&&(k=r(a.distances.pixels.every,e),h=h.concat(k)));c=q(c,d,"%",e,f);e=c=q(c,h,"px",
+e,f);f=void 0!==g.pageXOffset;c="CSS1Compat"===(b.compatMode||"");f=f?g.pageYOffset:c?b.documentElement.scrollTop:b.body.scrollTop;f=parseInt(f,10);c=parseInt;d="CSS1Compat"===b.compatMode?b.documentElement:b.body;d=d.clientHeight;f+=c(d,10);for(var m in e)if(f>e[m]&&!u[m])if(u[m]=!0,c=m,d=g.GoogleAnalyticsObject,"undefined"===typeof g[a.dataLayerName]||a.forceSyntax)if("function"===typeof g[d]&&"function"===typeof g[d].getAll&&2!==a.forceSyntax)g[d]("send","event",a.category,c,a.label,{nonInteraction:1});
+else"undefined"!==typeof g._gaq&&1!==a.forceSyntax&&g._gaq.push(["_trackEvent",a.category,c,a.label,0,!0]);else g[a.dataLayerName].push({event:"scrollTracking",attributes:{distance:c,label:a.label}})}function t(e){if("number"===typeof e||parseInt(e,10))return parseInt(e,10);try{var a=1===e.nodeType?e:b.querySelector(e),c=b.body.getBoundingClientRect().top,d=Math.floor(a.getBoundingClientRect().top-c);return d}catch(h){}}function v(a,f){var c,d,e,b=null,g=0,l=function(){g=new Date;b=null;e=a.apply(c,
+d)};return function(){var h=new Date;g||(g=h);var k=f-(h-g);c=this;d=arguments;0>=k?(clearTimeout(b),b=null,g=h,e=a.apply(c,d)):b||(b=setTimeout(l,k));return e}}function n(a,b,c){if(a.addEventListener)a.addEventListener(b,c);else if(a.attachEvent)a.attachEvent("on"+b,function(b){c.call(a,b)});else if("undefined"===typeof a["on"+b]||null===a["on"+b])a["on"+b]=function(b){c.call(a,b)}}var u={};"loading"!==b.readyState?l():b.addEventListener?n(b,"DOMContentLoaded",l):n(g,"load",l)})(document,window,
+{forceSyntax:!1,dataLayerName:!1,distances:{percentages:{each:[10,90],every:25},pixels:{each:[],every:null}},top:null,bottom:null,category:"Scroll Tracking",label:document.location.pathname});</script><script type="text/javascript" id="navegg">(function(c,d,e){o="Navegg";c[o]||(a=d.createElement("script"),a.src=e,b=document.getElementsByTagName("script")[0],b.parentNode.insertBefore(a,b),c[o]=c[o]||function(d){c[o].q=c[o].q||[];c[o].q.push([this,d])})})(window,document,"https://tag.navdmp.com/universal.min.js");window.naveggReady=window.naveggReady||[];nvg51046=new Navegg({acc:51046});</script>
+<link href="https://cdn4.uzone.id/assets/css/owl-carousel/owl.carousel.css" rel="stylesheet">
+<link href="https://cdn4.uzone.id/assets/css/owl-carousel/owl.theme.css" rel="stylesheet">
+<script src="https://cdn4.uzone.id/assets/css/owl-carousel/owl.carousel.js"></script>
+
+<script>
+    $(document).ready(function(){
+
+		$(".button-sticky").css("z-index","999");
+		$(".button-sticky").click(function(){
+			$(".sticky-ads").toggle();
+		});			
+        // $("#myAccountTooltip").tooltip('show');
+        $(".dropdown-user").click(function(){
+            $(".dropdown-menu-user").toggle();
+        });		
+        $(".dropdown-user-2").click(function(){
+            $(".dropdown-menu-user-2").toggle();
+        });		
+		console.log("172.17.61.6");
+        // Stickyfill.add(sidebar);
+        $("#owl-0").owlCarousel({
+			items: 5,
+			itemsDesktopSmall: [1000,4],
+			itemsTablet: [800,4],
+			itemsTabletSmall: [500,3],
+            itemsMobile : false,
+            navigation : false,
+            pagination : false,
+			singleItem : false
+
+        });        
+        var owl0 = $("#owl-0");
+        $(".next-owl").click(function(){
+            owl0.trigger('owl.next');
+        });
+        $(".previous-owl").click(function(){
+            owl0.trigger('owl.prev');
+        });
+        $("#owlo-1").owlCarousel({
+            items : 1,
+            itemsMobile : 1,
+            singleItem:true,
+            navigation : false,
+            pagination : true,
+            autoPlay : 3000,
+            stopOnHover : true,
+            autoHeight : true
+        });         
+//        $(".top-menu-mobile").css("display","none");
+        var carouselEle = $('.crsl-items');
+        carouselEle.carousel({ 
+            overflow: true, 
+            visible: 1, 
+            itemMinWidth: 900,
+            itemMargin: 0, 
+            autoRotate: 5000,
+            speed: 1000,
+            imageWideClass:'wide-image'
+        });
+        carouselEle.on('initCarousel', function(event, defaults, obj){
+            $(".crsl-active").prev().addClass("crsl-opacity");
+            $(".crsl-active figcaption").addClass("crsl-active-caption");
+            $(".crsl-active").next().next().next().addClass("crsl-opacity");
+            //add prevent carousel rotation on hover
+            $(this).hover( function(){
+                clearInterval( obj.rotateTime );
+            }, function(){
+                obj.rotateTime = window.setInterval( function(){
+                    obj.rotate();
+                }, defaults.autoRotate);
+            });
+        });
+        carouselEle.on('beginCarousel', function(event, defaults, obj){
+            $(".carousel-slide").removeClass("crsl-opacity");
+            $(".carousel-slide figcaption").removeClass("crsl-active-caption");
+            if(obj.wrapMargin > obj.wrapMarginDefault) {
+                $(".crsl-active").prev().prev().addClass("crsl-opacity");
+                $(".crsl-active").prev().find("figcaption").addClass("crsl-active-caption");
+                $(".crsl-active").next().next().addClass("crsl-opacity");
+            }
+             else {
+                $(".crsl-active").addClass("crsl-opacity");
+                $(".crsl-active").next().find("figcaption").addClass("crsl-active-caption");
+                $(".crsl-active").next().next().next().next().addClass("crsl-opacity");
+            }
+
+        });
+        windowsize = $(window).width();
+        if(windowsize <= 767){
+            $('.top-menu-container').addClass('navbar-fixed-top');            
+        }else{
+            $('.top-menu-container').removeClass('navbar-fixed-top');            
+        }
+		var stickySkinner = $('.skinner-left').offset().top;
+		var stickyNavSkinner = function(){
+			var scrollTop = $(window).scrollTop();
+			if (scrollTop > stickySkinner) { 
+				$('.skinner-left').addClass('fixed-skinner');
+				$('.skinner-right').addClass('fixed-skinner');
+			} else {
+				$('.skinner-left').removeClass('fixed-skinner'); 
+				$('.skinner-right').removeClass('fixed-skinner'); 
+			}
+		};		
+        var stickyNavTop = $('.top-menu-container').offset().top;
+        var stickyNav = function(){
+            var scrollTop = $(window).scrollTop();
+            if(windowsize <= 767){
+                $('.top-menu-container').addClass('navbar-fixed-top');                
+            }else{
+                if (scrollTop > stickyNavTop) { 
+                    $('.top-menu-container').addClass('navbar-fixed-top');
+                } else {
+                    $('.top-menu-container').removeClass('navbar-fixed-top');
+                }
+            }
+        };        
+        $(window).scroll(function() {
+			stickyNavSkinner();
+            stickyNav();
+            if ($(window).scrollTop() > 100){
+                $('.fly-to-top').addClass('to-top-trans');
+            } else {
+                $('.fly-to-top').removeClass('to-top-trans');
+            }       
+			if ($(window).scrollTop() > 150){
+				$(".body-background").addClass("active");
+			} else {
+				$(".body-background").removeClass("active");
+			}			
+        });   
+        var duration = 500;
+        $('.back-to-top').on('click', function(event) {
+          event.preventDefault();
+          $('html, body').animate({scrollTop: 0}, duration);
+          return false;
+        });             
+        $(".search-icon-2").click(function(){
+            $("li.search-2").toggle();
+            document.querySelector('input').focus();
+        });
+        $(".search-icon-3").click(function(){
+            $("li.search").toggle();
+            document.querySelector('.searchtext').focus();
+        });
+        var trigger = $('.hamburger'),
+          overlay = $('.overlay'),
+         isClosed = false;
+
+        trigger.click(function () {
+          hamburger_cross();      
+        });
+
+        function hamburger_cross() {
+
+          if (isClosed == true) {          
+            overlay.hide();
+            trigger.removeClass('is-open');
+            trigger.addClass('is-closed');
+            isClosed = false;  
+            $(".navbar-brand-mobile").removeClass("left-50");
+          } else {   
+            overlay.show();
+            trigger.removeClass('is-closed');
+            trigger.addClass('is-open');
+            isClosed = true;
+            $(".navbar-brand-mobile").addClass("left-50");
+          }
+        }
+          $('[data-toggle="offcanvas"]').click(function () {
+                $('#wrapper').toggleClass('toggled');
+          }); 
+
+          /*HEADLINE*/
+            var animationDelay = 5000;
+            animateHeadline($('.trending-right-list'));
+            function animateHeadline($headlines) {
+                $headlines.each(function(){
+                    var headline = $(this);
+                    //trigger animation
+                    setTimeout(function(){ hideWord( headline.find('.active') ) }, animationDelay);
+                    //other checks here ...
+                });
+            }         
+            function hideWord($word) {
+                var nextWord = takeNext($word);
+                switchWord($word, nextWord);
+                setTimeout(function(){ hideWord(nextWord) }, animationDelay);
+            }
+            function takeNext($word) {
+                return (!$word.is(':last-child')) ? $word.next() : $word.parent().children().eq(0);
+            }
+            function switchWord($oldWord, $newWord) {
+                $oldWord.removeClass('active');
+                $newWord.addClass('active');
+            }             
+          /*HEADLINE*/
+    });
+	/*SEARCH*/
+	$("#search").keypress(function(event) {
+		var keycode = event.keyCode || event.which;
+		if(keycode == '13') {
+			var search = encodeURIComponent($("#search").val()).replace(/%20/g,'+');
+			window.location.replace("https://www.uzone.id/search/" + search);
+		}
+	});	
+	$("#search_mobile").keypress(function(event) {
+		var keycode = event.keyCode || event.which;
+		if(keycode == '13') {
+			var search = encodeURIComponent($("#search_mobile").val()).replace(/%20/g,'+');
+			window.location.replace("https://www.uzone.id/search/" + search);
+		}
+	});		
+	/*SEARCH*/
+    $(window).resize(function() {
+      var trigger = $('.hamburger'),
+          overlay = $('.overlay'),
+         isClosed = false;      
+        var width = $(window).width();
+        if(width >= 768){
+            overlay.hide();
+            trigger.removeClass('is-open');
+            trigger.addClass('is-closed');
+            isClosed = false;  
+            $(".navbar-brand-mobile").removeClass("left-50");
+            $('#wrapper').removeClass('toggled');
+        }
+        windowsize = $(window).width();
+        if(windowsize <= 767){
+            $('.top-menu-container').addClass('navbar-fixed-top');            
+        }else{
+            $('.top-menu-container').removeClass('navbar-fixed-top');            
+        }     
+        // if(windowsize >= 1200){
+            // $('li.search').css("display","block");
+        // }else{
+            // $('li.search').css("display","none");            
+        // }   
+        var stickyNavTop = $('.top-menu-container').offset().top;
+        var stickyNav = function(){
+            var scrollTop = $(window).scrollTop();
+            if(windowsize <= 767){
+                $('.top-menu-container').removeClass('navbar-fixed-top');
+                $('.top-menu-container').addClass('navbar-fixed-top');                
+            }else{
+                if (scrollTop > stickyNavTop) { 
+                    $('.top-menu-container').addClass('navbar-fixed-top');
+                } else {
+                    $('.top-menu-container').removeClass('navbar-fixed-top');
+                }
+            }
+        };        
+	
+    }); 
+    
+</script>   
+<div class="modal fade" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="modalLoginLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+	      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title" id="myModalLabel">Login</h4>
+      </div>
+      <div class="modal-body">
+		<div class="login-box facebook-theme">
+			<a href="https://uzone.id/callback/Facebook?current_url=http%3A%2F%2Fwww.uzone.id%2F">
+				<span class="fa fa-facebook"></span> Login With Facebook
+			</a>
+		</div>
+		<!--
+		<div class="login-box" style="background-color:#CCC;" data-toggle="tooltip" data-placement="bottom" title="Mohon maaf, login menggunakan facebook sedang dalam pemeliharaan">
+			<a href="#">
+				<span class="fa fa-facebook"></span> Login With Facebook
+			</a>
+		</div>
+		-->
+		<div class="login-box twitter-theme">
+			<a href="https://uzone.id/callback/Twitter?current_url=http%3A%2F%2Fwww.uzone.id%2F">
+				<span class="fa fa-twitter"></span> Login With Twitter
+			</a>
+		</div>
+		<div class="login-box google-theme">
+			<a href="https://uzone.id/callback/Google?current_url=http%3A%2F%2Fwww.uzone.id%2F">
+				<span class="fa fa-google"></span> Login With Google
+			</a>
+		</div>
+		<div class="login-box" style="color:#FFF;background-color:red;">
+			<a href="https://uzone.id/members/login">
+				<span class="fa fa-mobile"></span> Login With Phone Number
+			</a>
+		</div>		
+      </div>	
+	    </div>
+  </div>
+</div>
+<div class="fly-to-top back-to-top">
+    <i class="fa fa-angle-up fa-3"></i>
+    <span class="to-top-text">To Top</span>
+</div><!--fly-to-top-->
+<div class="box-social-media">
+	<ul class="box-social-media-ul">
+		<a href="https://www.facebook.com/UZoneIndonesia/">
+			<li class="facebook-theme">
+				<span class="fa fa-facebook animate"></span>
+			</li>
+		</a>
+		<a href="https://twitter.com/UZoneIndonesia">
+			<li class="twitter-theme">
+				<span class="fa fa-twitter animate"></span>
+			</li>
+		</a>
+		<a href="https://www.instagram.com/uzoneindonesia/">
+			<li class="instagram-theme">
+				<span class="fa fa-instagram animate"></span>
+			</li>
+		</a>
+		<a href="https://www.youtube.com/c/uzoneindonesia">
+			<li class="youtube-theme">
+				<span class="fa fa-youtube animate"></span>
+			</li>
+		</a>
+	</ul>
+</div>
+<!--
+<div style="position: fixed;left: 0;bottom: 0;margin:auto;text-align:center;width: 100%;z-index:100;transition:all ease 0.5s;transition:-moz-all ease 0.5s;-o-transition:all ease 0.5s;-webkit-transition:all ease 0.5s;overflow:hidden;margin:auto;">
+	<div style="position:relative;width:970px;transition:all ease 0.5s;transition:-moz-all ease 0.5s;-o-transition:all ease 0.5s;-webkit-transition:all ease 0.5s;margin:auto;" class="sticky-ads">
+		<div style="width:20px;text-align:center;background-color:#222;color:#FFF;margin:auto;position:absolute;top:0px;right:0px;cursor:pointer;z-index:9999;" class="button-sticky"><span class="fa fa-close" style="font-size:12px;"></span></div>
+		<div style='margin:auto;'>
+			<div id='div-gpt-ad-1490070249673-0' style='width:970px;'>
+			<script>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1490070249673-0'); });
+			</script>
+			</div>
+		</div>
+	</div>
+</div>
+-->	
+	<!--INTERTITIAL-->
+ 	
+	
+<!--INTERTITIAL-->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "13840401" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="https://sb.scorecardresearch.com/p?c1=2&c2=13840401&cv=2.0&cj=1" />
+</noscript>
+
+<!-- End comScore Tag -->
+<style>
+.theme-ramadhan{
+	background-image: url("https://cdn4.uzone.id/assets/uploads/others/uzone/Ornamen.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	padding: 20px 0px;	
+}
+/*
+.top-ads-container{
+	margin:0px auto;
+}*/
+.body-background{
+	overflow-x: hidden;
+	background: url('https://cdn4.uzone.id/assets/uploads/others/uzone/langit musik.png');
+	background-size: 1400px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center 250px;	
+}
+.body-background.active{
+	background-position: center 50px;		
+}
+</style>
+
+<!--
+<style>.modal2{z-index:10000 !important;display:none;position:fixed;z-index:1;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:rgb(0,0,0);background-color:rgba(0,0,0,.4)}.modal-content2{background-color:#fefefe;margin:2% auto;padding:1px;width:640px;position:relative;}.close{color:#000;float:right;font-size:14px;font-weight:700;position:absolute;top:-10px;right:-10px;background-color:#FFF;padding:5px 10px;border-radius:90px;z-index:1000}.close:hover,.close:focus{color:black;text-decoration:none;cursor:pointer}.adBorder{border:solid 0 #000!important}.hilang{display:none !important;}
+</style> 		 
+<div id="myModal" class="modal2" style="display:block;">
+  <div class="modal-content2">
+	<span class="close">x</span>
+		<a href="http://bit.ly/TanyaUzoners">
+			<img src="https://cdn4.uzone.id/assets/uploads/others/uzone/banner-tanyauzoners-dekstop.jpg">
+		</a>
+  </div>
+</div> 
+<button id="myBtn" style="display:none;">Open Modal</button> 
+<script type="text/javascript">
+    var modal = document.getElementById('myModal');
+    var btn = document.getElementById("myBtn");
+    var span = document.getElementsByClassName("close")[0];
+
+	$(".close").click(function(){
+		$(".modal2").css({ 'display': "none" });
+	});	
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }     
+	$(document).ready(function() {
+            modal.style.display = "block";
+			var second = 10;
+			var ab = setInterval(function(){
+				--second;
+				if (second === 0){
+					clearInterval(ab);
+					$(".modal2").addClass('hilang');
+				}
+				},1000);
+
+	});		 
+			setTimeout(function(){ 
+					$(".modal2").addClass('hilang');
+			}, 10000);				
+	
+</script>	
+-->	
+		<!--
+<style>.modal2{z-index:10000 !important;display:none;position:fixed;z-index:1;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:rgb(0,0,0);background-color:rgba(0,0,0,.4)}.modal-content2{background-color:#fefefe;margin:2% auto;padding:1px;width:320px;position:relative;}.close{color:#000;float:right;font-size:14px;font-weight:700;position:absolute;top:-10px;right:-10px;background-color:#FFF;padding:5px 10px;border-radius:90px;z-index:1000}.close:hover,.close:focus{color:black;text-decoration:none;cursor:pointer}.adBorder{border:solid 0 #000!important}.hilang{display:none !important;}
+</style> 		 
+<div id="myModal" class="modal2" style="display:block;">
+  <div class="modal-content2">
+	<span class="close">x</span>
+		<a href="http://bit.ly/TanyaUzoners">
+			<img src="https://cdn4.uzone.id/assets/uploads/others/uzone/banner-tanyauzoners-mobile.jpg" style="width:100%;">
+		</a>
+  </div>
+</div> 
+<button id="myBtn" style="display:none;">Open Modal</button> 
+<script type="text/javascript">
+    var modal = document.getElementById('myModal');
+    var btn = document.getElementById("myBtn");
+    var span = document.getElementsByClassName("close")[0];
+
+	$(".close").click(function(){
+		$(".modal2").css({ 'display': "none" });
+	});	
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }     
+	$(document).ready(function() {
+            modal.style.display = "block";
+			var second = 10;
+			var ab = setInterval(function(){
+				--second;
+				if (second === 0){
+					clearInterval(ab);
+					$(".modal2").addClass('hilang');
+				}
+				},1000);
+
+	});		 
+			setTimeout(function(){ 
+					$(".modal2").addClass('hilang');
+			}, 10000);				
+	
+</script>		-->
+	
+<style>
+#owl-0 .content-row-images {
+    font-family: Titillium;
+    font-size: 12px;
+    margin-top: 3px;
+    text-align: center;
+}
+</style><iframe id="google_osd_static_frame_3529630430671" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body><iframe id="google_shimpl" style="display: none;"></iframe><iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20190320/r20190131/zrt_lookup.html#" data-ad-client="ca-pub-9014285205252746" style="display: none;"></iframe></html>

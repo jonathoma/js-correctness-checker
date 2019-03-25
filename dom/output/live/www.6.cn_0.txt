@@ -1,0 +1,3642 @@
+<html><head><script type="text/javascript" src="//shrek.6.cn/live.6.cn/e6u2/rp.php?location=www.6.cn%2F&amp;referer=&amp;browser=mozilla%2F5.0%20(macintosh%3B%20intel%20mac%20os%20x%2010_14_3)%20applewebkit%2F537.36%20(khtml%2C%20like%20gecko)%20headlesschrome%2F72.0.3626.121%20safari%2F537.36&amp;flash=-&amp;msr=1280%2C800&amp;uid=0&amp;pro=4&amp;stamp=1553390920276&amp;callback=jtm8uh5e"></script><script src="https://vj0.6rooms.com/mini/js/index_2016_170.js"></script><script src="https://vj0.6rooms.com/mini/js/base/gift_510.js"></script><script src="https://vj0.6rooms.com/mini/js/base/gift_new_25.js"></script><script src="https://vj0.6rooms.com/mini/js/base/z_135.js"></script><script src="https://vj0.6rooms.com/mini/js/base/swfobject_2016_2.js"></script><script src="https://vj0.6rooms.com/mini/js/base/login_15.js"></script><script src="https://vj0.6rooms.com/mini/js/base/jquery_3.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="robots" content="all">
+<meta property="qc:admins" content="21305140516367">
+<meta name="baidu-site-verification" content="SD66S44DzOzNRRWS">
+<meta name="google-site-verification" content="fu10UT29JsBnTL9CFokjf6DgSSf-VUL2rY-jQC6DIqo">
+<title>六间房 - 美女视频 - 美女直播 - 视频聊天 - 视频交友</title>
+<meta name="keywords" content="美女视频,美女直播,视频聊天,视频交友">
+<meta name="description" content="六间房是真人互动视频直播社区。秀场视频直播间，支持数万人同时在线视频聊天、在线K歌跳舞、视频交友。赶快加入，免费与数万个美女主播在线聊天。">
+<link rel="shortcut icon" href="https://vr0.6rooms.com/imges/favicon.ico" type="https://vr0.6rooms.com/imges/home2016/x-icon">
+<script type="text/javascript">
+;(function(im){
+    if (im) {
+        var l = window.location,
+            r = encodeURIComponent(document.referrer),
+            ms = 'http://m.v.6.cn',
+            p = l.pathname,
+            s = l.search,
+            rv = /^\/video\/(\d+)\.html/,
+            rfp = /^\/f\/p\/(\d+)\.html/,
+            rminiv = /^\/profile\/watchMini\.php/,
+            addref = function(b) {
+                return b + s + (s ? '&' : '?') + 'referrer=' + r;
+            };
+        if (p == '/') {
+            l.href = addref(ms);
+        } else if (/^\/\d+$/.test(p)) {
+            l.href = addref(ms + p);
+        } else if (p == '/user/applyLive.php') {
+        	l.href = addref(ms + '/operations/applylive');
+        } else if (rv.test(p)) {
+        	l.href = addref(ms + '/video/' + rv.exec(p)[1]);	
+        } else if (rfp.test(p)) {
+            l.href = addref(ms + '/family/' + rfp.exec(p)[1] + '/synopsis');
+        } else if (p == '/user/payshow.php') {
+            l.href = addref(ms + '/pay');
+        } else if (rminiv.test(p)) {
+            l.href = addref(ms + '/v/' + /vid=(\d+)/.exec(s)[1]);
+        }
+    }
+})(/Android|webOS|iPhone|iPad|iPod|BB10|IEMobile|^\S+$/i.test(window.navigator.userAgent));
+
+window.myHost= '//v.6.cn/';
+
+/*  */
+;(function(s, c, js,css){	
+    if (s.indexOf('coop=') > -1 || c.indexOf('coop=') > -1){
+		var js,	css;
+
+        if( window.top != window && 
+            (s.indexOf('coop=1074') > -1 || c.indexOf('coop=1074') > -1)
+        ){ /**/
+            /*  */
+            js = 'https://vj0.6rooms.com/csjs/_/partner/partner_bootstrap_top_516.js'
+            /*  */
+            document.write('<script src="' + js + '" ></' + 'script>');
+
+        }else { /**/
+            var _sReg = s.match(/coop=(\d+)/) || [],
+                _cReg = c.match(/coop=(\d+)/) || [];
+
+            if(_sReg[1] > 1005 || _cReg[1] > 1005){
+                /*  */
+                js = 'https://vj0.6rooms.com/mini/js/coop/coop_header_62.js',
+                css = 'https://vj0.6rooms.com/mini/css/coop/coop_public_59.css'
+                /*  */
+                document.write('<script src="' + js + '" ></' + 'script>');
+                document.write('<link rel="stylesheet" type="text/css" href="'+css+'" />');
+            }
+        }
+        
+    }
+})(window.location.search, document.cookie);
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="//vj0.6rooms.com/mini/css/base/base_69.css">
+<link rel="stylesheet" type="text/css" href="//vj0.6rooms.com/mini/css/base/level_321.css">
+<link rel="stylesheet" type="text/css" href="//vj0.6rooms.com/mini/css/base/level2_321.css">
+
+<link rel="stylesheet" type="text/css" href="//vj0.6rooms.com/mini/css/index_2016_150.css">
+</head>
+<body class="page-w1320"><iframe name="emptyIframe" style="display:none"></iframe>
+<script type="text/javascript">
+
+;(function(){
+    var _doc = document.documentElement,
+        _docWidth = _doc.clientWidth;
+
+    if(_docWidth < 1320){
+    	document.body.className='page-w1320';
+    }else if(_docWidth < 1560){
+      	document.body.className='page-w1560';
+    }else if(_docWidth > 1800){
+    	document.body.className='page-w1800';
+	}else{
+		document.body.className='page-default';
+	}
+})();
+
+;(function(){
+
+	/**  **/
+
+	window.VIA_PAGEID = 'index'; /**/
+	window.ZHANG_ZHI_RECID = '10438180-0'; /**/
+
+	/**/
+	var _styles = [],
+		_focusBgObj = [{"image":"https:\/\/vi0.6rooms.com\/live\/2019\/03\/20\/04\/1013v1553027767969135890.jpg","imageBig":"https:\/\/vi0.6rooms.com\/live\/2019\/03\/20\/04\/1013v1553027767369327562.jpg","href":"https:\/\/v.6.cn\/ranking\/rank.php","bgColor":"#814713"}];
+
+	window.indexFocusBg = _focusBgObj[Math.floor(Math.random()*_focusBgObj.length)];
+	_styles.push('.home-focus-bg{background-color:#' + indexFocusBg.bgColor.replace('#','') + '}');
+
+	document.write('<style type="text/css">'+_styles.join('')+'</style>');
+
+
+})();
+</script><style type="text/css">.home-focus-bg{background-color:#814713}</style>
+<div class="header head-v1">
+	<div class="header-area">
+		<h1 class="header-logo ">
+	    	<a href="https://v.6.cn/">六间房视频直播</a>
+	   </h1>
+	   <div class="head-inner">
+	   		<div class="head-inner-area">
+	   			<div id="headerCon" class="header-con">
+		   			<div class="head-nav">
+  <ul>
+    <li class="n-index on"><a class="link" href="https://v.6.cn" data-tracing="ipvafi36">首页</a></li>
+    <li class="n-game"><a class="link" href="http://game.v.6.cn/" target="_blank" data-tracing="ipvafi3g">游戏<i class="i-ghot"></i></a></li>
+    <li class="n-xianchang"><a class="link" href="//v.6.cn/xianchang/" data-tracing="ipvafi37">6现场</a></li>
+    <li class="n-video"><a class="link" href="//v.6.cn/minivideo/" data-tracing="ipvafi38">视频</a></li>
+
+    
+    <li class="n-top menu" onmouseover="this.className='n-top menu menu-cur'" onmouseleave="this.className='n-top menu'">
+      <a class="link menu-title" href="javascript:void(0);">排行</a>
+      <div class="menu-list">
+        <div class="list">
+          <a href="//v.6.cn/event/shsq/index.php" data-tracing="ipvafi3m">实时战况</a>
+          <a href="//v.6.cn/top.php" data-tracing="ipvafi3b">个人排行</a>
+          <a href="//v.6.cn/superRankTop.php" data-tracing="ipvafi3b">超级周星</a>
+          <a href="//v.6.cn/event/popularRank/index.php" data-tracing="ipvafi3l">人气排行</a>
+          <a href="//v.6.cn/listf.php" data-tracing="ipvafi3c">家族排行</a>
+          <a href="//v.6.cn/armyTop.php" data-tracing="ipvafi3d">军团排行</a>
+          <a href="//v.6.cn/top/getSong.php" data-tracing="ipvafi3e">点唱排行</a>
+        </div>
+      </div>
+    </li>
+    <li class="n-shop"><a class="link" href="//v.6.cn/user/shop.php" data-tracing="ipvafi3f">商城</a></li>
+       <li class="n-down menu" onmouseover="this.className='n-down menu menu-cur'" onmouseleave="this.className='n-down menu'">
+      <a class="link menu-title" href="javascript:void(0);">下载</a>
+      <div class="menu-list">
+        <div class="list">
+          <a href="//v.6.cn/down/camera.php" data-tracing="ipvafi3j">直播伴侣</a>
+                    <a href="//v.6.cn/event/liveClient/?t=phone" data-tracing="ipvafi3k">移动版</a>
+        </div>
+      </div>
+    </li>
+      </ul>
+</div><!--/.head-nav-->
+		   			<div class="head-search">
+  <div class="search-form">
+    <form id="searchForm" name="search" method="get" action="/search.php">
+        <input type="hidden" name="type" autocomplete="off" value="use" id="input_type">
+      <input id="searchInput" class="input-def" name="key" type="text" autocomplete="off" value="昵称">
+      <a id="searchBtn" class="submit" onclick="document.search.submit(); return false" title="搜索"><i></i></a>
+    </form>
+  </div>
+  <div id="searchThink" class="search-think">
+    <div class="s-item">
+      <div class="s-hd"><span class="s-title">昵称</span><a class="s-more">查看更多</a></div>
+      <div class="s-list"></div>
+    </div>
+  </div>
+</div>		   			<div class="userPanel userPanel-white" id="userPanel_index"><ul>                <li class="login"><a href="#" onclick="Login.toLogin(); return false" data-tracing="ipvafi3l">登录</a></li>                <li class="register"><a href="" onclick="Login.toLogin(1); return false" data-tracing="ipvafi3m">注册</a></li>              </ul></div>
+				</div><!--/.header-con-->
+	   		</div>
+	   </div><!--/.head-inner-->
+	</div><!--/.header-area-->
+</div><!--/.header-->
+<div class="menubar" id="menubar">
+	<div class="nav-logo"><a href="//v.6.cn/">六间房直播</a></div>
+	<div class="menu-scroll" style="overflow: hidden;">
+		<div class="jscroll-c" style="top: 0px;">
+			<div class="user-count">
+				<em class="num">1,901,478</em><span class="txt">人在线</span>
+				<div class="line-box"></div>
+			</div>
+			<dl class="nav-index">
+				<dt class="on" rela="btn_home"><i><b></b></i><em>直播大厅</em></dt>
+				<dd class="line-box"></dd>
+			</dl>
+			<dl class="nav-feed" data-tracing="ipvafi59">
+				<dt rela="btn_feed"><i><b></b></i><em>秀场动态</em><span class="new"><b class="arrow"></b><b class="num">0</b></span></dt>
+				<dd class="line-box"></dd>
+			</dl>
+			<dl class="nav-follow" data-tracing="ipvafi5a">
+				<dt rela="btn_follow"><i></i><em>我的主播</em><span class="new"><b class="arrow"></b><b class="num">0</b></span></dt>
+				<dd class="line-box"></dd>
+			</dl>
+			<dl class="nav-all" data-tracing="ipvafi5b">
+				<dt rela="live_all"><i></i><em>全部直播</em></dt>
+				<dd class="line-box"></dd>
+			</dl>
+			
+			<dl class="nav-area" data-tracing="area">
+				<dt rela="area"><i></i><em>同城主播</em></dt>
+				<dd class="line-box"></dd>
+			</dl>
+
+			<dl class="nav-menu nav-style">
+				<dt><i><b></b></i><em>直播类型</em></dt>
+				<dd class="list fix">
+		          	<a rela="singer_all" data-tracing="singer_all">歌区</a>
+		          	<a rela="u2" data-tracing="u2">脱口秀</a>
+		         	<a rela="u3" data-tracing="u3">聊区</a>
+		          	<a rela="fu1" data-tracing="fu1">舞区</a>
+		          	<a rela="u7" data-tracing="u7">好物</a>
+		          	<a rela="pk" data-tracing="pk" act="get" expires="180">PK</a>
+					<a rela="new" data-tracing="new">新人</a>
+					<a rela="u8" data-tracing="u8">电台</a>
+				</dd>
+				<dd class="line-box"></dd>
+				<dd class="line-act"></dd>
+			</dl>
+			<dl class="nav-menu nav-tags">
+				<dt><i></i><em>特色主播</em></dt>
+				<dd class="list fix">
+										<a rela="tag1000000" data-tracing="tag1000000">舞秀</a>
+										<a rela="tag1000009" data-tracing="tag1000009">唱将</a>
+										<a rela="tag1000018" data-tracing="tag1000018">聊咖</a>
+										<a rela="tag1000054" data-tracing="tag1000054">户外</a>
+										<a rela="tag1000027" data-tracing="tag1000027" style="display:none">连麦</a>
+										<a rela="tag1000036" data-tracing="tag1000036">陪聊</a>
+										<a rela="tag1000045" data-tracing="tag1000045">组合</a>
+										<a rela="tag1000090" data-tracing="tag1000090">乐器</a>
+														</dd>
+				<dd class="line-box"></dd>
+				<dd class="line-act"></dd>
+			</dl>
+			
+			<!-- <dl class="nav-menu nav-level">
+				<dt><i></i><em>主播等级</em></dt>
+				<dd class="list fix">
+				    <a rela="r10" data-tracing="r10">炽星</a>
+				    <a rela="r5" data-tracing="r5">超星</a>
+				    <a rela="r4" data-tracing="r4">巨星</a>
+				    <a rela="r1" data-tracing="r1">明星</a>
+				    <a rela="r2" data-tracing="r2">红人</a>
+				</dd>
+				<dd class="line-box"></dd>
+				<dd class="line-act"></dd>
+			</dl> -->
+
+			<dl class="nav-menu nav-fmstar" id="family_star" data-tracing="ipvafi5m">
+				<dt><i><b class="left"></b><b class="right"></b></i><em>五星家族</em></dt>
+				<dd class="list fix">
+											<a rela="f900005224">无双</a>
+											<a rela="f900011775">盤古</a>
+											<a rela="f900014493">L秀</a>
+											<a rela="f900002116">亲‘</a>
+											<a rela="f900006072">凌寒</a>
+									</dd>
+				<dd class="line-box"></dd>
+				<dd class="line-act"></dd>
+			</dl>			
+
+			<dl class="nav-menu nav-special">
+				<dt><i></i><em>特色专区</em></dt>
+				<dd class="list fix">
+					<a rela="zy" data-tracing="zy">6现场</a>
+										<a class="lottery" href="/roomChouJiang.php" target="_blank">抽奖</a>
+						                <a rela="gold_live" data-tracing="gold_live">金牌</a>
+	          		<!-- <a rela="male_area" data-tracing="male_area">男神</a> -->
+	          		<!-- <a rela="singer" data-tracing="singer">点唱</a> -->
+	          		<!-- <a rela="birthday"  data-tracing="birthday">生日</a> -->
+					<a rela="show" style="display:none" data-tracing="show">Show唱</a>
+					<a rela="dance" style="display:none" data-tracing="dance">舞秀</a>
+					<!-- <a rela="area" data-tracing="area">地域</a> -->
+					<a rela="video" data-tracing="video">回放</a>
+					<!--<a class="caipiao" href="//v.6.cn/232178847" target="room232178847"><i></i>彩票</a>-->
+				</dd>
+				<dd class="line-box"></dd>
+				<dd class="line-act"></dd>
+			</dl>
+
+			<dl class="nav-menu nav-public">
+				<dt><i><b></b></i><em>大众娱乐</em></dt>
+				<dd class="list fix">
+	          		<a rela="f1001" data-tracing="f1001">家族</a>
+	                <a rela="other" data-tracing="other">个人</a>
+				</dd>
+				<dd class="line-box"></dd>
+				<dd class="line-act"></dd>
+			</dl>
+
+			<dl class="nav-menu nav-game" data-tracing="ipwa0k6o">
+				<dt><a href="http://game.v.6.cn/" target="_blank"><i><b></b></i><em>游戏中心</em></a></dt>
+				<dd class="list fix">
+	            		          		<a class="-more-rich1" style="display:none" onclick="if(!_puser.uid){Login.toLogin();}else{window.open('//v.6.cn/19784595')}" data-tracing="ipvafi5y">砸金蛋</a>
+	                <a class="-more-rich1" style="display:none" onclick="if(!_puser.uid){Login.toLogin();}else{window.open('//v.6.cn/202873851')}" data-tracing="ipvafi5z">幸福乐园</a>
+					<a class="-more-rich3" style="display:none" href="//v.6.cn/230303746" target="room230303746" data-tracing="ipvafi521">三国群英</a>
+										
+					<a class="-more-rich3" style="display:none" href="//v.6.cn/3501" target="room3501" data-tracing="ipvafi62">幸运打赏</a>
+					
+	         		<a class="-more-rich1" style="display:none" onclick="if(!_puser.uid){Login.toLogin();}else{window.open('//v.6.cn/209728665')}" data-tracing="ipvafi60">幸运夺宝</a>
+	         			         		<a href="http://game.v.6.cn/" target="_blank">游戏中心</a>
+	         		<a href="http://v.6.cn/event/gameaward/" target="_blank">试玩送币</a>
+	         		<a href="//v.6.cn/flashgame/gameProxy.php?id=131" target="_blank">武林三</a>
+	         		<a href="//v.6.cn/flashgame/gameProxy.php?id=130" target="_blank">战神风云</a>
+	         		<a href="//v.6.cn/flashgame/gameProxy.php?id=129" target="_blank">御魂九霄</a>
+	         		<a href="//v.6.cn/flashgame/gameProxy.php?id=127" target="_blank">灭神</a>
+	         		<a href="//v.6.cn/flashgame/gameProxy.php?id=126" target="_blank">鹿鼎记</a>
+	         		<a href="//v.6.cn/flashgame/gameProxy.php?id=124" target="_blank">斗罗大陆</a>
+	         		<a href="//v.6.cn/flashgame/gameProxy.php?id=118" target="_blank">传奇荣耀</a>
+	         			
+						         	</dd>
+				<dd class="line-box"></dd>
+			</dl>
+			
+			<dl class="nav-menu nav-event">
+				<dt><i></i><em>热门活动</em></dt>
+				<dd class="list fix">
+					<a href="//v.6.cn/event/chargeSignDaily/" target="_blank" data-tracing="ipvafi69">签到领奖<i class="i-hot"></i></a>
+	          		<a href="//v.6.cn/event/H5FirstPay/firstChargeWheel.php" target="_blank" data-tracing="ipvafi69">首充送礼</a>
+	          		<a href="//v.6.cn/event/rechargeShare/" target="_blank" data-tracing="ipvafi69">充值抽奖</a>
+	          		<a href="//v.6.cn/event/rankWelfare/" target="_blank" data-tracing="ipvafi69">升级福利</a>
+	          		<a href="//v.6.cn/superRankTop.php" target="_blank" data-tracing="ipvafi6a">超级周星</a>
+	          			          		<a href="//v.6.cn/event/games/luck.php" target="_blank" data-tracing="ipvafi6a">幸运魔方</a>
+	          		<a href="//v.6.cn/event/shsq/?_tra_=index-ipvafi4g" target="_blank" data-tracing="ipvafi4g">神豪来了</a>
+	          		<a href="//v.6.cn/event/thyh/?_tra_=index-ipvafi4g" target="_blank" data-tracing="ipvafi4g">神豪烟花</a>
+	          		<a href="//v.6.cn/event/diamond/" target="_blank" data-tracing="ipvafi4g">钻石守护</a>
+	          			          		<a href="//v.6.cn/event/service/loveadmin.php" target="_blank" data-tracing="ipvafi6c">爱心管理</a>
+	          		<a href="//v.6.cn/event/weekstarwar/index.php" target="_blank" data-tracing="ipvafi6d">周星大战</a>
+	          		<a href="//v.6.cn/event/armyweekrank/" target="_blank" data-tracing="ipvafi6e">铁血军团</a>
+	          		<a href="//v.6.cn/event/mstart/" target="_blank" data-tracing="ipvafi6g">手机星星</a>
+	          		<a href="//v.6.cn/event/acepartner/" target="_blank" data-tracing="ipvafi6g">王牌强档</a>
+	          		<a href="//v.6.cn/event/fridaydance/" target="_blank" data-tracing="ipvafi6g">热力505</a>
+	          		<a href="//v.6.cn/event/jhbxs/" target="_blank" data-tracing="ipvafi6g">百晓生</a>
+	          		<a target="_blank" href="//v.6.cn/huafang/pub.php">花房之夜</a>
+	          		<a target="_blank" href="//v.6.cn/changzhan/zt/index_2017.php">唱战</a>
+		            <a target="_blank" href="//v.6.cn/event/album2012/">音乐合辑</a>
+		            <a target="_blank" href="//v.6.cn/event/propaganda.php">主播宣传</a>
+		            				</dd>
+			</dl>
+		</div>
+		<div class="scrollbar" style="display: block;">
+	        <div class="slider" style="top: 0px; height: 219.162px;"></div>
+	    </div>
+	</div> <!--/.menu-scroll-->
+</div><!--/.menubar-->
+<div class="page-home" style="padding-left: 0px;">
+	<div class="home-focus-wrap">
+		<div class="home-focus-bg" data-tracing="je9fls7x">
+			<a class="bg-link" href="https://v.6.cn/ranking/rank.php" target="_blank"></a>
+		</div>
+		<div class="home-focus">
+			<div class="home-focus-area">
+				<div id="videoFocus" class="video-focus fix" data-tracing="ipvafi4f">
+					<div class="video-box">
+						<div class="video-play">
+							<div id="videoPlayer" style="visibility: visible;">
+							<div class="fInstall"><a href="https://get.adobe.com/cn/flashplayer/" target="_blank">安装或者启用FLASH播放器</a></div>
+							</div>
+							<div class="video-user">
+									<div class="u-con">
+										<a class="avatar" href="/2019555" target="_blank"><img src="https://vi1.6rooms.com/live/2019/03/02/14/1003v1551506696128658399.jpg" alt="〇o来，大郎吻我♛"></a>
+										<div class="info">
+											<a class="name" href="/2019555" target="_blank">〇o来，大郎吻我♛</a>
+											<span class="num">5,027人正在看</span>
+										</div>
+										<a class="i-live" href="/2019555" target="_blank"></a>
+									</div>
+									<div class="u-bg"></div>
+								</div>
+						</div>
+						<div class="video-recom-bg"></div>
+					</div>
+
+					<div class="video-item">						
+						<ul class="list">
+							<li class="v1 on" data-user="2019555,〇o来，大郎吻我♛,v89366991-154812831,https://vi1.6rooms.com/live/2019/03/02/14/1003v1551506696128658399.jpg,21分前,5027,/2019555,89366991,1,https://vi0.6rooms.com/live/2019/03/08/15/1010v1552031322658617458_s.jpg,,,,,">
+								<span class="pic"><img src="https://vi0.6rooms.com/live/2019/03/08/15/1010v1552031322658617458_s.jpg" alt="〇o来，大郎吻我♛"></span>
+								<span class="i-shade"></span>
+								
+								<div class="info">
+									<p class="anchor">〇o来，大郎吻我♛</p>
+									<p class="viewer"><i></i>5,027</p>							
+								</div>
+							</li>
+						
+							<li class="v2" data-user="894018,新人妍小主在等你！,v89136680-154807017,https://vi2.6rooms.com/live/2019/03/21/18/1003v1553162752292236117.jpg,5小时36分前,2773,/894018,89136680,1,https://vi1.6rooms.com/live/2019/03/23/21/1010v1553346549748570401_s.jpg,,,,性感,">
+								<span class="pic"><img src="https://vi1.6rooms.com/live/2019/03/23/21/1010v1553346549748570401_s.jpg" alt="新人妍小主在等你！"></span>
+								<span class="i-shade"></span>
+								<span class="icon-tag">性感</span>
+								<div class="info">
+									<p class="anchor">新人妍小主在等你！</p>
+									<p class="viewer"><i></i>2,773</p>							
+								</div>
+							</li>
+						
+							<li class="v3" data-user="578888,超娃少数民族凯丽行,v82340792-154813614,https://vi3.6rooms.com/live/2018/07/07/02/1003v1530902104248667825.jpg,6分前,556,/578888,82340792,2,https://vi0.6rooms.com/live/2018/08/29/16/1010v1535530233828330897_s.jpg,,,,户外,">
+								<span class="pic"><img src="https://vi0.6rooms.com/live/2018/08/29/16/1010v1535530233828330897_s.jpg" alt="超娃少数民族凯丽行"></span>
+								<span class="i-shade"></span>
+								<span class="icon-tag">户外</span>
+								<div class="info">
+									<p class="anchor">超娃少数民族凯丽行</p>
+									<p class="viewer"><i></i>556</p>							
+								</div>
+							</li>
+						
+							<li class="v4" data-user="849137,美少女❤️萌嘟嘟,v69804491-154810095,https://vi2.6rooms.com/live/2019/01/01/19/1003v1546341930195643443.jpg,1小时33分前,3458,/849137,69804491,1,https://vi2.6rooms.com/live/2018/08/28/05/1010v1535405354574794466_s.jpg,,,,性感,">
+								<span class="pic"><img src="https://vi2.6rooms.com/live/2018/08/28/05/1010v1535405354574794466_s.jpg" alt="美少女❤️萌嘟嘟"></span>
+								<span class="i-shade"></span>
+								<span class="icon-tag">性感</span>
+								<div class="info">
+									<p class="anchor">美少女❤️萌嘟嘟</p>
+									<p class="viewer"><i></i>3,458</p>							
+								</div>
+							</li>
+						</ul>
+						
+					</div>
+				</div><!--/.video-focus-->
+
+								
+				
+				<div class="headlines" id="headLines" time="221">						
+					<div class="hd">
+						<h4>全站头条</h4>
+					</div>					
+					<div class="mm-mod-list">
+																	
+						<ul class="mmlist">	
+																								<li class="toutiao" data-tracing="ipvafi4h-8119">
+									<a class="i-top">本轮头条</a>
+																
+									<a class="pic" href="//v.6.cn/10580" target="room10580">
+										<div class="img-box"><img alt="🎵小邓丽君溪儿🌺" src="https://vi1.6rooms.com/live/2018/11/05/20/1010v1541422464771849002_s.jpg" style="opacity: 1;"></div>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+										
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/10580" target="room10580">🎵小邓丽君溪儿🌺</a></p>
+										<p class="viewer"><i></i>6,874</p>
+									</div>										
+								</li>							
+																								<li class="toutiao" data-tracing="ipvafi4h-4168">
+									<a class="i-top">本轮头条</a>
+																
+									<a class="pic" href="//v.6.cn/919191" target="room919191">
+										<div class="img-box"><img alt="一表人才~新主播~" src="https://vi3.6rooms.com/live/2018/08/20/22/1010v1534775403166784915_s.jpg" style="opacity: 1;"></div>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+										
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/919191" target="room919191">一表人才~新主播~</a></p>
+										<p class="viewer"><i></i>11,717</p>
+									</div>										
+								</li>							
+																								<li class="daren" data-tracing="ipvafi4l">
+									<a class="i-top" href="//v.6.cn/event/headLine/index.php" target="_blank">头条达人</a>
+																
+									<a class="pic" href="//v.6.cn/1659" target="room1659">
+										<div class="img-box"><img alt="💞喵喵喵💞" src="https://vi0.6rooms.com/live/2018/05/11/09/1010v1526001116061012040_s.jpg" style="opacity: 1;"></div>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+										
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/1659" target="room1659">💞喵喵喵💞</a></p>
+										<p class="viewer"><i></i>4,030</p>
+									</div>										
+								</li>							
+																								<li class="hot" data-tracing="ipvafi4k">
+									<a class="i-top" title="根据房间的消费热度，系统自动推荐">本场火爆</a>
+																
+									<a class="pic" href="//v.6.cn/50919" target="room50919">
+										<div class="img-box"><img alt="❀熙儿求票票❀" src="https://vi2.6rooms.com/live/2019/03/14/11/1010v1552534701597496301_s.jpg" style="opacity: 1;"></div>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+										
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/50919" target="room50919">❀熙儿求票票❀</a></p>
+										<p class="viewer"><i></i>6,377</p>
+									</div>										
+								</li>							
+																								<li class="hot" data-tracing="ipvafi4k">
+									<a class="i-top" title="根据房间的消费热度，系统自动推荐">本场火爆</a>
+																
+									<a class="pic" href="//v.6.cn/99218" target="room99218">
+										<div class="img-box"><img alt="梦瑶代理26号生日庆" src="https://vi2.6rooms.com/live/2019/01/18/11/1010v1547781097666695435_s.jpg" style="opacity: 1;"></div>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+										
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/99218" target="room99218">梦瑶代理26号生日庆</a></p>
+										<p class="viewer"><i></i>5,186</p>
+									</div>										
+								</li>							
+																								<li class="hot" data-tracing="ipvafi4k">
+									<a class="i-top" title="根据房间的消费热度，系统自动推荐">本场火爆</a>
+																
+									<a class="pic" href="//v.6.cn/16777" target="room16777">
+										<div class="img-box"><img src2="https://vi0.6rooms.com/live/2017/08/16/17/1010v1502877403553453112_s.jpg" alt="🌸飞儿生日感恩有你" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+										
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/16777" target="room16777">🌸飞儿生日感恩有你</a></p>
+										<p class="viewer"><i></i>7,329</p>
+									</div>										
+								</li>							
+													</ul>
+					</div><!--/.mm-mod-list-->
+				</div><!--/.headlines-->					
+			</div><!--/.home-focus-area-->
+		</div><!--/.home-focus-->
+	</div><!--/.home-focus-wrap-->
+
+	<div class="home-body home-body-main"><!--/home-body-main home-body-zone home-body-feed home-body-follow-->
+		<div class="side-tool">
+			<div class="code">
+				<a href="//v.6.cn/event/liveClient/?t=phone" target="_blank">
+					<img src="//vr0.6rooms.com/imges/home2018/mobile-code-v1.png">
+					<span>石榴直播</span>
+				</a>
+			</div>
+			<div class="weixin">
+				<a class="btn"><i></i><span>公众号</span></a>
+				<div class="wx-box"><em>六间房公众号</em><span>扫码关注</span></div>
+			</div>
+			<div class="phone">
+				<a class="btn"><i></i><span>客服热线</span></a>
+				<div class="phone-box"><em>400-7061-888</em><span>7×24小时</span></div>
+			</div>	
+							
+			<div class="qq" id="js_online_box"><a class="btn" id="js_online" title=" 24小时在线客服"><i></i><span>在线客服</span></a></div>
+			
+			<div class="top" style="height: 0px;"><a class="btn"><i></i><span>返回顶部</span></a></div>
+			<div class="jubao"><a target="_blank" class="btn" href="http://jb.ccm.gov.cn/" 　=""><i></i><span>举报</span></a></div>
+		</div><!--/.side-tool-->
+		<div class="home-body-area">
+			<div class="body-main fix">
+								<div id="fFocus" class="focus-banner" data-tracing="ipvafi4g">
+			  		<div class="pagechange">
+			  			<a class="prev" href="javascript:;"></a>
+			  			<div class="num-box"></div>
+			  			<a class="next" href="javascript:;"></a>
+			  		</div>	
+				  	<div class="list">
+				  		<a href="https://v.6.cn/ranking" target="_blank" style="display:block; background-image:url(https://vi3.6rooms.com/live/2019/03/20/04/1013v1553027517009229549.jpg)"></a><a href="https://v.6.cn/user/prop/goldCard.php?pxuid=&amp;pgpid=0" target="_blank" style="background-image:url(https://vi2.6rooms.com/live/2019/03/17/01/1013v1552757431123332496.jpg)"></a><a href="https://v.6.cn/event/nianduIntegral/" target="_blank" style="background-image:url(https://vi3.6rooms.com/live/2019/03/05/17/1013v1551779901545172403.jpg)"></a><a href="https://v.6.cn/event/rankWelfare/index.php" target="_blank" style="background-image:url(https://vi3.6rooms.com/live/2019/03/05/13/1013v1551762299691120795.jpg)"></a><a href="http://v.6.cn/event/rechargeShare/" target="_blank" style="background-image:url(https://vi3.6rooms.com/live/2019/01/25/15/1013v1548399616927449347.jpg)"></a><a href="https://v.6.cn/event/diamond/index.php" target="_blank" style="background-image:url(https://vi3.6rooms.com/live/2018/10/22/18/1013v1540202787115540823.jpg)"></a>				  	</div>
+				</div><!--/.focus-banner-->
+								
+				<div class="mm-recomd-area fix">
+					<div id="mmRecomd" class="mm-recomd" data-tracing="ipvafi4q">
+						<div class="mm-mod-hd">
+							<h4><i></i>精彩推荐</h4>
+						</div>
+						<div class="mm-mod-list" id="v_recom">
+							
+							<ul class="mmlist">
+															
+								<li>
+																		<a class="pic" href="//v.6.cn/893466" target="_blank">
+										<div class="img-box"><img src2="https://vi3.6rooms.com/live/2019/02/20/10/1010v1550630632115457704_s.jpg" alt="" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/893466" target="_blank">萧然月底冲榜单啦！</a></p>
+										<p class="viewer"><i></i>2,178</p>
+									</div>
+									
+								</li>
+															
+								<li>
+																		<a class="pic" href="//v.6.cn/116836" target="_blank">
+										<div class="img-box"><img src2="https://vi2.6rooms.com/live/2019/01/08/00/1010v1546879935055056739_s.jpg" alt="" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/116836" target="_blank">新秀妞！求个人票</a></p>
+										<p class="viewer"><i></i>4,138</p>
+									</div>
+									
+								</li>
+															
+								<li>
+																		<a class="pic" href="//v.6.cn/28959" target="_blank">
+										<div class="img-box"><img src2="https://vi0.6rooms.com/live/2019/03/01/23/1010v1551455242298383220_s.jpg" alt="" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/28959" target="_blank">新人-小六求红包</a></p>
+										<p class="viewer"><i></i>2,287</p>
+									</div>
+									
+								</li>
+															
+								<li>
+																		<a class="pic" href="//v.6.cn/720238" target="_blank">
+										<div class="img-box"><img src2="https://vi0.6rooms.com/live/2019/03/11/15/1010v1552289439449274453_s.jpg" alt="" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/720238" target="_blank">懵🎵帅儿明后天请假</a></p>
+										<p class="viewer"><i></i>3,179</p>
+									</div>
+									
+								</li>
+															
+								<li>
+																		<a class="pic" href="//v.6.cn/784360" target="_blank">
+										<div class="img-box"><img src2="https://vi0.6rooms.com/live/2018/12/24/08/1010v1545610581231491993_s.jpg" alt="" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/784360" target="_blank">小雨曦❥^_-加油！</a></p>
+										<p class="viewer"><i></i>2,255</p>
+									</div>
+									
+								</li>
+															
+								<li>
+																		<a class="pic" href="//v.6.cn/70656" target="_blank">
+										<div class="img-box"><img src2="https://vi3.6rooms.com/live/2019/02/23/21/1010v1550930395327728929_s.jpg" alt="" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/70656" target="_blank">小丫子吖求个人票</a></p>
+										<p class="viewer"><i></i>5,978</p>
+									</div>
+									
+								</li>
+															
+								<li>
+																		<a class="pic" href="//v.6.cn/786992" target="_blank">
+										<div class="img-box"><img src2="https://vi1.6rooms.com/live/2019/03/01/19/1010v1551441130505047212_s.jpg" alt="" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/786992" target="_blank">迷鹿25号百天啦～</a></p>
+										<p class="viewer"><i></i>2,897</p>
+									</div>
+									
+								</li>
+															
+								<li>
+																		<a class="pic" href="//v.6.cn/806226" target="_blank">
+										<div class="img-box"><img src2="https://vi2.6rooms.com/live/2017/12/15/21/1010v1513344390188598700_s.jpg" alt="" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/806226" target="_blank">cute♡佳欣</a></p>
+										<p class="viewer"><i></i>3,272</p>
+									</div>
+									
+								</li>
+															
+								<li>
+																		<a class="pic" href="//v.6.cn/9990" target="_blank">
+										<div class="img-box"><img src2="https://vi2.6rooms.com/live/2018/12/18/02/1010v1545070282425749290_s.jpg" alt="" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/9990" target="_blank">╰❥凌小仙ღ．・゜</a></p>
+										<p class="viewer"><i></i>4,670</p>
+									</div>
+									
+								</li>
+															
+								<li>
+																		<a class="pic" href="//v.6.cn/870284" target="_blank">
+										<div class="img-box"><img src2="https://vi1.6rooms.com/live/2018/03/04/23/1010v1520178857880794571_s.jpg" alt="" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<em class="niandu-user icon-14003" data-id="89232111" style="" title="年度新秀季军"></em>
+																				<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/870284" target="_blank">渔鹰又在盘鱼哥啦</a></p>
+										<p class="viewer"><i></i>11,038</p>
+									</div>
+									
+								</li>
+															
+								<li>
+																		<a class="pic" href="//v.6.cn/786620" target="_blank">
+										<div class="img-box"><img src2="https://vi1.6rooms.com/live/2018/11/12/15/1010v1542009243436695906_s.jpg" alt="" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/786620" target="_blank">尒师妹恭喜一哥亲王</a></p>
+										<p class="viewer"><i></i>6,177</p>
+									</div>
+									
+								</li>
+															
+								<li>
+																		<a class="pic" href="//v.6.cn/874411" target="_blank">
+										<div class="img-box"><img src2="https://vi2.6rooms.com/live/2019/01/10/19/1010v1547120073167113925_s.jpg" alt="" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/874411" target="_blank">薇妹儿求票票~</a></p>
+										<p class="viewer"><i></i>2,819</p>
+									</div>
+									
+								</li>
+														</ul>
+						</div><!--/.mm-mod-list-->
+					</div><!--/.mm-recomd-->
+				</div><!--/.mm-recomd-area-->
+
+				<div class="mm-taglist-area mm-taglist-def fix">
+					<div class="mm-taglist">
+						<div class="mm-mod-hd">
+							<h4><i></i>特色主播</h4>
+							<div class="mm-mod-tab">
+																	<a data-tagid="0" data-tracing="livetag0" class="on">默认</a>
+																	<a data-tagid="1000000" data-tracing="livetag1000000">舞秀</a>
+																	<a data-tagid="1000009" data-tracing="livetag1000009">唱将</a>
+																	<a data-tagid="1000018" data-tracing="livetag1000018">聊咖</a>
+																	<a data-tagid="1000054" data-tracing="livetag1000054">户外</a>
+																	<a data-tagid="1000027" data-tracing="livetag1000027" style="display:none">连麦</a>
+																	<a data-tagid="1000036" data-tracing="livetag1000036">陪聊</a>
+																	<a data-tagid="1000045" data-tracing="livetag1000045">组合</a>
+																	<a data-tagid="1000090" data-tracing="livetag1000090">乐器</a>
+																								<a href="/roomChouJiang.php" target="_blank">抽奖</a>						
+				              	<span class="line-on" style="width: 28px; left: 0px;"></span>
+				            </div>
+						</div>
+						<div class="mm-mod-list">
+							
+														<ul class="mmlist j-taglist0" data-tracing="livetag0" style="display: block;">
+							  									<li>
+									<a class="pic" href="//v.6.cn/884190" target="_blank">
+										<div class="img-box"><img class="ava" src2="https://vi0.6rooms.com/live/2018/07/14/16/1010v1531558099014575020_s.jpg" alt="✿Annდ安子琳ル❀" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-2">唱将</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/884190" target="_blank">✿Annდ安子琳ル❀</a></p>
+										<p class="viewer"><i></i>3,707</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/852531" target="_blank">
+										<div class="img-box"><img class="ava" src2="https://vi3.6rooms.com/live/2018/07/30/16/1010v1532938544406319348_s.jpg" alt="黑瞎岛卡卡打鱼大叔" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-3">户外</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/852531" target="_blank">黑瞎岛卡卡打鱼大叔</a></p>
+										<p class="viewer"><i></i>5,011</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/851180" target="_blank">
+										<div class="img-box"><img class="ava" src2="https://vi2.6rooms.com/live/2018/10/06/21/1010v1538831421827344085_s.jpg" alt="❤⑤②熙宝免费点歌" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-8">舞秀</i>	
+																							<i class="i-tags-1">性感</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/851180" target="_blank">❤⑤②熙宝免费点歌</a></p>
+										<p class="viewer"><i></i>4,268</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/29998" target="_blank">
+										<div class="img-box"><img class="ava" src2="https://vi3.6rooms.com/live/2018/11/27/22/1010v1543329808160036897_s.jpg" alt="天宝@随心随缘" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-8">舞秀</i>	
+																							<i class="i-tags-1">性感</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/29998" target="_blank">天宝@随心随缘</a></p>
+										<p class="viewer"><i></i>4,987</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/1388888" target="_blank">
+										<div class="img-box"><img class="ava" src2="https://vi3.6rooms.com/live/2019/03/20/13/1010v1553061228984695646_s.jpg" alt="say早安︶微笑吖" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-4">乐器</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/1388888" target="_blank">say早安︶微笑吖</a></p>
+										<p class="viewer"><i></i>4,805</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/854960" target="_blank">
+										<div class="img-box"><img class="ava" src2="https://vi2.6rooms.com/live/2018/06/05/13/1010v1528177319598050504_s.jpg" alt="小胖PK胖妞" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-9">组合</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/854960" target="_blank">小胖PK胖妞</a></p>
+										<p class="viewer"><i></i>901</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/304055" target="_blank">
+										<div class="img-box"><img class="ava" src2="https://vi3.6rooms.com/live/2018/10/10/22/1010v1539182644616469770_s.jpg" alt="熊大中国最北冰下捕鱼" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-3">户外</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/304055" target="_blank">熊大中国最北冰下捕鱼</a></p>
+										<p class="viewer"><i></i>9,637</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/784711" target="_blank">
+										<div class="img-box"><img class="ava" src2="https://vi3.6rooms.com/live/2018/10/23/16/1010v1540284646390747529_s.jpg" alt="小雨涵新人求关注" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-7">陪聊</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/784711" target="_blank">小雨涵新人求关注</a></p>
+										<p class="viewer"><i></i>2,444</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/853766" target="_blank">
+										<div class="img-box"><img class="ava" src2="https://vi0.6rooms.com/live/2018/07/30/13/1010v1532928603632575320_s.jpg" alt="潍坊小邓丽君" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-2">唱将</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/853766" target="_blank">潍坊小邓丽君</a></p>
+										<p class="viewer"><i></i>998</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/116866" target="_blank">
+										<div class="img-box"><img class="ava" src2="https://vi3.6rooms.com/live/2019/01/28/16/1010v1548664317617662212_s.jpg" alt="新秀❤️初晓9点播" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-1">女神</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/116866" target="_blank">新秀❤️初晓9点播</a></p>
+										<p class="viewer"><i></i>3,128</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/229535656" target="_blank">
+										<div class="img-box"><img class="ava" src2="https://vi1.6rooms.com/live/2018/08/03/11/1013v1533266279643870022.jpg" alt="零距离接触蜜蜂的生活" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/229535656" target="_blank">零距离接触蜜蜂的生活</a></p>
+										<p class="viewer"><i></i>1,051</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/234624808" target="_blank">
+										<div class="img-box"><img class="ava" src2="https://vi3.6rooms.com/live/2019/03/20/11/1013v1553051556073129475.jpg" alt="2019钦州国际半程马拉松" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/234624808" target="_blank">2019钦州国际半程马拉松</a></p>
+										<p class="viewer"><i></i>1,658</p>
+									</div>
+									
+								</li>
+							  								</ul>
+						  								<ul class="mmlist j-taglist1000000" style="display: none;">
+							  									<li>
+									<a class="pic" href="//v.6.cn/29998" target="_blank">
+										<div class="img-box"><img class="ava" alt="天宝@随心随缘" src="https://vi3.6rooms.com/live/2018/11/27/22/1010v1543329808160036897_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-1">性感</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/29998" target="_blank">天宝@随心随缘</a></p>
+										<p class="viewer"><i></i>4,987</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/851180" target="_blank">
+										<div class="img-box"><img class="ava" alt="❤⑤②熙宝免费点歌" src="https://vi2.6rooms.com/live/2018/10/06/21/1010v1538831421827344085_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-1">性感</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/851180" target="_blank">❤⑤②熙宝免费点歌</a></p>
+										<p class="viewer"><i></i>4,268</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/886163" target="_blank">
+										<div class="img-box"><img class="ava" alt="烟儿呀@" src="https://vi0.6rooms.com/live/2018/08/28/17/1010v1535448454474091557_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-1">戏精</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/886163" target="_blank">烟儿呀@</a></p>
+										<p class="viewer"><i></i>2,731</p>
+									</div>
+									
+								</li>
+							  								</ul>
+						  								<ul class="mmlist j-taglist1000009" style="display: none;">
+							  									<li>
+									<a class="pic" href="//v.6.cn/815661" target="_blank">
+										<div class="img-box"><img class="ava" alt="☜❤☞芯瑶爱唱歌" src="https://vi1.6rooms.com/live/2019/02/02/18/1010v1549103866149235801_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-1">曼妙</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/815661" target="_blank">☜❤☞芯瑶爱唱歌</a></p>
+										<p class="viewer"><i></i>12,322</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/116899" target="_blank">
+										<div class="img-box"><img class="ava" alt="新秀♫♬万小万♫♬" src="https://vi2.6rooms.com/live/2019/01/20/22/1010v1547994077371036654_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/116899" target="_blank">新秀♫♬万小万♫♬</a></p>
+										<p class="viewer"><i></i>5,283</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/884190" target="_blank">
+										<div class="img-box"><img class="ava" alt="✿Annდ安子琳ル❀" src="https://vi0.6rooms.com/live/2018/07/14/16/1010v1531558099014575020_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/884190" target="_blank">✿Annდ安子琳ル❀</a></p>
+										<p class="viewer"><i></i>3,707</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/720238" target="_blank">
+										<div class="img-box"><img class="ava" alt="懵🎵帅儿明后天请假" src="https://vi0.6rooms.com/live/2019/03/11/15/1010v1552289439449274453_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-1">戏精</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/720238" target="_blank">懵🎵帅儿明后天请假</a></p>
+										<p class="viewer"><i></i>3,179</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/781746" target="_blank">
+										<div class="img-box"><img class="ava" alt="喜儿是你可有可无的人" src="https://vi2.6rooms.com/live/2019/01/24/16/1010v1548318568830676157_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/781746" target="_blank">喜儿是你可有可无的人</a></p>
+										<p class="viewer"><i></i>2,479</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/853766" target="_blank">
+										<div class="img-box"><img class="ava" alt="潍坊小邓丽君" src="https://vi0.6rooms.com/live/2018/07/30/13/1010v1532928603632575320_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/853766" target="_blank">潍坊小邓丽君</a></p>
+										<p class="viewer"><i></i>998</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/13920" target="_blank">
+										<div class="img-box"><img class="ava" alt="╰❀ℎℒ╮聆听花蕾～" src="https://vi1.6rooms.com/live/2018/06/08/20/1010v1528459660735674365_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/13920" target="_blank">╰❀ℎℒ╮聆听花蕾～</a></p>
+										<p class="viewer"><i></i>586</p>
+									</div>
+									
+								</li>
+							  								</ul>
+						  								<ul class="mmlist j-taglist1000018" style="display: none;">
+							  									<li>
+									<a class="pic" href="//v.6.cn/919191" target="_blank">
+										<div class="img-box"><img class="ava" alt="一表人才~新主播~" src="https://vi3.6rooms.com/live/2018/08/20/22/1010v1534775403166784915_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/919191" target="_blank">一表人才~新主播~</a></p>
+										<p class="viewer"><i></i>11,717</p>
+									</div>
+									
+								</li>
+							  								</ul>
+						  								<ul class="mmlist j-taglist1000054" style="display: none;">
+							  									<li>
+									<a class="pic" href="//v.6.cn/766161" target="_blank">
+										<div class="img-box"><img class="ava" alt="小江老铁挥手桃家湾" src="https://vi2.6rooms.com/live/2018/07/11/14/1010v1531290668702659380_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/766161" target="_blank">小江老铁挥手桃家湾</a></p>
+										<p class="viewer"><i></i>16,856</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/739234" target="_blank">
+										<div class="img-box"><img class="ava" alt="跟水库大网开干喽" src="https://vi2.6rooms.com/live/2018/06/19/17/1010v1529401898461474282_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/739234" target="_blank">跟水库大网开干喽</a></p>
+										<p class="viewer"><i></i>13,533</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/870284" target="_blank">
+										<div class="img-box"><img class="ava" alt="渔鹰又在盘鱼哥啦" src="https://vi1.6rooms.com/live/2018/03/04/23/1010v1520178857880794571_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/870284" target="_blank">渔鹰又在盘鱼哥啦</a></p>
+										<p class="viewer"><i></i>11,038</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/304055" target="_blank">
+										<div class="img-box"><img class="ava" alt="熊大中国最北冰下捕鱼" src="https://vi3.6rooms.com/live/2018/10/10/22/1010v1539182644616469770_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/304055" target="_blank">熊大中国最北冰下捕鱼</a></p>
+										<p class="viewer"><i></i>9,637</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/890476" target="_blank">
+										<div class="img-box"><img class="ava" alt="芜湖啊峰收黄鱼善地龙" src="https://vi1.6rooms.com/live/2019/03/12/10/1010v1552358154480287599_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/890476" target="_blank">芜湖啊峰收黄鱼善地龙</a></p>
+										<p class="viewer"><i></i>7,023</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/852531" target="_blank">
+										<div class="img-box"><img class="ava" alt="黑瞎岛卡卡打鱼大叔" src="https://vi3.6rooms.com/live/2018/07/30/16/1010v1532938544406319348_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/852531" target="_blank">黑瞎岛卡卡打鱼大叔</a></p>
+										<p class="viewer"><i></i>5,011</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/893938" target="_blank">
+										<div class="img-box"><img class="ava" alt="阿平六千里徒步32天" src="https://vi2.6rooms.com/live/2019/02/21/17/1010v1550742859760189865_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/893938" target="_blank">阿平六千里徒步32天</a></p>
+										<p class="viewer"><i></i>4,805</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/866566" target="_blank">
+										<div class="img-box"><img class="ava" alt="冰心中雁荡山直播" src="https://vi2.6rooms.com/live/2018/08/31/18/1010v1535710035703097065_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/866566" target="_blank">冰心中雁荡山直播</a></p>
+										<p class="viewer"><i></i>4,150</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/766956" target="_blank">
+										<div class="img-box"><img class="ava" alt="婷妹骑去大兴安岭18" src="https://vi1.6rooms.com/live/2019/03/05/11/1010v1551757811051962175_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/766956" target="_blank">婷妹骑去大兴安岭18</a></p>
+										<p class="viewer"><i></i>3,635</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/881930" target="_blank">
+										<div class="img-box"><img class="ava" alt="酒妹♥求个人票" src="https://vi2.6rooms.com/live/2019/01/14/14/1010v1547448090022471467_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/881930" target="_blank">酒妹♥求个人票</a></p>
+										<p class="viewer"><i></i>3,002</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/870632" target="_blank">
+										<div class="img-box"><img class="ava" alt="山狼湘西山寨求个人票" src="https://vi1.6rooms.com/live/2018/07/30/01/1010v1532885487740760427_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/870632" target="_blank">山狼湘西山寨求个人票</a></p>
+										<p class="viewer"><i></i>2,503</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/872276" target="_blank">
+										<div class="img-box"><img class="ava" alt="民哥捕鱼" src="https://vi1.6rooms.com/live/2018/04/20/20/1010v1524228793999038928_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/872276" target="_blank">民哥捕鱼</a></p>
+										<p class="viewer"><i></i>2,454</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/891139" target="_blank">
+										<div class="img-box"><img class="ava" alt="彝妹和爸今天去种花椒" src="https://vi1.6rooms.com/live/2019/01/24/23/1010v1548343216670645699_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/891139" target="_blank">彝妹和爸今天去种花椒</a></p>
+										<p class="viewer"><i></i>1,065</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/872660" target="_blank">
+										<div class="img-box"><img class="ava" alt="🍀茶妹在西湖边龙井" src="https://vi3.6rooms.com/live/2019/03/24/09/1007v1553390278931413275_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/872660" target="_blank">🍀茶妹在西湖边龙井</a></p>
+										<p class="viewer"><i></i>800</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/578888" target="_blank">
+										<div class="img-box"><img class="ava" alt="超娃少数民族凯丽行" src="https://vi0.6rooms.com/live/2018/08/29/16/1010v1535530233828330897_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/578888" target="_blank">超娃少数民族凯丽行</a></p>
+										<p class="viewer"><i></i>713</p>
+									</div>
+									
+								</li>
+							  								</ul>
+						  								<ul class="mmlist j-taglist1000027" style="display: none;">
+							  								</ul>
+						  								<ul class="mmlist j-taglist1000036" style="display: none;">
+							  									<li>
+									<a class="pic" href="//v.6.cn/70656" target="_blank">
+										<div class="img-box"><img class="ava" alt="小丫子吖求个人票" src="https://vi3.6rooms.com/live/2019/02/23/21/1010v1550930395327728929_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-1">甜美</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/70656" target="_blank">小丫子吖求个人票</a></p>
+										<p class="viewer"><i></i>5,978</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/80797" target="_blank">
+										<div class="img-box"><img class="ava" alt="跑调嘉💟" src="https://vi1.6rooms.com/live/2018/12/27/00/1010v1545841512794014339_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-1">甜美</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/80797" target="_blank">跑调嘉💟</a></p>
+										<p class="viewer"><i></i>5,110</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/877642" target="_blank">
+										<div class="img-box"><img class="ava" alt="江西刘幽幽-求个人票" src="https://vi3.6rooms.com/live/2019/03/04/19/1010v1551698064115349672_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/877642" target="_blank">江西刘幽幽-求个人票</a></p>
+										<p class="viewer"><i></i>3,290</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/784711" target="_blank">
+										<div class="img-box"><img class="ava" alt="小雨涵新人求关注" src="https://vi3.6rooms.com/live/2018/10/23/16/1010v1540284646390747529_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/784711" target="_blank">小雨涵新人求关注</a></p>
+										<p class="viewer"><i></i>2,444</p>
+									</div>
+									
+								</li>
+							  								</ul>
+						  								<ul class="mmlist j-taglist1000045" style="display: none;">
+							  									<li>
+									<a class="pic" href="//v.6.cn/827874" target="_blank">
+										<div class="img-box"><img class="ava" alt="初十八【PK】小乐子" src="https://vi3.6rooms.com/live/2019/01/14/07/1010v1547421627598178553_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/827874" target="_blank">初十八【PK】小乐子</a></p>
+										<p class="viewer"><i></i>2,863</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/29020" target="_blank">
+										<div class="img-box"><img class="ava" alt="雨泽PK婷婷" src="https://vi1.6rooms.com/live/2018/11/05/18/1010v1541412280015349816_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/29020" target="_blank">雨泽PK婷婷</a></p>
+										<p class="viewer"><i></i>2,850</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/764054" target="_blank">
+										<div class="img-box"><img class="ava" alt="师弟【大战】小师妹" src="https://vi1.6rooms.com/live/2019/03/23/08/1010v1553300187056229735_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/764054" target="_blank">师弟【大战】小师妹</a></p>
+										<p class="viewer"><i></i>2,791</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/854960" target="_blank">
+										<div class="img-box"><img class="ava" alt="小胖PK胖妞" src="https://vi2.6rooms.com/live/2018/06/05/13/1010v1528177319598050504_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/854960" target="_blank">小胖PK胖妞</a></p>
+										<p class="viewer"><i></i>901</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/842546" target="_blank">
+										<div class="img-box"><img class="ava" alt="彪子---存折" src="https://vi1.6rooms.com/live/2019/03/08/20/1010v1552047197534432480_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/842546" target="_blank">彪子---存折</a></p>
+										<p class="viewer"><i></i>681</p>
+									</div>
+									
+								</li>
+							  								</ul>
+						  								<ul class="mmlist j-taglist1000090" style="display: none;">
+							  									<li>
+									<a class="pic" href="//v.6.cn/1388888" target="_blank">
+										<div class="img-box"><img class="ava" alt="say早安︶微笑吖" src="https://vi3.6rooms.com/live/2019/03/20/13/1010v1553061228984695646_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/1388888" target="_blank">say早安︶微笑吖</a></p>
+										<p class="viewer"><i></i>4,805</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/1659" target="_blank">
+										<div class="img-box"><img class="ava" alt="💞喵喵喵💞" src="https://vi0.6rooms.com/live/2018/05/11/09/1010v1526001116061012040_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																							<i class="i-tags-1">甜美</i>	
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/1659" target="_blank">💞喵喵喵💞</a></p>
+										<p class="viewer"><i></i>4,030</p>
+									</div>
+									
+								</li>
+							  									<li>
+									<a class="pic" href="//v.6.cn/6789" target="_blank">
+										<div class="img-box"><img class="ava" alt="架子鼓•天天" src="https://vi0.6rooms.com/live/2019/01/16/17/1010v1547630727024834452_s.jpg" style="opacity: 1;"></div>
+																				<span class="icon-tags">
+																					</span>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="//v.6.cn/6789" target="_blank">架子鼓•天天</a></p>
+										<p class="viewer"><i></i>3,955</p>
+									</div>
+									
+								</li>
+							  								</ul>
+						  							</div><!--/.mm-mod-list-->
+					</div><!--/.mm-taglist-->
+				</div><!--/.mm-taglist-area-->
+
+				<div class="family-push fix" id="family_recom" data-tracing="ipvafi4s">
+					<div class="mm-mod-hd">
+						<h4><i></i>家族推荐</h4>
+						<a class="btn-change"><i></i>换一换</a>							
+					</div>
+					<div class="mm-mod-list">						
+						
+						<ul class="mmlist-pic mmlist-family">								
+													
+							<li>
+								<a class="pic" href="//v.6.cn/13920" target="_blank">
+									<div class="img-box"><img src2="https://vi1.6rooms.com/live/2018/06/08/20/1010v1528459660735674365_s.jpg" alt="╰❀ℎℒ╮聆听花蕾～" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-bg"></em>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+									<span class="anchor">╰❀ℎℒ╮聆听花蕾～</span>
+									<span class="viewer"><i></i>586</span>
+								</a>
+								<div class="info">
+									<p class="f-name"><a target="_blank" href="//v.6.cn/f/p/26490889.html"><img src2="https://vi0.6rooms.com/live/family/900004537_55967.png">曾是惊鸿照影来～</a><span>推荐</span></p>
+								</div>
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/80797" target="_blank">
+									<div class="img-box"><img src2="https://vi1.6rooms.com/live/2018/12/27/00/1010v1545841512794014339_s.jpg" alt="跑调嘉💟" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-bg"></em>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+									<span class="anchor">跑调嘉💟</span>
+									<span class="viewer"><i></i>5,110</span>
+								</a>
+								<div class="info">
+									<p class="f-name"><a target="_blank" href="//v.6.cn/f/p/50326702.html"><img src2="https://vi0.6rooms.com/live/family/900011443_79653.png">青春启航</a><span>推荐</span></p>
+								</div>
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/32666" target="_blank">
+									<div class="img-box"><img src2="https://vi3.6rooms.com/live/2019/03/19/06/1010v1552948885898220196_s.jpg" alt="BY玻雅。眼睛肿了" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-bg"></em>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+									<span class="anchor">BY玻雅。眼睛肿了</span>
+									<span class="viewer"><i></i>6,116</span>
+								</a>
+								<div class="info">
+									<p class="f-name"><a target="_blank" href="//v.6.cn/f/p/43472261.html"><img src2="https://vi0.6rooms.com/live/family/900006688_25526.png">天遇</a><span>推荐</span></p>
+								</div>
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/81586" target="_blank">
+									<div class="img-box"><img src2="https://vi2.6rooms.com/live/2018/11/23/19/1010v1542972637060933349_s.jpg" alt="二狗z贺旭哥郡王了呦" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-bg"></em>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+									<span class="anchor">二狗z贺旭哥郡王了呦</span>
+									<span class="viewer"><i></i>5,393</span>
+								</a>
+								<div class="info">
+									<p class="f-name"><a target="_blank" href="//v.6.cn/f/p/84423516.html"><img src2="https://vi0.6rooms.com/live/family/900015261_22222.png">如水家族</a><span>推荐</span></p>
+								</div>
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/88868" target="_blank">
+									<div class="img-box"><img src2="https://vi2.6rooms.com/live/2018/09/20/23/1010v1537456712301790730_s.jpg" alt="Mars.飞小主💋" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-bg"></em>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+									<span class="anchor">Mars.飞小主💋</span>
+									<span class="viewer"><i></i>4,288</span>
+								</a>
+								<div class="info">
+									<p class="f-name"><a target="_blank" href="//v.6.cn/f/p/54888388.html"><img src2="https://vi0.6rooms.com/live/family/900010706_74267.png">✧倾城✧</a><span>推荐</span></p>
+								</div>
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/855997" target="_blank">
+									<div class="img-box"><img src2="https://vi1.6rooms.com/live/2019/03/02/10/1010v1551495133276031446_s.jpg" alt="毛毛，不要夸我漂亮" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-bg"></em>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+									<span class="anchor">毛毛，不要夸我漂亮</span>
+									<span class="viewer"><i></i>4,137</span>
+								</a>
+								<div class="info">
+									<p class="f-name"><a target="_blank" href="//v.6.cn/f/p/54080061.html"><img src2="https://vi0.6rooms.com/live/family/900006522_47048.png">舞动九天</a><span>推荐</span></p>
+								</div>
+							</li>
+												</ul>
+					</div><!--/.mm-mod-list-->
+				</div><!--/.family-push-->
+
+				<div id="mm-cute-new" class="mm-cute-new" data-tracing="ipvad1mq">
+					<div class="mm-mod-hd">
+						<h4><i></i>萌新主播</h4>
+					</div>
+					<div class="mm-mod-list">
+						<ul class="mmlist">
+													
+							<li>
+								<a class="pic" href="//v.6.cn/891139" target="_blank">
+									<div class="img-box"><img src2="https://vi1.6rooms.com/live/2019/01/24/23/1010v1548343216670645699_s.jpg" alt="彝妹和爸今天去种花椒" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+									<i class="i-mobile"></i>								
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="891139" target="_blank">彝妹和爸今天去种花椒</a></p>
+									<p class="viewer"><i></i>1,065</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/848941" target="_blank">
+									<div class="img-box"><img src2="https://vi3.6rooms.com/live/2018/12/19/18/1010v1545215496563443537_s.jpg" alt="sweet一梦➹" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="848941" target="_blank">sweet一梦➹</a></p>
+									<p class="viewer"><i></i>2,353</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/784661" target="_blank">
+									<div class="img-box"><img src2="https://vi1.6rooms.com/live/2018/10/11/14/1010v1539238407728473616_s.jpg" alt="香香6点生日会欢迎你" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="784661" target="_blank">香香6点生日会欢迎你</a></p>
+									<p class="viewer"><i></i>2,886</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/781945" target="_blank">
+									<div class="img-box"><img src2="https://vi2.6rooms.com/live/2018/03/11/13/1010v1520744446627439963_s.jpg" alt="聊天，听歌" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="781945" target="_blank">聊天，听歌</a></p>
+									<p class="viewer"><i></i>777</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/895804" target="_blank">
+									<div class="img-box"><img src2="https://vi1.6rooms.com/live/2019/03/17/13/1010v1552800804194713286_s.jpg" alt="菲儿💕大长腿" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="895804" target="_blank">菲儿💕大长腿</a></p>
+									<p class="viewer"><i></i>2,453</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/168606" target="_blank">
+									<div class="img-box"><img src2="https://vi2.6rooms.com/live/2019/03/18/10/1010v1552877036301614953_s.jpg" alt="啊拉蕾~小可爱~" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="168606" target="_blank">啊拉蕾~小可爱~</a></p>
+									<p class="viewer"><i></i>2,835</p>
+								</div>
+								
+							</li>
+												</ul>
+						
+					</div><!--/.mm-mod-list-->
+				</div><!--/.mm-cute-new-->			
+				
+				<div class="mylist fix" id="my_follow" style="display:none">
+					<div class="mm-mod-hd">
+						<h4><i></i>我的主播</h4>
+						<div class="mm-mod-tab">
+							<a class="on" rela="follow" data-tracing="ipvafi4v">我关注的</a>
+							<a rela="safe" data-tracing="ipvafi4w">我守护的</a>
+							<a rela="manage" data-tracing="ipvafi4x">我管理的</a>
+							<a href="//v.6.cn/user/mytrace.php" target="_blank" data-tracing="ipvafi4y">我的足迹</a>
+							<a rela="mvideo" data-tracing="" data-update="1">小视频</a>
+							<span class="line-on" style="width:56px"></span>
+						</div>
+					</div>
+					<div class="my-follow" data-tracing="ipvafi4v">
+						<div class="mm-mod-list">
+							<ul class="mmlist"></ul>							
+						</div><!--/.mm-mod-list-->
+						<div class="follow-more"><a>更多关注</a></div>
+					</div><!--/.my-follow-->
+					<div class="my-safe" data-tracing="ipvafi4w" style="display:none">
+						<div class="mm-mod-list">
+							<ul class="safe-list">
+								<li class="{nolive}">
+									<a class="pic" target="room{rid}" href="//v.6.cn/{rid}">
+										<img src3="{pic}" alt="{alias}">
+										<em class="{status}"></em>
+									</a>
+									<div class="info">
+										<p class="anchor">
+											<a class="name" href="//v.6.cn/{rid}" target="room{rid}">{alias}</a>
+										</p>
+										<p class="viewer"><i></i>{count}</p>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div><!--/.my-safe-->
+					<div class="my-manage" data-tracing="ipvafi4x" style="display:none">
+						<div class="mm-mod-list">
+							<div class="manage-tip">房管在<em>30天</em>内的<em>任何一天</em>陪伴主播（直播状态）达到<em>1小时</em>或<em>任何一天</em>礼物贡献达到<em>1000币</em>，自动延长房管身份，未满足要求则自动取消房管身份。</div>
+							<ul class="safe-list">
+								<li class="{nolive} {hasexpire}">
+									<a class="pic" target="room{rid}" href="//v.6.cn/{rid}">
+										<img src3="{pic}" alt="{alias}">
+										<em class="{status}"></em>
+									</a>
+									<div class="info">
+										<p class="anchor">
+											<a class="name" uid="{uid}" manage="1" href="//v.6.cn/{rid}" target="room{rid}">{alias}</a>
+										</p>
+										<p class="expire">有效期：{expire}</p>
+										<p class="viewer"><i></i>{count}</p>
+										<em class="{priv}"></em>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div><!--/.my-manage-->
+					
+					<div class="my-mvideo follow-video-box" style="display: none;">
+						<div class="list-wrap fix"></div>
+						<div class="list-loading" style="display: none;">
+							<div class="loading">加载中…</div>
+						</div>
+						<div class="list-empty" style="display: none;">还没有关注的小视频，赶快去关注吧~</div>
+						<a href="#" class="list-more" style="display: none;">更多关注</a>
+					</div>
+					
+				</div><!--/.mylist-->
+
+				<div class="home-rank fix">
+					<div class="home-toplist" id="rankPeopleBox" style="display:none;">
+						<h4 class="hd"><i></i>全站人气排行</h4>
+						<div class="toplist-box">
+							<div class="toplist-tab">
+								<ul>
+									<li><a rela="d">日榜</a></li>
+									<li><a rela="w">周榜</a></li>
+									<li><a rela="m">月榜</a></li>
+									<li><a rela="a">总榜</a></li>
+								</ul>
+								<span class="line-on"></span>
+							</div>
+							<div class="toplist">
+								<ol>
+									<li style="display:none;">
+										<div class="l">
+											<em class="rank">{rank}</em>
+											<a class="ava" href="//v.6.cn{url}" target="_blank"><img src3="{pic}"></a>
+											<a class="name" href="//v.6.cn{url}" target="_blank">{alias}</a>
+											<a class="i-live {live}" href="//v.6.cn{url}" target="_blank" title="直播中"></a>
+										</div>
+										<div class="r"><i class="star{star}"></i></div>
+									</li>
+									<li style="display:none;">
+										<div class="l">
+											<em class="rank">{rank}</em>
+											<a class="name" href="//v.6.cn{url}" target="_blank">{alias}</a>
+											<a class="i-live {live}" href="//v.6.cn{url}" target="_blank" title="直播中"></a>
+										</div>
+										<div class="r"><i class="star{star}"></i></div>
+									</li>
+								</ol>
+							</div>
+						</div><!--/.toplist-box-->
+					</div><!--/.home-toplist-->
+					<div class="home-toplist" id="rankStarBox" data-tracing="ipvafi50">
+						<h4 class="hd"><i></i>全站主播排行</h4>
+						<div class="toplist-box">
+							<div class="toplist-tab">
+								<ul>
+									<li><a rela="d">日榜</a></li>
+									<li><a rela="w">周榜</a></li>
+									<li><a rela="m">月榜</a></li>
+									<li><a rela="a">总榜</a></li>
+								</ul>
+								
+							</div>
+							<div class="toplist">
+								<ol>
+									<li style="display:none;">
+										<div class="t-pic">
+											<a href="//v.6.cn{url}" target="_blank">
+												<img src3="{pic}" alt="{alias}">
+												<span class="t-rank"></span>
+												<span class="i-live {live}" title="直播中"></span>
+											</a>
+										</div>
+										<div class="t-name"><a href="//v.6.cn{url}" target="_blank">{alias}</a></div>
+										<div class="t-level"><i class="star{star}"></i></div>				
+									</li>
+									<li style="display:none;">
+										<div class="l">
+											<em class="rank">{rank}</em>
+											<a class="name" href="//v.6.cn{url}" target="_blank">{alias}</a>
+											<a class="i-live {live}" href="//v.6.cn{url}" target="_blank" title="直播中"></a>
+										</div>
+										<div class="r"><i class="star{star}"></i></div>
+									</li>
+								</ol>
+							</div>
+						</div><!--/.toplist-box-->
+					</div><!--/.home-toplist-->
+					<div class="home-toplist" id="rankRichBox" data-tracing="ipvafi51">
+						<h4 class="hd"><i></i>全站富豪排行</h4>
+						<div class="toplist-box">
+							<div class="toplist-tab">
+								<ul>
+									<li><a rela="d">日榜</a></li>
+									<li><a rela="w">周榜</a></li>
+									<li><a rela="m">月榜</a></li>
+									<li><a rela="a">总榜</a></li>
+								</ul>
+								
+							</div>
+							<div class="toplist">
+								<ol>
+									<li style="display:none;">
+										<div class="t-pic">
+											<a href="//v.6.cn/profile/index.php?rid={rid}" target="_blank">
+												<img src3="{pic}" alt="{alias}">
+												<span class="t-rank"></span>
+											</a>
+										</div>
+										<div class="t-name"><a href="//v.6.cn/profile/index.php?rid={rid}" target="_blank">{alias}</a></div>
+										<div class="t-level"><i class="rich{rich} rich-{uid}"></i></div>
+									</li>
+									<li style="display:none;">
+										<div class="l"><em class="rank">{rank}</em><a class="name" href="//v.6.cn/profile/index.php?rid={rid}" target="_blank">{alias}</a></div>
+										<div class="r"><i class="rich{rich} rich-{uid}"></i></div>
+									</li>
+								</ol>
+							</div>
+						</div><!--/.toplist-box-->
+					</div><!--/.home-toplist-->
+					<div class="home-news" data-tracing="iqhue3bu">
+						<div class="mm-mod-hd">
+							<h4><i></i>六房动态</h4>
+						</div>
+						<div class="news-list">
+							 <ul class="aList">
+							 									<li class="first"><a href="https://mp.weixin.qq.com/s?__biz=MzAwMTUwODI3Mg==&amp;mid=2649987570&amp;idx=1&amp;sn=dafa0ab0e1d19d034ad2d6d6863966bb&amp;chksm=82dfaf2db5a8263b66efb96facf2c07564f3ba0372000220e465176d0822c204e76e891a3e3c&amp;token=625477764&amp;lang=zh_CN#rd" target="_blank">PK赛赛况回顾：比赛第三天“渔哥渔嫂”拿三分提前进突围赛</a><span>3-23</span></li>
+																<li><a href="https://mp.weixin.qq.com/s?__biz=MzAwMTUwODI3Mg==&amp;mid=2649987558&amp;idx=1&amp;sn=f4516f3bea9d2d2d87ddba922a9426b0&amp;chksm=82dfaf39b5a8262fbf9d1c206971ef7fe81c6cd97a38e6d0203fee3805d2fc2a1f6ad79acc6e&amp;token=433175685&amp;lang=zh_CN#rd" target="_blank">直播间要被她玩黄？“凉音”旅游回归开播</a><span>3-22</span></li>
+																<li><a href="https://mp.weixin.qq.com/s?__biz=MzAwMTUwODI3Mg==&amp;mid=2649987541&amp;idx=1&amp;sn=224d6dbd03c210950dd18565ba2bee07&amp;chksm=82dfaf0ab5a8261ca467b29a03011788ae917160353e75f437585730611c0f3526b1d8d0e813&amp;token=1222076154&amp;lang=zh_CN#rd" target="_blank">战报！PK赛第一天“丫总”超10万票率先拿下一分</a><span>3-21</span></li>
+																<li><a href="https://mp.weixin.qq.com/s?__biz=MzAwMTUwODI3Mg==&amp;mid=2649987541&amp;idx=2&amp;sn=070a1b6db371f445e5fba835a4b812c1&amp;chksm=82dfaf0ab5a8261c6580dc7b69e688d232de5ac49a603f331d90afc52e99387490b1a5c3976f&amp;token=1222076154&amp;lang=zh_CN#rd" target="_blank">这个神豪有点拽？一个月连升8级</a><span>3-21</span></li>
+																<li><a href="https://mp.weixin.qq.com/s?__biz=MzAwMTUwODI3Mg==&amp;mid=2649987498&amp;idx=1&amp;sn=ebeb1c5fad9cce51bcd157254462f7c3&amp;chksm=82dfaf75b5a82663abfef33ff5a80858258bfec2f212cfeba0f1b9c18b36cac0cb089381d7e0&amp;token=1832915012&amp;lang=zh_CN#rd" target="_blank">必看！突围赛赛制详情解析</a><span>3-20</span></li>
+																<li><a href="https://mp.weixin.qq.com/s?__biz=MzAwMTUwODI3Mg==&amp;mid=2649987498&amp;idx=2&amp;sn=f08454785e8b866ff9ae2d666481542f&amp;chksm=82dfaf75b5a82663a6562cbf30dc974227ea73ff304e8d313551f69b127e9a88cb3a24b78fdf&amp;token=1832915012&amp;lang=zh_CN#rd" target="_blank">美女主播“小怡妹”超美写真照来袭</a><span>3-20</span></li>
+																<li><a href="https://mp.weixin.qq.com/s/j6idknr-xtbHtBBdTQ-Hsw" target="_blank">势头强劲！“贺熙然”成排位赛首位直通选手</a><span>3-19</span></li>
+																<li><a href="https://mp.weixin.qq.com/s/ilszbSdKBEZtaSTcrUNOtA" target="_blank">“新秀陌颜”超美钢管舞写真尽显曼妙身段</a><span>3-19</span></li>
+																<li><a href="https://mp.weixin.qq.com/s?__biz=MzAwMTUwODI3Mg==&amp;mid=2649987471&amp;idx=1&amp;sn=dca7f2a9538840b4fc120f5a29d44a7c&amp;chksm=82dfaf50b5a826469fbbb122e2a2ade7d14a7787ef3d71640c400c4ed32d1483c7b2c3291b1a&amp;token=906866986&amp;lang=zh_CN#rd" target="_blank">超星大盘点！“唯一”收超50万啤酒获超星封面</a><span>3-18</span></li>
+																<li><a href="https://mp.weixin.qq.com/s?__biz=MzAwMTUwODI3Mg==&amp;mid=2649987471&amp;idx=2&amp;sn=dc2734c4ad9d81c425d9fc7376ab69b8&amp;chksm=82dfaf50b5a8264608ce3b526cd49b661f81550a137b3902dd953c6a4909d6eb4cab9386cf97&amp;token=906866986&amp;lang=zh_CN#rd" target="_blank">【3.11——3.17】一周美女精选TOP10福利大放送</a><span>3-18</span></li>
+																<li><a href="https://www.6.cn/event/help/index.php?type=20&amp;_tra_=index-iqhue3bu" target="_blank">秀场最新管理规定及说明</a><span>06-20</span></li>
+																
+							</ul>
+						</div>
+						<div class="rote-box">
+							<a id="tougao" href="#" class="rote"><i class="icon"></i>我要投稿</a>
+							<div class="pop">
+								<i class="arraw"></i>
+								<p>六间房投稿QQ</p>
+								<p>
+									<span class="qq">2075510492</span>
+									<span class="qq">1846710273</span>
+								</p>
+							</div>
+						</div>
+					</div><!--/.home-news-->
+				</div><!--/.home-rank-->
+
+				<div class="mm-event fix">
+		          	<div class="event-bd">
+		            	<a class="first" href="//v.6.cn/event/zhaopin/" target="_blank" style="background-image:url(//vr0.6rooms.com/imges/index/mm-event3-bg-v3.png)" data-tracing="ipvafi52"><img src="//vr0.6rooms.com/imges/index/mm-event3-v2.png"></a>
+		            	<a href="//v.6.cn/event/liveClient/?t=phone" target="_blank" style="background-image:url(//vr0.6rooms.com/imges/index/mmevent-sj-v2.png)" data-tracing="ipvafi53"><img src="//vr0.6rooms.com/imges/index/mmevent-sj2-v3.png"></a>
+		            	<a href="//v.6.cn/event/propaganda.php" target="_blank" style="background-image:url(//vr0.6rooms.com/imges/index/mm-event1-bg-v3.png)" data-tracing="ipvafi54"><img src="//vr0.6rooms.com/imges/index/mm-event1-v1.png"></a>
+		          	</div>
+		        </div><!--/.mm-event-->
+
+		        <div id="mmVoice" class="mm-voice" data-tracing="ipvafi55">
+		        	<div class="mm-mod-hd">
+						<h4><i></i>好声音</h4>
+					</div>
+					<div class="mm-mod-list">
+						<ul class="mmlist">
+													
+							<li>
+								<a class="pic" href="//v.6.cn/203333" target="_blank">
+									<div class="img-box"><img src2="https://vi1.6rooms.com/live/2018/11/07/17/1010v1541583058729762447_s.jpg" alt="💞颜小夕，萌萌哒。" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="203333" target="_blank">💞颜小夕，萌萌哒。</a></p>
+									<p class="viewer"><i></i>4,967</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/116866" target="_blank">
+									<div class="img-box"><img src2="https://vi3.6rooms.com/live/2019/01/28/16/1010v1548664317617662212_s.jpg" alt="新秀❤️初晓9点播" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="116866" target="_blank">新秀❤️初晓9点播</a></p>
+									<p class="viewer"><i></i>3,128</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/884190" target="_blank">
+									<div class="img-box"><img src2="https://vi0.6rooms.com/live/2018/07/14/16/1010v1531558099014575020_s.jpg" alt="✿Annდ安子琳ル❀" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="884190" target="_blank">✿Annდ安子琳ル❀</a></p>
+									<p class="viewer"><i></i>3,707</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/5272" target="_blank">
+									<div class="img-box"><img src2="https://vi0.6rooms.com/live/2018/03/17/22/1010v1521295515763019112_s.jpg" alt="Jenny✿珍妮" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="5272" target="_blank">Jenny✿珍妮</a></p>
+									<p class="viewer"><i></i>3,383</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/877293" target="_blank">
+									<div class="img-box"><img src2="https://vi0.6rooms.com/live/2019/02/21/15/1010v1550733169259429064_s.jpg" alt="代理朶児🌸爱唱歌" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="877293" target="_blank">代理朶児🌸爱唱歌</a></p>
+									<p class="viewer"><i></i>4,893</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/785200" target="_blank">
+									<div class="img-box"><img src2="https://vi0.6rooms.com/live/2019/02/28/13/1010v1551332745536160465_s.jpg" alt="蒙古格格^-^" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="785200" target="_blank">蒙古格格^-^</a></p>
+									<p class="viewer"><i></i>5,990</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/722058" target="_blank">
+									<div class="img-box"><img src2="https://vi0.6rooms.com/live/2019/01/23/06/1010v1548195676738416373_s.jpg" alt="笑笑上个头条呗" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+									<i class="i-mobile"></i>								
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="722058" target="_blank">笑笑上个头条呗</a></p>
+									<p class="viewer"><i></i>6,124</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/57089" target="_blank">
+									<div class="img-box"><img src2="https://vi0.6rooms.com/live/2019/03/22/13/1010v1553231747342016389_s.jpg" alt="♥你敢进来吗？" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="57089" target="_blank">♥你敢进来吗？</a></p>
+									<p class="viewer"><i></i>4,463</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/807710" target="_blank">
+									<div class="img-box"><img src2="https://vi1.6rooms.com/live/2018/06/22/08/1010v1529625624733823145_s.jpg" alt="果冻用心直播" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+									<i class="i-mobile"></i>								
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="807710" target="_blank">果冻用心直播</a></p>
+									<p class="viewer"><i></i>3,684</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/37888" target="_blank">
+									<div class="img-box"><img src2="https://vi3.6rooms.com/live/2018/10/05/00/1010v1538669158535160710_s.jpg" alt="莫颜扶我起来我还能播" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="37888" target="_blank">莫颜扶我起来我还能播</a></p>
+									<p class="viewer"><i></i>6,338</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/847839" target="_blank">
+									<div class="img-box"><img src2="https://vi3.6rooms.com/live/2018/04/30/17/1010v1525081644897094857_s.jpg" alt="媚儿求守护" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="847839" target="_blank">媚儿求守护</a></p>
+									<p class="viewer"><i></i>3,507</p>
+								</div>
+								
+							</li>
+													
+							<li>
+								<a class="pic" href="//v.6.cn/170000" target="_blank">
+									<div class="img-box"><img src2="https://vi3.6rooms.com/live/2019/01/18/21/1010v1547817527107629622_s.jpg" alt="－╯❀不文静的文静佳" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="170000" target="_blank">－╯❀不文静的文静佳</a></p>
+									<p class="viewer"><i></i>5,058</p>
+								</div>
+								
+							</li>
+												</ul>
+						<ul class="template" style="display:none;">
+							<li>
+								<a class="pic" href="//v.6.cn/{rid}" target="_blank">
+									<div class="img-box"><img src3="{pic}" src="//vr0.6rooms.com/imges/pixel.gif" alt="{name}"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>	
+									<i class="i-{mobile}"></i>								
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="//v.6.cn/{rid}" target="_blank">{name}</a></p>
+									<p class="viewer"><i></i>{viewer}</p>
+								</div>
+								
+							</li>
+						</ul>
+					</div><!--/.mm-mod-list-->
+		        </div><!--/.mm-voice-->
+
+		        <div id="mmDance" class="mm-dance" data-tracing="ipvafi61">
+		        	<div class="mm-mod-hd">
+						<h4><i></i>炫舞蹈</h4>
+					</div>
+					<div class="mm-mod-list">
+						<ul class="mmlist">
+													<li>
+								<a class="pic" href="//v.6.cn/851180" target="_blank">
+									<div class="img-box"><img src2="https://vi2.6rooms.com/live/2018/10/06/21/1010v1538831421827344085_s.jpg" alt="❤⑤②熙宝免费点歌" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="851180" target="_blank">❤⑤②熙宝免费点歌</a></p>
+									<p class="viewer"><i></i>4,268</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/837589" target="_blank">
+									<div class="img-box"><img src2="https://vi2.6rooms.com/live/2019/03/09/21/1010v1552136815119374079_s.jpg" alt="初夏ベ猫求手机星星" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="837589" target="_blank">初夏ベ猫求手机星星</a></p>
+									<p class="viewer"><i></i>3,819</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/861831" target="_blank">
+									<div class="img-box"><img src2="https://vi2.6rooms.com/live/2019/03/08/20/1010v1552049981051544050_s.jpg" alt="新人🌸嫣然卖豆腐" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="861831" target="_blank">新人🌸嫣然卖豆腐</a></p>
+									<p class="viewer"><i></i>4,416</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/91704" target="_blank">
+									<div class="img-box"><img src2="https://vi0.6rooms.com/live/2019/01/22/16/1010v1548144443520545019_s.jpg" alt="雅雅有毒的" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="91704" target="_blank">雅雅有毒的</a></p>
+									<p class="viewer"><i></i>921</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/890444" target="_blank">
+									<div class="img-box"><img src2="https://vi1.6rooms.com/live/2019/02/28/13/1010v1551332916341837720_s.jpg" alt="来玩啊，宝宝" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="890444" target="_blank">来玩啊，宝宝</a></p>
+									<p class="viewer"><i></i>7,190</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/874863" target="_blank">
+									<div class="img-box"><img src2="https://vi0.6rooms.com/live/2019/03/10/15/1010v1552202067803866281_s.jpg" alt="柠檬求过任务" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="874863" target="_blank">柠檬求过任务</a></p>
+									<p class="viewer"><i></i>2,544</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/819918" target="_blank">
+									<div class="img-box"><img src2="https://vi1.6rooms.com/live/2019/01/27/21/1010v1548595678518942954_s.jpg" alt="萌小飞就服靓丽" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="819918" target="_blank">萌小飞就服靓丽</a></p>
+									<p class="viewer"><i></i>3,308</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/886163" target="_blank">
+									<div class="img-box"><img src2="https://vi0.6rooms.com/live/2018/08/28/17/1010v1535448454474091557_s.jpg" alt="烟儿呀@" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="886163" target="_blank">烟儿呀@</a></p>
+									<p class="viewer"><i></i>2,731</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/32398" target="_blank">
+									<div class="img-box"><img src2="https://vi3.6rooms.com/live/2018/02/25/18/1010v1519553969716344365_s.jpg" alt="╰*☆霜霜" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="32398" target="_blank">╰*☆霜霜</a></p>
+									<p class="viewer"><i></i>3,983</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/16101" target="_blank">
+									<div class="img-box"><img src2="https://vi3.6rooms.com/live/2018/11/09/23/1010v1541777367057221643_s.jpg" alt="*纯纯" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="16101" target="_blank">*纯纯</a></p>
+									<p class="viewer"><i></i>4,952</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/88839" target="_blank">
+									<div class="img-box"><img src2="https://vi3.6rooms.com/live/2017/06/23/22/1010v1498229521059692531_s.jpg" alt="💎深圳，夏染💎" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="88839" target="_blank">💎深圳，夏染💎</a></p>
+									<p class="viewer"><i></i>4,603</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/786375" target="_blank">
+									<div class="img-box"><img src2="https://vi2.6rooms.com/live/2018/10/30/13/1010v1540878698607738299_s.jpg" alt="妙音小娘子求守护" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="786375" target="_blank">妙音小娘子求守护</a></p>
+									<p class="viewer"><i></i>2,435</p>
+								</div>
+								
+							</li>
+												</ul>
+						<ul class="template" style="display:none;">
+							<li>
+								<a class="pic" href="//v.6.cn/{rid}" target="_blank">
+									<div class="img-box"><img src3="{pic}" src="//vr0.6rooms.com/imges/pixel.gif" alt="{name}"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>	
+									<i class="i-{mobile}"></i>								
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="//v.6.cn/{rid}" target="_blank">{name}</a></p>
+									<p class="viewer"><i></i>{viewer}</p>
+								</div>
+								
+							</li>
+						</ul>
+					</div><!--/.mm-mod-list-->
+		        </div><!--/.mm-dance-->
+
+		        <div id="mmFunny" class="mm-funny" data-tracing="ipvafi56">
+		        	<div class="mm-mod-hd">
+						<h4><i></i>脱口秀</h4>
+					</div>
+					<div class="mm-mod-list">
+						<ul class="mmlist">
+													<li>
+								<a class="pic" href="//v.6.cn/243666" target="_blank">
+									<div class="img-box"><img src2="https://vi2.6rooms.com/live/2019/03/18/12/1010v1552881815727279197_s.jpg" alt="╰☆珊大大大大大大王" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="243666" target="_blank">╰☆珊大大大大大大王</a></p>
+									<p class="viewer"><i></i>8,220</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/2050" target="_blank">
+									<div class="img-box"><img src2="https://vi0.6rooms.com/live/2019/01/15/18/1010v1547549967723597056_s.jpg" alt="ゝＭ丶╭⌒沫宝早9点" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="2050" target="_blank">ゝＭ丶╭⌒沫宝早9点</a></p>
+									<p class="viewer"><i></i>3,734</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/992399" target="_blank">
+									<div class="img-box"><img src2="https://vi0.6rooms.com/live/2018/10/30/14/1010v1540881034438061611_s.jpg" alt="（余生）努力破六冠" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+									<i class="i-mobile"></i>								
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="992399" target="_blank">（余生）努力破六冠</a></p>
+									<p class="viewer"><i></i>2,782</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/737319" target="_blank">
+									<div class="img-box"><img src2="https://vi2.6rooms.com/live/2018/06/25/18/1010v1529923619735844658_s.jpg" alt="☆缘☆酒妹" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="737319" target="_blank">☆缘☆酒妹</a></p>
+									<p class="viewer"><i></i>3,711</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/9869" target="_blank">
+									<div class="img-box"><img src2="https://vi3.6rooms.com/live/2018/10/09/19/1010v1539083692521251855_s.jpg" alt="㊒⇖才艺主播原配⇗㊖" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="9869" target="_blank">㊒⇖才艺主播原配⇗㊖</a></p>
+									<p class="viewer"><i></i>3,283</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/854960" target="_blank">
+									<div class="img-box"><img src2="https://vi2.6rooms.com/live/2018/06/05/13/1010v1528177319598050504_s.jpg" alt="小胖PK胖妞" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="854960" target="_blank">小胖PK胖妞</a></p>
+									<p class="viewer"><i></i>901</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/748901" target="_blank">
+									<div class="img-box"><img src2="https://vi2.6rooms.com/live/2018/05/30/17/1010v1527671750455875904_s.jpg" alt="😊沫沫" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="748901" target="_blank">😊沫沫</a></p>
+									<p class="viewer"><i></i>968</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/743738" target="_blank">
+									<div class="img-box"><img src2="https://vi3.6rooms.com/live/2019/02/05/19/1010v1549364860953720562_s.jpg" alt="LOVE飞扬求星星" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="743738" target="_blank">LOVE飞扬求星星</a></p>
+									<p class="viewer"><i></i>707</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/842546" target="_blank">
+									<div class="img-box"><img src2="https://vi1.6rooms.com/live/2019/03/08/20/1010v1552047197534432480_s.jpg" alt="彪子---存折" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="842546" target="_blank">彪子---存折</a></p>
+									<p class="viewer"><i></i>681</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/871656" target="_blank">
+									<div class="img-box"><img src2="https://vi1.6rooms.com/live/2018/04/19/09/1010v1524102687117552224_s.jpg" alt="【脸家☆大院】皮皮猴" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="871656" target="_blank">【脸家☆大院】皮皮猴</a></p>
+									<p class="viewer"><i></i>2,384</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/90262" target="_blank">
+									<div class="img-box"><img src2="https://vi0.6rooms.com/live/2019/03/08/20/1010v1552048434646696860_s.jpg" alt="新人鱼子酱求守护人" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+																	
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="90262" target="_blank">新人鱼子酱求守护人</a></p>
+									<p class="viewer"><i></i>175</p>
+								</div>
+								
+							</li>
+													<li>
+								<a class="pic" href="//v.6.cn/723328" target="_blank">
+									<div class="img-box"><img src2="https://vi0.6rooms.com/live/2017/06/17/12/1010v1497672875911627914_s.jpg" alt="浪小白✔求15万任务" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+									<i class="i-mobile"></i>								
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="723328" target="_blank">浪小白✔求15万任务</a></p>
+									<p class="viewer"><i></i>2,472</p>
+								</div>
+								
+							</li>
+												</ul>
+						<ul class="template" style="display:none;">
+							<li>
+								<a class="pic" href="//v.6.cn/{rid}" target="_blank">
+									<div class="img-box"><img src3="{pic}" src="//vr0.6rooms.com/imges/pixel.gif" alt="{name}"></div>
+									<em class="i-shade"></em>
+									<em class="i-play"></em>
+									<i class="i-{mobile}"></i>									
+								</a>
+								<div class="info">
+									<p class="anchor"><a href="//v.6.cn/{rid}" target="_blank">{name}</a></p>
+									<p class="viewer"><i></i>{viewer}</p>
+								</div>
+								
+							</li>
+						</ul>
+					</div><!--/.mm-mod-list-->
+		        </div><!--/.mm-funny-->
+
+		        <div class="mm-banner" data-tracing="ipvafi57">
+		        	<a href="https://v.6.cn/xianchang/" target="_blank" style="background-image:url(https://vi2.6rooms.com/live/2019/03/19/09/1013v1552960170229244917.jpg)"></a>
+		        </div><!--/.mm-banner-->
+
+				<div class="mm-hotmore fix" data-tracing="ipvafi58">
+					<div class="mm-mod-hd">
+						<h4><i></i>更多热门</h4>
+					</div>
+					<div class="mm-mod-list" id="hot_more">
+						
+						<ul class="mmlist"></ul>
+						<div class="loading">加载中…</div>
+						<div class="to-more-live"><a data-tracing="ipvafi74"><span><em>更多精彩直播</em><i></i></span></a></div>
+					</div><!--/.mm-mod-list-->
+				</div><!--/.mm-hotmore-->
+			</div><!--/.body-main 首屏内容 -->
+
+			<div class="body-zone"> <!--/有排行加class body-zone-rank-->
+				<div class="zone-con fix">
+					<div class="zone-hd">
+						<div class="zone-title">歌区</div>
+						<div class="sub-tab">
+							<a rela="u3" class="on" data-tracing="u3">全部</a>
+																					<a rela="tag1000054" data-tracing="tag1000054" data-tagid="1000054">户外</a>
+																												<a rela="tag1000027" data-tracing="tag1000027" data-tagid="1000027">连麦</a>
+																												<a rela="tag1000036" data-tracing="tag1000036" data-tagid="1000036">陪聊</a>
+																																			<a rela="liaoquzuhe" class="on" data-tracing="liaoquzuhe">组合</a>
+						</div>
+						<div class="zone-order">
+					      	<a ord="ord_moren" class="on">默认</a>
+					      	<a ord="ord_renshu" class="">人数</a>
+					      	<a ord="ord_dengji">等级</a>
+					        <a ord="ord_tim">时间</a>
+					    </div>
+					</div>
+
+					<div class="region-hd fix">
+						<h3 class="region-title fix"><span>同城主播</span><span class="choose-btn"><i></i><strong id="region_name">北京</strong><b></b></span></h3>
+						<div class="region-order">
+					      	<a ord="ord_moren" class="on">默认</a>
+					      	<a ord="ord_renshu" class="">人数</a>
+					      	<a ord="ord_dengji">等级</a>
+					        <a ord="ord_tim">时间</a>
+					    </div>
+					    <div class="area-box">
+							<a class="close-big close" title="关闭"></a>
+							<ul class="list-area">
+							  <li class="a1">
+							  	<h5>华东</h5>
+							  	<a rela="9" href="">上海<span>(0)</span></a>
+							  	<a rela="10" href="">江苏<span>(0)</span></a>
+							  	<a rela="11" href="">浙江<span>(0)</span></a>
+							  	<a rela="12" href="">安徽<span>(0)</span></a>
+							  	<a rela="13" href="">福建<span>(0)</span></a>
+							  	<a rela="15" href="">山东<span>(0)</span></a>
+							  </li>
+							  <li class="a2">
+							  	<h5>西北</h5>								  	
+							  	<a rela="27" href="">陕西<span>(0)</span></a>
+							  	<a rela="28" href="">甘肃<span>(0)</span></a>
+							  	<a rela="29" href="">青海<span>(0)</span></a>
+							  	<a rela="30" href="">宁夏<span>(0)</span></a>
+							  	<a rela="31" href="">新疆<span>(0)</span></a>
+							  </li>
+							  <li class="a3">
+							  	<h5>华南</h5>
+							  	<a rela="19" href="">广东<span>(0)</span></a>
+							  	<a rela="20" href="">广西<span>(0)</span></a>
+							  	<a rela="21" href="">海南<span>(0)</span></a>
+							  </li>
+							  <li class="a4">
+							  	<h5>西南</h5>
+							  	<a rela="22" href="">重庆<span>(0)</span></a>
+							  	<a rela="23" href="">四川<span>(0)</span></a>								  	
+							  	<a rela="24" href="">贵州<span>(0)</span></a>
+							  	<a rela="25" href="">云南<span>(0)</span></a>
+							  	<a rela="26" href="">西藏<span>(0)</span></a>
+							  	
+							  </li>
+							  <li class="a5">
+							  	<h5>华中</h5>
+							  	<a rela="14" href="">江西<span>(0)</span></a>
+							  	<a rela="16" href="">河南<span>(0)</span></a>
+							  	<a rela="17" href="">湖北<span>(0)</span></a>
+							  	<a rela="18" href="">湖南<span>(0)</span></a>								  	
+							  </li>
+							  <li class="a6">
+							  	<h5>东北</h5>
+							  	<a rela="6" href="">辽宁<span>(0)</span></a>
+							  	<a rela="7" href="">吉林<span>(0)</span></a>
+							  	<a rela="8" href="">黑龙江<span>(0)</span></a>
+							  </li>
+							  <li class="a7">
+							  	<h5>华北</h5>
+							  	<a rela="1" href="">北京<span>(0)</span></a>
+							  	<a rela="2" href="">天津<span>(0)</span></a>
+							  	<a rela="3" href="">河北<span>(0)</span></a>
+							  	<a rela="4" href="">山西<span>(0)</span></a>
+							  	<a rela="5" href="">内蒙古<span>(0)</span></a>
+							  </li>
+							  <li class="a8">
+							  	<h5>台港澳及海外</h5>
+							  	<a rela="32" href="">台湾<span>(0)</span></a>
+							  	<a rela="33" href="">香港<span>(0)</span></a>
+							  	<a rela="34" href="">澳门<span>(0)</span></a>
+							  	<a rela="35" href="">海外<span>(0)</span></a>
+							  </li>
+							</ul>
+					  	</div>
+					</div>
+
+					<div class="zone-list fix">
+						
+						
+						
+						<ul class="mmlist-zone"></ul>
+					</div>
+
+					<div class="region-box"></div>
+
+					<div id="lazy_mark"><div class="loading">加载中…</div></div>
+
+					<div class="zone-video">
+						<div class="video-play">
+							<div class="v-play"><div id="zoneVideo"></div></div>
+							<div class="v-info">
+								<div class="template" style="display:none">
+									<a href="//v.6.cn/{rid}" target="room{rid}" data-tracing="{tracing}">
+										<div class="mask"></div>
+										<i class="i-play"></i>
+										<div class="user">
+											<span class="ubg"></span>
+											<span class="name">{alias}</span>
+											<span class="level"><i class="star{wealthrank}"></i></span>
+										</div>
+										<div class="sort"><span class="sname">{zoneName}</span>焦点</div>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="video-recom-bg"></div>						
+					</div>					
+				</div><!--/.zone-con-->
+
+				<div class="zone-rank" id="rank_box">
+					<div class="rank-gift">
+						<div class="rank-hd">本区主播</div>
+						<div class="zone-top-box">
+							<div class="zone-top-tab">
+								<ul>
+									<li><a class="on" rela="0">日榜</a></li>
+									<li><a rela="1">周榜</a></li>
+									<li><a rela="2">月榜</a></li>
+								</ul>
+								<span class="line-on" style="width: 65px;"></span>
+							</div>
+							<div class="zone-top">
+								<ol>
+									<li style="display: none;">
+										<div class="l">
+											<em class="rank">{rank}</em>
+											<a class="ava" href="//v.6.cn/profile/index.php?rid={rid}" target="_blank"><img src3="{pic}"></a>
+											<a class="name" href="//v.6.cn/profile/index.php?rid={rid}" target="_blank">{alias}</a>
+										</div>
+										<div class="r"><i class="star{star}"></i></div>
+									</li>
+									<li style="display: none;">
+										<div class="l"><em class="rank">{rank}</em><a class="name" href="//v.6.cn/profile/index.php?rid={rid}" target="_blank">{alias}</a></div>
+										<div class="r"><i class="star{star}"></i></div>
+									</li>
+								</ol>
+							</div>
+						</div>
+					</div><!--/.rank-gift-->
+					<div class="rank-rich">
+						<div class="rank-hd">本区富豪榜</div>
+						<div class="zone-top-box">
+							<div class="zone-top-tab">
+								<ul>
+									<li><a class="on" rela="0">日榜</a></li>
+									<li><a rela="1">周榜</a></li>
+									<li><a rela="2">月榜</a></li>
+								</ul>
+								<span class="line-on" style="width: 65px;"></span>
+							</div>
+							<div class="zone-top">
+								<ol>
+									<li style="display: none;">
+										<div class="l">
+											<em class="rank">{rank}</em>
+											<a class="ava" href="//v.6.cn/profile/index.php?rid={rid}" target="_blank"><img src3="{pic}"></a>
+											<a class="name" href="//v.6.cn/profile/index.php?rid={rid}" target="_blank">{alias}</a>
+										</div>
+										<div class="r"><i class="rich{rich} rich-{uid}"></i></div>
+									</li>
+									<li style="display: none;">
+										<div class="l"><em class="rank">{rank}</em><a class="name" href="//v.6.cn/profile/index.php?rid={rid}" target="_blank">{alias}</a></div>
+										<div class="r"><i class="rich{rich} rich-{uid}"></i></div>
+									</li>
+								</ol>
+							</div>
+						</div>
+					</div><!--/.rank-gift-->
+				</div><!--/.zone-rank-->
+				
+				<div class="zone-rank pk-rank" id="pk_rank_box">
+					<div class="rank-score">
+						<div class="rank-hd">
+							<span>最佳战局</span>
+							<div class="help">
+								<span class="help-icon">?</span>
+								<div class="tip small">
+									<i class="arrow"></i>
+									<p>统计PK总额最高的前五场战局</p>
+								</div>
+							</div>
+						</div>
+						<div class="zone-top-box">
+							<div class="zone-top-tab">
+								<ul>
+									<li><a class="on" act="best" type="1" expires="18000">日榜</a></li>
+									<li><a act="best" type="2" expires="18000">周榜</a></li>
+									<li><a act="best" type="3" expires="18000">月榜</a></li>
+								</ul>
+								<span class="line-on" style="width: 93px;"></span>
+							</div>
+							<div class="pk-top">
+								<ol>
+								</ol>
+							</div>
+							<script type="text/template" id="pk_get_tpl">
+								<li>
+									<span class="pk-icon"></span>
+									<div class="pk-group">
+										<a class="pic" target="_blank" href="/{rid_left}">
+											<div class="img-box"><img data-src="{picuser_left}" alt="{alias_left}" ></div>
+											<em class="i-bg"></em>
+											<em class="i-shade"></em>
+											<em class="i-play"></em>
+											<span class="viewer"><i></i>{livenum_left}</span>
+											<span class="icon-tags"></span>
+										</a>
+										<div class="info">
+											<p class="anchor"><a target="_blank" href="/{rid_left}">{alias_left}</a></p>
+											<p class="level"><i class="star{wealthrank_left}"></i></p>							
+										</div>
+										
+									</div>
+									<div class="pk-group">
+										<a class="pic" target="_blank" href="/{rid_right}">
+											<div class="img-box"><img data-src="{picuser_right}" alt="{alias_right}"></div>
+											<em class="i-bg"></em>
+											<em class="i-shade"></em>
+											<em class="i-play"></em>
+											<span class="viewer"><i></i>{livenum_right}</span>
+											<span class="icon-tags"></span>
+										</a>
+										<div class="info">
+											<p class="anchor"><a target="_blank" href="/{rid_right}">{alias_right}</a></p>
+											<p class="level"><i class="star{wealthrank_right}"></i></p>							
+										</div>
+										
+									</div>
+								</li>
+							</script>
+							<script type="text/template" id="pk_best_tpl">
+								<li>
+									<div class="vs">
+										<span class="rank">{no}</span>
+										<span class="name"><i class="star{wealthrank_up}"></i><a class="winner" href="/{rid_up}" target="_blank" title="{alias_up}">{alias_up}</a></span>
+										<span class="pk-icon">PK</span>
+										<span class="name opp"><i class="star{wealthrank_down}"></i><a href="/{rid_down}" target="_blank" title="{alias_down}">{alias_down}</a></span>
+									</div>
+									<div class="pk-partner">神助攻：<a href="//v.6.cn/profile/index.php?rid={assistsrid}" target="_blank" {secret}>{assists}</a></div>
+								</li>    
+							</script>
+						</div>
+					</div><!--/.rank-gift-->
+					<div class="rank-partner">
+						<div class="rank-hd">
+							<span>PK风云榜</span>
+							<div class="help l-85">
+								<span class="help-icon">?</span>
+								<div class="tip">
+									<i class="arrow"></i>
+									<p><em>1</em>主播榜统计PK胜局最多的主播</p>
+									<p><em>2</em>助攻王榜单统计玩家助攻次数，PK胜利一方中赠送礼物最多的玩家计助攻一次</p>
+									<p><em>3</em>仅统计PK总额大于1000六币的战局，周榜第一名将获得徽章奖励</p>
+								</div>
+							</div>
+							<ul class="sub-nav">
+								<li><a class="on" week="1">本周</a></li>
+								<li><a week="2">上周</a></li>
+							</ul>
+						</div>
+						<div class="zone-top-box">
+							<div class="zone-top-tab">
+								<ul>
+									<li><a class="on" act="rank" type="1" expires="18000">助攻榜</a></li>
+									<li><a act="rank" type="2" expires="18000">主播榜</a></li>
+								</ul>
+								<span class="line-on" style="width: 93px;"></span>
+							</div>
+							<div class="zone-top">
+								<ol>
+									
+								</ol>
+							</div>
+							<script type="text/template" id="pk_rank_tpl">
+								<li>
+									<div class="l">
+										<span class="rank">{no}</span>
+										<span><i class="{level_cls}"></i><a class="name" href="//v.6.cn/{link}" target="_blank" {secret}>{alias}</a></span>
+									</div>
+									<div class="r">{num}局</div>
+								</li>
+							</script>
+						</div>
+					</div><!--/.rank-gift-->
+				</div><!--/.zone-rank-->
+			</div><!--/.body-zone 主播分区-->
+
+
+			<div class="body-channel">				
+				<div class="channel-con">
+					<div class="channel-wall">
+						<div id="channelBanner" class="focus-banner">
+					  		<div class="pagechange">
+					  			<a class="prev"></a>
+			  					<div class="num-box"></div>
+			  					<a class="next"></a>
+					  		</div>	
+						  	<div class="list"></div>
+						</div>
+					</div><!--/.channel-wall-->
+
+					<div id="channelVideo" class="channel-video fix">
+						<div class="video-box">
+							<div class="video-play">
+								<div id="channelPlayer"><div class="fInstall"><a href="https://get.adobe.com/cn/flashplayer/" target="_blank">安装或者启用FLASH播放器</a></div></div>
+								<div class="video-user">
+									<div class="template" style="display:none">
+										<a class="u-con" href="{link}" target="_blank">
+											<div class="avatar"><img src3="{pic}" alt="{alias}"></div>
+											<div class="info">
+												<span class="name">{alias}</span>
+												<span class="num">{count}人正在看</span>
+											</div>
+											<div class="u-live"><em>{curName}</em></div>
+										</a>
+										<div class="u-bg"></div>
+									</div>
+								</div>
+							</div>
+							<div class="video-recom-bg"></div>
+						</div>
+						<div class="video-item">						
+							<ul class="list"></ul>
+							<ul class="template" style="display:none">
+								<li class="v{rank}" data-user="{}">
+									<span class="pic"><img src3="{pic}" alt="{alias}"></span>
+									<span class="i-shade"></span>
+									{taghtml}
+									<div class="info">
+										<p class="anchor">{alias}</p>
+										<p class="viewer"><i></i>{count}</p>							
+									</div>
+									<div class="on-effect"><b class="l"></b><b class="r"></b><b class="t"></b><b class="b"></b></div>
+								</li>
+							</ul>						
+						</div>						
+					</div><!--/.channel-video-->
+
+					<div class="channel-recom">
+						<div class="ch-mod-hd">
+							<h4 class="ch-hd"><i></i><em class="ch-title">歌区</em>火爆</h4>
+							<div class="recom-link"><a href="#" target="_blank">风渠道的</a><a href="#" target="_blank">风渠道的</a><a href="#" target="_blank">风渠道的</a></div>
+						</div>
+						<div class="recom-list">
+							<ul class="mmlist-zone fix"></ul>
+							<ul class="template" style="display:none">
+								<li>
+									<a class="pic" href="{url}" target="room{rid}">
+										<div class="img-box"><img src3="{pic}" alt="{alias}"></div>
+										<em class="i-bg"></em>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+										<span class="viewer"><i></i>{count}</span>
+										<span class="icon-tags">{icons}</span>				
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="{url}" target="room{rid}">{alias}</a></p>
+										<p class="level"><i class="star{star}"></i></p>							
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div><!--/.channel-recom-->
+
+					<div class="channel-rank fix">
+						<div class="channel-rank-anchor">
+							<h4 class="hd"><i></i><em class="ch-title">歌区</em>主播榜</h4>
+							<div class="channel-top">
+								<div class="channel-toptab">
+									<ul>
+										<li><a rela="h" class="on">热榜</a></li>
+										<li><a rela="d">日榜</a></li>
+										<li><a rela="w">周榜</a></li>
+										<li><a rela="m">月榜</a></li>
+									</ul>
+								</div>
+								<div class="channel-toplist">
+									<ol class="list">
+										<!--r1 top top1 top-hot-->
+										<li class="tpl-hot" style="display:none">
+											<div class="hot-l">
+												<div class="t-pic">
+													<a href="//v.6.cn{url}" target="_blank">
+														<img src3="{picuser}">
+														<span class="t-rank">{rank}</span>
+														<span class="i-live {liveon}" title="直播中"></span>
+													</a>
+												</div>
+												<div class="t-name"><a href="//v.6.cn{url}" target="_blank">{alias}</a></div>
+												<div class="t-level"><i class="star{wealthrank}"></i></div>
+											</div>
+											<div class="hot-m"><span>壕友</span></div>
+											<div class="hot-r">
+												<div class="h-pic"><a href="{turl}" target="_blank"><img src3="{tpicuser}"></a></div>
+												<div class="h-name"><a href="{turl}" target="_blank">{talias}</a></div>
+												<div class="h-level"><i class="rich{tcoin6rank}"></i></div>
+											</div>				
+										</li>
+										<!--r1 top top1-->
+										<li class="tpl-top" style="display:none">
+											<div class="t-pic">
+												<a href="//v.6.cn{url}" target="_blank">
+													<img src3="{picuser}">
+													<span class="t-rank">{rank}</span>
+													<span class="i-live {liveon}" title="直播中"></span>
+												</a>
+											</div>
+											<div class="t-name"><a href="//v.6.cn{url}" target="_blank">{alias}</a></div>
+											<div class="t-level"><i class="star{wealthrank}"></i></div>				
+										</li>
+										<!--r4-->
+										<li class="tpl-base" style="display:none">
+											<div class="l">
+												<em class="rank">{rank}</em>
+												<a class="name" href="//v.6.cn{url}" target="_blank">{alias}</a>
+												<a class="i-live {liveon}" href="//v.6.cn{url}" target="_blank" title="直播中"></a>
+											</div>
+											<div class="r"><i class="star{wealthrank}"></i></div>
+										</li>
+									</ol>									
+								</div>
+							</div>
+						</div>
+						<div class="channel-rank-rich">
+							<h4 class="hd"><i></i><em class="ch-title">歌区</em>富豪榜</h4>
+							<div class="channel-top">
+								<div class="channel-toptab">
+									<ul>
+										<li><a rela="d" class="on">日榜</a></li>
+										<li><a rela="w">周榜</a></li>
+										<li><a rela="m">月榜</a></li>
+									</ul>
+								</div>
+								<div class="channel-toplist">
+									<ol class="list">
+										<!--r1 top top1-->
+										<li class="tpl-top" style="display:none">
+											<div class="t-pic">
+												<a href="//v.6.cn{url}" target="_blank">
+													<img src3="{picuser}">
+													<span class="t-rank">{rank}</span>
+													<span class="i-live" title="直播中"></span>
+												</a>
+											</div>
+											<div class="t-name"><a href="//v.6.cn{url}" target="_blank">{alias}</a></div>
+											<div class="t-level"><i class="rich{coin6rank}"></i></div>				
+										</li>
+										<!--r4-->
+										<li class="tpl-base" style="display:none">
+											<div class="l">
+												<em class="rank">{rank}</em>
+												<a class="name" href="//v.6.cn{url}" target="_blank">{alias}</a>
+												<a class="i-live" href="//v.6.cn{url}" target="_blank" title="直播中"></a>
+											</div>
+											<div class="r"><i class="rich{coin6rank}"></i></div>
+										</li>
+									</ol>
+								</div>									
+							</div>
+						</div>
+						<div class="channel-gift-box">
+							<h4 class="hd"><i></i>礼物动向</h4>
+							<div class="channel-gift">
+								<ul class="list"></ul>
+								<ul class="template" style="display:none">
+									<li class="g-item {class}"><a href="//v.6.cn{url}" target="_blank"><em class="user">{from}</em><span class="txt">送给</span><em class="user">{to}</em><span class="num">{num}个</span><span class="name">{gname}</span>{gicon}<span class="tm">{tm}</span></a></li>
+								</ul>
+								<div class="g-mask"></div>
+							</div>
+						</div>							
+					</div><!--/.channel-rank-->
+
+					<div class="channel-list">
+						<div class="ch-mod-hd">
+							<h4 class="ch-hd"><i></i>精彩推荐</h4>
+							<div class="zone-order">
+						      	<a ord="ord_weight" class="on">默认</a>
+						      	<a ord="ord_renshu">人气</a>
+						    </div>
+						</div>							
+						<div class="list-box fix">
+							<ul class="mmlist-zone"></ul>
+							<ul class="template" style="display:none">
+								<li class="{class}" data-recid="{recid}">
+									<a class="pic" href="{url}" target="room{rid}">
+										<div class="img-box"><img src3="{pic}" alt="{alias}"></div>
+										<em class="i-bg"></em>
+										<em class="i-shade"></em>
+										<em class="i-play"></em>
+										<span class="viewer"><i></i>{count}</span>
+										{icons}
+									</a>
+									<div class="info">
+										<p class="anchor"><a href="{url}" target="room{rid}">{alias}</a></p>
+										<p class="level"><i class="star{star}"></i></p>							
+									</div>
+									{recomDress}
+									{score}
+								</li>
+							</ul>
+						</div>
+					</div><!--/.channel-list-->
+				</div><!--/.channel-con-->
+
+				<div class="lazy-mark"><div class="loading">加载中…</div></div>
+			</div><!--/.body-channel 分区频道-->
+
+
+			
+
+			<div class="body-follow  min-video fix">
+				<h3 class="region-title">
+					<a class="on" rela="follow-live-box">直播</a>
+					<a rela="follow-video-box" data-update="1">小视频</a>
+					<span class="line-on" style="width:48px"></span>
+				</h3>
+				<div class="follow-live-box">
+					<div class="mm-mod-hd">
+						<div class="mm-mod-tab">
+							<a class="on" rela="follow" data-tracing="ipvafi4v1">我关注的</a>
+							<a rela="safe" data-tracing="ipvafi4w">我守护的</a>
+							<a rela="manage" data-traciong="ipvafi4x">我管理的</a>
+							<a href="//v.6.cn/user/mytrace.php" target="_blank" data-tracing="ipvafi4y">我的足迹</a>
+						</div>
+					</div><!--/.mm-mod-hd-->
+					<div class="follow-list-box" data-tracing="ipvafi4v1">
+						<ul class="mmlist-zone"></ul>
+						<div id="follow_lazy_mark"></div>
+					</div><!--/.follow-list-->
+					<div class="manage-list-box" data-tracing="ipvafi4x" style="display:none"></div>
+					<div class="safe-list-box" data-tracing="ipvafi4w" style="display:none"></div>
+				</div>
+				<div class="follow-video-box fix" style="display:none">
+					<div class="list-wrap fix"></div>
+					<div class="list-loading" style="display: none;">
+						<div class="loading">加载中…</div>
+					</div>
+					<div class="list-empty" style="display: none;">还没有关注的小视频，赶快去关注吧~</div>
+					<div class="fpage" style="display: none;"></div>
+				</div>
+			</div>
+			
+			
+			<div class="body-feed fix">
+				<div class="wb-user" id="wb_user">
+					<div class="log-info">
+						<a class="ava" href="//v.6.cn/profile/index.php?rid={rid}" target="_blank"><img src3="{pic}" alt="{alias}"></a>
+						<div class="name"><a href="//v.6.cn/{rid}" target="_blank">{alias}</a></div>
+						<div class="level">
+							<span><em>主播：</em><i class="star{star}"></i></span>
+							<span><em>富豪：</em><i class="rich{rich} rich-{uid}"></i></span>
+						</div>
+					</div>
+					<div class="to-gift"><a href="//v.6.cn/user/reLvCard.php" target="_blank"><i></i>领取礼物</a></div>
+				</div><!--/.wb-user-->
+				<div class="wb-con">
+					<div id="wbForm" class="wb-form">
+						<div class="wb-text">
+							<textarea placeholder="说点啥吧"></textarea>
+						</div>
+						<div class="wb-tool">
+							<div class="wb-media">
+								<a class="face" title="表情"><i></i></a>
+								<a class="photo" title="图片"><i></i></a>
+								<a class="mp3" title="音乐"><i></i></a>
+								<div class="weiboUpload" id="weiboupload">
+				                  	<div class="weiboBox">
+				                   		<div class="arrowIcon"><i class="ico">◆</i><i class="ico ico2">◆</i></div>
+					                    <span class="close close-small"><a title="关闭">关闭</a></span>
+					                    <div class="photoBox">
+					                      	<div class="upload">
+					                        	<form method="post" action="//pic.v.6.cn/api/uploadForGeneral.php" enctype="multipart/form-data" class="comform uploadForm" target="emptyIframe">
+					                          		<p class="inputFile">
+					                            		<a href="javascript:;" title="上传图片">选择文件</a>
+					                            		<span><input type="file" name="file"></span>
+					                          		</p>
+					                          		<p class="remind">支持 jpg、jpeg、gif、png 格式，文件小于2M</p>
+					                        	</form>
+					                      	</div><!--/.upload-->
+					                      	<div class="uploading"><i></i>上传中，请稍候...</div>
+					                      	<div class="uploadinfo">
+					                        	<p class="pic"><img alt=""></p>
+					                        	<p class="dec">上传成功！点击发布，分享给好友。或者 <a class="del_photo" href="javascript:;">删除</a></p>
+					                      	</div>
+					                    </div><!--/.photoBox-->
+							      		<div class="mp3Box">
+							        		<div class="upload">
+							          			<form method="post" action="//uploadmp3.v.6.cn/mp3/testupload.php" enctype="multipart/form-data" class="comform uploadForm" target="emptyIframe">
+							             			<p class="radioLine"><label><input type="radio" name="musicstyle" value="1">原创</label><label><input type="radio" name="musicstyle" value="0">翻唱</label></p>
+									              	<p class="inputFile">
+									                 	<a href="javascript:;" title="MP3">选择文件</a>
+									                	<span><input type="file" name="file"></span>
+									              	</p>
+							              			<p class="remind">支持 MP3 格式，文件小于15M。</p>
+							              			<p class="tips"><em>*</em>用户不得上传暴力、反动、色情及未经授权的违法音视频内容</p>
+							         			</form>
+							        		</div><!--/.upload-->
+							        		<div class="uploading"><i></i>上传中，请稍候...</div>
+							        		<div class="uploadinfo">
+							         			<p class="mp3"><em></em></p>
+							          			<p class="dec">上传成功！点击发布，分享给好友。或者 <a class="del_audio" href="javascript:;">删除</a></p>
+							        		</div>
+							      		</div><!--/.mp3Box-->
+							    	</div>
+							  	</div>
+							</div><!--/.wb-media-->
+							<div class="wb-btn">
+								<button class="send">发布</button>
+							</div>
+						</div><!--/.wb-tool-->
+					</div><!--/.wb-form-->
+					<div id="wbFeed" class="wb-feed fix" data-tracing="ipvafi59">
+						<div class="wb-tab">
+							<a class="on feed-list" data-class="wb-feed-list">动态</a>
+							<a class="feed-new" data-class="wb-feed-new">对我的评论<i class="new"></i></a>
+							<span class="line-on"></span>
+						</div>
+						<div class="wb-feed-list"></div>
+						<div class="wb-feed-new"><div class="empty">您没有新评论！</div></div>
+						<div style="display:none">
+							<div id="cmtBox" class="wb-repeat fix">
+							    <div class="arrow-icon"><i class="ico">◆</i><i class="ico ico2">◆</i></div>
+							    <div class="my-avatar"></div>
+							    <div class="fpost">
+							      <div class="inputWrap"><textarea class="" style="height: 80px;"></textarea></div>
+							      <div class="tools">
+							        <button class="fbtn" type="button"><span>评论</span></button>
+							        <a class="face" title="表情"><i></i></a>
+							        <a class="uploadButton" title="图片"><i></i><em><input type="file" name="file" title="上传图片"></em></a>
+							        <span class="toMy"><input type="checkbox" id="formy" checked="checked"><label for="formy">同时转发</label></span>
+							        <span class="toRoot"><input type="checkbox" id="forroot" checked="checked"><label for="forroot">同时评论给原作者</label> <em>╰ぺ✿晶晶唱歌给你听</em></span>
+							      </div>
+							      <div class="previewImage">
+							        <img>
+							        <span class="previewImageClose close-small"></span>
+							      </div>
+							    </div><!--/.fpost-->
+							    <div class="wb-cmt-list">
+							    	<ul></ul>
+								</div>
+							    <div class="loading">加载中…</div>
+							</div><!--/.wb-repeat-->
+						</div>
+					</div><!--/.wb-feed-->
+				</div><!--/.wb-con-->
+			</div><!--/.body-feed 动态-->
+
+		</div><!--/.home-body-area-->
+	</div><!--/.home-body-->
+</div><!--/.page-home-->
+<div class="footer-area">
+	<div class="foot-inner">
+		<div class="foot-inner-area">
+			<div class="footer">
+				<div class="foot-index">
+					<div class="foot-main">
+						<div class="foot-logo"><a href="https://www.6.cn/" data-tracing="ipvafi6l"><img id="foot_logo" alt="六间房秀场" src="//vr0.6rooms.com/imges/home2016/foot-logo-v1.png"></a></div>
+						<div class="foot-mod">
+							<div class="hd"><a href="https://www.6.cn/" target="_blank" data-tracing="ipvafi6s">六间房</a></div>
+							<ul class="list">
+								<li><a href="//v.6.cn/about.php" target="_blank" data-tracing="ipvafi6t">关于我们</a></li>
+								<li><a href="//v.6.cn/about.php?ac=joinus" target="_blank" data-tracing="ipvafi6u">高薪诚聘</a></li>
+								<li><a href="//v.6.cn/about.php?ac=friend" target="_blank" data-tracing="ipvafi6v">友情链接</a></li>
+								<li><a href="//v.6.cn/sitemap.php" target="_blank" data-tracing="ipvafi6w">网站地图</a></li>
+							</ul>
+						</div>
+						<div class="foot-mod">
+							<div class="hd"><a href="//v.6.cn/help.php" target="_blank" data-tracing="ipvafi6y">帮助</a></div>
+							<ul class="list">
+								<li><a href="//v.6.cn/user/applyLive.php" target="_blank" data-tracing="ipvafi6z">主播签约</a></li>
+								<li><a href="//v.6.cn/event/help/index.php?type=01" target="_blank" data-tracing="ipvafi70">主播等级</a></li>
+								<li><a href="//v.6.cn/event/help/index.php?type=02" target="_blank" data-tracing="ipvafi71">财富等级</a></li>
+								<li><a href="//v.6.cn/help.php" target="_blank" data-tracing="ipvafi72">更多帮助</a></li>
+							</ul>
+						</div>
+						<div class="foot-mod">
+							<div class="hd"><a href="//v.6.cn/event/liveClient/?t=phone" target="_blank" data-tracing="ipvafi6m">下载</a></div>
+							<ul class="list">
+								<li><a href="//v.6.cn/event/liveClient/?t=phone" target="_blank" data-tracing="ipvafi6n">IOS移动端</a></li>
+								<li><a href="//v.6.cn/event/liveClient/?t=phone" target="_blank" data-tracing="ipvafi6o">Android移动端</a></li>
+								<li><a href="//v.6.cn/down/camera.php" target="_blank" data-tracing="ipvafi6p">直播伴侣</a></li>
+							</ul>
+						</div>
+						<div class="foot-mod">
+							<div class="hd"><a href="//v.6.cn/about.php?ac=business" target="_blank" data-tracing="ipvafi6q">合作</a></div>
+							<ul class="list">
+								<li><a href="//v.6.cn/about.php?ac=business" target="_blank" data-tracing="ipvafi6x">秀场合作</a></li>
+								<li><a href="//v.6.cn/about.php?ac=business" target="_blank" data-tracing="ipvafi73">秀场推广</a></li>
+								<li><a href="//v.6.cn/about.php?ac=business" target="_blank" data-tracing="ipvafi6r">游戏联运</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="foot-link">
+						<ul class="fix">
+					        <li class="l1"><a rel="nofollow" target="_blank" href="//v.6.cn/help/compIntro.php?act=dx">京ICP证060797号</a><span>|</span></li>
+					        <li class="l2"><a rel="nofollow" target="_blank" href="http://www.miibeian.gov.cn/">京ICP备09082681号-1</a><span>|</span></li>
+					        <li class="l3"><a rel="nofollow" target="_blank" href="//v.6.cn/help/compIntro.php?act=na">信息网络传播视听节目许可证0108268号</a><span>|</span></li>
+					        <li class="l4"><a rel="nofollow" target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802020069">京公网安备11010802020069</a><span>|</span></li>
+					        <li class="l5"><a rel="nofollow" target="_blank" href="http://net.china.com.cn/index.htm">不良信息举报中心</a></li>
+					        <li class="l1"><a rel="nofollow" target="_blank" href="http://www.bj.cyberpolice.cn/index.jsp">网络110报警服务</a><span>|</span></li>
+					        <li class="l2"><a rel="nofollow" target="_blank" href="//v.6.cn/help/compIntro.php?act=bj">京网文【2016】6172-843号</a><span>|</span></li>
+					        <li class="l3"><a rel="nofollow" target="_blank" href="//v.6.cn/help/compIntro.php?act=pm">节目制作许可证京字第666号</a><span>|</span></li>
+					        <li class="l4"><a rel="nofollow" target="_blank" href="//v.6.cn/help/compIntro.php?act=sp">京演（机构）（2018）1169号</a><span>|</span></li>
+        					<li class="l5"><a rel="nofollow" target="_blank" href="http://jb.ccm.gov.cn/">全国文化市场举报平台</a></li>
+					        <li class="l6"><a rel="nofollow" href="javascript:;">违法和不良信息举报电话：400-7061-888</a><span>|</span></li>
+					        <li class="l3"><a rel="nofollow" href="javascript:;">举报邮箱：jubao@6.cn</a></li>
+					    </ul>
+					    			      	</div>
+				</div>
+			</div><!--/.footer-->
+		</div>
+	</div>
+</div><!--/.footer-area-->
+
+<div class="follow-focus-pop">
+	<a class="focus-on"><i></i>重点关注</a>
+	<a class="focus-off">取消重点关注</a>
+	<a class="manage-off">取消管理</a>
+</div>
+
+
+<script type="text/template" id="tpl-my-follow">
+<li>
+	<a class="pic" href="//v.6.cn/{rid}" target="room{rid}">
+		<div class="img-box"><img src3="{pic}" alt="{alias}" src="//vr0.6rooms.com/imges/pixel.gif"></div>
+		<em class="i-shade"></em>
+		<em class="i-play"></em>
+		<em class="{status}"></em>
+		<em class="i-focus" title="重点关注" style="display:{sFollow}"></em>
+	</a>
+	<div class="info">
+		<p class="anchor"><a class="name" href="//v.6.cn/{rid}" target="room{rid}" sfollow="{sFollow}" uid="{uid}">{alias}</a></p>
+		<p class="viewer" style="display:{online}"><i></i>{count}</p>
+	</div>
+	
+</li>
+</script>
+<script type="text/template" id="tpl-follow-list-box">
+<li>
+	<a class="pic" href="//v.6.cn/{rid}" target="_blank">
+		<div class="img-box"><img src3="{pic}" alt="{alias}"></div>
+		<em class="i-bg"></em>
+		<em class="i-shade"></em>
+		<em class="i-play"></em>
+		<em class="{status}"></em>
+		<em class="i-focus" title="重点关注" style="display:{sFollow}"></em>
+		<span class="viewer"><i></i>{count}</span>
+	</a>
+	<div class="info">
+		<p class="anchor"><a class="name" href="//v.6.cn/{rid}" target="room{rid}" sfollow="{sFollow}" uid="{uid}">{alias}</a></p>
+		<p class="level"><i class="star{star}"></i></p>	
+	</div>
+	
+</li>
+</script>
+<script type="text/template" id="tpl-min-video-block">
+	<div class="min-video-block">  
+		<div class="anchor-info">
+			<dl class="fix">
+				<dt><img src="{picuser}"></dt>
+				<dd>
+					<p>
+						<a href="/profile/pvideo.php?rid={rid}" target="_blank">{alias}</a>
+						<i class="update-num {unreadCls}">{unreadNum}条更新</i>
+					</p>
+					<p class="tip">{num}个作品</p>
+				</dd>
+			</dl>
+			<a class="more" href="/profile/pvideo.php?rid={rid}" target="_blank">更多</a>
+		</div>
+		<div class="min-video-box">
+			<ul class="min-video-list fix">
+				{list}
+			</ul>
+		</div>
+	</div>
+</script>
+<script type="text/template" id="tpl-min-video-list">
+	<li>
+		<a class="img" href="/profile/watchMini.php?vid={vid}" target="_blank">
+			<div class="img-box"><img lazy="{picurl}"></div>
+			<div class="info-box">
+				<p><i></i>{znum}</p>
+			</div>
+			<i class="icon-play"></i>
+		</a>
+		<p class="title"><a href="/profile/watchMini.php?vid={vid}" target="_blank">{title}</a></p>
+	</li>
+</script>
+
+<script src="//vj0.6rooms.com/mini/js/base/LAB_2.js"></script><script>var JSF = {"jq":"\/\/vj0.6rooms.com\/mini\/js\/base\/jquery_3.js","login":"\/\/vj0.6rooms.com\/mini\/js\/base\/login_15.js","z":"\/\/vj0.6rooms.com\/mini\/js\/base\/z_135.js","swf":"\/\/vj0.6rooms.com\/mini\/js\/base\/swfobject_2016_2.js","im":"\/\/vj0.6rooms.com\/mini\/js\/base\/im_new_44.js","jq_drag":"\/\/vj0.6rooms.com\/mini\/js\/libs\/jquery-ui-1.12.1.custom.min.js","gift":"\/\/vj0.6rooms.com\/mini\/js\/base\/gift_510.js","gift_new":"\/\/vj0.6rooms.com\/mini\/js\/base\/gift_new_25.js","sso":"\/\/vj0.6rooms.com\/mini\/js\/base\/sso_12.js"}; $LAB.script(JSF.jq).wait()
+</script><script type="text/javascript">
+
+JSF.index_2016 = '//vj0.6rooms.com/mini/js/index_2016_170.js';
+
+
+window.__NOF = '/apple/expressInstall.swf';
+window.__PLAYER = '/apple/livePlayer/homepagePlayer/homepagePlayer3.1.swf';
+
+$LAB.script(JSF.jq).wait()
+.script(JSF.login).wait(function(){
+	Login.write();
+})
+.script(JSF.swf).wait(function(){
+	var $ = jQuery;	
+	
+	var numF = function(n){
+		n = String(n);
+		if(n.length<4) return n;
+		var a = n.split('').reverse().join('');
+		a = a.replace(/(\d{3})/g, '$1,');
+		a = a.split('').reverse().join('');
+		return a.replace(/^,/,'');
+	}
+
+	
+	/**
+		**/
+	
+	
+	//4个视频推荐 播放区
+	window.VideoFocus = {
+		box: 0,
+		swfBox: 0,
+		tm: 0,
+		tpl: '',
+		tplUser: '',
+		init: function(){
+			var that = this;
+			this.box = $('#videoFocus');
+			this.boxUser = this.box.find('.video-user');
+			this.tm = (new Date()).getTime();
+			
+			this.tpl = this.box.find('ul.template').html().replace('src3', 'src');
+
+			var tpl = this.boxUser.find('div.template');
+			this.tplUser = tpl.eq(0).html().replace('src3', 'src');
+			this.tplRich = tpl.eq(1).html().replace('src3', 'src');
+			this.tplFamily = tpl.eq(2).html().replace('src3', 'src');
+			this.tplLove = tpl.eq(3).html().replace('src3', 'src');
+			this.box.find('ul.template').remove();	
+			this.boxUser.find('div.template').remove();
+
+			this.box.find('.video-item').on('click', 'li', function(){
+				$(this).siblings('li').removeClass('on');
+				$(this).addClass('on');
+
+				var _user = $(this).data('user').split(',');
+				that.play(_user);
+			});
+
+			this.box.find('.video-item').on('mouseenter mouseleave', 'li', function(event){
+				var _this = $(this);
+
+				if(event.type=='mouseenter' && !_this.hasClass('on') ) {
+					_this.addClass('over');
+				}else{
+					_this.removeClass('over');
+				}
+					
+			});
+
+			//监控所有跳转
+			$(document.body).on('click', 'a', function(){
+				if($(this).attr('target')){
+					that.pause();
+				}
+			});			
+			
+			this.getData(function(){
+				var _curUser = that.box.find('li:eq(0)').addClass('on').data('user').split(','),
+				_curUserInfo = that.parseUserInfo(_curUser);
+			
+				that.writeSwf(_curUserInfo);
+				that.setUser(_curUser);
+			});
+		},
+		writeSwf: function(_userInfo){
+			var _focus = this;
+
+			window.homeFocusReady = function(){
+				_focus.focusSwf = swfobject.getObjectById('videoPlayer');
+				if(_focus.spamUser){
+					_focus.play(_focus.spamUser);
+				}
+			};
+
+			//flash视频流结束，播放下一个
+			window.homeFocusStop = function(){
+				VideoFocus.next();
+			};
+
+			swfobject.embedSWF(window.__PLAYER, 'videoPlayer', '100%', '100%', '10.1', '/apple/expressInstall.swf', {protocol: location.protocol+'//',
+				ruid: _userInfo.uid,
+				fileName: _userInfo.flv,
+				isPhoneLive: _userInfo.isPhone,
+				bg: _userInfo.bg,
+				toRoomUrl: _userInfo.url,
+				readyFun: 'homeFocusReady',
+				stopFun: 'homeFocusStop',
+				chID:0}, {allowscriptaccess:'always', wmode:'opaque', bgcolor:'#333333'});
+		},
+		parseUserInfo: function(user){
+			var _isPhone = user[8]>1 ? 1 : 0,
+				_bg = user[9].replace('_s', '_b'),
+				_url = user[6].indexOf('6.cn')>-1 ? user[6] : location.protocol+'//v.6.cn'+ user[6],
+				_url = _url + ((window.location.hostname == 'www.6.cn' && jQuery.browser.msie) ? '?_tra_='+VIA_PAGEID+'-ipvafi4f' : '');
+
+			return {
+				uid: user[7],
+				isPhone: _isPhone,
+				bg: _bg,
+				flv: user[2],
+				url: _url
+			}
+		},
+		setUser: function(_user){
+			this.eventRecom(_user[14]);
+
+			var tpl = this.tplUser;
+			if(_user[10]){
+				if(_user[10] > 900000000){//排位赛家族推荐
+					tpl = this.tplFamily;
+				}else{
+					if(_user[14] && _user[14] == 162){//情人节神豪推荐
+						tpl = this.tplLove;
+					}else{
+						tpl = this.tplRich;
+					}
+				}
+			}
+							
+			var _html = tpl.replace(/\{rid\}/g, _user[0])
+					.replace(/\{link\}/g, _user[6])
+					.replace(/\{alias\}/g, _user[1])
+					.replace('{pic}', _user[3])
+					.replace('{count}', numF(_user[5]))
+					.replace(/\{richlink\}/g, _user[12])
+					.replace('{richalias}', _user[11])
+					.replace(/\{flink\}/g, _user[12])
+					.replace('{fname}', _user[11])
+					.replace('{taghtml}', _user[13] ? '<span class="icon-tag">'+_user[13]+'</span>' : '');
+
+			this.boxUser.html(_html);
+		},
+		curUser:{},
+		play: function(user){
+			if(this.focusSwf){
+				var _userInfo = this.parseUserInfo(user);
+				this.focusSwf.JsStartLive(_userInfo.flv, _userInfo.isPhone, _userInfo.bg);
+				this.focusSwf.setEnterRoomURL(_userInfo.url);				
+				this.setUser(user);
+			}else{
+				this.spamUser = user;
+			}
+		},
+		pause: function(){	
+			try{
+				if(this.focusSwf){
+					this.focusSwf.videoPause();
+				}
+			}catch(e){}
+		},
+		reset: function(){
+			var _li = this.box.find('.video-item li.on').eq(0);
+			_li.click();
+		},
+		next: function(){
+			var _tm_dif = (new Date()).getTime() - this.tm;
+
+			//超过20分钟请求新数据
+			if(_tm_dif > 20*60*1000){ 
+				this.getData();
+			}else{
+				var _list = this.box.find('.video-item'),
+					_cur_li =  _list.find('li.on'),
+					_next_li = _cur_li.next('li'),
+					_first_li = _list.find('li:first');
+
+				if(_next_li[0]){ //有下一个
+					_next_li.click();
+				}else{
+					_first_li.click();
+				}
+			}
+		},
+		getData: function(callback){
+			var that = this;
+			this.tm = (new Date()).getTime();
+
+			$.getJSON('/api/getIndexBigLiveListNew.php?act=new', function(obj){
+				if(obj.flag == '001'){
+					var _list = that.box.find('.video-item');
+					if( $.type(callback) == 'function'){
+						that.parseData(obj.content.list);
+						callback();
+					}else{
+						that.parseData(obj.content.list, 1);
+					}
+					
+					if(obj.content.chinesenewyear == 1){
+						_list.addClass('chinesenewyear');
+					}else{
+						_list.removeClass('chinesenewyear');
+					}
+				}else{
+					setTimeout(that.getData, 1000);
+				}
+			});
+		},
+		// isUpdate 中间更新列表用
+		parseData: function(list, isUpdate){
+			var that = this,
+				_html = [];
+
+			$.each(list, function(i, user){//末尾新增三个字段，分别是排位赛推荐人uid，name,跳转url
+				var _u = user.rid+','+user.alias+','+user.flvtitle+','+user.picuser
+						+','+user.starttime+','+user.count+','+user.link+','+user.uid
+						+','+user.recordtype+','+user.pic+','+(user.recUid || '')
+						+','+(user.recName||'')+','+(user.recUrl||'')+','+(user.tagname||'')
+						+','+(user.eid||'');
+				
+				_html.push(
+					that.tpl.replace('{rank}', i+1)
+						.replace('{rid}', user.rid)
+						.replace(/\{alias\}/g, user.alias)
+						.replace('{pic}', user.pic)
+						.replace('{count}',numF(user.count))
+						.replace('{user}', _u)
+						.replace('{taghtml}', user.tagname ? '<span class="icon-tag">'+user.tagname+'</span>' : '')
+				);
+			});
+
+			var _list_box = that.box.find('.video-item ul');
+			_list_box.html(_html.join(''));
+			if(isUpdate){
+				_list_box.find('li:eq(0)').click();
+			}
+		},
+		eventClass: '',
+		eventRecom: function(eid){ //活动推荐边框
+			if(this.eventClass){
+				this.box.removeClass(this.eventClass);
+			}
+
+			if(eid/1){ //活动推荐
+				this.eventClass = 'video-focus-e'+eid;
+			}else{ //默认
+				this.eventClass = '';
+			}
+
+
+			if(this.eventClass){
+				this.box.addClass(this.eventClass);
+			}
+		}
+	};
+
+	VideoFocus.init();
+
+	/****/
+
+})
+.script(JSF.z).wait(function(){
+    new ControlCenter({centerBtn:jQuery('#myAccountTool')});
+    var list = new XNServiceList('#js_online',null,{
+    	size:'index',
+		alignX: 'right',
+		alignY: 'top',
+		offsetY:0,
+		appendTo: jQuery('#js_online_box')
+	});
+})
+.script(JSF.gift_new).wait()
+.script(JSF.gift).wait()
+.script(JSF.index_2016).wait(function(){
+	/**/
+	var $ = jQuery;
+
+	Index.init();
+
+	//年度总决赛获奖主播角标初始化
+	(function(){
+		var ele = $('.niandu-user');
+		if(ele.length){
+			$.each(ele, function(i, k){
+				var dom = $(this);
+				var uid = dom.attr('data-id');
+				var honor = Index.nianduUser[uid];
+				var conf = Index.Lives.honor[honor];
+
+				if(honor){
+					dom.addClass('icon-' + honor).show();
+					conf && dom.attr('title', conf.title);
+				};
+			});
+		};
+	})();
+	
+
+	/*  */
+	if(_puser.uid){
+		$LAB.script(JSF.im).wait();
+	}
+
+	/*  */
+	var _focusBg = $('div.home-focus-bg'),
+		_styles = [];
+
+	_focusBg.find('a').attr('href', indexFocusBg.href);
+	_styles.push('.home-focus-bg{background-image:url(' + indexFocusBg.imageBig + ')}');
+	_styles.push('.page-w1320 .home-focus-bg, .page-w1560 .home-focus-bg{background-image:url(' + indexFocusBg.image + ')}');
+	$('<style type="text/css">'+_styles.join('')+'</style>').appendTo($(document.body));
+});
+</script>
+<script src="//vj0.6rooms.com/mini/js/base/analytic_47.js"></script><script type="text/javascript">
+(function(W, D, s, t){
+	s=D.createElement("script");
+	s.src='//vj0.6rooms.com/mini/js/base/analytic_47.js';
+	t=D.getElementsByTagName("script");
+	t=t[t.length-1];
+	W['via'] = {_h:[], ready: function(h) {this._h.push(h)}};
+	t.parentNode.insertBefore(s,t);
+})(window, document);
+</script>
+<script>
+
+;(function(){
+	if (window.PARTNER) {
+	/**/
+		document.write('<script src="//vj0.6rooms.com/csjs/_/partner/partner_bootstrap_bottom_521.js"></'+'script>')
+	/**/
+	}
+})();
+
+;(function(){
+	if (window.__coopConfig) {
+	/**/
+		document.write('<script src="//vj0.6rooms.com/mini/js/coop/coop_footer_48.js"></'+'script>')
+	/**/
+	}
+})();
+</script>
+
+<!--[if lte IE 6]>
+<div class="update_browser" id="update_browser">
+  <div class="noticeCon">您现在使用的浏览器版本过低，导致网页内容缺失，请立即点击<a class="updateBtn" href="http://chrome.360.cn/" target="_blank">升级浏览器</a></div>
+</div>
+<![endif]-->
+
+<style type="text/css">.home-focus-bg{background-image:url(https://vi0.6rooms.com/live/2019/03/20/04/1013v1553027767369327562.jpg)}.page-w1320 .home-focus-bg, .page-w1560 .home-focus-bg{background-image:url(https://vi0.6rooms.com/live/2019/03/20/04/1013v1553027767969135890.jpg)}</style></body></html>

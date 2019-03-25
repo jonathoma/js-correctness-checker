@@ -1,0 +1,452 @@
+<html lang="en"><head><script>
+Date=function(r){function n(n,e,t,a,u,i,f){var o;switch(arguments.length){case 0:o=new r(0);break;case 1:o=new r(n);break;default:t=t||1,a=a||0,u=u||0,i=i||0,f=f||0,o=new r(n,e,t,a,u,i,f)}return o}return n.parse=r.parse,n.UTC=r.UTC,n.toString=r.toString,n.prototype=r.prototype,n.now=function(){return 0},n}(Date),Math.exp=function(){function r(r){var n=new ArrayBuffer(8);return new Float64Array(n)[0]=r,0|new Uint32Array(n)[1]}function n(r){var n=new ArrayBuffer(8);return new Float64Array(n)[0]=r,new Uint32Array(n)[0]}function e(r,n){var e=new ArrayBuffer(8);return new Uint32Array(e)[1]=r,new Uint32Array(e)[0]=n,new Float64Array(e)[0]}var t=[.5,-.5],a=[.6931471803691238,-.6931471803691238],u=[1.9082149292705877e-10,-1.9082149292705877e-10];return function(i){var f,o=0,c=0,w=0,y=r(i),s=y>>31&1;if((y&=2147483647)>=1082535490){if(y>=2146435072)return isNaN(i)?i:0==s?i:0;if(i>709.782712893384)return 1/0;if(i<-745.1332191019411)return 0}if(y>1071001154){if(y<1072734898){if(1==i)return Math.E;c=i-a[s],w=u[s],o=1-s-s}else o=1.4426950408889634*i+t[s]|0,f=o,c=i-f*a[0],w=f*u[0];i=c-w}else{if(y<1043333120)return 1+i;o=0}f=i*i;var v=i-f*(.16666666666666602+f*(f*(6613756321437934e-20+f*(4.1381367970572385e-8*f-16533902205465252e-22))-.0027777777777015593));if(0==o)return 1-(i*v/(v-2)-i);var A=1-(w-i*v/(2-v)-c);return o>=-1021?A=e((o<<20)+r(A),n(A)):(A=e((o+1e3<<20)+r(A),n(A)),A*=9.332636185032189e-302)}}(),Math.random=function(){var r,n,e,t;return r=.8725217853207141,n=.520505596883595,e=.22893249243497849,t=1,function(){var a=2091639*r+2.3283064365386963e-10*t;return r=n,n=e,t=0|a,e=a-t}}(),Object.keys=function(r){return function(n){var e;return e=r(n),e.sort(),e}}(Object.keys);
+</script>
+
+
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="s-type" content="INT">
+
+    <title>شرکت شبکه الکترونیکی پرداخت کارت شاپرک - صفحه اصلی</title>
+    <link href="/themes/shaparak94/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/themes/shaparak94/assets/css/bootstrap-rtl.min.css" rel="stylesheet">
+    <link href="/themes/shaparak94/assets/css/responsive-slider.css" rel="stylesheet">
+    <link href="/themes/shaparak94/assets/css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="/themes/shaparak94/assets/css/animate.css" rel="stylesheet">
+    <link href="/themes/shaparak94/assets/css/colorbox.css" rel="stylesheet">
+    <link href="/themes/shaparak94/assets/css/style.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+
+
+<nav id="top-navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-menu" aria-expanded="false">
+                    <span class="sr-only">منــو</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="/search" id="search-btn" class="navbar-toggle collapsed">
+                    <i class="glyphicon glyphicon-search"></i>
+                </a>
+                <a class="navbar-brand visible-sm visible-xs" href="#" style="padding:0;margin:0;margin-right:20px;"><img src="/themes/shaparak94/assets/img/logo.png"></a>
+            </div>
+
+            <div class="collapse navbar-collapse col-lg-10 col-lg-offset-1" id="nav-menu">
+                <a class="navbar-brand visible-lg visible-md animated bounceIn" href="#" style="padding:0;margin:0;"><img src="/themes/shaparak94/assets/img/logo.png"></a>
+
+                <form class="nav navbar-form navbar-left visible-lg visible-md">
+                    <div class="form-group" style="display:none;">
+                        <input type="text" class="form-control" placeholder="جستجو در شاپرک...">
+                    </div>
+                    <a href="/search" id="search-btn" class="btn btn-default">
+                        <i class="glyphicon glyphicon-search"></i>
+                    </a>
+                </form>
+                <ul class="nav navbar-nav navbar-left top-menu" id="5">
+<li class="active first"><a class="active first" title="" itemprop="url" href="/"><b itemprop="name">برگ نخست</b></a></li>
+<li><a title="" itemprop="url" href="/about"><b itemprop="name">درباره شاپرک</b></a></li>
+<li class="last"><a class="last" title="" itemprop="url" href="/contact"><b itemprop="name">ارتباط با شاپرک</b></a></li>
+</ul>            </div>
+        </div>
+    </div>
+</nav><div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="responsive-slider" data-spy="responsive-slider" data-autoplay="true">
+                <div class="slides" data-group="slides">
+                    <ul style="position: relative; right: 755px;">
+                                                                                                        <li>
+                                <div class="slide-body" data-group="slide">
+                                                                            <img width="1108" src="/uploads/Header/headerImage_5b6e63bacd8e6.jpg">                                                                    </div>
+                            </li><li>
+                                <div class="slide-body" data-group="slide">
+                                                                            <img width="1108" src="/uploads/Header/headerImage_5b6ebffc7ae9b.jpg">                                                                    </div>
+                            </li>
+                                                                                <li>
+                                <div class="slide-body" data-group="slide">
+                                                                            <a href="https://shaparak.ir/content?id=911"><img width="1108" src="/uploads/Header/headerImage_5c4d2e3bc1c20.jpg"></a>                                                                    </div>
+                            </li>
+                                                                                <li>
+                                <div class="slide-body" data-group="slide">
+                                                                            <img width="1108" src="/uploads/Header/headerImage_5b6e63bacd8e6.jpg">                                                                    </div>
+                            </li><li>
+                                <div class="slide-body" data-group="slide">
+                                                                            <img width="1108" src="/uploads/Header/headerImage_5b6ebffc7ae9b.jpg">                                                                    </div>
+                            </li>
+                                            </ul>
+                </div>
+                <a class="slider-control left" href="#" data-jump="prev">&lt;</a>
+                <a class="slider-control right" href="#" data-jump="next">&gt;</a>
+
+                <div class="pages">
+                                                                <a class="page active" href="#" data-jump-to="1">1</a>
+                                                                    <a class="page" href="#" data-jump-to="2">2</a>
+                                                                    <a class="page" href="#" data-jump-to="3">3</a>
+                                                            </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div id="services-bar">
+                <ul id="services-list" class="list-inline">
+                                        <li class="animated bounceIn">
+                        <a href="/pspArea/login">
+                                <span id="si1" class="service-icon">&nbsp;</span>
+                                <div class="service-content">امور مربوط به PSPها</div>
+                              </a>
+                    </li>
+                                        <li class="animated bounceIn">
+                        <a href="/content?id=913">
+                                <span id="si3" class="service-icon">&nbsp;</span>
+                                <div class="service-content">مستندات پرداخت یاران</div>
+                              </a>
+                    </li>
+                                        <li class="animated bounceIn">
+                        <a href="/content?id=290">
+                                <span id="si2" class="service-icon">&nbsp;</span>
+                                <div class="service-content">شرکت های مجاز به انجام فعالیت</div>
+                              </a>
+                    </li>
+                                        <li class="animated bounceIn">
+                        <a href="https://job.shaparak.ir">
+                                <span id="si4" class="service-icon">&nbsp;</span>
+                                <div class="service-content">درخواست همکاری</div>
+                              </a>                     </li>
+                                        <li class="animated bounceIn">
+                        <a href="/top">
+                                <span id="si5" class="service-icon">&nbsp;</span>
+                                <div class="service-content">اطلاعیه ها و مهم ترین&nbsp;اخبار</div>
+                              </a>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</div><div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div>
+                <ul id="post-thumb-list" class="list-inline">
+                                            <li>
+                            <a href="/content?id=929">
+                                <img src="/uploads/Content/contentImage_5c73b8dd01c25.jpg" width="222" "="">
+
+                                <div class="post-title" style="overflow-wrap: break-word;">الزام استفاده پرداخت‌یارها از عبارت "ارائه‌دهنده درگاه پرداخت اینترنتی"</div>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/content?id=928">
+                                <img src="/uploads/Content/contentImage_5c5992aeaff89.jpg" width="222" "="">
+
+                                <div class="post-title" style="overflow-wrap: break-word;">تصویب صورت‌های مالی سال 97 شرکت شاپرک در مجمع سالانه</div>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/content?id=927">
+                                <img src="/uploads/Content/contentImage_5c56805245ebe.jpg" width="222" "="">
+
+                                <div class="post-title is-truncated" style="overflow-wrap: break-word;">رونمایی از اولین مجلد فناوری دفاتر کل توزیع شده و آینده خدمات پرداخت در... </div>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/content?id=926">
+                                <img src="/uploads/Content/contentImage_5c557609c6167.jpg" width="222" "="">
+
+                                <div class="post-title" style="overflow-wrap: break-word;">کاهش ۱۵ درصدی تراکنش‌های بیش از ۵۰ میلیون تومان</div>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/content?id=925">
+                                <img src="/uploads/Content/contentImage_5c52aa673485e.jpg" width="222" "="">
+
+                                <div class="post-title is-truncated" style="overflow-wrap: break-word;">روز پر بار شاپرک در آغاز هشتمین همایش بانکداری الکترونیک و نظام‌های... </div>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/content?id=924">
+                                <img src="/uploads/Content/contentImage_5c52abc668db5.jpg" width="222" "="">
+
+                                <div class="post-title" style="overflow-wrap: break-word;">شاپرک همچنان در جمع صد شرکت برتر ایران</div>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/content?id=828">
+                                <img src="/uploads/Content/contentImage_5c28cca71c624.jpg" width="222" "="">
+
+                                <div class="post-title" style="overflow-wrap: break-word;">آخرین لیست وضعیت ارایه تاییدیه به موبایل پوزهای شبکه پرداخت کشور</div>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/content?id=917">
+                                <img src="/uploads/Content/contentImage_5c0665c23b2c3.jpg" width="222" "="">
+
+                                <div class="post-title" style="overflow-wrap: break-word;">فهرست مستندات پرداخت‌یاری‌ها بروز شد</div>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/content?id=915">
+                                <img src="/uploads/Content/contentImage_5c230f12f1420.jpg" width="222" "="">
+
+                                <div class="post-title" style="overflow-wrap: break-word;">فراخوان دریافت نظرات کارشناسی درباره الزامات پرداخت‌های درون‌برنامه‌ای</div>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/content?id=914">
+                                <img src="/uploads/Content/contentImage_5bf8fe8358355.jpg" width="222" "="">
+
+                                <div class="post-title" style="overflow-wrap: break-word;">ضرورت توجه بیشتر به نکات امنیتی هنگام پرداخت وجه خریدهای اینترنتی</div>
+                            </a>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="container-fluid">
+        <div class="row">
+            <div id="news-list" class="col-lg-10 col-lg-offset-1">
+                                                    <div class="main-box ">
+                        <div class="main-box-inner">
+                            <div class="news-image">
+                                <img src="/uploads/MainBox/mainBoxImage_58995daa4a203.png">
+                            </div>
+                            <h2 class="news-title" style="overflow-wrap: break-word;">گزارش اقتصادی شاپرک</h2>
+
+                            <div class="news-text" style="overflow-wrap: break-word;"><p dir="rtl" style="text-align: justify;">در لیست زیر می توانید گزارش های اقتصادی شرکت شبکه الکترونیکی پرداخت کارت شاپرک را دریافت نمایید:</p>
+
+<p dir="rtl" style="text-align: justify;">&nbsp;</p>
+</div>
+
+                            <a class="more-btn" href="/content?id=754">ادامه مطلب</a>                        </div>
+                    </div>
+                                                        <div class="main-box ">
+                        <div class="main-box-inner">
+                            <div class="news-image">
+                                <img src="/uploads/MainBox/mainBoxImage_58995dc86f8a8.png">
+                            </div>
+                            <h2 class="news-title" style="overflow-wrap: break-word;">پرسش های متداول</h2>
+
+                            <div class="news-text is-truncated" style="overflow-wrap: break-word;"><p dir="rtl" style="text-align: justify; display: block;">لطفاً یکی از موارد زیر را انتخاب نمایید<span dir="LTR">:</span></p>
+
+<ul dir="rtl" style="display: block;">
+	<li style="text-align: justify;"><a href="/content?id=287">پرسش و پاسخ های متداول دارندگان کارت</a></li>
+	<li style="text-align: justify;"><a href="/content?id=289">پرسش و پاسخ های متداول پذیرندگان اینترنتی</a></li>
+	<li style="text-align: justify;"><a href="/content?id=288">پرسش و پاسخ های پذیرندگان... </a></li></ul></div>
+
+                            <a class="more-btn" href="/questions">ادامه مطلب</a>                        </div>
+                    </div>
+                                                        <div class="main-box ">
+                        <div class="main-box-inner">
+                            <div class="news-image">
+                                <img src="/uploads/MainBox/mainBoxImage_58995ddfca40a.png">
+                            </div>
+                            <h2 class="news-title" style="overflow-wrap: break-word;">تعریف واژگان</h2>
+
+                            <div class="news-text is-truncated" style="overflow-wrap: break-word;"><p dir="RTL" style="display: block;"><strong>ابزار پذیرش</strong>  <br>  
+عبارت است از سخت‌افزار و نرم‌افزاری که امکان تراکنش را برای دارنده کارت فراهم می‌سازد.  <br>  
+ابزار پذیرش به دو دسته ی فعال سیستمی و غیرفعال سیستمی تقسیم می شود:</p>
+
+<ul dir="rtl" style="display: block;">
+	<li>ابزار پذیرش فعال سیستمی: ابزار... </li></ul></div>
+
+                            <a class="more-btn" href="/docs/terms">ادامه مطلب</a>                        </div>
+                    </div>
+                                                        <div class="main-box last-item">
+                        <div class="main-box-inner">
+                            <div class="news-image">
+                                <img src="/uploads/MainBox/mainBoxImage_59698d8b17837.png">
+                            </div>
+                            <h2 class="news-title" style="overflow-wrap: break-word;">تماس با شاپرک</h2>
+
+                            <div class="news-text is-truncated" style="overflow-wrap: break-word;"><span style="color: rgb(0, 0, 0); font-family: tahoma; text-align: justify;">شماره تماس: 75105000</span>  <br>  
+<span style="color: rgb(0, 0, 0); font-family: tahoma; text-align: justify;">شماره تماس: 15-26404901</span>  <br>  
+<span style="color: rgb(0, 0, 0); font-family: tahoma; text-align: justify;">شماره فکس: 22228121</span>  <br>  
+<span style="white-space: pre-wrap; color: rgb(0, 0, 0); font-family: tahoma; text-align: justify;">کد پستی: 14811-15479</span>  <br>  
+<span style="color: rgb(0, 0, 0); font-family: tahoma; font-size: 11px; text-align: justify;">پست الکترونیکی: info@shaparak.com</span>
+
+<p dir="rtl" style="color:#000;direction:rtl;font-family:tahoma;font-size:11px;text-align:justify;">&nbsp;</p>
+
+... </div>
+
+                            <a class="more-btn" href="/content/id/7">ادامه مطلب</a>                        </div>
+                    </div>
+                                                </div>
+        </div>
+    </div>
+<div class="container-fluid">
+    <div class="row text-center">
+        <!--<div id="footer-containerr" class="col-lg-12">-->
+            <div class="col-lg-1 visible-lg">&nbsp;</div>
+                        <div class="col-lg-2 col-md-6 col-sm-6 col-xs-12 footer-box" style="height: 506px;">
+                <div class="footer-title">
+                    <h3>شرکت شاپرک</h3>
+                </div>
+                <div class="footer-body">
+                    <h3><ul dir="rtl">
+	<li><a href="/about">درباره شاپرک</a></li>
+	<li><a href="/contact">ارتباط با شاپرک</a></li>
+	<li><a href="/content?id=416">معرفی مدیرعامل</a></li>
+	<li><a href="http://job.shaparak.com">درخواست همکاری</a></li>
+	<li><a href="/content?id=844">مناقصه</a></li>
+	<li><a href="/archive">آرشیو اخبار</a></li>
+	<li><a href="/pspArea/login">امور مربوط به PSP ها</a></li>
+	<li><a href="#">پورتال سازمانی</a></li>
+	<li><span dir="RTL"><a href="/uploads/Direct/CBI_001_PSPMEMBERSHIPAUDITIONINS.pdf" target="_blank">دستورالعمل اجرایی فعالیت و نظارت بر «ارایه دهندگان خدمات پرداخت»</a></span></li>
+	<li><a href="https://www.shaparak.ir/content?id=741" target="_blank">طرح کارت اعتباری خرید کالای ایرانی</a></li>
+</ul>
+</h3>
+                </div>
+            </div>
+                        <div class="col-lg-2 col-md-6 col-sm-6 col-xs-12 footer-box" style="height: 506px;">
+                <div class="footer-title">
+                    <h3>سایت های مرتبط</h3>
+                </div>
+                <div class="footer-body">
+                    <h3><ul dir="rtl">
+	<li><a href="http://www.leader.ir" target="_blank">دفتر مقام معظم رهبری (مدظله العالی)</a></li>
+	<li><a href="http://www.imam-khomeini.ir" target="_blank">مؤسسه تنظیم و نشر آثار امام خمینی (ره)</a></li>
+	<li><a href="http://www.president.ir" target="_blank">دفتر ریاست جمهوری اسلامی ایران</a></li>
+	<li><a href="http://www.dolat.ir" target="_blank">دولت جمهوری اسلامی ایران</a></li>
+	<li><a href="http://www.majlis.ir" target="_blank">مجلس شورای اسلامی</a></li>
+	<li><a href="http://www.cbi.ir" target="_blank">بانک مرکزی جمهوری اسلامی ایران</a></li>
+	<li><a href="http://www.nicholding.net" target="_blank">شرکت ملی انفورماتیک</a></li>
+	<li><a href="http://www.isc.co.ir" target="_blank">شرکت خدمات انفورماتیک</a></li>
+	<li><a href="http://www.kashef.ir" target="_blank">مدیریت امن الکترونیک کاشف</a></li>
+	<li><a href="http://www.faradis.net" target="_blank">داده ورزی فرادیس البرز</a></li>
+	<li><a href="http://emdadshetab.cbi.ir" target="_blank">میز امداد شتاب</a></li>
+	<li><a href="http://www.cbi.ir/page/2053.aspx" target="_blank">حساب های ملی ایران</a></li>
+	<li><a href="http://www.mefa.ir/portal/Home/Default.aspx?CategoryID=5747b2d1-0378-4726-becb-4eaf033eb1ff" target="_blank">شورای عالی مبارزه با پولشویی</a></li>
+	<li><a href="http://nbfi.cbi.ir" target="_blank">بازار غیر متشکل پولی</a></li>
+	<li><a href="http://www.mbri.ac.ir" target="_blank">پژوهشکده پولی و بانکی</a></li>
+	<li><a href="http://www.ibi.ac.ir" target="_blank">موسسه عالی بانکداری ایران</a></li>
+	<li><a href="http://www.bis.org/country/ir.htm" target="_blank">صفحه بانک مرکزی ج.ا.ا. در سایت BIS</a></li>
+	<li><a href="http://ibena.ir/" target="_blank">شبکه خبری اقتصاد و بانک ایران</a></li>
+</ul>
+</h3>
+                </div>
+            </div>
+                        <div class="col-lg-2 col-md-6 col-sm-6 col-xs-12 footer-box" style="height: 506px;">
+                <div class="footer-title">
+                    <h3> بانک ها و موسسات اعتباری</h3>
+                </div>
+                <div class="footer-body">
+                    <h3><ul dir="rtl">
+	<li style="line-height: 1.5em;"><a href="http://www.bmi.ir/" target="_blank">بانک ملّی ايران</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.banksepah.ir/" target="_blank">بانک سپه</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.edbi.ir/" target="_blank">بانک توسعه صادرات ايران</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.bim.ir/" target="_blank">بانک صنعت و معدن</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.agri-bank.com/" target="_blank">بانک کشاورزی</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.bank-maskan.ir/" target="_blank">بانک مسکن</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.postbank.ir/" target="_blank">پست بانک ايران</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.ttbank.ir/" target="_blank">بانک توسعه تعاون</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.enbank.ir/" target="_blank">بانک اقتصاد نوين</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.parsian-bank.com/" target="_blank">بانک پارسيان</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.bpi.ir/" target="_blank">بانک پاسارگاد</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.karafarinbank.ir/" target="_blank">بانک کارآفرين</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.sb24.com/" target="_blank">بانک سامان</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.sinabank.ir/" target="_blank">بانک سينا</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.sbank.ir/" target="_blank">بانک سرمايه</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.city-bank.ir/" target="_blank">بانک شهر</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.bank-day.ir/" target="_blank">بانک دی</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.bsi.ir/" target="_blank">بانک صادرات ایران</a></li>
+</ul>
+</h3>
+                </div>
+            </div>
+                        <div class="col-lg-2 col-md-6 col-sm-6 col-xs-12 footer-box" style="height: 506px;">
+                <div class="footer-title">
+                    <h3> بانک ها و موسسات اعتباری</h3>
+                </div>
+                <div class="footer-body">
+                    <h3><ul dir="rtl">
+	<li style="line-height: 1.5em;"><a href="http://www.bankmellat.ir/" target="_blank">بانک ملت</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.tejaratbank.ir/" target="_blank">بانک تجارت</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.bankrefah.ir/" target="_blank">بانک رفاه</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.hibank24.com/" target="_blank">بانک حکمت ايرانيان</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.tourismbank.ir/" target="_blank">بانک گردشگری</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.izbank.ir/" target="_blank">بانک ايران زمين</a></li>
+	<li style="line-height: 1.5em;"><a href="https://www.ghbi.ir/fa" target="_blank">بانک قوامين</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.ansarbank.com/" target="_blank">بانک انصار</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.middleeastbank.ir/" target="_blank">بانک خاورميانه</a></li>
+	<li style="line-height: 1.5em;"><a href="https://www.ba24.ir" target="_blank">بانک آینده</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.qmb.ir/" target="_blank">بانک قرض‌الحسنه مهر ايران</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.rqbank.ir/">بانک قرض‌الحسنه رسالت</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.cid.ir/" target="_blank">موسسه اعتباری توسعه</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.kosarfci.ir/" target="_blank">موسسه اعتباری کوثر</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.askariyeh.ir/" target="_blank">موسسه اعتباری ملل</a></li>
+	<li style="line-height: 1.5em;"><a href="http://www.cinoor.ir/" target="_blank">موسسه اعتباری نور</a></li>
+</ul>
+</h3>
+                </div>
+            </div>
+                        <div class="col-lg-2 col-md-6 col-sm-6 col-xs-12 footer-box" style="">
+                <div class="footer-title">
+                    <h3>آموزش</h3>
+                </div>
+                <div class="footer-body">
+                    <h3><ul dir="rtl">
+	<li><a href="/content?id=754">گزارش اقتصادی شاپرک</a></li>
+	<li><a href="/questions">پرسش های متداول</a></li>
+	<li><a href="/videos">فیلم های آموزشی</a></li>
+	<li><a href="/docs/psp">نکات آموزشی دارندگان کارت</a></li>
+	<li><a href="/docs/merchant">نکات آموزشی پذیرندگان کارت</a></li>
+	<li><a href="/docs/terms">تعریف واژگان</a></li>
+	<li><a href="/content?id=769">زمان بندی تسویه با پذیرندگان فروشگاهی</a></li>
+	<li><a href="/uploads/kcfinder/files/002-%D8%AA%D8%AE%D9%84%D9%81%D8%A7%D8%AA%20%D9%BE%D8%B0%DB%8C%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86.pdf">آشنایی با تخلفات پذیرندگان و جرایم آن</a></li>
+	<li><a href="/uploads/kcfinder/files/003-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87%20%D8%AC%D8%A7%D9%85%D8%B9%20%D9%BE%D8%B0%DB%8C%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86.pdf">آشنایی&nbsp;سامانه جامع پذیرندگان</a></li>
+</ul>
+</h3>
+                </div>
+            </div>
+                    <!--</div>-->
+    </div>
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1" style="">
+            <div class="pull-right">
+                <p style="line-height: 23px;margin-top:20px;">کلیه حقوق این وب سایت متعلق به شرکت شبکه الکترونیکی پرداخت کارت شاپرک می باشد.</p>
+            </div>
+            <div class="pull-left">
+                <img src="/themes/shaparak94/assets/img/footer-logo.jpg">
+            </div>
+        </div>
+    </div>
+</div><div class="clearfix">&nbsp;</div>
+
+
+<script src="/themes/shaparak94/assets/js/jquery-1.11.3.min.js"></script>
+<script src="/themes/shaparak94/assets/js/bootstrap.min.js"></script>
+<script src="/themes/shaparak94/assets/js/jquery.event.move.js"></script>
+<script src="/themes/shaparak94/assets/js/responsive-slider.min.js"></script>
+<script src="/themes/shaparak94/assets/js/jquery.dotdotdot.min.js"></script>
+<script src="/themes/shaparak94/assets/js/jquery.colorbox.js"></script>
+<script src="/themes/shaparak94/assets/js/jquery.collapsible.js"></script>
+<script src="/themes/shaparak94/assets/js/jquery.matchHeight-min.js"></script>
+<script>
+    $(document).ready(function(){
+        $("#news-list .main-box-inner .news-text").dotdotdot();
+        $("#news-list .main-box-inner .news-title").dotdotdot();
+        $("#post-thumb-list .post-title").dotdotdot();
+        $('.collapsible').collapsible();
+        $('.footer-box').matchHeight();
+        $('#content-image').colorbox({
+            opacity: 0.5,
+            close: 'x'
+        });
+    });
+</script>
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>

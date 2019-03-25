@@ -1,0 +1,1423 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>东方网</title>
+<link href="/images/index2014/wzaindex20160729.css" rel="stylesheet" type="text/css">
+<meta name="keywords" content="东方网,上海,新闻,政务,视频,图片,突发,原创,独家,现场,报道,博客,微博,交友,评论,访谈,长三角,财经,体育,娱乐,社会,军事,论坛,聊天,短信,世博">
+<meta name="description" content="东方网,上海,新闻,政务,视频,图片,突发,原创,独家,现场,报道,博客,微博,交友,评论,访谈,长三角,财经,体育,娱乐,社会,军事,论坛,聊天,短信,世博">
+<meta name="filetype" content="1"> 
+<meta name="publishedtype" content="1"> 
+<meta name="pagetype" content="2"> 
+<meta name="catalogs" content="2"> 
+<meta name="uctk" content="enabled">
+<meta name="mobile-agent" content="format=xhtml;url=http://wap.eastday.com">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="http://news.eastday.com/images/common/jquery2014.js"></script>
+<script type="text/javascript" src="http://login.eastday.com/loginbar/loginbarindex2014.js"></script>
+<script type="text/javascript" src="/images/index2014/hashgotowap.js"></script>
+<!--工具条开始-->
+<link href="http://www.shanghai.gov.cn/jhelper_V2.0/jhelper_tool_style.css" rel="stylesheet" type="text/css">
+<!--工具条结束-->
+<style>
+.g20 {width:100%;height:60px;background:url(/images/index2014/g20bk.jpg) 50% 0 no-repeat;}
+.g20 p {width:960px;margin:0 auto;height:60px;position:relative;}
+.g20 p img {position:absolute;right:0;top:20px;z-index:9;}
+.g20 a {cursor: pointer;}
+
+.newslist4_0319{background:url(/images/index2014/20170327ddhbg.jpg) no-repeat;width:300px;height:67px;padding:0 0 5px 0;overflow:hidden}
+.newslist4_0319 li{font-size:14px;color:#333;width:280px;height:27px;line-height:27px;padding:0 0 0 20px;overflow:hidden;display:block;background:url('/images/index2014/0327b3.png') no-repeat;white-space:nowrap;text-overflow:ellipsis;font-weight:bold;}
+.newslist4_0319 li a{color:#333;font-weight:bold;}
+.shdz {height:20px;}
+.z1 {float:left;padding-left:15px;background:url(/images/index2014/dzoff.png) 0 0 no-repeat;position:relative;top:-10px;cursor:pointer;}
+.z1 span {padding-left:10px;}
+.z2 {float:left;padding-left:20px;position:relative;top:-10px;}
+.xxright {float:left;position:relative;top:-10px;padding-left:20px;}
+.red32 {font-size:32px;color:#1f2774;font-family:微软雅黑;}
+#cpc19 h1 {background:url(/images/index2014/cpct.png) 0 50% no-repeat;padding-left:30px;border-bottom:1px dotted #000;text-align:center;padding-bottom:10px;margin-bottom:10px;}
+#cpc19 div {height:58px;}
+#cpcright {height:195px;background:url(/images/index2014/cpcnbg.png) 0 0 no-repeat;padding-left:5px;}
+.cpcr-top {height:40px;padding-left:95px;padding-top:30px;}
+.none {display:none;}
+.hyh2{position:relative}
+#cpc19 p a {font-size:14px;color:#000;line-height:24px;}
+/* 倒计时样式 */
+.djsbg {width:300px;height:53px;overflow:hidden;position:relative;background:url(/images/index2014/djsbg.png) 0 0 no-repeat;font-family:"微软雅黑";color:#123694;font-size:14px;font-weight:bold;}
+.djsbg p:first-child {margin:5px 0 0 75px;letter-spacing:1px;}
+.dash,.digit {float:left;position:relative;}
+.days_dash {padding-left:80px;}
+.dash .digit{font-size: 24px;font-weight: bolder;width:16px;height:30px;overflow:hidden;color: #D0021B;}
+.digitGroup{width: 50px;overflow: hidden;}
+.hours_dash {width:60px;}
+.dash_title {font-size:12px;position:absolute;top:8px;right:3px;}
+.djsbg a {display:block;width:300px;height:53px;position:absolute;top:0;left:0;}
+#countdown {position:relative;left:75px;}
+/* 领航新征程滚动 */
+#cpcright {position: relative;}
+.cpcr-btm{width: 295px;height: 96px;overflow: hidden;}
+.cpcr-btm-dot{position: absolute;right: 10px;top: 50px;z-index: 1000;}
+.cpcr-btm-dot ul li {
+    float: left;
+    display: block;
+    width: 8px;
+    height: 8px;
+    background-color: #bebebe;
+    overflow: hidden;
+    cursor: pointer;
+    margin-top: 0;
+    margin-right: 0px;
+    margin-bottom: 0;
+    margin-left: 5px;
+}
+.cpcr-btm-dot ul li.current {
+    float: left;
+    display: block;
+    width: 8px;
+    height: 8px;
+    background-color: #e60012;
+    overflow: hidden;
+    cursor: pointer;
+    margin-top: 0;
+    margin-right: 0px;
+    margin-bottom: 0;
+    margin-left: 5px;
+}
+#dh1{background:#fff;}
+#full{margin-left:524px;}
+</style>
+<script src="http://news.chinaso.com/static/json/hotword.json" type="text/javascript" charset="utf-8"></script><script src="http://news.chinaso.com/static/json/keyword.json" type="text/javascript" charset="utf-8"></script></head>
+<body onload="initJSHelperEvent();">
+<div id="accessNull"></div>
+<div id="container">
+<div id="header">
+<div id="skip"><a id="accesshelp" title="新窗口打开无障碍操作说明页面" href="/images/index2014/wzainfo.html" target="_blank">无障碍操作说明</a>
+<a href="javascript:createNodeDiv('mainNav', '已定位到网站导航');" title="跳转到网站导航区">跳转到网站导航区</a>
+<a href="javascript:createNodeDiv('main', '已定位到主要内容区域');" title="跳转到主要内容区域">跳转到主要内容区域</a>
+</div>
+<div id="index0_1"></div>
+<!-- 导航一 begin -->
+<div id="dh1">
+ <div class="logo fl"><img src="/images/index2013/title_eastday.gif" alt="东方网"></div>
+        <div class="dh1 lh22 fl" id="mainNav">
+            <p><a href="http://dangjian.eastday.com/" target="_blank" class="black12" title="党建"><b>党建</b></a><a href="http://news.eastday.com/eastday/gd2008/yc/index.html" target="_blank" class="black12" title="原创">原创</a><a href="http://shzw.eastday.com/" target="_blank" class="black12" title="政务">政务</a><a href="http://pinglun.eastday.com/" target="_blank" class="black12" title="评论">评论</a></p>
+            <p><a href="http://sh.eastday.com/" target="_blank" class="black12" title="上海"><b>上海</b></a><a href="http://city.eastday.com/" target="_blank" class="black12" title="区情">区情</a><a href="http://world.eastday.com/" target="_blank" class="black12" title="国际">国际</a><a href="http://china.eastday.com/" target="_blank" class="black12" title="国内">国内</a></p>
+            </div>
+            <div class="dh2 lh22 fl">
+            <p><a href="http://enjoy.eastday.com/" target="_blank" class="black12" title="娱乐"><b>娱乐</b></a><a href="http://finance.eastday.com/" target="_blank" class="black12" title="财经">财经</a><a href="http://imedia.eastday.com/" target="_blank" class="black12" title="视频">视频</a><a href="http://imedia.eastday.com/node2/2015imedia/ddcp/index.html" target="_blank" class="black12" title="聊天">聊天</a></p>
+            <p><a href="http://sports.eastday.com/" target="_blank" class="black12" title="体育"><b>体育</b></a><a href="http://history.eastday.com/" target="_blank" class="black12" title="历史">历史</a><a href="http://lysh.eastday.com/" target="_blank" class="black12" title="旅游">旅游</a><a href="http://panorama.eastday.com/" target="_blank" class="black12" title="纵相">纵相</a></p>
+            </div>
+            <div class="dh3 lh22 fl">
+            <p><a href="http://mil.021east.com/" target="_blank" class="black12" title="军事"><b>军事</b></a><a href="http://photo.eastday.com/" target="_blank" class="black12" title="图片">图片</a><a href="http://auto.eastday.com/" target="_blank" class="black12" title="汽车">汽车</a><a href="http://people.eastday.com/" target="_blank" class="black12" title="投诉">投诉</a></p>
+            <p><a href="http://www.shzfzz.net/" target="_blank" class="black12" title="政法"><b>政法</b></a><a href="http://city.eastday.com/2016city/jz/index.html" target="_blank" class="black12" title="街镇">街镇</a><a href="http://gov.eastday.com/" target="_blank" class="black12" title="合作">合作</a><a href="http://money.eastday.com/" target="_blank" class="black12" title="理财">理财</a></p>
+            </div>
+            <div class="dh4 lh22 fl">
+            <p><a href="http://www.sh.com.cn/" target="_blank" class="black12" title="百货"><b>百货</b></a><a href="http://edu.eastday.com/" target="_blank" class="black12" title="教育">教育</a><a href="http://health.eastday.com/" target="_blank" class="black12" title="健康">健康</a></p>
+            <p><a href="http://shfda.eastday.com/" target="_blank" class="black12" title="食药"><b>食药</b></a><a href="http://shcci.eastday.com/" target="_blank" class="black12" title="文创">文创</a><a href="http://game.eastday.com/" target="_blank" class="black12" title="艺展">游戏</a></p>
+        </div>
+         <div class="dh5 lh22 fl">
+ <p><a href="http://usa.eastday.com/" target="_blank" class="black12" title="美国站"><b>美国</b></a> <a href="http://me.eastday.com/" target="_blank" class="black12" title="美国站"><b>中东</b></a></p>
+ <p><a href="http://canada.eastday.com/" target="_blank" class="black12" title="加拿大站"><b>加拿大站</b></a></p>
+ </div>
+</div>
+<!-- 导航一 end -->
+<div class="fc"><img src="/images/index2013/b9.gif"></div>
+<!-- 导航二 begin -->
+<div id="dh2">
+        <div class="dhs1 lh22 fl">
+        <p><a href="http://www.sh.gov.cn/" target="_blank" class="black12 pr13" title="中国上海">中国上海</a><a href="http://www.spcsc.sh.cn/" target="_blank" class="black12 pr13" title="人大">人大</a><a href="http://shszx.eastday.com/" target="_blank" class="black12 pr13" title="政协">政协</a><a href="http://www.shtzb.org.cn/" target="_blank" class="black12 pr13" title="统战">统战</a></p>
+        <p><a href="http://sh.eastday.com/images/16qxmy/index.html" target="_blank" class="black12 pr13" title="区域名医">区域名医</a><a href="http://finance.eastday.com/Business/node3/index.html" target="_blank" class="black12 pr13" title="行业">行业</a><a href="http://liuxue.eastday.com/" target="_blank" class="black12 pr13" title="留学">留学</a><a href="http://a2073.oadz.com/link/C/2073/182789/VpGIpomjmqQEC3HsliaQcrhvQKw_/p018/0/http://www.ucaiyuan.com/" target="_blank" class="black12 pr13" title="美食">美食</a></p>
+        </div>
+        <div class="dhs2 lh22 fl">
+        <p><a href="http://wgj.sh.gov.cn/" target="_blank" class="black12 pr17" title="文广">文广</a><a href="http://shfao.eastday.com/" target="_blank" class="black12 pr17" title="外事">外事</a><a href="http://jcw.eastday.com/" target="_blank" class="black12 pr17" title="监察">监察</a><a href="http://sjj.eastday.com/" target="_blank" class="black12 pr17" title="审计">审计</a></p>
+        <p><a href="http://life.eastday.com/" target="_blank" class="black12 pr17" title="生活">生活</a><a href="http://kpdjt.eastday.com/" target="_blank" class="black12 pr17" title="科普">科普</a><a href="http://www.shwenyi.com.cn/" target="_blank" class="black12 pr17" title="文艺">文艺</a><a href="http://gov.eastday.com/renda/2013xgzhb/index.html" target="_blank" class="black12 pr17" title="香港">香港</a></p>
+        </div>
+        <div class="dhs3 lh22 fl">
+        <p><a href="http://www.scf.org.cn/" target="_blank" class="black12 pr17" title="慈善">慈善</a><a href="http://www.shzgh.org/" target="_blank" class="black12 pr17" title="工会">工会</a><a href="http://shwomen.eastday.com/" target="_blank" class="black12 pr17" title="妇联">妇联</a><a href="http://wza.wdit.com.cn/" target="_blank" class="black12" title="无障碍">无障碍</a></p>
+        <p><a href="http://www.credit021.net/" target="_blank" class="black12 pr17" title="诚信">诚信</a><a href="http://finance.eastday.com/eastday/finance1/Business/node738277/node754448/index.html" target="_blank" class="black12 pr17" title="银行">银行</a><a href="http://jiaju.eastday.com/" target="_blank" class="black12 pr17" title="家居">家居</a><a href="http://jsf.eastday.com/" target="_blank" class="black12 pr13" title="保障房">保障房</a></p>
+        </div>
+        <div class="dhs4 lh22 fl">
+        <p><a href="http://gov.eastday.com/renda/tyzt/2017smxs/index.html" target="_blank" class="black12 pr13" title="市民修身">市民修身</a><a href="http://imedia.eastday.com/node2/2015imedia/dblx/index.html" target="_blank" class="black12 pr13" title="代表连线">代表连线</a><a href="http://www.shshjs.gov.cn/" target="_blank" class="black12" title="社工委">社工委</a></p>
+        <p><a href="http://kid.eastday.com/" target="_blank" class="black12 pr13" title="东方少年">东方少年</a><a href="http://www.smwhj.org.cn/" target="_blank" class="black12 pr13" title="市民文化">市民文化</a><a href="http://gov.eastday.com/renda/tyzhzt/node21250/index.html" target="_blank" class="black12" title="长荡湖">长荡湖</a></p>
+        </div>
+        <div class="dhs5 lh22 fl">
+        <p><a href="http://www.shjcdj.cn/" target="_blank" class="black12 pr17" title="基层党建">基层党建</a><a href="http://dj.shxc.gov.cn/dj/" target="_blank" class="black12 pr17" title="宣传党建">宣传党建</a><a href="http://www.ccphistory.org.cn/" target="_blank" class="black12 pr17" title="党史">党史</a></p>
+        <p><a href="http://zscq.eastday.com/" target="_blank" class="black12 pr17" title="知识产权">知识产权</a><a href="http://xz.eastday.com/" target="_blank" class="black12 pr17" title="合作交流">合作交流</a><a href="http://qiye.eastday.com/" target="_blank" class="black12 pr17" title="企业">企业</a></p>
+        </div>
+</div>
+<!-- 导航二 end -->
+</div>
+<div class="blank9"></div>
+<!-- 内容 begin -->
+<div class="content">
+ <!-- 第一部分左栏 begin -->
+ <div class="left1 fl" id="main">
+ <!-- 广告 begin -->
+<div><a href="http://ej.eastday.com/images/zspt/index.html#tt" target="_blank"><img src="http://enjoy.eastday.com/images/ad/2018gg/toutiao640.jpg" width="640" height="90"></a></div>
+ <!-- 广告 end -->
+<div class="blank3"></div>
+ <div class="fc lh24"><a href="http://sh.eastday.com/pdzt/sfxwfbh/index.html" target="_blank" class="grey12">市府新闻发布会</a>　<a href="http://sh.eastday.com/images/2014shwyh/index.html" target="_blank" class="grey12">新闻道德举报中心</a>　<a href="http://www.sh.sgcc.com.cn/" target="_blank" class="grey12">市民用电</a>　<a href="http://www.smwhj.org.cn/" target="_blank" class="grey12">市民文化节</a>　<a href="http://finance.eastday.com/eastday/finance1/Business/node738277/node754448/index.html" target="_blank" class="grey12">中信银行</a>　<a href="http://news.eastday.com/china/2017tyzt/mzfxyx/index.html" target="_blank" class="grey12">英雄烈士谱</a></div>
+<div class="blank3"></div>
+<!-- 十九大左栏begin -->
+<div id="cpc19">
+	<h1 class="textcenter"><a href="http://news.eastday.com/c/20190323/u1a14699792.html" target="_blank" class="red32" title="习近平出席意大利总统马塔雷拉举行的隆重欢送仪式"><img border="0" src="/images/thumbnailimg/month_1903/944bc8a5-5634-4698-a47f-d608dc437ff7.jpg" alt="习近平出席意大利总统马塔雷拉举行的隆重欢送仪式"></a></h1>
+<div><a href="http://news.eastday.com/c/20190323/u1a14699792.html" target="_blank" class="black14 lh24">　　国家主席习近平23日在罗马出席意大利总统马塔雷拉举行的隆重欢送仪式。两国元首亲切话别。习近平感谢马塔雷拉总统和意大利政府的热情接待。</a></div>
+
+</div>
+<!-- 十九大左栏end -->
+<div class="blank5"></div>
+ <!-- 东方图闻 begin -->
+ <div class="fl" id="topSidebar"><iframe border="0" name="photo" marginwidth="0" framespacing="0" marginheight="0" src="http://news.eastday.com/eastday/shouye/2013picroll/index.html" frameborder="0" noresize="" width="640" scrolling="no" height="315" vspale="0"></iframe></div>
+ <!-- 东方图闻 end -->
+ <div class="blank6"></div>
+ <div class="fc lh24"><span id="indexwz_1"></span><a href="http://pudongnews.eastday.com/" target="_blank" class="grey12">浦东新闻</a>　<a href="http://www.jiading.gov.cn/anting" target="_blank" class="grey12">安亭·上海国际汽车城</a>　<a href="http://www.ney.com.cn/" target="_blank" class="grey12">新东苑·快乐家园</a>　<a href="http://finance.eastday.com/Business/node3/index.html" target="_blank" class="grey12">行业资讯</a>　<a href="http://b2b.eastday.com/" target="_blank" class="grey12">创新供应链</a>　<a href="http://gov.eastday.com/renda/n34463/index.html" target="_blank" class="grey12">安全沪上行</a>　<a href="http://yyxcj.eastday.com/" target="_blank" class="grey12">医院新媒体宣传节</a></div> <div class="blank9"></div>
+ <!-- 要闻 begin -->
+  <div id="indexyw"><div class="tanc"><p id="closetan">关闭</p></div>
+  <div class="shengyin_tw1 fl">
+  	<div class="lh28"><h2 class="greyb18"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" class="greyb18" target="_blank">直播上海</a><span id="shrefresh"><img src="/images/index2014/fresh.gif"></span></h2></div>
+	<div class="frame">
+	<div class="container1">    
+	<div class="div_scroll">
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">今早空气质量优<span class="blue12">03-24 06:46</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/bee26ced-3650-4cb9-b42e-074d02802057.png" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c">　　今早上海实时空气质量指数为41，优。空气质量令人满意，基本无空气污染。各类人群可正常活动。</p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12357648,this)">点赞<span class="zbzannum" data-id="12357648"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190324/index_T1722.html" target="_blank" class="blue12">留言</a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">上海今天傍晚有小雨<span class="blue12">03-24 06:41</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/3c5c62c5-9e68-4630-8baa-cc096956dfff.png" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c">　　上海今天多云，傍晚到上半夜转阴天，西部和南部地区有短时小雨，今天下半夜起阴有时有雨，明天阴有短时小雨转阴到多云。东到东南风，明天偏南风，风力都是3-4级。今天最高温度15度，明天最低温度10度。</p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12357645,this)">点赞<span class="zbzannum" data-id="12357645"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190324/index_T1722.html" target="_blank" class="blue12">留言</a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">首届上海花朝节开幕<span class="blue12">03-23 21:25</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/b623115b-864a-497c-bd4b-c04aaf384896.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190323/u1ai12357170.html" target="_blank" class="grey12c">　　3月23日，首届上海花朝节暨2019上海古猗园牡丹花友会在古猗园拉开帷幕，活动为期一个月。活动期间将公布每月候选花神，由市民线上评选，最终确定“上海新十二花神”。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12357456,this)">点赞<span class="zbzannum" data-id="12357456"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190323/u1ai12357170.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">夜间封道养护<span class="blue12">03-23 20:24</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/d38846a3-922c-43b2-b74d-a4a9291784b2.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c">　　据乐行上海，3月23日24:00至次日5:00封道养护路段为：内环高架内侧吴中路出口至大柏树入口，外侧西藏北路出口至沪太路入口、光新路出口至吴中路入口；延安高架虹许路至凯旋路双向；南北高架广中西路至永兴路双向；逸仙高架东侧内环至中山北二路入口；中环路内侧古浪路出口至中环共和立交入口，外侧原平路出口至真南路入口。</p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12357413,this)">点赞<span class="zbzannum" data-id="12357413"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">明天多云到阴为主<span class="blue12">03-23 19:22</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/f0745035-a57b-4b4e-a0ec-df088b8dc7c8.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c">　　据上海发布，今天天气晴朗，温度适宜。明天白天多云，傍晚到上半夜转阴南部地区有小雨，最高温15度。下周气温开始回升，周一最高16度，周二21度，常有阵雨光顾。</p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12357326,this)">点赞<span class="zbzannum" data-id="12357326"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">舞狸灯火嘉年华举办<span class="blue12">03-23 18:28</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/fb67ad61-f895-4a68-ab74-ee027937ee61.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190323/u1ai12357244.html" target="_blank" class="grey12c">　　曾经热闹一时的锦江乐园承载了不少上海人的童年记忆，近日，在锦江乐园举办的“舞狸灯火嘉年华”重新吸引了不少新老粉丝来这里欢度周末。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12357266,this)">点赞<span class="zbzannum" data-id="12357266"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190323/u1ai12357244.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">17：00路况信息<span class="blue12">03-23 17:10</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/6f35b078-a2a5-4855-aa73-9e1d932d2c5b.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c">　　据乐行上海，17：00快速路目前较拥挤的路段有：南北西侧共江路至汶水路，东侧徐家汇路至永兴路；延安南侧虹桥枢纽至华山路，北侧江苏路至虹桥枢纽；沪闵东侧莘庄至莲花路、桂林路至漕宝路，西侧蒲汇塘路至柳州路、虹梅立交至莘庄；内环外侧大柏树至广中路、吴中路至漕溪立交，内侧瑞金南路至漕溪立交；中环内侧古浪路至万荣路，外侧中环共和立交至沪嘉立交等。</p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12357146,this)">点赞<span class="zbzannum" data-id="12357146"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">上海金融科技园区揭牌<span class="blue12">03-23 16:41</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190323/u1ai12356948.html" target="_blank" class="grey12c">　　“上海金融科技园区”在北外滩正式揭牌。“上海金融科技园区”拟建于虹口区杨树浦路61号，地处北外滩金融集聚区和提篮桥历史文化风貌区，区位优势十分显著。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12357101,this)">点赞<span class="zbzannum" data-id="12357101"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190323/u1ai12356948.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">年轻化成消费新增长点<span class="blue12">03-23 15:53</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/61eb8679-9367-4863-b703-1aef4c9aa29e.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190323/u1ai12356863.html" target="_blank" class="grey12c">　　“电动牙刷、咖啡机、牛油果等一、二线城市热门商品，也开始在三、四线城市火了起来。”近日，阿里巴巴旗下营销平台聚划算发布《品质惠经济白皮书》，对新消费趋势进行全面解读。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12356924,this)">点赞<span class="zbzannum" data-id="12356924"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190323/u1ai12356863.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">上海市民文化节启动<span class="blue12">03-23 14:42</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/4248c72a-537e-496a-bb6d-3def0b5189a5.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190323/u1ai12356680.html" target="_blank" class="grey12c">　　今天，2019年上海市民文化节暨文化服务日在全市范围内启动，今年的市民文化节以“市民美育在行动”为主题，近千场活动在文化场馆、商圈、公园、广场、校园里展开。文旅融合，市民文化节带领市民行走在青山绿水之中，看得到风景，留得住乡愁，读得懂历史，赏得到艺术。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12356738,this)">点赞<span class="zbzannum" data-id="12356738"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190323/u1ai12356680.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">“黄浦我来赛！”<span class="blue12">03-23 13:40</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/f5b2259f-c08c-45fe-b17c-f1f8aac8bb5c.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190323/u1ai12356571.html" target="_blank" class="grey12c">　　2019黄浦区全民健身品牌“黄浦我来赛”22日下午推出，拉开了全民健身工作“整合资源、信息共享、优势互补、和谐进取”的序幕。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12356644,this)">点赞<span class="zbzannum" data-id="12356644"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190323/u1ai12356571.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">3月份拍牌结果<span class="blue12">03-23 12:07</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/510178bb-7b55-4dd2-b5ed-191e1114f605.png" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190323/u1ai12356494.html" target="_blank" class="grey12c">　　个人额度9020辆，参加拍卖人数150523人，比上月减少13048人，中标率6%。最低成交价89300元，平均成交价为89348元，比上个月的89485元减少了137元。最低成交价的截止时间是11:29:58第2389位。你拍中了吗？</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12356527,this)">点赞<span class="zbzannum" data-id="12356527"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190323/u1ai12356494.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">朱家角别墅区违建<span class="blue12">03-23 11:04</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/b746000d-6d8c-41df-bc93-ccfe8dc44549.png" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190323/u1ai12356383.html" target="_blank" class="grey12c">　　别墅区业主私搭亲水平台侵占河道，市民连续两年投诉，却依然不见拆除。昨天，市民苏先生向“水务局长接热线”反映，他所住的青浦区复兴路88弄东方庭院小区内，沿河道边有不少业主拆除原有的防护栅栏，擅自搭建亲水平台和凉亭，破坏河岸环境。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12356448,this)">点赞<span class="zbzannum" data-id="12356448"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190323/u1ai12356383.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">丝路千里始于足下<span class="blue12">03-23 09:58</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/97c2d11d-c2fc-4aca-8471-622b33b2d1e4.png" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190323/u1ai12356272.html" target="_blank" class="grey12c">　　记者傅文婧报道：敦煌是中华文明带给世界的宝贵遗产，也是中西方文化交流的融通之处。为保护和传播敦煌文化，由敦煌研究院、上海交通大学等联合发起的“敦煌文化守望者计划”第二期10名入围志愿者，于21日下午在钱学森图书馆举行出征仪式，将奔赴莫高窟展开体验式培训与讲解工作。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12356316,this)">点赞<span class="zbzannum" data-id="12356316"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190323/u1ai12356272.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">“智慧社区”志愿服务<span class="blue12">03-23 09:01</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/02cda9e3-82d0-4c19-a3a2-23435410551b.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190323/u1ai12356157.html" target="_blank" class="grey12c">　　昨天，“青春建功新时代，校区共铸追梦人”上海电机学院大学生志愿服务社区系列活动启动仪式在临港南汇新城镇申港社区举行。活动现场，上海电机学院结合自己学校的实际，针对性的将面向社区的志愿服务项予以整合，提供了四大类20多项智慧社区“菜单式”服务清单项目，既有针对老年人的身体健康普测、手机APP使用教学，也有针对小朋友的小火箭制作和简易机械臂，让社区和居民按实际需求“点菜”，获得多样化、个性化的志愿服务。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12356167,this)">点赞<span class="zbzannum" data-id="12356167"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190323/u1ai12356157.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">沪调整养老服务补贴<span class="blue12">03-23 08:08</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190323/u1ai12356097.html" target="_blank" class="grey12c">　　市民政局说，为进一步做好养老服务补贴工作，现对具有本市户籍，且老年照护统一需求评估等级、经济困难程度符合相关条件的老年人的养老服务补贴标准予以调整。不同照护等级和困难程度的老年人享受的补贴标准不同，最高可享受每人每月960元的补贴。详见↓</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12356105,this)">点赞<span class="zbzannum" data-id="12356105"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190323/u1ai12356097.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">今日天气<span class="blue12">03-23 07:00</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/16d3a491-f0ae-48f1-aa92-36d201eeaab3.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c">　　上海中心气象台2019年3月23日5时发布：多云到晴，今天中午前后转晴到多云，明天多云转阴。偏北风，明天转东南风，风力都是3-4级。今天最高温度16度，明天最低温度7度。今天相对湿度35%-65%。火险等级气象指数：4级，易燃。</p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12355944,this)">点赞<span class="zbzannum" data-id="12355944"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190323/index_T1722.html" target="_blank" class="blue12">留言</a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">第29届白玉兰奖揭晓<span class="blue12">03-22 20:14</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/46329445-bd7e-43ba-8954-4068c85834cb.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c">　　记者潘丽娟报道：第29届上海白玉兰戏剧表演艺术奖主题之夜在上海大剧院举行。获奖名单揭晓，许翠、埃琳娜·莱姆泽、王莺、王航、杨扬、陈素琴、陈丽俐、翟学凡、夏圆圆、刘子枫共10人获得“主角奖”,上海昆剧团《临川四梦》剧组及秦腔表演艺术家李梅获组委会特别奖。</p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12355525,this)">点赞<span class="zbzannum" data-id="12355525"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190322/index_T1722.html" target="_blank" class="blue12">留言</a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">申城明天晴好<span class="blue12">03-22 19:19</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/463d74a6-dea4-4ace-af17-ff595aa8f7e3.png" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c">　　上海明天天气转晴，最高温也回升至16℃。周日到下周中，申城天空云系较多，以多云到阴为主，其中周日和下周三还有小雨光临；气温也将进一步缓升，至下周中最高温在18℃上下。</p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12355411,this)">点赞<span class="zbzannum" data-id="12355411"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190322/index_T1722.html" target="_blank" class="blue12">留言</a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">科创板001号受理批文<span class="blue12">03-22 18:08</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3>
+<p class="grey12c">　　记者柏可林报道：今天，上海证券交易所依据相关规定，对晶晨半导体（上海）股份有限公司报送的首次公开发行股票，并在科创板上市的申请报告及相关申请文件进行了核对，决定予以受理并依法进行审核。该通知为科创板001号受理批文。</p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12355280,this)">点赞<span class="zbzannum" data-id="12355280"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190322/index_T1722.html" target="_blank" class="blue12">留言</a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">17:26沪外环线拥堵路段<span class="blue12">03-22 17:28</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/be89abf9-b6f0-4cb4-a0e7-6b5f92c4277c.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c">　　17：26，沪外环线及高速路拥堵路段有：S5市区方向中环立交；S5嘉定方向中环立交至外环立交；S20外圈外环隧道、龙吴路路至徐浦大桥、沪嘉立交至武威路、富长路至沪太立交、曹安路至京沪立交、北翟路至仙霞路、S20内圈莘朱路至莘庄立交等。</p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12355160,this)">点赞<span class="zbzannum" data-id="12355160"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190322/index_T1722.html" target="_blank" class="blue12">留言</a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">地铁晚高峰<span class="blue12">03-22 17:02</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/990fcdfd-a6fc-4e7b-b3f2-4f5f2ab3834f.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c">　　17时，地铁路网即将迎来晚高峰，目前各条线路均绿色畅通。</p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12355088,this)">点赞<span class="zbzannum" data-id="12355088"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190322/index_T1722.html" target="_blank" class="blue12">留言</a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">长三角气象联动保障<span class="blue12">03-22 16:29</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/827b8362-e0ac-4925-8e2e-1f0d01fa3f22.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190322/u1ai12354883.html" target="_blank" class="grey12c">　　记者刘辉报道：记者今日获悉，长三角气象联动保障取得了新进展。目前，长三角区域环境气象一体化业务平台，已实现对长三角区域及三省一市关键气象条件的定量评估和对输送贡献的定量评估。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12354915,this)">点赞<span class="zbzannum" data-id="12354915"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190322/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190322/u1ai12354883.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">小青蛙讲故事活动<span class="blue12">03-22 15:56</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/68977100-f281-43ef-b1af-fa9c005887c2.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190322/u1ai12354596.html" target="_blank" class="grey12c">　　家里有喜欢讲故事小朋友的家长看过来！今天，“美好时代梦想未来”——第19届小青蛙讲故事活动启动仪式在上海普陀区童的梦艺术幼儿园举行。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12354797,this)">点赞<span class="zbzannum" data-id="12354797"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190322/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190322/u1ai12354596.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">股市收盘<span class="blue12">03-22 15:07</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/8f83ed55-99b8-4151-bee6-ed527d941bdd.png" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://finance.eastday.com/m/20190322/u1a14697227.html" target="_blank" class="grey12c">　　沪指尾盘翻红守住3100点，截至收盘，沪指涨0.09%，深成指涨0.1%，创业板指跌0.59%。创投、工业大麻板块再度大涨，港口、机场、餐饮旅游、汽车等板块受利好消息影响，涨幅居前；多元金融、券商、农业、电信、保险等板块跌幅居前。个股方面，浦东建设、金牛化工、栋方股份、顺灏股份等多股涨停。长安汽车午间公告拟与苏宁、阿里创投设立合伙企业，午后直线封涨停，超49万手。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12354629,this)">点赞<span class="zbzannum" data-id="12354629"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190322/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://finance.eastday.com/m/20190322/u1a14697227.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">五一加班工资这样算<span class="blue12">03-22 14:19</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/2e113b06-1cb2-4c1a-aea4-a25290e82af4.png" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190322/u1ai12354399.html" target="_blank" class="grey12c">　　刚刚，国务院办公厅发出通知，调整了2019年劳动节假期安排：2019年5月1日至4日放假调休，共4天。4月28日（星期日）、5月5日（星期日）上班。五一从单休变身小长假，有小伙伴就问了，加班工资怎么算呢？</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12354434,this)">点赞<span class="zbzannum" data-id="12354434"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190322/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190322/u1ai12354399.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">沪上名医走进革命老区<span class="blue12">03-22 13:24</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/6e03376e-bb68-4588-a89a-8b02ac7dcd67.jpg" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190322/u1ai12353679.html" target="_blank" class="grey12c">　　来沪就医的安徽舒城农民王家军因为脑瘫造成双下肢肌肉萎缩无法正常走路，经过上海骨科名医的妙手回春，近日康复回到老家。看到家里人，王家军不由得表演起走路、下蹲等动作。“看到舅舅的变化，心里别提多开心了。”王家军的外甥王伟说，“他走路的速度快了很多，脚掌可以完全着地，以前是脚垫着走，身体像鸭子一样左右摇摆幅度大，手术治疗的效果可以说是非常好。”</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12354242,this)">点赞<span class="zbzannum" data-id="12354242"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190322/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190322/u1ai12353679.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">“五一”出游热度高<span class="blue12">03-22 12:25</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3>
+<p class="grey12c">　　记者曹磊报道：经国务院批准，对2019年劳动节放假进行了调整，2019年5月1日至4日放假调休，共4天。东方网记者从沪上各大旅行社了解到，截至上午12点00分“五一”小长假相关产品搜索激增。从目的地来看，出境以日本、土耳其、中国香港等为主；国内游以杭州、上海、成都等热度最高。业内人士预测，“五一”假期，全国可能会有1.5亿人次出游。</p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12354066,this)">点赞<span class="zbzannum" data-id="12354066"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190322/index_T1722.html" target="_blank" class="blue12">留言</a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">“天目路转盘”改造<span class="blue12">03-22 12:21</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/c0218485-3f11-464a-b20b-61af87ee1706.png" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://sh.eastday.com/m/20190322/u1ai12353974.html" target="_blank" class="grey12c">　　记者柏可林报道：作为上海市中心城区“三横三纵”主干路网的重要组成部分，北横通道工程又将迎标志性节点。记者从上海城投公路集团获悉，位于北横通道中部的天目路立交，将在3月29日晚启动改造。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12354059,this)">点赞<span class="zbzannum" data-id="12354059"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190322/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://sh.eastday.com/m/20190322/u1ai12353974.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+<div class="gdbb">
+<div class="inner">
+<h3 class="grey12a">股市午盘<span class="blue12">03-22 11:33</span><img src="/images/index2014/trg.gif" alt="装饰图片"></h3><p class="innerpic"><img src="/images/thumbnailimg/month_1903/130cdb6c-ef4e-47e6-8d08-530e48544067.png" hrefurl="123" resize="" data-zbpc="123" data-zbphone="123" class="openwin"></p>
+<p class="grey12c"><a href="http://finance.eastday.com/m/20190322/u1a14696514.html" target="_blank" class="grey12c">　　两市早盘低开震荡，临近午盘三大指数相继跳水。截至午间收盘，沪指时跌0.77%，深成指跌1.24%，创业板指跌1.89%。农业、多元金融、电信、券商等板块领跌两市，受利好消息影响，港口、餐饮旅游、机场等板块逆势走强，涨幅居前。</a></p><p class="shdz"></p><p class="z1 blue12" onclick="zbzan(12353951,this)">点赞<span class="zbzannum" data-id="12353951"></span></p><p class="z2 blue12"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/20190322/index_T1722.html" target="_blank" class="blue12">留言</a></p><p class="xxright"><a href="http://finance.eastday.com/m/20190322/u1a14696514.html" target="_blank" class="blue12"><span class="textright">...详细</span></a></p><p></p></div>
+<div class="gdzc"><a href="http://www.eastday.com/eastday/shouye/node670813/n847507/index.html" target="_blank"><img src="/images/index2014/zcr.gif" alt="直播员"></a><span class="grey14a">直播员</span></div>
+</div>
+	</div>
+	</div>
+    <div class="padscroll"><img src="/images/index2014/scroll.png" alt=""></div>
+	</div>	
+</div>
+<div class="newslist1 fr">
+<div class="lh28 fl"><h2 class="greyb18"><a href="http://news.eastday.com/" target="_blank" class="greyb18">要闻</a></h2></div>
+<div class="lh28 isearch fr"><div id="chinaso_search">
+	<div class="China_search_24_new">
+			<form target="_blank" accept-charset="utf-8" style="height:30px;" id="chinaso_form" action="http://www.chinaso.com/search/pagesearch.htm">
+				<input type="text" id="chinaso_text" class="search_input2" autocomplete="off" name="q">
+				<input type="hidden" id="site" value="eastday.com" name="site"><!--value值内容为合作伙伴的域名-->
+				<select id="search_scope" style="float:left;width:54px;height:26px;border:1px solid #ccc;margin-left:-1px;font-size:12px;">
+					<option value="insite">站内</option>
+					<option value="outsite">全网</option>
+				</select>
+				<input type="hidden" id="search_scope" value="insite" name="search_scope">
+				<input type="submit" value="" class="newtj">
+				<div id="searchHotWord" class="newsearch"></div>
+			</form>
+		<div style="display:none;" class="keywords-box"><h3>大家正在搜：</h3><ul></ul><p><a href="http://www.chinaso.com/">进入搜索首页&gt;&gt;</a></p></div>
+	</div>
+</div></div>
+<div class="line clear"></div><ul><li class="Fontbold"><a href="http://news.eastday.com/c/20190323/u1a14698516.html" target="_blank" class="grey14" title="14地已落实&quot;独生子女护理假&quot; 4省政策在路上"><b>14地已落实"独生子女护理假" 4省政策在路上</b></a></li><li><a href="http://news.eastday.com/c/20190323/u1a14699475.html" target="_blank" class="grey14" title="打虎68只处分人数创40年新高 国家监委太给力了">打虎68只处分人数创40年新高 国家监委太给力了</a></li><li><a href="http://news.eastday.com/c/20190324/u1ai12357674.html" target="_blank" class="grey14" title="踏上&quot;回家&quot;路 意大利返还796件套中国文物艺术品">踏上"回家"路 意大利返还796件套中国文物艺术品</a></li><li><a href="http://finance.eastday.com/m/20190323/u1ai12357216.html" target="_blank" class="grey14" title="楼市有松动? 住建部副部长回应:这个消息不准确">楼市有松动? 住建部副部长回应:这个消息不准确</a></li><li><a href="http://finance.eastday.com/m/20190323/u1a14699688.html" target="_blank" class="grey14" title="未来已来!8K电视、全空间保鲜冰箱……智慧生活">未来已来!8K电视、全空间保鲜冰箱……智慧生活</a></li></ul><div class="blank13"></div><ul><li class="Fontbold"><a href="http://sh.eastday.com/m/20190324/u1ai12357537.html" target="_blank" class="grey14" title="沪交通委提醒:沪牌额度证明超过三年将失效"><b>沪交通委提醒:沪牌额度证明超过三年将失效</b></a></li><li><a href="http://sh.eastday.com/m/20190324/u1ai12357540.html" target="_blank" class="grey14" title="长三角联合师资招聘会在沪举行:有学科急缺老师">长三角联合师资招聘会在沪举行:有学科急缺老师</a></li><li><a href="http://sh.eastday.com/m/20190324/u1ai12357541.html" target="_blank" class="grey14" title="虹湾居委会：垃圾不分类 被“熟人”看见要脸红">虹湾居委会：垃圾不分类 被“熟人”看见要脸红</a></li><li><a href="http://sh.eastday.com/m/20190324/u1ai12357551.html" target="_blank" class="grey14" title="耶鲁大学免疫代谢研究院在沪启动建设:主攻癌症">耶鲁大学免疫代谢研究院在沪启动建设:主攻癌症</a></li><li><a href="http://sh.eastday.com/m/20190324/u1ai12357964.html" target="_blank" class="grey14" title="曾是&quot;远东第一高楼&quot;!国际饭店除蝴蝶酥还有这些">曾是"远东第一高楼"!国际饭店除蝴蝶酥还有这些</a></li></ul><div class="blank13"></div><ul><li class="Fontbold"><a href="http://sh.eastday.com/m/20190324/u1ai12357843.html" target="_blank" class="grey14" title="沪上高校春意浓!一起看32所校园的明媚春光"><b>沪上高校春意浓!一起看32所校园的明媚春光</b></a></li><li><a href="http://sh.eastday.com/m/20190324/u1ai12357946.html" target="_blank" class="grey14" title="时髦小众又有趣！ 老佛爷百货上海店昨起试营业">时髦小众又有趣！ 老佛爷百货上海店昨起试营业</a></li><li><a href="/eastday/shouye/07index/xwyw/n1166086/u1ai12357654.html" target="_blank" class="grey14" title="亚洲独角犀牛在上海首展 见证中国和尼泊尔友谊">亚洲独角犀牛在上海首展 见证中国和尼泊尔友谊</a></li><li><a href="http://sh.eastday.com/m/20190323/u1ai12357376.html" target="_blank" class="grey14" title="哈利·波特英汉对照版国内首发 为何选在上海?">哈利·波特英汉对照版国内首发 为何选在上海?</a></li><li><a href="http://sh.eastday.com/m/20190324/u1ai12357552.html" target="_blank" class="grey14" title="身份证丢失被冒用注册公司成&quot;股东&quot; 责任谁来担">身份证丢失被冒用注册公司成"股东" 责任谁来担</a></li></ul><div class="blank13"></div><ul><li class="Fontbold"><a href="http://news.eastday.com/china/2017gdbbchina/jsycbz/index.html" target="_blank" class="grey14" title="响水爆炸事故|仍在搜救 附近居民不敢回家"><b>响水爆炸事故|</b></a><b><a href="http://news.eastday.com/c/20190324/u1a14700001.html" class="grey14" target="_blank">仍在搜救 附近居民不敢回家</a></b></li><li><a href="http://news.eastday.com/c/20190324/u1a14700070.html" target="_blank" class="grey14" title="响水爆炸40小时后救出幸存者:一天两夜无食无水">响水爆炸40小时后救出幸存者:一天两夜无食无水</a></li><li><a href="http://news.eastday.com/w/20190324/u1a14700091.html" target="_blank" class="grey14" title="欧盟同意&quot;宽限&quot; 英国首相致信议会下院再求支持">欧盟同意"宽限" 英国首相致信议会下院再求支持</a></li><li><a href="http://news.eastday.com/china/2017gdbbchina/2019xxlqj/index.html" target="_blank" class="grey14" title="枪击事件几天后新西兰就发禁枪令 美议员&quot;眼红&quot;">枪击事件几天后新西兰就发禁枪令 美议员"眼红"</a></li><li><a href="http://news.eastday.com/s/20190324/u1a14699950.html" target="_blank" class="grey14" title="有中国留学生私下换汇？驻澳使馆:莫成洗钱帮凶">有中国留学生私下换汇？驻澳使馆:莫成洗钱帮凶</a></li></ul><div class="blank13"></div><ul><li class="Fontbold"><a href="http://news.eastday.com/w/20190324/u1a14699943.html" target="_blank" class="grey14" title="农业部发文:稳定生猪生产 保障猪肉市场供给"><b>农业部发文:稳定生猪生产 保障猪肉市场供给</b></a></li><li><a href="http://news.eastday.com/s/20190324/u1a14699948.html" target="_blank" class="grey14" title="工资到手直接还钱 穿名牌衣服年轻人或是负一代">工资到手直接还钱 穿名牌衣服年轻人或是负一代</a></li><li><a href="http://finance.eastday.com/m/20190324/u1a14700198.html" target="_blank" class="grey14" title="车厘子自由变香椿自由 新中产焦虑从菜市场开始">车厘子自由变香椿自由 新中产焦虑从菜市场开始</a></li><li><a href="http://news.eastday.com/c/20190324/u1a14700129.html" target="_blank" class="grey14" title="人民日报海外版:别给台湾艺人乱扣“台独”帽子">人民日报海外版:别给台湾艺人乱扣“台独”帽子</a></li><li><a href="http://news.eastday.com/c/20190324/u1a14699900.html" target="_blank" class="grey14" title="山西晋城数百高中生学籍“失踪” 谁该为此负责">山西晋城数百高中生学籍“失踪” 谁该为此负责</a></li><li><a href="http://news.eastday.com/s/20190324/u1a14699898.html" target="_blank" class="grey14" title="男子&quot;科目一&quot;考8次都没过 找朋友替考双双被刑拘">男子"科目一"考8次都没过 找朋友替考双双被刑拘</a></li><li><a href="http://news.eastday.com/s/20190324/u1a14700088.html" target="_blank" class="grey14" title="练瑜伽到底有哪些好处? 专家:对心脏健康有助力">练瑜伽到底有哪些好处? 专家:对心脏健康有助力</a></li></ul></div>
+ 
+  <!-- 要闻 end -->
+
+ </div>
+ </div>
+ <!-- 第一部分左栏 end -->
+ <!-- 第一部分右栏 begin -->
+ <div class="right1 fr">
+ <div class="tqyb grey12 lh28"><script language="JavaScript"> 
+today=new Date();
+var today_year = (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear();
+var strDate;
+var strMonth;if(today.getDate()<10){
+strDate = "0" + today.getDate();
+}else{
+strDate = today.getDate();
+}if(today.getMonth()+1<10){
+strMonth = today.getMonth()+1;
+strMonth = "0" +strMonth;
+}else{
+strMonth = today.getMonth()+1;}
+document.write(today_year,"年",strMonth,"月",strDate,"日 ");
+function initArray(){
+ this.length=initArray.arguments.length
+ for(var i=0;i<this.length;i++)
+ this[i+1]=initArray.arguments[i] }
+ var d=new initArray("星期日 ","星期一 ","星期二 ","星期三 ","星期四 ","星期五 ","星期六 ");
+document.write(
+d[today.getDay()+1],"" );
+</script>2019年03月23日 星期六 <a href="http://www.soweather.com/" target="_blank" class="grey12" title="天气预报">多云到晴 7℃～16℃
+</a></div>
+<!-- 十九大右内容begin -->
+<div class="blank12"></div>
+<div id="cpcright">
+	<div class="cpcr-top"><iframe border="0" name="cpcgd" marginwidth="0" framespacing="0" marginheight="0" src="/eastday/shouye/07index/cpcgd/index.html" frameborder="0" noresize="" width="200" scrolling="no" height="30" vspale="0"></iframe></div>
+ 
+ 
+ <div class="cpcr-btm-dot">
+ <ul>
+ 
+ </ul>
+ </div>
+ 
+    <div class="cpcr-btm">
+    	<ul class="newslist4">
+        
+        	<li><a href="http://news.eastday.com/c/20190323/u1a14699788.html" target="_blank" class="grey12">习近平同孔特会谈 </a><a href="http://news.eastday.com/c/20190324/u1a14700057.html" class="grey14" target="_blank">会见穆苏梅奇</a></li>
+            
+        	<li><a href="http://news.eastday.com/c/20190324/u1a14700058.html" target="_blank" class="grey12">法国各界热议习近平主席署名文章</a></li>
+            
+        	<li><a href="http://news.eastday.com/c/20190323/u1ai12357142.html" target="_blank" class="grey12">习近平《在共同发展的道路上继续并肩前行》</a></li>
+            
+        	<li><a href="http://news.eastday.com/c/20190323/u1a14699792.html" target="_blank" class="grey12">习近平出席意大利总统欢送仪式</a></li>
+            
+        </ul>
+    </div>
+    
+
+</div>
+<!-- 十九大右内容end --> 
+ <div class="blank19"></div>
+ 
+ <!-- 视频 begin -->
+ <div class="lm3">
+  <p class="fl"><a href="http://imedia.eastday.com/" target="_blank" class="greyb18">视频</a></p>
+ </div>
+ <div class="blank8"></div>
+ <div class="spcon">
+ <div class="spcon1">
+ <p><a href="http://imedia.eastday.com/" target="_blank" class="spbg1" id="ts_0" onmouseover="Menu(0,'ts','spbg1','spbg2')">
+	新闻</a></p>
+ <p><a href="http://imedia.eastday.com/node2/2015imedia/ddcp/index.html" target="_blank" class="spbg2" id="ts_1" onmouseover="Menu(1,'ts','spbg1','spbg2')">
+	独家</a></p>
+ </div>
+ <div id="ts_con_0" style="display:block;"><div><p><a target="_blank" href="http://imedia.eastday.com/node2/2015imedia/i/20190323/u8i772108.html"><img border="0" width="258" height="146" src="/images/thumbnailimg/month_1903/3070e6f5-2a4f-4f6a-b0f3-537f993ced5a.jpg" alt="&quot;3·21&quot;爆炸事故一生还者被困40小时后获救"></a></p><p class="play1"><a href="http://imedia.eastday.com/node2/2015imedia/i/20190323/u8i772108.html" target="_blank"><img src="http://news.eastday.com/images/201306gj/play.png" border="0" alt="&quot;3·21&quot;爆炸事故一生还者被困40小时后获救"></a></p></div>
+ <div class="blank5"></div>
+ <div class="lh24"><a href="http://imedia.eastday.com/node2/2015imedia/i/20190323/u8i772108.html" target="_blank" class="blueb14" title="&quot;3·21&quot;爆炸事故一生还者被困40小时后获救">"3·21"爆炸事故一生还者被困40小时后获救</a></div>
+ <div class="clear"></div>
+ <ul class="newslist4"><li><a href="http://imedia.eastday.com/node2/2015imedia/i/20190323/u8i772110.html" target="_blank" class="grey12" title="3岁男童落水危在旦夕 过路老师跳水营救">3岁男童落水危在旦夕 过路老师跳水营救</a></li><li><a href="http://imedia.eastday.com/node2/2015imedia/i/20190323/u8i772111.html" target="_blank" class="grey12" title="女乘客被行李箱砸中当场昏迷 众人接力救援">女乘客被行李箱砸中当场昏迷 众人接力救援</a></li><li><a href="http://imedia.eastday.com/node2/2015imedia/i/20190323/u8i772113.html" target="_blank" class="grey12" title="小偷竟写盗窃日记&quot;自勉&quot;:2020年完成10万元目标">小偷竟写盗窃日记"自勉":2020年完成10万元目标</a></li><li><a href="http://imedia.eastday.com/node2/2015imedia/i/20190323/u8i772112.html" target="_blank" class="grey12" title="执法反被违章司机指出未系安全带 交警自开罚单">执法反被违章司机指出未系安全带 交警自开罚单</a></li><li><a href="http://imedia.eastday.com/node2/2015imedia/i/20190323/u8i772115.html" target="_blank" class="grey12" title="没买车位进不了地下车库 男子套邻居车牌蹭位子">没买车位进不了地下车库 男子套邻居车牌蹭位子</a></li><li><a href="http://imedia.eastday.com/node2/2015imedia/i/20190323/u8i772114.html" target="_blank" class="grey12" title="83岁&quot;吃货&quot;爷爷编顺口溜&quot;撒娇&quot; 跟孙女要零食吃">83岁"吃货"爷爷编顺口溜"撒娇" 跟孙女要零食吃</a></li></ul>
+ </div>
+ <div id="ts_con_1" style="display:none;"><div><p><a target="_blank" href="http://imedia.eastday.com/node2/2015imedia/i/20190310/u8i771142.html"><img border="0" width="258" height="146" src="/images/thumbnailimg/month_1903/bb0b7bd9-6958-4a30-a158-fd3fe6cc8199.jpg" alt="霍启刚：粤港澳大湾区是家的扩大、家的延伸"></a></p><p class="play1"><a href="http://imedia.eastday.com/node2/2015imedia/i/20190310/u8i771142.html" target="_blank"><img src="http://news.eastday.com/images/201306gj/play.png" border="0" alt="霍启刚：粤港澳大湾区是家的扩大、家的延伸"></a></p></div>
+ <div class="blank5"></div>
+ <div class="lh24"><a href="http://imedia.eastday.com/node2/2015imedia/i/20190310/u8i771142.html" target="_blank" class="blueb14" title="霍启刚：粤港澳大湾区是家的扩大、家的延伸">霍启刚：粤港澳大湾区是家的扩大、家的延伸</a></div>
+ <div class="clear"></div>
+ <ul class="newslist4"><li><a href="http://imedia.eastday.com/node2/2015imedia/i/20190308/u8i770981.html" target="_blank" class="grey12" title="&quot;小巷总理&quot;朱国萍喊话政府:规范管理家政市场">"小巷总理"朱国萍喊话政府:规范管理家政市场</a></li><li><a href="http://imedia.eastday.com/node2/2015imedia/i/20190308/u8i770995.html" target="_blank" class="grey12" title="部长通道|雒树刚：使中国游客成为中国文明的代言人">部长通道|雒树刚：使中国游客成为中国文明的代言人</a></li><li><a href="http://imedia.eastday.com/node2/2015imedia/i/20190308/u8i770996.html" target="_blank" class="grey12" title="部长通道|马晓伟：做好分级诊疗 建立合理就医格局">部长通道|马晓伟：做好分级诊疗 建立合理就医格局</a></li><li><a href="http://imedia.eastday.com/node2/2015imedia/i/20190303/u8i770375.html" target="_blank" class="grey12" title="委员通道｜吴伟仁：中国探月工程起步晚起点高">委员通道｜吴伟仁：中国探月工程起步晚起点高</a></li><li><a href="http://imedia.eastday.com/node2/2015imedia/i/20190303/u8i770377.html" target="_blank" class="grey12" title="委员通道｜王宁利：近视眼防控主战场在幼儿园">委员通道｜王宁利：近视眼防控主战场在幼儿园</a></li><li><a href="http://imedia.eastday.com/node2/2015imedia/tyzt/n10923/n10925/n10940/u8i770540.html" target="_blank" class="grey12" title="委员通道｜宋纪蓉：故宫将建立第一所文物医学院">委员通道｜宋纪蓉：故宫将建立第一所文物医学院</a></li>
+ </ul>
+ </div>
+ </div>
+ <!-- 视频 end -->
+ <div class="blank10"></div>
+ <ul class="gglist">
+ <li><a href="http://www.jiading.gov.cn/nanxiang/xwzx/nxb" target="_blank"><img src="http://enjoy.eastday.com/images/ad/2018gg/145_1.gif"></a></li>
+ <li><a href="http://enjoy.eastday.com/" target="_blank"><img src="http://enjoy.eastday.com/images/ad/2018gg/yule145.gif"></a></li>
+ <li><a href="http://enjoy.eastday.com/images/20150703/20170104/shanghaigongshangju.html" target="_blank"><img src="http://enjoy.eastday.com/images/ad/2018gg/145_3.jpg"></a></li>
+ <li><a href="http://sports.eastday.com/" target="_blank"><img src="http://enjoy.eastday.com/images/ad/2018gg/145_4.gif"></a></li>
+ </ul>
+ <div class="clear"></div>
+     <!-- 声音 begin -->
+ <div class="lm3 lh24"><a href="http://pinglun.eastday.com/" target="_blank" class="greyb18">
+	 声音</a></div>
+ <div class="blank3"></div>
+<div class="lh24"><a href="http://pinglun.eastday.com/p/20190323/u1ai12356173.html" target="_blank" class="blueb14" title="“五一假”调休顺应民意远比假重要">“五一假”调休顺应民意远比假重要</a></div>
+ <div class="blank3"></div>
+ <div class="fl"><a target="_blank" href="http://pinglun.eastday.com/p/20190323/u1ai12356173.html"><img border="0" width="147" height="110" src="/images/thumbnailimg/month_1903/00563234-39cb-4121-bfe5-d9f1b37fc409.jpg" alt="“五一假”调休顺应民意远比假重要"></a></div>
+ <div class="tx2 grey12 lh22 fl"><a href="http://pinglun.eastday.com/p/20190323/u1ai12356173.html" target="_blank" class="grey12 lh22">　　积极回应这类带有普遍意义并且很有道理的公共诉求，是决策科学民主化的重要体现，值得称道。</a></div>
+ <div class="blank5"></div> 
+  <ul class="newslist4">
+<li><a href="http://pinglun.eastday.com/p/20190323/u1ai12356200.html" target="_blank" class="grey12" title="防聪明药害人监管要聪明">防聪明药害人监管要聪明 </a><a href="http://pinglun.eastday.com/p/20190323/u1ai12356205.html" class="grey12" target="_blank">远离"714高炮"不只是注意</a></li>
+<li><a href="http://pinglun.eastday.com/p/20190323/u1ai12356196.html" target="_blank" class="grey12" title="唾液测天赋太不靠谱">唾液测天赋太不靠谱 </a><a href="http://pinglun.eastday.com/p/20190323/u1ai12356170.html" class="grey12" target="_blank">治理婚恋网站乱象关键在创新</a></li>
+<li><a href="http://pinglun.eastday.com/p/20190323/u1ai12356175.html" target="_blank" class="grey12" title="培根铸魂,以文化人">培根铸魂,以文化人 </a><a href="http://pinglun.eastday.com/p/20190323/u1ai12356183.html" class="grey12" target="_blank">小学生被骗折射出价值观的缺失</a></li>
+<li><a href="http://pinglun.eastday.com/p/20190323/u1ai12356171.html" target="_blank" class="grey12" title="为国足建夸夸群,夸什么呢?">为国足建夸夸群,夸什么呢? </a><a href="http://pinglun.eastday.com/p/20190323/u1ai12356172.html" class="grey12" target="_blank">宣传横幅何以犯雷人之错</a></li>
+<li><a href="http://pinglun.eastday.com/p/20190323/u1ai12356169.html" target="_blank" class="grey12" title="就业出现雁归效应有平台价值">就业出现雁归效应有平台价值 </a><a href="http://pinglun.eastday.com/p/20190323/u1ai12356174.html" class="grey12" target="_blank">让便利店售药行稳致远</a></li>
+<li><a href="http://pinglun.eastday.com/p/20190323/u1ai12356168.html" target="_blank" class="grey12" title="落实安全生产责任制绝不能走过场">落实安全生产责任制绝不能走过场 </a><a href="http://pinglun.eastday.com/p/20190323/u1ai12356198.html" class="grey12" target="_blank">有感于外企春播早</a></li>
+</ul>
+     <!-- 声音 end -->
+  <div class="blank10"></div>
+ <!-- 标签二 begin -->
+ <div class="lm4" id="hyh2">
+ <div id="rolldiv"><p class="lh24 fl"><span class="menuon1" id="ws_0" onclick="window.open('http://gov.eastday.com')"><a href="http://gov.eastday.com/" target="_blank" class="menu">
+	 活动 推广</a></span></p>
+ <p class="lh24 fl"><span class="menuoff1" id="ws_1" onclick="window.open('http://gov.eastday.com')"><a href="http://gov.eastday.com/" target="_blank" class="menu">
+ 服务 合作</a></span></p></div>
+ </div>
+ <div class="hyh2" id="picMin_a"><ul class="newslist5" id="ws_con_0" style="display:block;"><li><a href="http://city.eastday.com/gk/20190321/u1ai12347813.html" target="_blank" class="grey12" title="上海一周区情：郁金香花博会免费入园">上海一周区情：郁金香花博会免费入园</a></li><li><a href="http://gov.eastday.com/renda/dfzw/ycbd/u1ai6235963.html" target="_blank" class="grey12" title="2019上海樱花节开幕 早樱正值观赏佳期">2019上海樱花节开幕 早樱正值观赏佳期</a></li><li><a href="http://city.eastday.com/gk/20190312/u1ai12324844.html" target="_blank" class="grey12" title="普陀区开展&quot;垃圾分类我最行&quot;环保公益宣传行动">普陀区开展"垃圾分类我最行"环保公益宣传行动</a></li><li><a href="http://city.eastday.com/gk/20190312/u1ai12323719.html" target="_blank" class="grey12" title="沪浙毗邻党建公园搭起发展“连心桥”">沪浙毗邻党建公园搭起发展“连心桥”</a></li><li><a href="http://gov.eastday.com/renda/dfzw/ycbd/u1ai6235505.html" target="_blank" class="grey12" title="上海静安国际女子马拉松赛17日举行">上海静安国际女子马拉松赛17日举行</a></li><li><a href="http://city.eastday.com/gk/n1161872/u1ai12309193.html" target="_blank" class="grey12" title="普陀区举行纪念三八国际妇女节109周年大会">普陀区举行纪念三八国际妇女节109周年大会</a></li><li><a href="http://city.eastday.com/gk/20190305/u1ai12303735.html" target="_blank" class="grey12" title="青浦开展学雷锋垃圾分类志愿服务活动">青浦开展学雷锋垃圾分类志愿服务活动</a></li>
+ </ul>
+ <div class="bg1 lh26" id="ws_con_1 picMin_b" style="display:none;"><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.shcss.gov.cn/" target="_blank" class="grey12" title="参事室">参事室</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.shjxdw.cn/" target="_blank" class="grey12" title="经信党委  ">经信党委  </a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.shjgdj.gov.cn/" target="_blank" class="grey12" title="机关党委  ">机关党委  </a><a onfocus="divonfocus();" onblur="divofblur()" href="http://jcgzx.eastday.com/" target="_blank" class="grey12" title="检察官在线  ">检察官在线  </a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.shshjs.gov.cn/" target="_blank" class="grey12" title="社会建设    ">社会建设    </a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.shanghaiql.org/" target="_blank" class="grey12" title="侨联">侨联</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://obridge.eastday.com/" target="_blank" class="grey12" title="海外之桥">海外之桥</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.shzgd.org/" target="_blank" class="grey12" title="致公说事">致公说事</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.dfxj.gov.cn/" target="_blank" class="grey12" title="东方宣教">东方宣教</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.dfjj.gov.cn/" target="_blank" class="grey12" title="东方俊杰">东方俊杰</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.cwi.org.cn/" target="_blank" class="grey12" title="中福会">中福会</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.cwikids.org/" target="_blank" class="grey12" title="少年宫">少年宫</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.shzgkc.org/" target="_blank" class="grey12" title="职工科创">职工科创</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.sfs-cn.com/" target="_blank" class="grey12" title="海上电影">海上电影</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.sh-aiguo.gov.cn/" target="_blank" class="grey12" title="爱国基地">爱国基地</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.shekebao.com.cn/" target="_blank" class="grey12" title="社科报">社科报</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.china-sorsa.org/" target="_blank" class="grey12" title="欧美同学会">欧美同学会</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.shcdf.org/" target="_blank" class="grey12" title="文化基金会">文化基金会</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.shtong.gov.cn/" target="_blank" class="grey12" title="地方志">地方志</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.n4a.cn/" target="_blank" class="grey12" title="新四军">新四军</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.51ldb.com/" target="_blank" class="grey12" title="劳动报">劳动报</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.shanghai-taiwan.org/gb/shtw/index.html" target="_blank" class="grey12" title="上海与台湾">上海与台湾</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://hsfx.eastday.com/" target="_blank" class="grey12" title="海尚反邪">海尚反邪</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.bzgyq.com/" target="_blank" class="grey12" title="上海堡镇工业区">上海堡镇工业区</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://www.shhjyg.com" target="_blank" class="grey12" title="上海国家安全教育馆">上海国家安全教育馆</a><a onfocus="divonfocus();" onblur="divofblur()" href="http://shptnews.eastday.com/" target="_blank" class="grey12" title="媒体话普陀">媒体话普陀</a></div>
+ </div>
+<!-- 标签二 end -->
+ </div>
+ <!-- 第一部分右栏 end -->
+ <div class="blank20"></div>
+ <div class="fl"><img src="http://enjoy.eastday.com/images/ad/2018gg/640-3.jpg" width="640" height="90"></div>
+ <div class="fr"><a href="http://enjoy.eastday.com/" target="_blank"><img src="http://enjoy.eastday.com/images/ad/2018gg/300-1.jpg" width="300" height="90"></a></div>
+ <div class="blank10"></div>
+ <!-- 第二部分左栏 begin -->
+ <div class="left1 fl left1_sh">
+ <!-- 上海 begin -->
+ <div class="lm1 lh28 fl" id="content"><a href="http://sh.eastday.com/" target="_blank" class="greyb18" title="上海">
+	 上海</a></div><div class="lh28 fr Aclassjq"><a href="http://lysh.eastday.com/" target="_blank">上海市旅游景区实时客流查询</a></div><div class="clear"></div>
+
+ <div><img src="/images/index2013/b1.gif"></div>
+ <div class="blank13"></div>
+ <div class="con1 fl"><div class="lh24"><a href="http://sh.eastday.com/m/20190324/u1ai12357843.html" target="_blank" class="blueb14" title="沪上高校春意浓!一起来看32所校园的明媚春光">沪上高校春意浓!一起来看32所校园的明媚春光</a></div>
+ <div class="blank10"></div>
+ <div class="fl"><a target="_blank" href="http://sh.eastday.com/m/20190324/u1ai12357843.html"><img border="0" src="/images/thumbnailimg/month_1903/966e59ad-c90d-42ca-8d8b-0e174d76cdcd.jpg" width="313" height="176" alt="沪上高校春意浓!一起来看32所校园的明媚春光"></a></div>
+ <div class="blank20"></div>
+ <ul class="newslist6"><li><a href="http://sh.eastday.com/m/20190324/u1ai12357537.html" target="_blank" class="black14" title="沪交通委:沪牌额度证明超过三年将失效">沪交通委:沪牌额度证明超过三年将失效</a></li><li><a href="http://sh.eastday.com/m/20190324/u1ai12357561.html" target="_blank" class="black14" title="天目路立交将迎大改造:梅园路下匝道&quot;拆一建二&quot;">天目路立交将迎大改造:梅园路下匝道"拆一建二"</a></li><li><a href="http://sh.eastday.com/m/20190324/u1ai12357946.html" target="_blank" class="black14" title="时髦小众又有趣!老佛爷百货上海店试营业">时髦小众又有趣!老佛爷百货上海店试营业</a></li> 
+ </ul>
+ </div>
+ <div class="con1 fr"><div class="lh24"><a href="http://sh.eastday.com/m/20190324/u1ai12357536.html" target="_blank" class="blueb14" title="3月沪牌最低成交价89300元 中标率6%">3月沪牌最低成交价89300元 中标率6%</a></div>
+ <div class="blank10"></div>
+ <div class="fl"><a target="_blank" href="http://sh.eastday.com/m/20190324/u1ai12357536.html"><img border="0" src="/images/thumbnailimg/month_1903/cb5b2ed3-7c4e-46ab-aab8-3ec2014290fe.png" width="313" height="176" alt="3月沪牌最低成交价89300元 中标率6%"></a></div>
+ <div class="blank20"></div>
+ <ul class="newslist6">
+ <li><a href="http://sh.eastday.com/m/20190324/u1ai12357556.html" target="_blank" class="black14" title="顾村公园赏樱迎大客流 染井吉野将进入盛放期">顾村公园赏樱迎大客流 染井吉野将进入盛放期</a></li>
+ <li><a href="http://sh.eastday.com//m/20190324/u1ai12357964.html" target="_blank" class="black14" title="当年的“远东第一高楼”！国际饭店除了蝴蝶酥，还有这些！">当年的“远东第一高楼”！国际饭店除了蝴蝶酥，还有这些！</a></li><li><a href="http://sh.eastday.com//m/20190324/u1ai12357946.html" target="_blank" class="black14" title="时髦小众又有趣！老佛爷百货上海店昨起试营业">时髦小众又有趣！老佛爷百货上海店昨起试营业</a></li> 
+ </ul>
+ </div>
+ <!-- 上海 end -->
+ <div class="blank5"></div>
+ <!-- 政务 begin -->
+ <div class="lm1 lh28 fl"><a href="http://shzw.eastday.com/" target="_blank" class="greyb18" title="政务">
+	 政务</a></div>
+ <div><img src="/images/index2013/b1.gif"></div>
+ <div class="blank15"></div>
+ <ul class="newslist7"><li><a href="http://shzw.eastday.com/shzw/G/20190322/u1ai12355451.html" target="_blank" class="black14" title="市教育大会举行 李强:一流教育成就一流城市">市教育大会举行 李强:一流教育成就一流城市</a></li> 
+<li><a href="http://shzw.eastday.com/shzw/G/20190323/u1ai12355793.html" target="_blank" class="black14" title="沪自贸区&quot;离岸贸易&quot;:首单跨境结算业务诞生">沪自贸区"离岸贸易":首单跨境结算业务诞生</a></li><li><a href="http://sh.eastday.com/m/20190323/u1ai12356367.html" target="_blank" class="black14" title="药企追着问政策 关于创新产品的文件正在制定 ">药企追着问政策 关于创新产品的文件正在制定 </a></li> 
+</ul>
+<ul class="newslist7b"><li><a href="http://shzw.eastday.com/shzw/G/20190322/u1ai12355570.html" target="_blank" class="black14" title="为基层减负 上海市委常委会会议明确22项举措">为基层减负 上海市委常委会会议明确22项举措</a></li> 
+<li><a href="http://sh.eastday.com/m/20190323/u1ai12355783.html" target="_blank" class="black14" title="长三角区域环境气象一体化业务平台已经建成">长三角区域环境气象一体化业务平台已经建成</a></li><li><a href="http://sh.eastday.com/m/20190323/u1ai12355797.html" target="_blank" class="black14" title="上海市河长办：在河道私捕鱼虾 最高罚10万元">上海市河长办：在河道私捕鱼虾 最高罚10万元</a></li> 
+</ul>
+ <div class="blank5"></div>
+ <!-- 区情 begin -->
+ <div class="lm1 lh28 fl"><a href="http://city.eastday.com/" target="_blank" class="greyb18" title="区情">
+	 区情</a></div>
+ <div><img src="/images/index2013/b1.gif"></div>
+ <div class="blank15"></div>
+ <ul class="newslist7">
+<li><a href="http://city.eastday.com/gk/20190323/u1ai12356543.html" target="_blank" class="black14" title="2019金山田野百花节诚邀市民感受乡村魅力">2019金山田野百花节诚邀市民感受乡村魅力</a></li><li><a href="http://city.eastday.com/gk/20190323/u1ai12356497.html" target="_blank" class="black14" title="定期提供法律咨询 浦东优化服务民营企业家">定期提供法律咨询 浦东优化服务民营企业家</a></li><li><a href="http://city.eastday.com/gk/20190322/u1ai12354423.html" target="_blank" class="black14" title="中共静安区委中心组召开学习（扩大）会 ">中共静安区委中心组召开学习（扩大）会 </a></li> 
+</ul>
+<ul class="newslist7b">
+<li><a href="http://city.eastday.com/gk/20190323/u1ai12356503.html" target="_blank" class="black14" title="青浦2035年蓝图如何绘？总体规划获批">青浦2035年蓝图如何绘？总体规划获批</a></li><li><a href="http://city.eastday.com/gk/20190323/u1ai12356427.html" target="_blank" class="black14" title="全市首批 徐汇这个&quot;网红大厅&quot;又添&quot;神器&quot;">全市首批 徐汇这个"网红大厅"又添"神器"</a></li><li><a href="https://city.eastday.com/gk/20190322/u1ai12355098.html" target="_blank" class="black14" title="杨浦区与长三角地区连续9年合作举办招聘会">杨浦区与长三角地区连续9年合作举办招聘会</a></li> 
+</ul>
+ <div class="blank9"></div>
+ <div class="bg2 lh22 fl"><a href="http://www.shpt.gov.cn/" target="_blank" class="grey12" title="普陀">普陀</a><a href="http://www.shyp.gov.cn/" target="_blank" class="grey12" title="杨浦">杨浦</a><a href="http://www.baoshan.sh.cn/bswz_website/HTML/bsmh/portal/index/index.htm" target="_blank" class="grey12" title="宝山">宝山</a><a href="http://jsq.sh.gov.cn/" target="_blank" class="grey12" title="金山">金山</a><a href="http://www.fengxiannet.com/" target="_blank" class="grey12" title="奉贤">奉贤</a></div>
+ <div class="bg2 lh22 fr"><a href="http://qwb.sh.gov.cn/" target="_blank" class="grey12" title="侨务">
+	 侨务</a><a href="http://gov.eastday.com/node799/index.html" target="_blank" class="grey12" title="民主党派">民主党派</a><a href="http://www.justice.gov.cn/" target="_blank" class="grey12" title="司法">司法</a><a href="http://law.eastday.com/" target="_blank" class="grey12" title="法治">法治</a><a href="http://www.shmzj.gov.cn/" target="_blank" class="grey12" title="民政">民政</a><a href="http://shio.eastday.com/" target="_blank" class="grey12" title="新闻办">新闻办</a><a href="http://shbmj.eastday.com/" target="_blank" class="grey12" title="保密局">保密局</a></div>
+ <div class="blank5"></div>
+ <!-- 区情 end -->
+ </div>
+ <!-- 第二部分左栏 end -->
+ <!-- 第二部分右栏 begin -->
+ <div class="right1 fr right1_sh">
+ <!-- 军事 begin -->
+ <div class="lm5 lh24"><a href="http://mil.021east.com/" target="_blank" class="greyb18" title="军事">
+	 军事</a></div>
+ <div class="blank13"></div><div class="lh24"><a href="http://mil.021east.com/m/20190323/u1a14699127.html" target="_blank" class="blueb14" title="">美媒称白宫"默许"售台F16 中方严正交涉</a></div>
+ <div class="blank10"></div>
+ <div class="fl"><a target="_blank" href="http://mil.021east.com/m/20190323/u1a14699127.html"><img border="0" width="147" height="110" src="/images/thumbnailimg/month_1903/2a260876-c5d3-49a8-9d8d-a88be74568ab.jpg" alt=""></a></div>
+ <div class="tx2 grey12 lh22 fl"><a href="http://mil.021east.com/m/20190323/u1a14699127.html" target="_blank" class="grey12" title="">　　据报道，台湾全部拥有142架F-16战机，计划在未来几年完成升级。</a></div>
+ <div class="blank15"></div>
+ <ul class="newslist4">
+<li><a href="http://mil.021east.com/m/20190323/u1a14699124.html" target="_blank" class="grey12" title="俄海军最新型神盾舰将参加中国海军阅舰式">俄海军最新型神盾舰将参加中国海军阅舰式</a></li>
+<li><a href="http://mil.021east.com/m/20190323/u1a14699142.html" target="_blank" class="grey12" title="国防部:美渲染中国威胁不利两军关系发展">国防部:美渲染中国威胁不利两军关系发展</a></li>
+<li><a href="http://mil.021east.com/m/20190323/u1a14699126.html" target="_blank" class="grey12" title="加沙地带两名巴勒斯坦人被以军士兵开枪打死">加沙地带两名巴勒斯坦人被以军士兵开枪打死</a></li>
+<li><a href="http://mil.021east.com/m/20190322/u1a14695775.html" target="_blank" class="grey12" title="美报告:击败中俄急需新战机 B21要288架">美报告:击败中俄急需新战机 B21要288架</a></li>
+<li><a href="http://mil.021east.com/m/20190322/u1a14695780.html" target="_blank" class="grey12" title="美战轰疑挂弹闯俄边境 俄战机升空拦截">美战轰疑挂弹闯俄边境 俄战机升空拦截</a></li>
+<li><a href="http://mil.021east.com/m/20190322/u1a14696372.html" target="_blank" class="grey12" title="太空开发新力量:阿拉伯国家&quot;组团&quot;研制卫星">太空开发新力量:阿拉伯国家"组团"研制卫星</a></li>
+ </ul>
+ <!-- 军事 end -->
+ <div class="blank10"></div>
+ <!-- 直通车 begin -->
+ <div class="lm5 lh24"><a href="http://people.eastday.com/" target="_blank" class="greyb18" title="直通车" style="float:left;">直通车</a><a href="http://sh.eastday.com/m/20170821/u1ai10799571.html" target="_blank" class="greyb16" style="float: right; margin-right: 15px;">“剑网2017”举报</a></div>
+ <div class="blank9"></div>
+ <div class="bg3">
+ <div class="bg4 lh22 blueb12">民生热线：021-60850300 <a href="http://show.eastday.com/info/ztcnew/add.asp" target="_blank" class="blueb12" title="我要投诉">
+	 我要投诉</a></div>
+ <div class="blank9"></div>
+ <div class="pl4"><a href="http://tousu.eastday.com/ztc/ThroughTrain/index/add" target="_blank" class="button1" title="投诉">
+	 投诉</a></div>
+ <div class="blank5"></div>
+ <ul class="newslist9"><li><a href="http://tousu.eastday.com/ztc/ThroughTrain/index/view?id=14111" target="_blank" class="grey12" title="家具存质量问题 商家推诿不退货">家具存质量问题 商家推诿不退货</a></li><li><a href="http://tousu.eastday.com/ztc/ThroughTrain/index/view?id=13913" target="_blank" class="grey12" title="公交终点车站变成了免费社会停车场">公交终点车站变成了免费社会停车场</a></li><li><a href="http://tousu.eastday.com/ztc/ThroughTrain/index/view?id=14084" target="_blank" class="grey12" title="浴场设施损坏未告知消费者">浴场设施损坏未告知消费者</a></li></ul>
+ <div class="blank5"></div>
+ <div class="pl4"><a class="button1">
+	 回复</a></div>
+ <div class="blank5"></div>
+ <ul class="newslist9"><li><a href="http://tousu.eastday.com/ztc/ThroughTrain/index/view?id=1456" target="_blank" class="grey12" title="【宝山】罗店工业小区工厂排放废气">【宝山】罗店工业小区工厂排放废气</a></li><li><a href="http://tousu.eastday.com/ztc/ThroughTrain/index/view?id=8075" target="_blank" class="grey12" title="【崇明】东门路星星私房菜乱排污管理">【崇明】东门路星星私房菜乱排污管理</a></li><li><a href="http://tousu.eastday.com/ztc/ThroughTrain/index/view?id=8094" target="_blank" class="grey12" title="【崇明】老人社会福利回复">【崇明】老人社会福利回复</a></li></ul>
+ </div>
+ <!-- 直通车 end -->
+ </div>
+ <!-- 第二部分右栏 end -->
+ <div class="blank20"></div>
+ <div class="fl"><a href="http://pinglun.eastday.com/" target="_blank"><img src="http://enjoy.eastday.com/images/ad/2018gg/pinglun640.jpg" width="640" height="90"></a></div>
+ <div class="fr"><a href="http://mil.021east.com/" target="_blank"><img src="http://enjoy.eastday.com/images/ad/2018gg/300-2.jpg" width="300" height="90"></a></div>
+ <div class="blank10"></div>
+ <!-- 第三部分左栏 begin -->
+ <div class="left1 fl">
+ <!-- 中国 begin -->
+ <div class="lm1 lh28 fl"><a href="http://china.eastday.com/" target="_blank" class="greyb18" title="中国">
+	 中国</a></div>
+ <div><img src="/images/index2013/b1.gif"></div>
+ <div class="blank13"></div>
+ <div class="con1 fl">
+ <div id="chinapic1"></div>
+ <div class="blank10"></div>
+ <div class="lh24" style="min-height:44px" id="chinatitle1"></div>
+ <ul class="newslist6" id="chinalist1"></ul>
+ </div>
+ <div class="con1 fr"> 
+ <div id="chinapic2"></div>
+ <div class="blank10"></div>
+ <div class="lh24" style="height:44px" id="chinatitle2"></div>
+ <ul class="newslist6" id="chinalist2"></ul>
+ </div>
+ <script type="text/javascript" src="http://news.eastday.com/images/china20180612/index_chinajsonp20180629.js"></script>
+ <!-- 中国 end -->
+ <div class="blank15"></div>
+ <!-- 国际 begin -->
+ <div class="con1 fl">
+ <div class="lm1 lh28 fl"><a href="http://world.eastday.com/" target="_blank" class="greyb18" title="国际">
+	 国际</a></div>
+ <div><img src="/images/index2013/b1.gif"></div>
+ <div class="blank13"></div>
+ <div class="con1 fl">
+ <div id="worldpic1"></div>
+ <div class="blank10"></div>
+ <div class="lh24" style="height:44px" id="worldtitle1"></div>
+ <ul class="newslist6" id="worldlist1"></ul>
+ </div>
+ </div>
+ <script type="text/javascript" src="http://news.eastday.com/images/world20180614/index_worldjsonp20180629.js"></script>
+ <!-- 国际 end -->
+ <!-- 历史 begin -->
+ <div class="con1 fr">
+ <div class="lm1 lh28 fl"><a href="http://history.eastday.com/" target="_blank" class="greyb18" title="历史">
+	 历史</a></div>
+ <div><img src="/images/index2013/b1.gif"></div>
+ <div class="blank13"></div>
+ <div class="con1 fl">
+ <div><a target="_blank" href="http://history.eastday.com/h/20190322/u1a14695817.html"><img border="0" width="313" height="176" src="/images/thumbnailimg/month_1903/0095f6d1-8d43-48e6-ade3-59ffb7769776.png" alt="古人怎么阅读？古文有标点符号吗？"></a></div>
+<div class="blank10"></div>
+<div class="lh24" style="height:44px"><a href="http://history.eastday.com/h/20190322/u1a14695817.html" target="_blank" class="blueb14" title="古人怎么阅读？古文有标点符号吗？">古人怎么阅读？古文有标点符号吗？</a></div>
+
+ <ul class="newslist6"><li><a href="http://history.eastday.com/h/20190322/u1a14695815.html" target="_blank" class="black14">苏联“共产公妻”的谣言是如何产生的？</a></li><li><a href="http://history.eastday.com/h/20190322/u1a14695820.html" target="_blank" class="black14">袁崇焕的“关宁铁骑”是怎么垮掉的？</a></li><li><a href="http://history.eastday.com/h/20190322/u1a14695818.html" target="_blank" class="black14">谁是汉高祖刘邦心中的“男神”？</a></li>
+ </ul>
+ </div>
+ </div>
+ <!-- 历史 end -->
+ <div class="blank18"></div>
+ <!-- 娱乐 begin -->
+ <div class="lm1 lh28 fl"><a href="http://enjoy.eastday.com/" target="_blank" class="greyb18">
+	 娱乐</a></div>
+ <div><img src="/images/index2013/b1.gif"></div>
+ <div class="blank13"></div>
+ <div class="con1 fl"><div><a target="_blank" href="http://enjoy.eastday.com/e/20190322/u1ai12353394.html"><img border="0" width="313" height="176" src="/images/thumbnailimg/month_1903/b2829c17-3020-414d-9f25-1bf324179cf3.jpg" alt="林俊杰是怎么红起来的？帮你理一理"></a></div>
+ <div class="blank10"></div>
+ <div class="lh24 enjoyTitle" style="height:44px"><a href="http://enjoy.eastday.com/e/20190322/u1ai12353394.html" target="_blank" class="blueb14" title="林俊杰是怎么红起来的？帮你理一理">林俊杰是怎么红起来的？帮你理一理</a></div>
+ 
+ <ul class="newslist6"><li><a href="http://enjoy.eastday.com/e/20190322/u1ai12353382.html" target="_blank" class="black14" title="《中国机长》：让全世界知道中国人了不起">《中国机长》：让全世界知道中国人了不起</a></li><li><a href="http://enjoy.eastday.com/e/20190322/u1ai12353391.html" target="_blank" class="black14" title="《好莱坞往事》首曝预告 “李小龙”对打皮特">《好莱坞往事》首曝预告 “李小龙”对打皮特</a></li><li><a href="http://enjoy.eastday.com/e/20190322/u1ai12353393.html" target="_blank" class="black14" title="王小帅用胶片记录下地久天长的模样">王小帅用胶片记录下地久天长的模样</a></li>
+ </ul>
+ </div>
+ <div class="con1 fr"><div><a target="_blank" href="http://enjoy.eastday.com/e/20190322/u1ai12353386.html"><img border="0" width="313" height="176" src="/images/thumbnailimg/month_1903/c8d4378c-09c3-4430-99ca-0f63859048fc.jpg" alt="蔡国庆：认认真真地唱好每一首歌"></a></div>
+ <div class="blank10"></div>
+ <div class="lh22 enjoyTitle" style="height:44px"><a href="http://enjoy.eastday.com/e/20190322/u1ai12353386.html" target="_blank" class="blueb14" title="蔡国庆：认认真真地唱好每一首歌">蔡国庆：认认真真地唱好每一首歌</a></div>
+ 
+ <ul class="newslist6"><li><a href="http://enjoy.eastday.com/e/20190322/u1ai12353397.html" target="_blank" class="black14" title="《中国1949·香山之春》再现新中国诞生之路">《中国1949·香山之春》再现新中国诞生之路</a></li><li><a href="http://enjoy.eastday.com/e/20190322/u1ai12353398.html" target="_blank" class="black14" title="董卿倪萍联袂配音《声临其境2》 ">董卿倪萍联袂配音《声临其境2》 </a></li><li><a href="http://enjoy.eastday.com/e/20190322/u1ai12353571.html" target="_blank" class="black14" title="《阳台上》：用胶片电影关注小人物内心迷茫">《阳台上》：用胶片电影关注小人物内心迷茫</a></li>
+ </ul>
+ </div>
+ <!-- 娱乐 end -->
+ <div class="blank15"></div>
+ <!-- 社会 begin -->
+ <div class="con1 fl">
+ <div class="lm1 lh28 fl"><a href="http://society.eastday.com/" target="_blank" class="greyb18" title="社会">
+	 社会</a></div>
+ <div><img src="/images/index2013/b1.gif"></div>
+ <div class="blank13"></div>
+ <div class="con1 fl">
+ <div id="societypic1"></div>
+ <div class="blank10"></div>
+ <div class="lh24" style="height:44px" id="societytitle1"></div>
+ <ul class="newslist6" id="societylist1"></ul>
+ </div>
+ </div>
+  <script type="text/javascript" src="http://news.eastday.com/images/society20180607/index_societyjsonp20180629.js"></script>
+ <!-- 社会 end -->
+ <!-- 政法 begin -->
+ <div class="con1 fr">
+ <div class="lm1 lh28 fl"><a href="http://www.shzfzz.net/" target="_blank" class="greyb18" title="政法">
+	 政法</a></div>
+ <div><img src="/images/index2013/b1.gif"></div>
+ <div class="blank13"></div>
+ <div class="con1 fl">
+<div><a target="_blank" href="http://www.shzfzz.net/node2/zzb/shzfzz2013/tt/u1ai1428475.html"><img border="0" width="313" height="176" src="http://www.shzfzz.net//images/thumbnailimg/month_1903/201903221018415294.jpg" title="中华遗嘱库:上海哪些人在立遗嘱？" <="" a=""></a></div><a target="_blank" href="http://www.shzfzz.net/node2/zzb/shzfzz2013/tt/u1ai1428475.html">
+<div class="blank10"></div>
+</a><div class="lh24" style="height:44px"><a target="_blank" href="http://www.shzfzz.net/node2/zzb/shzfzz2013/tt/u1ai1428475.html"></a><a href="http://www.shzfzz.net/node2/zzb/shzfzz2013/tt/u1ai1428475.html" target="_blank" class="blueb14">中华遗嘱库:上海哪些人在立遗嘱？</a></div>
+<ul class="newslist6">
+<li><a href="http://www.shzfzz.net/node2/zzb/shzfzz2013/yw/u1ai1428432.html" target="_blank" class="black14">上海地铁2号线爆炸？官方辟谣:接触网跳闸</a></li><li><a href="http://www.shzfzz.net/node2/zzb/shzfzz2013/yw/u1ai1428452.html" target="_blank" class="black14">两部门:着力建立学校食品安全风险防控体系</a></li><li><a href="http://www.shzfzz.net/node2/zzb/shzfzz2013/yw/u1ai1428467.html" target="_blank" class="black14">沪警方:严打入室盗窃 无论案值大小都要追赃</a></li>   
+</ul>
+</div>
+
+
+
+ </div>
+ <!-- 政法 end -->
+ <div class="blank15"></div>
+ <!-- 体育 begin -->
+ <div class="con1 fl">
+ <div class="lm1 lh28 fl"><a href="http://sports.eastday.com/" target="_blank" class="greyb18" title="体育">
+	 体育</a></div>
+ <div><img src="/images/index2013/b1.gif"></div>
+ <div class="blank13"></div><div><a target="_blank" href="http://sports.eastday.com/"><img border="0" width="313" height="176" src="//imgsports.eastday.com/res/upload/img/2018-07-23/5b556e0b523be.jpg" alt="厄齐尔：这样的德国不值得我效力"></a></div>
+ <div class="blank10"></div>
+ <div class="lh24" style="height:44px"><a href="http://sports.eastday.com/" target="_blank" class="blueb14" title="厄齐尔：这样的德国不值得我效力">厄齐尔：这样的德国不值得我效力</a></div>
+ 
+ <ul class="newslist6"><li><a href="https://sports.eastday.com/a/180722213508261000000.html" target="_blank" class="black14" title="甩恒大7分！国安15场不败冲击双冠王">甩恒大7分！国安15场不败冲击双冠王</a></li>
+<li><a href="https://sports.eastday.com/a/180722233639411000000.html" target="_blank" class="black14" title="筹码随便挑？湖人报价28+11超巨">筹码随便挑？湖人报价28+11超巨</a></li><li><a href="https://sports.eastday.com/a/180723003826441000000.html" target="_blank" class="black14" title="深度：甜瓜加盟火箭真能抗衡勇士？">深度：甜瓜加盟火箭真能抗衡勇士？</a></li>
+ </ul>
+ </div>
+ <!-- 体育 end -->
+ <!-- 财经 begin -->
+ <div class="con1 fr">
+ <div class="lm1 lh28 fl"><a href="http://finance.eastday.com/" target="_blank" class="greyb18" title="财经">
+	 财经</a></div>
+ <div><img src="/images/index2013/b1.gif"></div>
+<div class="blank13"></div>
+ <div class="con1 fl">
+ <div id="financepic1"></div>
+ <div class="blank10"></div>
+ <div class="lh24" style="height:44px" id="financetitle1"></div>
+ <ul class="newslist6" id="financelist1"></ul>
+ </div>
+ </div>
+  <script type="text/javascript" src="http://news.eastday.com/images/finance20180611/index_financejsonp20180629.js"></script>
+ <!-- 财经 end -->
+ </div>
+ <!-- 第三部分左栏 end -->
+ <!-- 第三部分右栏 begin -->
+ <div class="right1 fr">
+  <!-- 教育 begin -->
+ <div class="lm3 lh24"><a href="http://edu.eastday.com/" target="_blank" class="greyb18" title="教育">教育</a></div>
+ <div class="blank13"></div><div class="lh24"><a href="http://edu.eastday.com//node2/jypd/n5/20190323/u1ai22116.html" target="_blank" class="blueb14" title="东方网与上海博物馆签署战略合作协议">东方网与上海博物馆签署战略合作协议</a></div>
+ <div class="blank10"></div>
+ <div class="fl"><a target="_blank" href="http://edu.eastday.com//node2/jypd/n5/20190323/u1ai22116.html"><img border="0" width="147" height="110" src="/images/thumbnailimg/month_1903/e9bad30c-53f4-4e2d-82c8-69259d070f4f.jpg" alt="东方网与上海博物馆签署战略合作协议"></a></div>
+ <div class="tx2 grey12 lh22 fl"><a href="http://edu.eastday.com//node2/jypd/n5/20190323/u1ai22116.html" target="_blank" class="grey12" title="东方网与上海博物馆签署战略合作协议">　　3月22日下午，东方网与上海博物馆共同签署战略合作协议。</a></div>
+ <div class="blank15"></div>
+ <ul class="newslist9">
+<li><a href="http://edu.eastday.com//node2/jypd/n5/20190323/u1ai22106.html" target="_blank" class="grey12" title="上海电力大学师生深入学习总书记重要讲话精神">上海电力大学师生深入学习总书记重要讲话精神</a></li>
+<li><a href="http://edu.eastday.com//node2/jypd/n5/20190323/u1ai22105.html" target="_blank" class="grey12" title="上海支援西藏教育 建成“1+5+x”远程教育平台">上海支援西藏教育 建成“1+5+x”远程教育平台</a></li>
+<li><a href="http://edu.eastday.com//node2/jypd/n5/20190323/u1ai22103.html" target="_blank" class="grey12" title="沪高校拿下国家科技大奖占全市六成 创十年新高">沪高校拿下国家科技大奖占全市六成 创十年新高</a></li>
+<li><a href="http://edu.eastday.com//node2/jypd/n5/20190323/u1ai22102.html" target="_blank" class="grey12" title="沪上高校推出特色青团 满满的春天味道！">沪上高校推出特色青团 满满的春天味道！</a></li>
+<li><a href="http://edu.eastday.com//node2/jypd/n5/20190323/u1ai22112.html" target="_blank" class="grey12" title="教育部优化服务 教师资格认定等程序拟简化">教育部优化服务 教师资格认定等程序拟简化</a></li>
+<li><a href="http://edu.eastday.com//node2/jypd/n5/20190323/u1ai22111.html" target="_blank" class="grey12" title="为世界大学生体育运动贡献“中国力量”">为世界大学生体育运动贡献“中国力量”</a></li>
+ </ul>
+ <!-- 教育 end -->
+ <div class="blank13"></div>
+ <!-- 导报 begin -->
+ <div class="lm3 lh24 greyb18"><!--<a href="http://citynews.eastday.com/" target="_blank" class="greyb18" title="导报">-->
+	 导报<!--</a>--></div>
+ <div class="blank18"></div>
+ 
+ <div class="fc"><a target="_blank" href="http://citynews.eastday.com/"><img border="0" width="200" height="296" src="/images/thumbnailimg/month_1903/2b735700-df44-4d7d-9552-8a21e497e40e.jpg" alt="不要再新建了 直接替换图片"></a></div>
+ <!-- 导报 end -->
+ <div class="blank20"></div>
+<!-- 健康 begin -->
+ <div class="lm3 lh24"><a href="http://health.eastday.com/" target="_blank" class="greyb18 fl" title="健康">
+	 健康</a><div class="fr" style="padding:0 6px 0 0;overflow:hidden;margin-top:-4px;"><a href="http://www.91985.com" target="_blank" class="greyb18" title="免费预约挂号">
+	 <img src="http://sh.eastday.com/images/2013index/zyw.jpg"></a></div></div>
+ <div class="blank13"></div>
+ <div class="lh24"><a href="http://health.eastday.com/health/n6/n8/n17/u1ai36598.html" target="_blank" class="blueb14" title="健康睡眠，益智护脑">健康睡眠，益智护脑</a></div>
+<div class="blank10"></div>
+<div class="fl"><a target="_blank" href="http://health.eastday.com/health/n6/n8/n17/u1ai36598.html"><img width="147" height="110" src="http://health1.eastday.com//images/thumbnailimg/month_1903/20190322110320884.jpg" title="健康睡眠，益智护脑"></a></div>
+<div class="tx2 grey12 lh22 fl"><a href="http://health.eastday.com/health/n6/n8/n17/u1ai36598.html" target="_blank" class="grey12" title="健康睡眠，益智护脑">充足的睡眠、均衡的饮食和适当的运动，已成为国际社会公认的三项健康标准。</a></div>
+<div class="blank15"></div>
+<ul class="newslist9">
+ <li><a href="http://health.eastday.com/health/n6/n8/n17/u1ai36599.html" target="_blank" class="grey12" title="春不露脐">春不露脐</a></li>
+ <li><a href="http://health.eastday.com/health/n6/n8/n17/u1ai36597.html" target="_blank" class="grey12" title="每天两杯高糖饮料  女性早死风险增六成">每天两杯高糖饮料  女性早死风险增六成</a></li>
+ <li><a href="http://health.eastday.com/health/n6/n8/n17/u1ai36596.html" target="_blank" class="grey12" title="吃蘑菇可降低患认知障碍风险">吃蘑菇可降低患认知障碍风险</a></li>
+ <li><a href="http://health.eastday.com/health/n6/n8/n17/u1ai36595.html" target="_blank" class="grey12" title="果汁不能代替水果蔬菜">果汁不能代替水果蔬菜</a></li>
+ <li><a href="http://health.eastday.com/health/n6/n8/n17/u1ai36584.html" target="_blank" class="grey12" title="疲劳头晕可能是脱水了">疲劳头晕可能是脱水了</a></li>
+ <li><a href="http://health.eastday.com/health/n6/n8/n17/u1ai36583.html" target="_blank" class="grey12" title="早上空腹喝柠檬水对身体好？专家给你两个建议">早上空腹喝柠檬水对身体好？专家给你两个建议</a></li>
+</ul>
+ <!-- 健康 end -->
+ <div class="blank13"></div>
+ <!-- 文创 begin -->
+ <div class="lm4 lh24"><p class="lh24 fl"><span class="menuon1" id="gs_0" onmouseover="Menu(0,'gs','menuon1','menuoff1')"><a href="http://www.sh-artshow.cn/" target="_blank" class="greyb18" title="艺展">
+	 艺展</a></span></p><p class="lh24 fl"><span class="menuoff1" id="gs_1" onmouseover="Menu(1,'gs','menuon1','menuoff1')"><a href="http://shcci.eastday.com/" target="_blank" class="greyb18" title="文创">
+	 文创</a></span></p></div>
+ <div class="blank13"></div><div id="gs_con_1" style="display:none;"><div class="lh24"><a href="http://shcci.eastday.com/eastday/shcci/c/n1165390/u1ai12343525.html" target="_blank" class="blueb14" title="盐城“接轨上海” 全面提升城市能级">盐城“接轨上海” 全面提升城市能级</a></div>
+ <div class="blank10"></div>
+ <div class="fl"><a target="_blank" href="http://shcci.eastday.com/eastday/shcci/c/n1165390/u1ai12343525.html"><img border="0" src="/images/thumbnailimg/month_1903/ce3b76b7-b808-4828-9f18-281b33ce53ed.png" width="147" height="110" alt="盐城“接轨上海” 全面提升城市能级"></a></div>
+ <div class="tx2 grey12 lh22 fl"><a href="http://shcci.eastday.com/eastday/shcci/c/n1165390/u1ai12343525.html" target="_blank" class="grey12 lh22">　　盐城近日在沪举办“对接服务上海招商周”系列活动，旨在打造长三角北翼经济发展新高地。</a></div>
+ <div class="blank15"></div>
+ <ul class="newslist9"><li><a href="http://shcci.eastday.com/eastday/shcci/c/20190121/u1ai12184866.html" target="_blank" class="grey12" title="昔日国手华丽转身教棋育人">昔日国手华丽转身教棋育人</a></li><li><a href="http://shcci.eastday.com/eastday/shcci/c/20190312/u1ai12325268.html" target="_blank" class="grey12" title="传嘉e课堂“衣食住行”系列：海派西餐">传嘉e课堂“衣食住行”系列：海派西餐</a></li><li><a href="http://shcci.eastday.com/eastday/shcci/c/20190108/u1ai12147179.html" target="_blank" class="grey12" title="2019历博杯上海市黄浦区“我身边的历史建筑”摄影大赛今日正式征稿">2019历博杯上海市黄浦区“我身边的历史建筑”摄影大赛今日正式征稿</a></li><li><a href="http://shcci.eastday.com/eastday/shcci/c/20181214/u1ai12075336.html" target="_blank" class="grey12" title="以“创+”为名的美好相遇">以“创+”为名的美好相遇</a></li><li><a href="http://shcci.eastday.com/eastday/shcci/c/20181110/u1ai11977366.html" target="_blank" class="grey12" title="中美新一代数字电视产业对接峰会在上海举行">中美新一代数字电视产业对接峰会在上海举行</a></li><li><a href="http://shcci.eastday.com/eastday/shcci/c/20181107/u1ai11966611.html" target="_blank" class="grey12" title="化妆刷垒砌特色产业高地 鹿邑惊艳“刷博会”">化妆刷垒砌特色产业高地 鹿邑惊艳“刷博会”</a></li>
+ </ul></div>
+<div id="gs_con_0" style="display:block;"><div class="lh24"><a href="http://artshow.eastday.com/eastday/sh-artshow/mdyx/node740364/u1ai12013746.html" target="_blank" class="blueb14" title="上海玻璃博物馆与艺术对话">上海玻璃博物馆与艺术对话</a></div>
+ <div class="blank10"></div>
+ <div class="fl"><a target="_blank" href="http://artshow.eastday.com/eastday/sh-artshow/mdyx/node740364/u1ai12013746.html"><img border="0" src="/images/thumbnailimg/month_1811/9a840d16-9783-4672-8574-75d0fa6f2402.jpg" width="147" height="110" alt="上海玻璃博物馆与艺术对话"></a></div>
+ <div class="tx2 grey12 lh22 fl"><a href="http://artshow.eastday.com/eastday/sh-artshow/mdyx/node740364/u1ai12013746.html" target="_blank" class="grey12 lh22">　　以破碎BRKN展览，将作品和音乐编织在一起，策展人迪尔曼·图蒙，探索玻璃“破碎”在我们周遭世界多样且多变的内涵。</a></div>
+ <div class="blank15"></div>
+ <ul class="newslist9"><li><a href="http://artshow.eastday.com/eastday/sh-artshow/mdyx/node740364/u1ai12321107.html" target="_blank" class="grey12" title="神奇动物在哪里——2019年奇迹花园艺术花展之春趣嘉年华奇趣启幕">神奇动物在哪里——2019年奇迹花园艺术花展之春趣嘉年华奇趣启幕</a></li><li><a href="http://artshow.eastday.com/eastday/sh-artshow/mdyx/node740364/u1ai12109534.html" target="_blank" class="grey12" title="东方网文化活动中心迎书法展">东方网文化活动中心迎书法展</a></li><li><a href="http://artshow.eastday.com/eastday/sh-artshow/mdyx/node740364/u1ai12108807.html" target="_blank" class="grey12" title="2018年“欢图”学员少儿绘画作品成果展即将举办">2018年“欢图”学员少儿绘画作品成果展即将举办</a></li><li><a href="http://artshow.eastday.com/eastday/sh-artshow/mdyx/node740364/u1ai12075513.html" target="_blank" class="grey12" title="烈火冰心·永恒玻璃探索——朱丽叶·勒彼里耶法国玻璃现代诗人亚洲个展亮相上海">烈火冰心·永恒玻璃探索——朱丽叶·勒彼里耶法国玻璃现代诗人亚洲个展亮相上海</a></li><li><a href="http://artshow.eastday.com/eastday/sh-artshow/mdyx/node740364/u1ai12026417.html" target="_blank" class="grey12" title="光影的温度——记孙家珮的绘画">光影的温度——记孙家珮的绘画</a></li><li><a href="http://artshow.eastday.com/eastday/sh-artshow/mdyx/node740364/u1ai11908951.html" target="_blank" class="grey12" title="上海评弹团演员陆锦花荣获中国曲艺“奥斯卡”——牡丹奖">上海评弹团演员陆锦花荣获中国曲艺“奥斯卡”——牡丹奖</a></li>
+ </ul></div>
+ <!-- 文创 end -->
+ <div class="blank15"></div>
+ <!-- 文学 begin -->
+ <div class="lm4 lh24"><p class="lh24 fl"><a href="http://www.shshjs.gov.cn/" class="menuon1" id="dfpw_0" onmouseover="Menu(0,'dfpw','menuon1','menuoff1')" title="社会建设">
+	 社会建设</a></p>
+ <p class="lh24 fl"><a href="http://shfda.eastday.com/" class="menuoff1" id="dfpw_1" onmouseover="Menu(1,'dfpw','menuon1','menuoff1')" title="食药安全">
+ 食药安全</a></p></div>
+ <div class="blank13"></div>
+<div id="dfpw_con_0" style="display:block;">
+ <div class="pic1 fl"><p><a target="_blank" href="http://www.shshjs.gov.cn/shjs/node6/node31/u1ai119996.html"><img border="0" src="/images/thumbnailimg/month_1901/996197ef-3f4d-4e6c-a94d-b1a1183606a2.jpg" width="147" height="110" alt="虹口提升养老服务"></a></p>
+ <p class="blank9"></p>
+ <p class="lh24 fc"><a href="http://www.shshjs.gov.cn/shjs/node6/node31/u1ai119996.html" target="_blank" class="blueb14" title="虹口提升养老服务">虹口提升养老服务</a></p>
+ </div>
+ <ul class="newslist10 fr"><li><a href="http://www.shshjs.gov.cn/shjs/node9/u1ai120415.html" target="_blank" class="grey12" title="上海推进农村生活污水处理设施建设">上海推进农村生活污水处理设施建设</a></li><li><a href="http://www.shshjs.gov.cn/shjs/node9/u1ai120413.html" target="_blank" class="grey12" title="天目路立交将“大变身”">天目路立交将“大变身”</a></li><li><a href="http://www.shshjs.gov.cn/shjs/node9/u1ai120402.html" target="_blank" class="grey12" title="将独特优势转化为生动实践">将独特优势转化为生动实践</a></li>
+ </ul>
+</div>
+<div id="dfpw_con_1" style="display:none;">
+ <div class="pic1 fl"><p><a target="_blank" href="http://shfda.eastday.com/eastday/n952776/n953193/u1a14693491.html"><img border="0" src="/images/thumbnailimg/month_1903/b1e3c222-b0de-4789-a6cf-70f64870fb45.jpg" width="147" height="110" alt="上海食品药品治理"></a></p>
+ <p class="blank9"></p>
+ <p class="lh24 fc"><a href="http://shfda.eastday.com/eastday/n952776/n953193/u1a14693491.html" target="_blank" class="blueb14" title="上海食品药品治理">上海食品药品治理</a></p>
+ </div>
+ <ul class="newslist10 fr"><li><a href="http://shfda.eastday.com/eastday/n952776/n953193/u1a14693499.html" target="_blank" class="grey12" title="周黑鸭门店被曝卖“过期鸭”">周黑鸭门店被曝卖“过期鸭”</a></li><li><a href="http://shfda.eastday.com/eastday/n952776/n953193/u1a14690284.html" target="_blank" class="grey12" title="外婆家总部回应上海分店后厨发现了老鼠">外婆家总部回应上海分店后厨发现了老鼠</a></li><li><a href="http://shfda.eastday.com/eastday/n952776/n953193/u1a14687322.html" target="_blank" class="grey12" title="上海一“外婆家”后厨惊现活蹦乱跳的老鼠">上海一“外婆家”后厨惊现活蹦乱跳的老鼠</a></li>
+ </ul>
+</div>
+ <!-- 文学 end -->
+ <div class="blank13"></div>
+ <!-- 商务信息 begin -->
+ <div class="lm4 lh24">
+<p class="lh24 fl"><span class="menuon1" id="qqs_0" onmouseover="Menu(0,'qqs','menuon1','menuoff1')" title="信息">
+信息</span></p>
+ <p class="lh24 fl"><span class="menuoff1" id="qqs_1" onmouseover="Menu(1,'qqs','menuon1','menuoff1')" title="商务">
+ 商务</span></p>
+</div>
+ <div class="blank13"></div>
+ <ul class="newslist9" id="qqs_con_0" style="display:block;"><li><a href="http://life.eastday.com/eastday/dfsh/node632263/u1ai11557818.html" target="_blank" class="grey12" title="“快”时代 天天快递却为学子送出一年前的信">“快”时代 天天快递却为学子送出一年前的信</a></li><li><a href="http://life.eastday.com/eastday/dfsh/node632263/u1ai11557816.html" target="_blank" class="grey12" title="张近东携手周海江捐资1亿助力脱贫攻坚">张近东携手周海江捐资1亿助力脱贫攻坚</a></li><li><a href="http://life.eastday.com/eastday/dfsh/node632263/u1ai11557802.html" target="_blank" class="grey12" title="张近东联袂周海江捐资江苏精准扶贫基金">张近东联袂周海江捐资江苏精准扶贫基金</a></li><li><a href="http://life.eastday.com/eastday/dfsh/node632263/u1ai11557781.html" target="_blank" class="grey12" title="苏宁联手恒大合加速落地苏宁易购广场">苏宁联手恒大合加速落地苏宁易购广场</a></li> 
+ </ul>
+<ul class="newslist9" id="qqs_con_1" style="display:none;"><li><a href="http://life.eastday.com/eastday/dfsh/node632263/u1ai10822948.html" target="_blank" class="grey12" title="橙天地2017上海商业年会惊艳首秀！">橙天地2017上海商业年会惊艳首秀！</a></li><li><a href="http://life.eastday.com/eastday/dfsh/node632263/u1ai10822167.html" target="_blank" class="grey12" title="蒙牛上半年持续保持高增长利润稳步提升">蒙牛上半年持续保持高增长利润稳步提升</a></li><li><a href="http://life.eastday.com/eastday/dfsh/node632263/u1ai10815164.html" target="_blank" class="grey12" title="恒大重磅打造“恒大童世界”">恒大重磅打造“恒大童世界”</a></li><li><a href="http://life.eastday.com/eastday/dfsh/node632263/u1ai10814683.html" target="_blank" class="grey12" title="兴业银行上海分行“兴航程”合规内控提升年活动亮点纷呈">兴业银行上海分行“兴航程”合规内控提升年活动亮点纷呈</a></li> 
+ </ul>
+ <!-- 商务信息 end -->
+ </div>
+ <!-- 第三部分右栏 end -->
+ <div class="blank20"></div>
+ <div class="fl"><a href="http://history.eastday.com/" target="_blank"><img src="http://enjoy.eastday.com/images/ad/2018gg/640-4.jpg" width="640" height="90"></a></div>
+ <div class="fr"><a href="http://www.sh.com.cn/" target="_blank"><img src="http://enjoy.eastday.com/images/ad/2018gg/300-3.jpg" width="300" height="90"></a></div>
+ <div class="blank10"></div>
+ <!-- 第四部分左栏 begin -->
+ <div class="left1 fl">
+ <!-- 在上海 begin -->
+ <div class="lm1 lh28 fl"><span class="greyb18">网上商城</span></div>
+ <div class="zsh fl">
+ <p class="fl"></p>
+ <p class="grey12 fl lh20">旗下品牌:<a href="http://www.sh.com.cn/" target="_blank" class="grey12" title="东方购">东方购</a></p>
+ </div>
+ <div><img src="/images/index2013/b11.gif"></div>
+ <div class="blank13"></div>
+ <div class="con1 fl"><div class="lh24"><a href="https://xiongmao.tmall.com/campaign-3745-7.htm?spm=a1z10.1-b.w5001-11182921126.5.E2SzzA&amp;scene=taobao_shop" target="_blank" class="blueb14" title="熊猫电线-专注家装用线70年">熊猫电线-专注家装用线70年</a></div>
+ <div class="blank10"></div>
+ <div class="fl"><a target="_blank" href="https://xiongmao.tmall.com/campaign-3745-7.htm?spm=a1z10.1-b.w5001-11182921126.5.E2SzzA&amp;scene=taobao_shop"><img border="0" src="/images/thumbnailimg/month_1901/44ffef1d-1ac7-4596-bba3-c3548c7ca309.jpg" width="147" height="110" alt="熊猫电线-专注家装用线70年"></a></div>
+ <div class="tx1 grey12 lh22 fr"><a href="https://xiongmao.tmall.com/campaign-3745-7.htm?spm=a1z10.1-b.w5001-11182921126.5.E2SzzA&amp;scene=taobao_shop" target="_blank" class="grey12 lh22">&nbsp;&nbsp;&nbsp; 熊猫电线官方旗舰店是上海熊猫线缆股份有限公司开设的官方网络旗舰店，正品保证，全场包邮，满额送赠品.</a></div>
+ <div class="blank20"></div>
+ <ul class="newslist6"><li><a href="https://xiongmao.tmall.com/" target="_blank" class="black14" title="熊猫电线天猫官方旗舰店 官方指定销售">熊猫电线天猫官方旗舰店 官方指定销售</a></li><li><a href=" https://detail.tmall.com/item.htm?id=533837785421" target="_blank" class="black14" title="老上海豫园特色 小林煎饼">老上海豫园特色 小林煎饼</a></li><li><a href="https://yingtaoqiulingjiuzhuang.tmall.com" target="_blank" class="black14" title="AC米兰红酒 为胜利举杯 ">AC米兰红酒 为胜利举杯 </a></li><li><a href="https://mall.jd.com/index-71750.html" target="_blank" class="black14" title="京东上海馆 尽享申城风情">京东上海馆 尽享申城风情</a></li> 
+ </ul>
+ </div>
+ <div class="con1 fr"><div class="lh24"><a href="http://overseas.eastday.com/hwzx/learnshow/index.html" target="_blank" class="blueb14" title="首届青少年综合素质展示活动报名开启">首届青少年综合素质展示活动报名开启</a></div>
+ <div class="blank10"></div>
+ <div class="fl"><a target="_blank" href="http://overseas.eastday.com/hwzx/learnshow/index.html"><img border="0" src="/images/thumbnailimg/month_1902/2292c099-a809-4ebf-954d-ee552bf74e1d.jpg" width="147" height="110" alt="首届青少年综合素质展示活动报名开启"></a></div>
+ <div class="tx1 grey12 lh22 fr"><a href="http://overseas.eastday.com/hwzx/learnshow/index.html" target="_blank" class="grey12 lh22">&nbsp;&nbsp;&nbsp; 即日起，“中国梦·世界梦·华侨梦——把心中的故事告诉全世界 Learn &amp; Show 青少年综合素养展示活动”报名正式在沪启动。</a></div>
+ <div class="blank20"></div>
+ <ul class="newslist6"><li><a href="http://sh.eastday.com/m/20190218/u1ai12257242.html " target="_blank" class="black14" title="“上海文化周”在巴拿马演绎海派年味 ">“上海文化周”在巴拿马演绎海派年味 </a></li><li><a href="http://listen.021east.com/node2/node3/n361/u1ai1867418_t92.html?type=1" target="_blank" class="black14" title="第38届美国华人工商大展圆满落幕">第38届美国华人工商大展圆满落幕</a></li><li><a href="http://yidaiyilu.eastday.com/zt/yidaiyilu/mypt/u1ai173564.html" target="_blank" class="black14" title="2018年上海美食组团进军洛杉矶华商展">2018年上海美食组团进军洛杉矶华商展</a></li><li><a href="http://happychunjie.eastday.com/site/introduction" target="_blank" class="black14" title="【展会介绍】关于华人工商大展">【展会介绍】关于华人工商大展</a></li> 
+ </ul>
+ </div>
+ <div class="blank20"></div>
+
+ <!-- 在上海 end -->
+ </div>
+
+ <!-- 第四部分左栏 end -->
+ <!-- 第四部分右栏 begin -->
+ <div class="right1 fr">
+ <!-- 汽车 begin -->
+ <div class="lm3 lh24"><a href="http://auto.eastday.com/" target="_blank" class="greyb18" title="汽车">汽车</a></div>
+ <div class="blank13"></div><div class="lh24"><a href="http://auto.eastday.com/a/190315172105097.html" target="_blank" class="blueb14" title="空间表现强势 实拍全新上汽大通G50">空间表现强势 实拍全新上汽大通G50</a></div>
+ <div class="blank10"></div>
+ <div class="fl"><a target="_blank" href="http://auto.eastday.com/a/190315172105097.html"><img border="0" src="/images/thumbnailimg/month_1903/6759d43a-b900-4688-ba88-70c7336e70cc.JPG" width="147" height="110" alt="空间表现强势 实拍全新上汽大通G50"></a></div>
+ <div class="tx2 grey12 lh22 fl"><a href="http://auto.eastday.com/a/190315172105097.html" target="_blank" class="grey12 lh22">　　作为上汽大通的第二款MPV车型，配置全面，空间出众，售价也贴近年轻家庭的经济承受能力。</a></div>
+ <div class="blank20"></div>
+ <ul class="newslist9"><li><a href="http://auto.eastday.com/a/190318210416977.html" target="_blank" class="grey12" title="申城小SUV市场调研 惊现冰火两重天">申城小SUV市场调研 惊现冰火两重天</a></li><li><a href="http://auto.eastday.com/a/190315104350176.html" target="_blank" class="grey12" title="现在购车还有几个霸王条款 起码会多收你几千块">现在购车还有几个霸王条款 起码会多收你几千块</a></li><li><a href="http://auto.eastday.com/a/190318184529897.html" target="_blank" class="grey12" title="2月轿车销量点评：大众继续霸屏 自主两车上榜">2月轿车销量点评：大众继续霸屏 自主两车上榜</a></li><li><a href="http://auto.eastday.com/a/190318121929533.html" target="_blank" class="grey12" title="“品高·致远”高人一筹 试驾2019款帕杰罗">“品高·致远”高人一筹 试驾2019款帕杰罗</a></li>
+ </ul>
+ <!-- 汽车 end -->
+ <div class="blank20"></div>
+ </div>
+ <!-- 第四部分右栏 end -->
+</div>
+<!-- 图片 begin -->
+<div style="width:960px;margin:0 auto">
+ <div class="lm1 lh28 fl"><a href="http://photo.eastday.com/" target="_blank" class="greyb18">
+	 图片</a></div>
+ <div><img src="/images/index2013/b1.gif"></div>
+ <div class="blank15"></div>
+</div>
+<div class="fc"><iframe id="iframePic" border="0" name="gundong" marginwidth="0" framespacing="0" marginheight="0" src="http://news.eastday.com/eastday/06news/2013xwzx/tp/index.html" frameborder="0" noresize="" width="1054" scrolling="no" height="415" vspale="0"></iframe></div>
+<!-- 图片 end -->
+<div class="blank23"></div>
+<div class="content">
+ <!-- 第五部分左栏 begin -->
+ <div class="left1 fl">
+ <!-- 公司动态 begin -->
+ <div class="lm1 lh28 fl"><a href="http://www.eastday.com/eastday/shouye/07index/enews/index.html" target="_blank" class="greyb18">
+	 公司动态</a></div>
+ <div class="gsdt fl"><a href="http://www.eastdaybar.com/" target="_blank" class="grey12">
+	 网点</a><a href="http://www.e-community.com.cn/" target="_blank" class="grey12">信息苑</a><a href="http://citynews.eastday.com/" target="_blank" class="grey12">城市导报</a><a href="http://www.91985.com/" target="_blank" class="grey12">助医网</a><a href="http://www.odb.sh.cn/" target="_blank" class="grey12">数据广播</a><a href="http://www.eastdaymedia.com.cn/" target="_blank" class="grey12">传媒</a></div>
+ <div><img src="/images/index2013/b12.gif"></div>
+ <div class="blank13"></div>
+ <div class="con1 fl"><div class="lh24"><a href="/eastday/shouye/07index/enews/u1ai12354940.html" target="_blank" class="blueb14" title="东方网与上海博物馆签署战略合作协议">东方网与上海博物馆签署战略合作协议</a></div>
+ <div class="blank10"></div>
+ <div class="fl"><a target="_blank" href="/eastday/shouye/07index/enews/u1ai12354940.html"><img border="0" src="/images/thumbnailimg/month_1903/5503a16f-e1db-4155-88f9-df9e541d8dbc.jpg" width="147" height="110" title="东方网与上海博物馆签署战略合作协议"></a></div>
+ <div class="tx1 grey12 lh22 fr"><a href="/eastday/shouye/07index/enews/u1ai12354940.html" target="_blank" class="grey12 lh22">　　3月22日，东方网与上海博物馆共同签署战略合作协议，发挥新闻网站的传播优势和艺术领域的专业优势，开展互利共赢的合作发展新模式。</a></div>
+ <div class="blank20"></div>
+ <ul class="newslist11"><li><a href="/eastday/shouye/07index/enews/u1ai12312186.html" target="_blank" class="black14" title="上海国际广告节开幕 东方网旗下品牌集中亮相">上海国际广告节开幕 东方网旗下品牌集中亮相</a></li><li><a href="/eastday/shouye/07index/enews/u1ai12298202.html" target="_blank" class="black14" title="东方网采访调研小组赴青浦张马村采访调研">东方网采访调研小组赴青浦张马村采访调研</a></li><li><a href="/eastday/shouye/07index/enews/u1ai12298174.html" target="_blank" class="black14" title="东方网与一大会址纪念馆党建联建">东方网与一大会址纪念馆党建联建</a></li>
+ </ul>
+ </div>
+ <div class="con1 fr"><div class="lh24"><a href="/eastday/shouye/07index/enews/u1ai12346203.html" target="_blank" class="blueb14" title="东方社区信息苑助力上海及长三角文采会">东方社区信息苑助力上海及长三角文采会</a></div>
+ <div class="blank10"></div>
+ <div class="fl"><a target="_blank" href="/eastday/shouye/07index/enews/u1ai12346203.html"><img border="0" src="/images/thumbnailimg/month_1903/0be5b94e-bb26-4c13-ac2f-c3d541c066dc.jpg" width="147" height="110" title="东方社区信息苑助力上海及长三角文采会"></a></div>
+ <div class="tx1 grey12 lh22 fr"><a href="/eastday/shouye/07index/enews/u1ai12346203.html" target="_blank" class="grey12 lh22">　　东方网旗下东方社区信息苑为上海及长三角文采会提供技术支撑，并面向公众展示了公共文化产品“中央厨房”内容体系。</a></div>
+ <div class="blank20"></div>
+ <ul class="newslist11"><li><a href="/eastday/shouye/07index/enews/u1ai12298207.html" target="_blank" class="black14" title="东方网与上海教育电视台开启战略合作">东方网与上海教育电视台开启战略合作</a></li><li><a href="/eastday/shouye/07index/enews/u1ai12298195.html" target="_blank" class="black14" title="东方网赴巴拿马开展“欢乐春节”活动">东方网赴巴拿马开展“欢乐春节”活动</a></li><li><a href="/eastday/shouye/07index/enews/u1ai12298168.html" target="_blank" class="black14" title="东方网启动青少年综合素养展示平台上线">东方网启动青少年综合素养展示平台上线</a></li>
+ </ul>
+ </div>
+ <!-- 公司动态 end -->
+ </div>
+ <!-- 第五部分左栏 end -->
+ <!-- 第五部分右栏 begin -->
+ <div class="right1 fr">
+ <!-- 合作媒体动态 begin -->
+ <div class="lm3 lh24"><a href="http://www.eastday.com/eastday/shouye/07index/mtdt/index.html" target="_blank" class="greyb18">
+	 合作媒体动态</a></div>
+ <div class="blank5"></div>
+ <ul class="newslist9"><li><a href="http://www.chinaso.com/china2018/jingcaizhongguo/index.html" target="_blank" class="grey12" title="搜索中国正能量 点赞2018">搜索中国正能量 点赞2018</a></li><li><a href="http://travel.gog.cn/cms_udf/2018/wlmtx1008/index.shtml" target="_blank" class="grey12" title="2018“多彩贵州·浪漫秋冬”全国网媒贵州行">2018“多彩贵州·浪漫秋冬”全国网媒贵州行</a></li><li><a href="http://tv.people.com.cn/n1/2018/0614/c61600-30057746.html" target="_blank" class="grey12" title="畅想——未来的人民日报">畅想——未来的人民日报</a></li><li><a href="http://ip.people.com.cn/n1/2018/0606/c179663-30038272.html" target="_blank" class="grey12" title="国家知识产权战略实施十年成效显著">国家知识产权战略实施十年成效显著</a></li><li><a href="http://www.chinanews.com/hr/2018/05-25/8522532.shtml" target="_blank" class="grey12" title="世界华文传媒新媒体影响力榜单发布">世界华文传媒新媒体影响力榜单发布</a></li> 
+ </ul>
+ <!-- 合作媒体动态 end -->
+ <div class="blank15"></div>
+ <!-- 相关链接 begin -->
+ <div class="lm3 lh24"><a href="#" target="_blank" class="greyb18">相关链接</a></div>
+ <div class="blank15"></div>
+ <div class="con2 fl" id="style1">
+ <form><select onchange="return change(this);" name="xwwz" title="新闻网站">
+ <option value="#" selected="selected">新闻网站</option>
+ <option value="http://www.people.com.cn">人民网</option>
+ <option value="http://cpc.people.com.cn/">中国共产党新闻网</option>
+ <option value="http://www.xinhuanet.com/">新华网</option>
+ <option value="http://www.china.com.cn/chinese/index.htm">中国网</option>
+ <option value="http://www.cctv.com/">央视国际</option>
+ <option value="http://www.youth.cn/">中青网</option>
+ <option value="http://www.ce.cn">中国经济网</option>
+ <option value="http://www.cnr.cn/">中国广播网</option>
+ <option value="http://www.chinanews.com.cn/">中新网</option>
+ <option value="http://china.huanqiu.com/">环球网中国频道</option>
+ <option value="http://www.cyol.net/">中青在线</option>
+ <option value="http://www.bjreview.com/">北京周报</option>
+ <option value="http://www.qianlong.com/">千龙网</option>
+ <option value="http://www.enorth.com.cn/">北方网</option>
+ <option value="http://www.cqnews.net/">华龙网</option>
+ <option value="http://www.hebnews.cn">河北新闻网</option>
+ <option value="http://www.sxgov.cn/">黄河新闻网</option>
+ <option value="http://www.sxrb.com/">山西新闻网</option>
+ <option value="http://www.nen.com.cn">东北新闻网</option>
+ <option value="http://www.chinajilin.com.cn/">中国吉林网</option>
+ <option value="http://www.jl.chinanews.com/">吉林新闻网</option>
+ <option value="http://www.dbw.cn/">东北网</option>
+ <option value="http://www.chinataiwan.org">中国台湾网</option>
+ <option value="http://www.tibet.cn/">中国西藏网</option>
+ <option value="http://www.jschina.com.cn/">中国江苏</option>
+ <option value="http://www.zjonline.com.cn">浙江在线</option>
+ <option value="http://www.anhuinews.com">中安在线</option>
+ <option value="http://www.fjsen.com/">东南网</option>
+ <option value="http://www.hsw.cn/">华商网</option>
+ <option value="http://www.jxnews.com.cn/ ">大江网</option>
+ <option value="http://www.jxgdw.com/ ">今视网</option>
+ <option value="http://www.dzdaily.com.cn/">大众网</option>
+ <option value="http://www.dahe.cn/">大河网</option>
+ <option value="http://www.cnhubei.com">荆楚新闻网</option>
+ <option value="http://www.rednet.cn">红网</option>
+ <option value="http://www.voc.com.cn">华声在线</option>
+ <option value="http://hunan.voc.com.cn">湖南在线</option>
+ <option value="http://www.southcn.com/">南方网</option>
+ <option value="http://www.hinews.cn/index.shtml">南海网</option>
+ <option value="http://www.newssc.org">四川新闻网</option>
+ <option value="http://www.yunnan.cn">云南网</option>
+ <option value="http://www.cnwest.com">西部网</option>
+ <option value="http://www.gscn.com.cn/">中国甘肃网</option>
+ <option value="http://www.gansudaily.com.cn/">每日甘肃网</option>
+ <option value="http://www.qhnews.com/">青海新闻网</option>
+ <option value="http://www.chinatibetnews.com">西藏新闻网</option>
+ <option value="http://www.gxnews.com.cn">广西新闻网</option>
+ <option value="http://www.nxnews.net/">宁夏新闻网</option>
+ <option value="http://www.tianshannet.com.cn/">天山网</option>
+ <option value="http://www.dayoo.com">大洋网</option>
+ <option value="http://www.ycwb.com/">金羊网</option>
+ <option value="http://www.cjn.cn">长江网</option>
+ <option value="http://www.allnet.cn/">通网</option>
+ <option value="http://www.e23.cn">舜网</option>
+ <option value="http://www.iqilu.com">齐鲁网</option>
+ <option value="http://www.jiaodong.net">胶东在线</option>
+ <option value="http://www.csonline.com.cn">星辰在线</option>
+ <option value="http://www.chinagate.cn">中国发展门户网站</option>
+ <option value="http://www.godpp.gov.cn/">中国文明网</option>
+ <option value="http://www.jyb.com.cn/">中国教育新闻网</option>
+ <option value="http://www.jxwmw.cn/">江西文明网</option>
+ <option value="http://www.2500sz.com/">名城苏州</option>
+ <option value="http://www.scdaily.cn/">四川日报网</option>
+ <option value="http://www.sdchina.com/">中国山东网</option>
+ <option value="http://www.qingdaonews.com/">青岛新闻网</option>
+ <option value="http://www.whnews.cn/">威海网</option>
+  <option value="http://www.ceweekly.cn/">经济网</option>
+ </select></form>
+ </div>
+ <div class="con2 fr" id="style1">
+ <form><select onchange="return change(this);" name="xscgqy" title="下属及参股企业">
+ <option value="#" selected="selected">下属及参股企业</option>
+ <option value="#">上海东方网电子商务投资有限公司</option>
+ <option value="#">东方网（上海）传媒有限公司</option>
+ <option value="#">上海城市导报传媒有限公司</option>
+ <option value="http://shcci.eastday.com/eastday/shcci/node736982/u1a7413556.html">
+	上海东方网文化产业发展有限公司</option>
+ <option value="http://www.91985.com/">上海助医信息网络有限公司</option>
+ <option value="http://www.e-community.com.cn/">上海东方数字社区发展有限公司</option>
+ <option value="http://www.eastdaybar.com/">上海东方网点连锁管理有限公司</option>
+ <option value="#">上海市创新电子商务集成服务平台有限公司</option>
+ <option value="http://shanghai.kltong.com/">上海东方网通信技术有限公司</option>
+<option value="#">上海东方企业信用征信有限公司</option>
+<option value="http://www.sh-owv.com/">上海东方文信科技有限公司</option>
+<option value="http://www.ticket2010.com/">上海东方票务有限公司</option>
+<option value="#">上海东方书报刊服务有限公司</option>
+<option value="#">上海黄浦联合小额贷款有限公司</option>
+<option value="http://www.dfic.cn/">东方IC图片</option>
+<option value="#">上海世纪出版股份有限公司</option>
+ <option value="http://www.eastnetprint.com/">上海东方网印企业管理有限公司</option>
+ </select></form>
+ </div>
+ <div class="blank12"></div>
+ <div class="con2 fl" id="style1">
+ <form><select onchange="return change(this);" name="hzjg" title="合作机构">
+ <option value="#" selected="selected">合作机构</option>
+ <option value="http://wgj.sh.gov.cn/">文广影视</option>
+ <option value="http://qwb.eastday.com/">上海侨务</option>
+ <option value="http://www.dfxj.gov.cn/">宣教网</option>
+ <option value="http://www.shtong.gov.cn/">上海地方志</option> 
+ <option value="http://museum.eastday.com/">数字博物馆</option>
+ <option value="http://www.chinacourt.org/">中国法院网</option>
+ <option value="http://global.shisu.edu.cn/">上海外国语大学</option>
+ </select></form>
+ </div>
+ <div class="con2 fr" id="style1">
+ <form><select onchange="return change(this);" name="ggfw" title="公共服务">
+ <option value="#" selected="selected">公共服务</option>
+ <option value="http://www.sh-syh.org">思想工作与企业文化</option>
+ <option value="http://www.sh.10086.cn/sh/service/">上海移动通信</option>
+ <option value="http://www.shdisabled.gov.cn/">上海残疾人</option>
+ <option value="http://www.sisa.net.cn">上海市信息服务业行业协会</option>
+ <option value="http://www.isas.org.cn/">上海公共上网服务行业协会</option>
+ <option value="http://www.sstm.org.cn">上海科技馆</option> 
+ <option value="http://www.shblood.org.cn/">上海市血液管理网</option>
+ </select></form>
+ </div>
+ <!-- 相关链接 end -->
+ </div>
+ <!-- 第五部分右栏 end -->
+</div>
+<!-- 内容 end -->
+<div class="blank23"></div>
+<!-- 推荐网站 begin -->
+<div id="tjwz">
+ <div class="wzbg1" id="friendLink">
+ <div class="wzcon1 grey12 fl">推荐网站</div>
+<div class="wzcon2 fl"><div><a href="http://shurufa.eastday.com/" target="_blank" class="grey12" title="东方输入法">东方输入法</a><a href="http://www.baidu.com/" target="_blank" class="grey12" title="百度搜索">百度搜索</a><a href="http://www.sina.com.cn/" target="_blank" class="grey12" title="新浪">新浪</a><a href="http://www.sohu.com/" target="_blank" class="grey12" title="搜狐">搜狐</a><a href="http://www.163.com/" target="_blank" class="grey12" title="网易">网易</a><a href="http://www.qq.com/" target="_blank" class="grey12" title="腾讯QQ">腾讯QQ</a><a href="http://www.ifeng.com/" target="_blank" class="grey12" title="凤凰网">凤凰网</a><a href="http://qiye.eastday.com/" target="_blank" class="grey12" title="东方企业">东方企业</a><a href="http://www.21cn.com/" target="_blank" class="grey12" title="21CN">21CN</a><a href="http://www.online.sh.cn/" target="_blank" class="grey12" title="上海热线">上海热线</a><a href="http://www.tianya.cn/" target="_blank" class="grey12 end1" title="天涯社区">天涯社区</a></div><div><a href="http://tianqi.eastday.com/" target="_blank" class="grey12" title="东方天气网">东方天气网</a><a href="http://www.cdqss.com/" target="_blank" class="grey12" title="成都全搜索">成都全搜索</a><a href="http://www.shanghaidaily.com/" target="_blank" class="grey12" title="上海日报">上海日报</a><a href="http://www.cac.gov.cn/" target="_blank" class="grey12" title="中国网信网">中国网信网</a><a href="http://www.kankannews.com" target="_blank" class="grey12" title="看看新闻网">看看新闻网</a><a href="http://www.suning.com/" target="_blank" class="grey12 end1" title="苏宁易购">苏宁易购</a></div></div>
+ </div>
+</div>
+<!-- 推荐网站 end -->
+<!--手机网页统计用代码-->
+<div style="display:none;">
+<meta name="filetype" content="1"> 
+<meta name="publishedtype" content="1"> 
+<meta name="pagetype" content="2"> 
+<meta name="catalogs" content="2"> 
+</div>
+ <!-- 手机网页统计用代码 end -->
+<!-- 底部 begin -->
+<div id="footer" class="lh30 grey12 fc">
+ <p class="lh30"><a href="http://news.eastday.com/images/ditu/bq.htm" target="_blank" class="grey12">
+ 版权声明</a> | <a href="http://www.eastday.com/images/2007img/07aboutus/index1.htm" target="_blank" class="grey12">
+ 网站简介</a> | <a href="http://news.eastday.com/images/ditu/wzls.htm" target="_blank" class="grey12">
+ 网站律师</a> | <a href="http://news.eastday.com/images/ditu/" target="_blank" class="grey12">
+ 网站导航</a> | <a href="http://i1.eastday.com/images/ad2011/ggkl2015/index.html" target="_blank" class="grey12">
+ 广告刊例</a> | <a href="http://news.eastday.com/images/ditu/lx.htm" target="_blank" class="grey12">
+ 联系方式</a> | <a href="http://shzw.eastday.com/shzw/G/20150203/u1ai10461567.html" target="_blank" class="grey12">
+ 自律承诺</a></p><div style="width:1px;height:1px;overflow:hidden"><a href="http://www.eastday.com/sitemap/index.html" target="_blank" style="color:f6f6f6">
+		Site Map</a></div><p></p>
+ <p class="lh30">东方网(eastday.com)版权所有，未经授权禁止复制或建立镜像</p>
+<div class="footline"></div>
+<div id="copyright">
+<p class="grey12"><a href="http://news.eastday.com/images/ditu/zzzs.htm" target="_blank" class="grey12">
+	增值电信业务经营许可证（ICP）：沪B1.B2-20050088号</a>
+    <a href="http://news.eastday.com/images/ditu/innews.htm" target="_blank" class="grey12">互联网新闻信息服务许可证:31120170005</a>
+广告经营许可证：3100003000089</p>
+ <p class="grey12"><a href="http://www.eastday.com/images/ad/wlsp2015.jpg" target="_blank" class="grey12">
+	信息网络传播视听节目许可证：0907180</a>互联网出版许可证：新出网证（沪）字003号<a href="http://www.eastday.com/images/CZC_20180423.jpg" target="_blank" class="grey12">广播电视节目制作经营许可证:(沪)字第406号</a></p>
+ <p class="grey12">ISO9001质量管理体系认证：00307Q10176R1S 
+ BS17799信息安全管理体系认证：00307I10001R0S</p>
+ <p class="grey12">备案号：沪B2-20050088-87</p>
+ </div>
+ <p class="grey12">本网站建议使用1280*1024分辨率显示模式</p>
+ <span><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="116" height="41">
+ <param name="movie" value="http://www.eastday.com/images/test.swf">
+ <param name="quality" value="high">
+ <param name="WMode" value="Transparent">
+ <embed src="http://www.eastday.com/images/test.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="116" height="41"></object></span><!--可信网站图片LOGO安装开始-->
+<span class="kxwz"><script src="http://kxlogo.knet.cn/seallogo.dll?sn=e12052111010021792307708&amp;size=0"></script></span>
+<!--可信网站图片LOGO安装结束--><span style="padding-bottom:10px;"><script language="JavaScript">
+document.writeln("<a href='http://www.zx110.org/'><img src='http://www.eastday.com/images/ad/zx110.gif' border=0></a><a href='http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=20111013174737654'><img src='http://www.eastday.com/images/ad/icon.gif' border=0></a><a href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402002029'><img src='http://www.eastday.com/images/ad/icon_ga.png' border=0></a><a href='http://www.12377.cn'><img src='http://www.eastday.com/images/ad/indexbanner1.png' border=0></a><a href='http://report.12377.cn:13225/toreportinputNormal_anis.do'><img src='http://www.eastday.com/images/ad/indexbanner2.jpg' border=0></a><a href='http://www.shjbzx.cn/'><img src='http://www.eastday.com/images/ad/icon1.gif' border=0></a><img src='http://www.eastday.com/images/ad/icon4.gif'>")</script><a href="http://www.zx110.org/"><img src="http://www.eastday.com/images/ad/zx110.gif" border="0"></a><a href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=20111013174737654"><img src="http://www.eastday.com/images/ad/icon.gif" border="0"></a><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402002029"><img src="http://www.eastday.com/images/ad/icon_ga.png" border="0"></a><a href="http://www.12377.cn"><img src="http://www.eastday.com/images/ad/indexbanner1.png" border="0"></a><a href="http://report.12377.cn:13225/toreportinputNormal_anis.do"><img src="http://www.eastday.com/images/ad/indexbanner2.jpg" border="0"></a><a href="http://www.shjbzx.cn/"><img src="http://www.eastday.com/images/ad/icon1.gif" border="0"></a><img src="http://www.eastday.com/images/ad/icon4.gif">
+</span>
+</div>
+<div class="hyhNext3"></div>
+<div id="phoneban" style="display:none;"><div>进入东方网手机版</div><div id="yn"><p class="fl"><a href="http://wap.eastday.com">中文版</a></p><p class="fr"><a href="http://wap.eastday.com/?host=www.eastday.com&amp;src=http%3A%2F%2Fenglish.eastday.com%2F">英文版</a></p></div><div id="icancel">留在电脑版</div></div>
+<!-- 底部 end -->
+<script>
+$(document).ready(function(){
+$(".yuandanClose").click(function(){$(".yuandanClose,.yuandanDiv,.yuandanLayer").hide();$(".yuandan").css({"background-image":"none"});});
+});
+</script>
+<script type="text/javascript" charset="utf-8" src="/images/index2014/mousewheel.js"></script>
+<script type="text/javascript" charset="utf-8" src="/images/index2014/easyscroll.js"></script>
+<script type="text/javascript" src="https://lyb.eastday.com/js/pczbzan.js"></script>
+<script type="text/javascript">
+$(function(){
+if(navigator.userAgent.indexOf("MSIE")!=-1 || navigator.userAgent.indexOf("Firefox")>0) { 
+$('.div_scroll').scroll_absolute({arrows:true});
+}
+$("#cancel,#icancel").click(function(){
+$("#phoneban").hide();
+return false;
+});
+/*if(/Android|iPhone|baidu/i.test(navigator.userAgent)){$("#phoneban").show();}*/
+
+//声音视频切换
+$("#sysp a").hover(function(){
+	var $this_id=$(this).attr("data-id");
+    $("#"+$this_id).show().siblings().hide();
+    $(this).addClass("selected").siblings("a").removeClass("selected");
+});
+
+});
+</script>
+
+<!--领航滚动-->
+<script language="JavaScript" type="text/javascript">
+
+(function(){
+var num=$(".cpcr-btm ul").find("li").length;
+var str="";
+if(num%4==0){num=num/4;}else{num=parseInt(num/4)+1;}
+for(var i=0;i<num;i++){
+if(num>1){
+  str=str+"<li node='"+i+"'></li>";
+  }
+}
+$(".cpcr-btm-dot ul").html(str);
+$('.cpcr-btm-dot ul li:eq(0)').addClass("current");
+})();
+$(".cpcr-btm-dot ul li").on("click",function(){
+ $(this).addClass("current");
+ $(this).siblings("li").removeClass("current");
+ var num=parseInt($(this).attr("node"));
+ $(".cpcr-btm ul").css({"margin-top":-num*96});
+});
+</script>
+<script type="text/javascript" src="/images/index2014/jquery.iosslider.min.js"></script>
+<script type="text/javascript">
+$(function(){
+$("#yclose").click(function(){
+$(".newyjl").hide();
+});
+$("body").delegate(".openwin","click",function(){
+  $(".pimg").remove();
+  resize=$(this).attr("resize");
+  var $hrefurl=$(this).attr("hrefurl");
+  var $zbpc=$(this).attr("data-zbpc");
+  var $zbphone=$(this).attr("data-zbphone");
+  var imgsrc=this.src;
+  var $inner;
+  if ($hrefurl!="123"){
+  if($hrefurl.indexOf(".flv")>0){
+  if(/Android|iPhone|iPod|iPad|baidu/i.test(navigator.userAgent)){
+  $hrefurl = $hrefurl.replace(".flv",".mp4");
+  $inner="<video src=\""+ $hrefurl +"\"  width=\"680\" height=\"550\" controls=\"controls\" autoplay=\"autoplay\"><\/video>";
+  }else{
+  $inner="<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0\" width=\"500\" height=\"400\"><param name=\"movie\" value=\"http://www.eastday.com/images/0928imedia/Flvplayer.swf\" \/><param name=\"quality\" value=\"high\" \/><param name=\"wmode\" value=\"opaque\" \/><param name=\"allowFullScreen\" value=\"true\" \/><param name=\"FlashVars\" value=\"vcastr_file="+$hrefurl+"&LogoText=imedia.eastday.com&BufferTime=3\" \/><embed wmode=\"opaque\" src=\"http://www.eastday.com/images/0928imedia/Flvplayer.swf\" allowfullscreen=\"true\" flashvars=\"vcastr_file="+$hrefurl+"&LogoText=imedia.eastday.com\" quality=\"high\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" width=\"500\" height=\"400\"><\/embed><\/object>";
+}}else{
+window.open($hrefurl);
+return false;
+}}else{
+if(/Android|iPhone|iPod|iPad|baidu/i.test(navigator.userAgent) && $zbphone!="123"){ window.open($zbphone);return false;}
+if($zbpc!="123"){
+  $inner="<iframe name=\"eastday\" src=\""+$zbpc+"\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"0\"><\/iframe>";
+  }else{
+$inner="<img src=\""+imgsrc+"\" \/>";}
+}
+if(resize=="1"){
+  $(".tanc").append("<p class=\"tanc1 pimg\">"+$inner+"<\/p>");}
+else{
+  $(".tanc").append("<p class=\"pimg\">"+$inner+"<\/p>");}
+  $(".tanc").show();
+});
+  $("#closetan").click(function(){
+    $(".tanc").hide();
+    $(".pimg").remove();
+  });
+    $(window).scroll(function(){
+if($(document).scrollTop()>1100){
+$(".tanc").hide();
+$(".pimg").remove();}
+    });	
+    $("#shrefresh").click(function(){
+    setTimeout("gdgd()",100);
+    });
+      if($(window).width()>1500){
+    $(".tanc").css({"left":"20%","top":"100px"});  
+  }
+  setTimeout("gdgd()",600000);
+  setInterval("gdgd()",600000);  
+});
+</script>
+<script type="text/javascript">
+function ProcessData (data){
+		var gdbbnews=data.gdbbnews;
+	 	//$(".div_scroll").remove();
+        $(".container1").html("");
+        var html=[];
+	 	html.push("<div class=\"div_scroll\">");
+       // alert(gdbbnews.length);
+		for(i=0;i<gdbbnews.length;i++){
+			var picurl=gdbbnews[i].pic;
+			var info=decodeURIComponent(gdbbnews[i].info);
+			var author=gdbbnews[i].author;
+			var fbt=gdbbnews[i].fbt;
+			var link=gdbbnews[i].link;
+			var time=gdbbnews[i].time;
+            var tplink=gdbbnews[i].tplink;
+            var scroll=gdbbnews[i].scroll;
+            var zbpc=gdbbnews[i].zbpc;
+            var zbphone=gdbbnews[i].zbphone;
+            var gjid=gdbbnews[i].gjid;
+            var timepath=gdbbnews[i].timepath;
+            if(link.indexOf("http://") == -1){var ainfo=info+"<p class=\"shdz\"><p class=\"z1 blue12\" onclick=\"zbzan("+gjid+",this)\">点赞<span class=\"zbzannum\" data-id=\""+gjid+"\"><\/span><\/p><p class=\"z2 blue12\"><a href=\"http://www.eastday.com/eastday/shouye/node670813/n847507/"+timepath+"/index_T1722.html\" target=\"_blank\" class=\"blue12\">留言</a><\/p>";}else{var ainfo="<a href=\""+link+"\" target=\"_blank\" class=\"grey12c\">"+info+"<\/a><p class=\"shdz\"><p class=\"z1 blue12\" onclick=\"zbzan("+gjid+",this)\">点赞<span class=\"zbzannum\" data-id=\""+gjid+"\"><\/span><\/p><p class=\"z2 blue12\"><a href=\"http://www.eastday.com/eastday/shouye/node670813/n847507/"+timepath+"/index_T1722.html\" target=\"_blank\" class=\"blue12\">留言</a><\/p><p class=\"xxright\"><a href=\""+link+"\" target=\"_blank\" class=\"blue12\">...详细<\/a><\/p><\/p>";}
+            if(picurl=="123"){var picnode="";}else{var picnode="<p><img src=\""+picurl+"\" hrefurl=\""+tplink+"\" resize=\""+scroll+"\" data-zbpc=\""+zbpc+"\" data-zbphone=\""+zbphone+"\" class=\"openwin\" \/><\/p>";}
+			html.push("<div class=\"gdbb\">");            
+			html.push("<div class=\"inner\"><h3 class=\"grey12a\">"+fbt+"<span class=\"blue12\">"+time+"<\/span><img src=\"/images/index2014/trg.gif\" alt=\"装饰图片\" \/><\/h3>"+picnode+"<p class=\"grey12c\">"+ainfo+"<\/p><\/div><div class=\"gdzc\"><a href=\"http://www.eastday.com/eastday/shouye/node670813/n847507/index.html\" target=\"_blank\"><img src=\"\/images\/index2014\/zcr.gif\"  alt=\"直播员\" /></a><span class=\"grey14a\">直播员<\/span><\/div>");
+			html.push("</div>");            
+		} 
+        html.push("</div>");
+        $(".container1").html(html.join(""));
+        getzan();
+        if(navigator.userAgent.indexOf("MSIE")!=-1 || navigator.userAgent.indexOf("Firefox")>0) { 
+       $('.div_scroll').scroll_absolute({arrows:true});
+   } 
+   if(/Android|iPhone|iPod|iPad|baidu/i.test(navigator.userAgent)){
+   $(".padscroll").show();
+   }
+}
+function gdgd(){
+	$.getJSON("/eastday/shouye/node670813/n847507/index_T43.txt?t="+(new Date().getTime()),{time:new Date().getTime()},ProcessData);
+}
+
+</script>
+<!-- 倒计时时间代码 -->
+<script type="text/javascript" src="/images/index2014/jquery.lwtCountdown-1.0.js"></script>
+<script type="text/javascript" src="/images/index2014/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="/images/index2014/jquery.countup.min.js"></script>
+<script type="text/javascript" src="/images/index2014/homepage.js?123"></script>
+<!-- 倒计时时间代码结束 -->
+<script type="text/javascript" src="/images/index2013/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/images/index2014/hyh3.js"></script>
+<script type="text/javascript" src="http://ej.eastday.com/images/201306gj/BackTop.js"></script>
+<script type="text/javascript" src="/images/index2013/2017yd.js"></script>
+<script language="JavaScript">
+<!--
+function qbcheckform(theForm){
+if(theForm.searchText.value==""){
+		window.alert("关键字不能为空");
+		theForm.searchText.focus();
+        	return false;
+	}
+	else{
+
+		if (theForm.selectact.value=="baidu")
+		{
+			line="http://www.baidu.com/s?tn=bds&ct=2097152&si=eastday.com&bs=%E&wd=" + encodeURI( theForm.searchText.value);
+            		window.open(line);
+            		return false;
+		}
+		if (theForm.selectact.value=="360")
+		{
+			line="http://www.so.com/s?ie=gb2312&src=zz_www_so_com&site=eastday.com&rg=1&q="+ encodeURI( theForm.searchText.value);
+            		window.open(line);
+            		return false;
+	        }
+
+	}
+}
+//-->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!--//--><![CDATA[//><!-- 
+/**
+* 通过ID获取元素对像，此方法返一个元素对像。
+* @param {String} elemId 元素的ID名
+* @return 通过指定ID获取元素对像
+* @type Object
+*/
+function GetObj(objName){
+	if(document.getElementById){
+		return eval('document.getElementById("' + objName + '")');
+	}else if(document.layers){
+		return eval("document.layers['" + objName +"']");
+	}else{
+		return eval('document.all.' + objName);
+	}
+}
+/**
+* 实现菜单切换。
+* @param {String} idx 菜单的索引号
+* @param {String} prefix 菜单及内容块ID的前缀
+* @param {String} onstyle 当前菜单的样式名
+* @param {String} offstyle 非当前菜单的样式名
+* @return null
+*/
+function Menu(idx, prefix, onstyle, offstyle){
+	for(var i=0;i<40;i++){
+		if(!GetObj(prefix+"_"+i)) break;
+		GetObj(prefix+"_"+i).className = offstyle;
+		GetObj(prefix+"_con_"+i).style.display = "none";
+	}
+		GetObj(prefix+"_"+idx).className = onstyle;
+		GetObj(prefix+"_con_"+idx).style.display = "block";
+}
+function Focus(formName, elemName){
+	var elem = document.forms[formName].elements[elemName];
+	if(elem) elem.focus();
+}
+function change(obj) {
+ if(obj.selectedIndex == 0) { return false; }
+ urlhtml=obj.options[obj.selectedIndex].value;
+ window.open(urlhtml,"homeWin");
+ obj.selectedIndex=0;
+ return true;
+}
+//--><!]]>
+</script>
+<!--搜索-->
+<script type="text/javascript">
+var Tools={trim:function(a){if(typeof a==="string"){return a.replace(/^\s+/g,"").replace(/\s+$/g,"")}else{return""}},val:function(a){if(a.nodeType===1){return a.value}return""},getElesByCls:function(a,d,c){a=a||document;if(document.getElementsByClassName){return document.getElementsByClassName(d)}else{var g=[],e=a.getElementsByTagName(c);for(var b=0,h=e.length;b<h;b++){var f=e[b];if(f.nodeType===1&&f.className==d){g.push(f)}}return g}},addHandler:function(a,c,b){if(a.addEventListener){a.addEventListener(c,b,false)}else{if(a.attachEvent){a.attachEvent("on"+c,b)}else{a["on"+c]=b}}},ieVersion:function(){var b=navigator.userAgent.toLowerCase(),c=/msie [\d.]+;/gi,a=0;if(b.indexOf("msie")>0){a=b.match(c)}if(a){return parseInt((a+"").replace(/[^0-9.]/ig,""))}return 0},stopPropagation:function(a){a=a||window.event;if(a.stopPropagation){a.stopPropagation()}else{a.cancelBubble=true}}};var ieVersion=Tools.ieVersion();if(ieVersion!==0&&ieVersion<=8){Tools.addHandler(window,"load",function(){chinasoSearchboxInit()})}else{Tools.addHandler(document,"DOMContentLoaded",function(){chinasoSearchboxInit()})}function chinasoSearchboxInit(){a();g();var d=document.getElementById("site"),c=d.getAttribute("value"),e=document.getElementById("search_scope"),b=e.value;e.onchange=function(){b=e.value};function h(k){var j=document.createElement("script");j.setAttribute("src",k);j.setAttribute("type","text/javascript");j.setAttribute("charset","utf-8");setTimeout(function(){document.getElementsByTagName("head")[0].appendChild(j)},0)}function g(){var j="http://news.chinaso.com/static/json/keyword.json";h(j)}window.keyWordCallback=function(j){var l="";var m=j.list,k=document.getElementById("searchHotWord");if(m&&m.length>0){l+=m[0].title;k.innerHTML=l;f()}else{k.innerHTML="网络出错，请稍后重试"}};function a(){var j="http://news.chinaso.com/static/json/hotword.json";h(j)}window.hotWordsCallback=function(q){var s="",n=q.list,r=Tools.getElesByCls(document,"keywords-box","div")[0],l=r.getElementsByTagName("ul")[0];if(n&&n.length>0){for(i=0;i<n.length;i++){s+='<li><a href="'+n[i].url+'" target="_blank">'+n[i].title+"</a></li>"}l.innerHTML=s;document.getElementById("chinaso_text").onfocus=function(j){Tools.stopPropagation(j);r.style.display="none"};var o=l.getElementsByTagName("a"),m=o.length;for(var p=0;p<m;p++){var k=o[p];k.onclick=function(){r.style.display="none"}}document.onclick=function(j){Tools.stopPropagation(j);r.style.display="none"}}else{r.innerHTML="网络出错，请稍后重试"}};function f(){var k=document.getElementById("chinaso_form"),l=Tools.getElesByCls(k,"search_input2","input")[0],j=document.getElementById("searchHotWord");if(Tools.trim(Tools.val(l))!==""){j.style.display="none"}j.onclick=function(m){Tools.stopPropagation(m);l.focus()};l.onkeydown=function(){j.style.display="none"};l.onblur=function(){if(Tools.trim(Tools.val(l))===""){j.style.display="block"}};l.onclick=function(m){Tools.stopPropagation(m)};k.onsubmit=function(){if(Tools.trim(Tools.val(l))===""){j.style.display="none";l.value=Tools.trim(j.innerHTML)}document.charset="utf-8";if(b==="insite"){d.setAttribute("value",c)}else{d.setAttribute("value","")}}}};
+</script>
+<!--工具条开始-->
+<script src="http://www.shanghai.gov.cn/jhelper_V2.0/jhelper_2.0.js"></script>
+<!--工具条结束-->
+<!--<div id="lovexin13" style="left:0px;position:absolute;top:0px;z-index:10000"><a target="_blank" href="http://life.021east.com/eastday/dfsh/n1149128/n1149130/index.html"><img border="0" src="http://enjoy.eastday.com/images/ad/2018gg/zhongxin181127.jpg"></a><br><a onclick='document.getElementById("lovexin13").style.display="none"'><div style="font-size:12px;width:100px;height:20px;padding-top:4px;text-align:left;cursor:pointer">关闭</div></a></div>
+<div id="lovexin14" style="right:0px;position:absolute;top:120px;z-index:10000"><a target="_blank" href="http://sh.eastday.com/m/20190311/u1ai12321468.html"><img border="0" src="http://enjoy.eastday.com/images/ad/2018gg/380311.jpg"></a><br><a onclick='document.getElementById("lovexin14").style.display="none"'><div style="font-size:12px;width:100px;height:30px;padding-top:4px;text-align:right;cursor:pointer">关闭</div></a></div>
+<div id="lovexin16" style="left:0px;position:absolute;top:120px"><a target="_blank" href="http://sh.eastday.com/m/20190311/u1ai12321468.html"><img border="0" src="http://enjoy.eastday.com/images/ad/2018gg/380311.jpg"></a><br><a onclick='document.getElementById("lovexin16").style.display="none"'><div style="font-size:12px;width:100px;height:30px;padding-top:4px;text-align:left;cursor:pointer">关闭</div></a></div>
+<div id="lovexin15" style="right:0px;position:absolute;top:420px;z-index:10000"><a target="_blank" href="http://v.021east.com/yizhan/node3/n13/u1ai32981.html"><img border="0" src="http://enjoy.eastday.com/images/ad/2018gg/fengyun0317.gif"></a><br><a onclick='document.getElementById("lovexin15").style.display="none"'><div style="font-size:12px;width:100px;height:30px;padding-top:4px;text-align:right;cursor:pointer">关闭</div></a></div>
+<div id="lovexin17" style="left:0px;position:absolute;top:420px"><a target="_blank" href="http://v.021east.com/yizhan/node3/n13/u1ai32981.html"><img border="0" src="http://enjoy.eastday.com/images/ad/2018gg/fengyun0317.gif"></a><br><a onclick='document.getElementById("lovexin17").style.display="none"'><div style="font-size:12px;width:100px;height:30px;padding-top:4px;text-align:left;cursor:pointer">关闭</div></a></div>-->
+<!-- AFP两段式代码-公用代码 -->
+<script type="text/javascript" src="http://afpimages.eastday.com/k.js"></script>
+<!-- AFP两段式代码-广告位代码 -->
+<script type="text/javascript">
+_acK({aid:63737,format:0,mode:1,gid:1,destid:"index0_1",sendreferer:1,serverbaseurl:"eastday.acs86.com/"});
+</script>
+<script type="text/javascript">
+if(/Android|iPhone|iPod|iPad|baidu/i.test(navigator.userAgent)){}else{
+//70454：tanchu-2013index
+_acK({aid:70454,format:0,mode:1,gid:1,serverbaseurl:"eastday.acs86.com/"});
+//70445：move-2013index-1
+_acK({aid:70445,format:0,mode:1,gid:1,serverbaseurl:"eastday.acs86.com/"});
+//70446：move-2013index-2
+_acK({aid:70446,format:0,mode:1,gid:1,serverbaseurl:"eastday.acs86.com/"});
+}
+</script>
+<script src="http://siteapp.baidu.com/static/webappservice/uaredirect.js" type="text/javascript"></script>
+
+<!-- 插入天润统计代码 --> 
+<div style="display:none"> 
+<script type="text/javascript">document.write(unescape("%3Cscript src='http://tongji.eastday.com/webdig.js?z=1' type='text/javascript'%3E%3C/script%3E"));</script><script src="http://tongji.eastday.com/webdig.js?z=1" type="text/javascript"></script> 
+<script type="text/javascript">wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")</script> 
+</div>
+</div>
+
+</body></html>

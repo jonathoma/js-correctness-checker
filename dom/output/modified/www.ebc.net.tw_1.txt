@@ -1,0 +1,324 @@
+<html class=" js csstransitions"><head><script src="https://connect.facebook.net/zh_TW/sdk.js?hash=949db9478dbdb2f8dbaedd5b62b4a78b&amp;ua=modern_es6" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/zh_TW/sdk.js"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=1&amp;cb=854679562"></script><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script src="https://connect.facebook.net/signals/config/1724357491182351?v=2.8.42&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MVG34XD"></script><script>
+Date=function(r){function n(n,e,t,a,u,i,f){var o;switch(arguments.length){case 0:o=new r(0);break;case 1:o=new r(n);break;default:t=t||1,a=a||0,u=u||0,i=i||0,f=f||0,o=new r(n,e,t,a,u,i,f)}return o}return n.parse=r.parse,n.UTC=r.UTC,n.toString=r.toString,n.prototype=r.prototype,n.now=function(){return 0},n}(Date),Math.exp=function(){function r(r){var n=new ArrayBuffer(8);return new Float64Array(n)[0]=r,0|new Uint32Array(n)[1]}function n(r){var n=new ArrayBuffer(8);return new Float64Array(n)[0]=r,new Uint32Array(n)[0]}function e(r,n){var e=new ArrayBuffer(8);return new Uint32Array(e)[1]=r,new Uint32Array(e)[0]=n,new Float64Array(e)[0]}var t=[.5,-.5],a=[.6931471803691238,-.6931471803691238],u=[1.9082149292705877e-10,-1.9082149292705877e-10];return function(i){var f,o=0,c=0,w=0,y=r(i),s=y>>31&1;if((y&=2147483647)>=1082535490){if(y>=2146435072)return isNaN(i)?i:0==s?i:0;if(i>709.782712893384)return 1/0;if(i<-745.1332191019411)return 0}if(y>1071001154){if(y<1072734898){if(1==i)return Math.E;c=i-a[s],w=u[s],o=1-s-s}else o=1.4426950408889634*i+t[s]|0,f=o,c=i-f*a[0],w=f*u[0];i=c-w}else{if(y<1043333120)return 1+i;o=0}f=i*i;var v=i-f*(.16666666666666602+f*(f*(6613756321437934e-20+f*(4.1381367970572385e-8*f-16533902205465252e-22))-.0027777777777015593));if(0==o)return 1-(i*v/(v-2)-i);var A=1-(w-i*v/(2-v)-c);return o>=-1021?A=e((o<<20)+r(A),n(A)):(A=e((o+1e3<<20)+r(A),n(A)),A*=9.332636185032189e-302)}}(),Math.random=function(){var r,n,e,t;return r=.8725217853207141,n=.520505596883595,e=.22893249243497849,t=1,function(){var a=2091639*r+2.3283064365386963e-10*t;return r=n,n=e,t=0|a,e=a-t}}(),Object.keys=function(r){return function(n){var e;return e=r(n),e.sort(),e}}(Object.keys);
+</script>
+
+
+
+
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1, minimum-scale=1.0, maximum-scale=5.0">
+    <title>東森電視</title>
+    <link href="/Images/EBC.ico" rel="Shortcut Icon" type="image/ico">
+    <meta name="google-site-verification" content="aiJFBEZgTmhrMWJyZhu4Mk1ThwBsW16takvhqX6uxWY">
+    <meta name="keywords" content="東森電視,EBC,EBC東森電視,ETTV,東森新聞,東森財經,東森娛樂,東森綜合,東森戲劇,東森超視,東森電影,東森洋片,東森yoyo,東森創作,東森幼兒園,噪咖,東森會員">
+    <meta name="description" content="勇於挑戰 不斷創新。多元頻道 優質節目。融媒體計畫 大步起飛。創新行銷 品牌延伸。搭橋兩岸 放眼世界。社會關懷 企業責任。華文媒體的領航者。">
+    <meta property="og:site_name" content="東森電視">
+    <meta property="og:url" content="https://www.ebc.net.tw/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="東森電視">
+    <meta property="og:description" content="勇於挑戰 不斷創新。多元頻道 優質節目。融媒體計畫 大步起飛。創新行銷 品牌延伸。搭橋兩岸 放眼世界。社會關懷 企業責任。華文媒體的領航者。">
+    <meta property="og:image" content="https://www.ebc.net.tw:443/upload/index/img/logoes/mobile_logo.png">
+    <meta property="fb:app_id" content="1554074214708033">
+    <link href="/styles/site?v=cSiX7X28uoPYcSdp_taLiLTh8oLLxHjIRxwQWIsnqZE1" rel="stylesheet">
+<link href="/styles/project-layout?v=lII_VwFoJfK_O8-4SPX4CnqCYsndEdtyn6Vm-WJS2l01" rel="stylesheet">
+
+    
+    <script src="/bundles/modernizr?v=PnGqvOZwAcOFfYxYWhj7jnzMVBBkSBF6FVz88APMddE1"></script>
+<script src="/bundles/google-declare?v=KvgsEWxsWGtItJ541XN5lHv2gHMUjSZz3N_z2XH1MO01"></script>
+
+    
+    <link href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css" rel="stylesheet">
+
+
+
+    <!-- Begin comScore Tag -->
+    <script>
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "18986220" });
+        (function () {
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            el.parentNode.insertBefore(s, el);
+        })();
+    </script>
+    <noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=18986220&cv=2.0&cj=1" /></noscript>
+    <!-- End comScore Tag -->
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+        _atrk_opts = { atrk_acct: "kc1jl1awEti26C", domain: "ebc.net.tw", dynamic: true };
+        (function () { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(as, s); })();
+    </script>
+    <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=kc1jl1awEti26C" style="display:none" height="1" width="1" alt="" /></noscript>
+    <!-- End Alexa Certify Javascript -->
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            }; if (!f._fbq) f._fbq = n;
+            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+        }(window,
+            document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1724357491182351'); // Insert your pixel ID here.
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none"
+             src="https://www.facebook.com/tr?id=1724357491182351&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
+    <!-- Google 再行銷代碼 start -->
+    <!-- Global site tag (gtag.js) - AdWords: 802319099 -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-802319099"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'AW-802319099');
+    </script>
+    <!-- Google 再行銷代碼 end -->
+<link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.ebc.net.tw" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.ebc.net.tw"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_308.js?21063277" async=""></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/802319099/?random=0&amp;cv=9&amp;fst=0&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470&amp;u_h=600&amp;u_w=800&amp;u_ah=600&amp;u_aw=800&amp;u_cd=24&amp;u_his=2&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;gtm=2oa241&amp;sendb=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fwww.ebc.net.tw%2F&amp;tiba=%E6%9D%B1%E6%A3%AE%E9%9B%BB%E8%A6%96&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:15px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:19px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#1d3c78;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:13px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:13px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:17px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
+<body class="zh-tw">
+    <div id="wrap" style="padding-bottom: 0px;">
+        <div id="pc-header-inner">
+            <div id="pc-header">
+                <div class="left"><a href="http://info.ebc.net.tw/Schedule/" target="_blank">節目表</a>｜<a href="/Html/apps.html" target="_blank">東森Apps</a>｜<a id="ConvertLanguage" data-type="CN" data-name="EBC_LANGUAGE" data-cookiedomain=".ebc.net.tw">简体</a></div>
+                <div class="right">
+                        <a href="/Member/Register">加入會員</a>｜<a href="javascript:toggleOverlay('login-dialog');">登入</a>
+                </div>
+                <span class="clear"></span>
+            </div>
+            <!--pc-header END -->
+        </div>
+        <div id="header">
+            <a href="/" title=""><img src="/upload/index/img/logoes/mobile_logo.png"></a>
+        </div>
+        
+
+<div id="react_sc5cGlXRm02AIfzifwCoLw"><section data-reactroot=""><div id="big-banner" style="overflow:hidden"><div id="index-slider" class="flexslider"><div class="flex-viewport" style="overflow:hidden;position:relative"></div><ul class="flex-direction-nav"><li><a class="flex-prev" href="">Previous</a></li><li><a class="flex-next" href="">Next</a></li></ul><div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 3600%; transition: all 0.6s ease 0s; transform: translate3d(-6280px, 0px, 0px);"><li class="sfoto clone" aria-hidden="true" style="width: 785px; float: left; display: block;"><a href="https://emovie.ebc.net.tw/Program/Content/1060" target="_blank" title="魔獸:崛起" data-id="10" data-title="魔獸:崛起"><img src="/upload/emovie/img/banner/2019/02/14/1550153338_49902.jpg" title="魔獸:崛起" alt="魔獸:崛起" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://event.ebc.net.tw/Charity2019/" target="_blank" title="東森傳愛 熱血澎湃 (2019.03.08五，10:00~17:00，228公園捐血車)" data-id="48" data-title="東森傳愛 熱血澎湃 (2019.03.08五，10:00~17:00，228公園捐血車)"><img src="/upload/index/img/banner/2019/02/27/1551283317_15964.jpg" title="東森傳愛 熱血澎湃 (2019.03.08五，10:00~17:00，228公園捐血車)" alt="東森傳愛 熱血澎湃 (2019.03.08五，10:00~17:00，228公園捐血車)" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://wooo.tw/tdfdYma" target="_blank" title="三菱YOYO見面會" data-id="46" data-title="三菱YOYO見面會"><img src="/upload/index/img/banner/2019/02/27/1551276233_12714.jpg" title="三菱YOYO見面會" alt="三菱YOYO見面會" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="http://bit.ly/2sxIIPF" target="_blank" title="足球嘉年華-瀚克寶寶" data-id="42" data-title="足球嘉年華-瀚克寶寶"><img src="/upload/index/img/banner/2019/01/19/1547908590_42521.jpg" title="足球嘉年華-瀚克寶寶" alt="足球嘉年華-瀚克寶寶" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://www.decoart.com.tw/pocky/" target="_blank" title="玩美攝影棚展" data-id="38" data-title="玩美攝影棚展"><img src="/upload/index/img/banner/2019/01/17/1547719324_60440.jpg" title="玩美攝影棚展" alt="玩美攝影棚展" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://go.onelink.me/BAuo/20de099a" target="_blank" title="TikTok X 公主我來了" data-id="32" data-title="TikTok X 公主我來了"><img src="/upload/index/img/banner/2018/12/04/1543941331_76345.jpg" title="TikTok X 公主我來了" alt="TikTok X 公主我來了" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://www.ticket.com.tw/dm.asp?P1=0000019319" target="_blank" title="2019 WDC亞巡賽 國標舞拆帳案" data-id="29" data-title="2019 WDC亞巡賽 國標舞拆帳案"><img src="/upload/index/img/banner/2018/11/29/1543509959_76135.jpg" title="2019 WDC亞巡賽 國標舞拆帳案" alt="2019 WDC亞巡賽 國標舞拆帳案" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://www.facebook.com/pinkpowertaiwan/" target="_blank" title="粉厲害特展" data-id="30" data-title="粉厲害特展"><img src="/upload/index/img/banner/2018/12/03/1543859205_19152.jpg" title="粉厲害特展" alt="粉厲害特展" draggable="false"></a></li><li class="sfoto flex-active-slide" style="width: 785px; float: left; display: block;"><a href="https://news.ebc.net.tw/" target="_blank" title="東森新聞" data-id="1" data-title="東森新聞"><img src="/upload/index/img/banner/2018/03/05/1520275067_12265.jpg" title="東森新聞" alt="東森新聞" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://fnc.ebc.net.tw/" target="_blank" title="東森財經新聞台" data-id="2" data-title="東森財經新聞台"><img src="/upload/index/img/banner/2018/03/05/1520275091_35597.jpg" title="東森財經新聞台" alt="東森財經新聞台" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://www.ebcbuzz.com/" target="_blank" title="噪咖" data-id="3" data-title="噪咖"><img src="/upload/index/img/banner/2018/03/05/1520275102_46969.jpg" title="噪咖" alt="噪咖" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://event.ebc.net.tw/yoyoidol/" target="_blank" title="置頂！" data-id="110" data-title="置頂！"><img src="/upload/yoyotv/img/banner/2018/12/28/1545999155_36783.jpg" title="置頂！" alt="置頂！" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://ettv.ebc.net.tw/Program/Content/1034" target="_blank" title="" data-id="1037" data-title=""><img src="/upload/ettv/img/banner/2019/02/26/1551184090_81130.jpg" title="" alt="" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://drama.ebc.net.tw/Charity/Content/5" target="_blank" title="東森傳愛 熱血澎湃" data-id="1075" data-title="東森傳愛 熱血澎湃"><img src="/upload/drama/img/banner/2019/02/27/1551269382_29482.jpg" title="東森傳愛 熱血澎湃" alt="東森傳愛 熱血澎湃" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://supertv.ebc.net.tw/Program/Content/1020" target="_blank" title="" data-id="1022" data-title=""><img src="/upload/supertv/img/banner/2019/02/12/1549972864_22301.png" title="" alt="" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://goo.gl/HLJGpv" target="_blank" title="粉絲好康大FUN送" data-id="1074" data-title="粉絲好康大FUN送"><img src="/upload/etmovie/img/banner/2019/02/20/1550655227_14706.jpg" title="粉絲好康大FUN送" alt="粉絲好康大FUN送" draggable="false"></a></li><li class="sfoto" style="width: 785px; float: left; display: block;"><a href="https://emovie.ebc.net.tw/Program/Content/1060" target="_blank" title="魔獸:崛起" data-id="10" data-title="魔獸:崛起"><img src="/upload/emovie/img/banner/2019/02/14/1550153338_49902.jpg" title="魔獸:崛起" alt="魔獸:崛起" draggable="false"></a></li><li class="sfoto clone" style="width: 785px; float: left; display: block;" aria-hidden="true"><a href="https://event.ebc.net.tw/Charity2019/" target="_blank" title="東森傳愛 熱血澎湃 (2019.03.08五，10:00~17:00，228公園捐血車)" data-id="48" data-title="東森傳愛 熱血澎湃 (2019.03.08五，10:00~17:00，228公園捐血車)"><img src="/upload/index/img/banner/2019/02/27/1551283317_15964.jpg" title="東森傳愛 熱血澎湃 (2019.03.08五，10:00~17:00，228公園捐血車)" alt="東森傳愛 熱血澎湃 (2019.03.08五，10:00~17:00，228公園捐血車)" draggable="false"></a></li></ul></div><ol class="flex-control-nav flex-control-paging"><li><a class="">1</a></li><li><a class="">2</a></li><li><a class="">3</a></li><li><a class="">4</a></li><li><a class="">5</a></li><li><a class="">6</a></li><li><a class="">7</a></li><li><a class="flex-active">8</a></li><li><a>9</a></li><li><a>10</a></li><li><a>11</a></li><li><a>12</a></li><li><a>13</a></li><li><a>14</a></li><li><a>15</a></li><li><a>16</a></li></ol><ul class="flex-direction-nav"><li><a class="flex-prev" href="#">Previous</a></li><li><a class="flex-next" href="#">Next</a></li></ul></div><span class="clear"></span></div></section></div>
+
+        
+        <div id="ebcmain-inner">
+            <div id="ebcmain">
+                <div id="ebcmain-left">
+                    <div id="contentb">
+                        
+
+<!--東森各頻道-->
+
+
+<div class="ebc-channels">
+    <div class="youarehere">東森各頻道</div>
+    <div id="react_Do4wITMVUam7UVsEv7iqA"><div class="list" data-reactroot=""><a href="https://news.ebc.net.tw/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-news.jpg"></div><div class="title"><img src="/Images/ebcnews.png" style="vertical-align:middle;padding-right:7px">東森新聞</div></div></a><a href="https://fnc.ebc.net.tw/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-fnc.jpg"></div><div class="title"><img src="/Images/ebcfnc.png" style="vertical-align:middle;padding-right:7px">東森財經新聞</div></div></a><a href="https://yoyotv.ebc.net.tw/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-yoyotv.jpg"></div><div class="title"><img src="/Images/ebcyoyotv.png" style="vertical-align:middle;padding-right:7px">東森幼幼</div></div></a><a href="https://ettv.ebc.net.tw/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-ettv.jpg"></div><div class="title"><img src="/Images/ebcettv.png" style="vertical-align:middle;padding-right:7px">東森綜合</div></div></a><a href="https://drama.ebc.net.tw/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-drama.jpg"></div><div class="title"><img src="/Images/ebcdrama.png" style="vertical-align:middle;padding-right:7px">東森戲劇</div></div></a><a href="https://supertv.ebc.net.tw/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-stv.jpg"></div><div class="title"><img src="/Images/ebcstv.png" style="vertical-align:middle;padding-right:7px">東森超視</div></div></a><a href="https://emovie.ebc.net.tw/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-emovie.jpg"></div><div class="title"><img src="/Images/ebcemovie.png" style="vertical-align:middle;padding-right:7px">東森洋片</div></div></a><a href="https://etmovie.ebc.net.tw/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-movie.jpg"></div><div class="title"><img src="/Images/ebcmovie.png" style="vertical-align:middle;padding-right:7px">東森電影</div></div></a><div class="clear"></div></div></div>
+</div>
+
+<!--東森各頻道END-->
+<!--東森相關網站-->
+
+
+<div class="ebc-channels">
+    <div class="youarehere">東森相關網站</div>
+    <div id="react_d2O6ahfvGkW8WBQoclVWkg"><div class="list" data-reactroot=""><a href="http://ettvasia.ebc.net.tw/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-asia.jpg"></div><div class="title" style="line-height:1.2em;height:45px">東森亞洲衛視<br><span style="font-size:0.7em">ETTV ASIA Channels</span></div></div></a><a href="http://www.ettvamerica.com/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-america.jpg"></div><div class="title" style="line-height:1.2em;height:45px">東森美洲衛視<br><span style="font-size:0.7em">ETTV America Corp.</span></div></div></a><a href="https://original.ebc.net.tw/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-creative.jpg"></div><div class="title" style="line-height:1.2em;height:45px">東森創作<br></div></div></a><a href="https://www.ebcbuzz.com/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-ebcbuzz.jpg"></div><div class="title" style="line-height:1.2em;height:45px">噪咖<br></div></div></a><a href="http://yoyokids.ebc.net.tw/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-yoyokids.jpg"></div><div class="title" style="line-height:1.2em;height:45px">東森幼兒園<br></div></div></a><a href="http://mkids.ebc.net.tw/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-mkids.jpg"></div><div class="title" style="line-height:1.2em;height:45px">萌學園幼兒園<br></div></div></a><a href="/Fun" target="_top"><div class="box"><div class="pic"><img src="/Images/169-food.jpg"></div><div class="title" style="line-height:1.2em;height:45px">好吃好玩好康<br></div></div></a><a href="http://yt.ebc.net.tw/" target="_blank"><div class="box"><div class="pic"><img src="/Images/169-youtube.jpg"></div><div class="title" style="line-height:1.2em;height:45px">EBC YouTube<br></div></div></a><div class="clear"></div></div></div>
+</div>
+
+<!--東森各頻道END-->
+<!--東森簡介-->
+<div id="react_xG7wXYDQo0ePeRAp0S25lg"><div class="ebc-introduction" data-reactroot=""><div class="youarehere">東森簡介</div><div class="videobox"><video controls="" style="width:100%" type="video/mp4" src="/upload/index/resources/ebc-intro.mp4" controlslist="nodownload" poster="/Images/ebc.jpg"></video></div><div style="display:none"><div class="ver"><ul class="tabs"><li style="background-color:#f5d83c;border-color:#f5d83c"><a>繁</a></li><li><a>简</a></li><li><a>EN</a></li></ul></div><div style="clear:both" class="tab_container"><div id="tab1" class="tab_content"><div style="background-color:#fcf7ec;padding:5px 15px 1px 10px"><div class="yellowdot"><h3 class="bluebg">勇於挑戰  不斷創新</h3><p>東森電視創立於1991年，歷經二十多年的辛勤耕耘與穩健經營，在台灣經營8個衛星電視頻道，成為台灣電視頻道的第一品牌，也是台灣最大的融媒體平台，是最具影響力及最獲國際肯定的華文媒體。</p></div><div class="yellowdot"><h3 class="bluebg">多元頻道 優質節目</h3><p>東森電視以多樣化的頻道，滿足不同觀眾族群的收視喜好。<br>秉持專業製作的新聞、綜藝、戲劇、以及兒童節目，屢屢獲得各種獎項肯定。<br>以「東森創作」為品牌的自製戲劇，題材多元精彩，行銷全球，並已開發一千多項電視節目的週邊商品。</p></div><div class="yellowdot"><h3 class="bluebg">融媒體計畫 大步起飛</h3><p>2015年啟動融媒體計畫，整合電視與網路內容，佈局多平台發展，不論總觀看時間、互動率和粉絲人數，都是台灣最大的網路媒體。<br>彙集兩萬小時以上精彩節目的「東森娛樂館」，與多平台業者合作，隨時隨地提供觀眾影音娛樂內容。<br>同時大舉投資產製網路原生內容，每年創造超過百億次的影音點閱率。</p></div><div class="yellowdot"><h3 class="bluebg">創新行銷 品牌延伸</h3><p>因應媒體生態的轉變，東森電視為滿足客戶的行銷需求，提出創新的跨螢整合行銷規劃，建構完整的融媒體平台，是業界指名度第一的合作夥伴。<br>以「愛、學習、健康、歡樂」為宗旨成立的「東森YOYO幼兒園」，是台灣幼教連鎖第一品牌，並攜手大陸幼兒教育市場，目前已超過百餘家連鎖幼兒園。</p></div><div class="yellowdot"><h3 class="bluebg">搭橋兩岸 放眼世界</h3><p>跨越海峽，2012年東森財經新聞台在福建平潭播出，成為第一家在大陸落地的台灣媒體；與央視多檔節目合作，更搭建起兩岸交流的平台。東森亞洲衛視3個頻道，覆蓋亞太48個國家地區、涵蓋收視戶超過一千萬戶。東森美洲衛視9個頻道，觸及超過100萬華人家庭，是北美華人收視首選！</p></div><div class="yellowdot"><h3 class="bluebg">社會關懷  企業責任</h3><p>東森電視在不斷成長茁壯之餘，更不忘善盡媒體社會責任，積極投入公益活動，關懷兒童，為弱勢族群發聲，發掘台灣隱形冠軍產業，為社會注入希望與活力。</p></div><div class="yellowdot"><h3 class="bluebg">華文媒體的領航者</h3><p>勇於挑戰，不斷創新，大膽布局。面對新媒體時代的到來，東森電視將持續引領產業發展，全力滿足全球華文媒體觀眾的需求！</p></div></div><div><div class="situation"><div class="youarehere" style="margin-bottom:20px;margin-top:20px;width:90%">東森電視各頻道發展歷程</div><div class="situation-text"><table class="responsive-table"><thead><tr><th scope="col">頻道</th><th scope="col">開播日期</th><th scope="col">頻道沿革</th></tr></thead><tbody><tr><th scope="row">東森新聞台</th><td data-title="開播日期" class="ddate">1997年</td><td data-title="頻道沿革">「東森新聞台」前身為1997年9月與CNBC亞洲台合作成立的「東視新聞台」，為本土與國際新聞兼而有之的新聞頻道。1998年7月更名為「東森新聞台」。1999年，「東森新聞台」與CNBC亞洲台結束合作，成為以本土新聞為主軸的全天候專業新聞頻道。2003年，「東森新聞台」為全台第一家完成新聞片庫數位化的新聞台。2011 年，開闢「氣象趴趴GO」單元，首創氣象主播在戶外播報氣象。</td></tr><tr><th scope="row">東森財經新聞台</th><td data-title="開播日期" class="ddate">1997年</td><td data-title="頻道沿革">「東森財經新聞台」前身為「力霸友聯U3頻道」，1997年9月1日正式開播，當年定位為體育台，主要播映體育節目與轉播體育賽事。2000年10月16日變更為「東森新聞S台」，除各節新聞外，主要製播各類型新聞與報導性節目為主。2007年7月14日，「東森新聞S台」更名為「ETtoday財經生活台」。2008年12月15日更名為「東森財經新聞台」，全天候提供觀眾國內外最新財經新聞資訊與節目。</td></tr><tr><th scope="row">東森綜合台</th><td data-title="開播日期" class="ddate">1995年</td><td data-title="頻道沿革">「東森綜合台」於1995年8月開台，原名稱為「力霸友聯U2綜合台」，1997年9月正式更名為「東森綜合台」。為提供更好的收視畫質，「東森綜合台」於2016年5月進行全面HD數位化製播， 同年11月推出雙語播出服務。「東森綜合台」稟持「闔家觀賞，全員收視」之頻道宗旨，製播不同類型之優質綜藝、戲劇、動畫、談話、生活資訊等節目，打造本土與國際化兼具的專業娛樂頻道。</td></tr><tr><th scope="row">東森超視</th><td data-title="開播日期" class="ddate">1995年</td><td data-title="頻道沿革">「超視」於1995年10月10日開台，成立之初即以全方位綜合頻道為主要訴求，經過多次調整頻道屬性後，2011年起，以全新節目內容在33頻道重新出發，並於2011年7月提升以16：9格式製播、為當時全台唯一全HD高畫質頻道。2015年11月10日，「超視」變更為「東森超視」，製播的強檔綜藝節目深受觀眾喜愛，並屢獲電視金鐘獎肯定，致力成為全家人的生活好夥伴，娛樂與資訊的雙料冠軍。</td></tr><tr><th scope="row">東森戲劇台</th><td data-title="開播日期" class="ddate">1998年</td><td data-title="頻道沿革">「東森戲劇台」前身為「中都卡通台」，1998年1月成立，2000年10月更名為Young TV，2001年1月20日更名ET Jacky，2003年1月1日改為「東森戲劇台」，網羅臺灣、香港、大陸、日本、韓國、泰國等國節目片源，規劃各類型戲劇、單元劇、綜藝娛樂、電視電影等多元節目內容，結合HD高畫質、雙語播出服務，提供觀眾全天候精彩視覺享受。</td></tr><tr><th scope="row">東森電影台</th><td data-title="開播日期" class="ddate">1995年</td><td data-title="頻道沿革">「東森電影台」前身為「力霸友聯U1電影台」，1995年8月正式上衛星，為最早成立的電影台。1997年9月，正式更名為「東森電影台」，全天候提供觀眾國內外各類型電影、動畫卡通、戲劇及演唱會等綜藝節目。</td></tr><tr><th scope="row">東森洋片台</th><td data-title="開播日期" class="ddate">1998年</td><td data-title="頻道沿革">「東森洋片台」前身為「中都電影台」，於1998年1月開台，初期定位為華語與好萊塢洋片之電影頻道。2000年變更為「東森洋片台」，節目內容涵蓋好萊塢商業電影、歐陸獨立電影、日本動畫電影、非華語發音之其他國家電影，以及各國影集與西洋巨星演唱會等多元節目。</td></tr><tr><th scope="row">東森幼幼台</th><td data-title="開播日期" class="ddate">1998年</td><td data-title="頻道沿革">「東森幼幼台」前身為「東森卡通台」，1998年元旦開台，是台灣第一個兒童頻道；2000年更名為「東森幼幼台」，迄今穩居台灣兒童頻道的收視冠軍與領導品牌，以「學習」、「分享」、「關懷」和「帶給孩子快樂童年」為頻道宗旨，頻道節目注重自製與原創，貼近各年齡層兒少觀眾，並且引進國際優質適齡內容，是親子觀眾最安心的首選。<br>榮獲『國家通訊傳播委員會』適齡兒童標章數量為每年(2013年~2017年)全國之冠。</td></tr></tbody></table></div></div></div></div></div></div><a class="more-btn" style="margin-top:10px">more<!-- -->↓</a></div></div>
+<!--東森簡介END-->
+<!--東森創作-->
+    <div class="ebc-originaldrama">
+        <a href="https://original.ebc.net.tw/" target="_blank">
+            <div class="youarehere" style="margin-bottom: 20px;">東森創作</div>
+        </a>
+        <div id="react_rtkCJ50xkUWtLYw7v45rlQ"><div class="slidepic" data-reactroot=""><div class="slick-initialized slick-slider"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 20503px; transform: translate3d(-4949px, 0px, 0px);"><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/7" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731668_51156.jpg" title="致，第三者" alt="致，第三者"></a></div><div style="position: relative; width: 707px;" class="slick-slide" data-slick-index="0" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/1005" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/11/19/1542634763_10188.jpg" title="艾蜜麗的五件事" alt="艾蜜麗的五件事"></a><div class="hot"><img src="/Images/hot.jpg"></div></div><div style="position: relative; width: 707px;" class="slick-slide" data-slick-index="1" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/1004" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/07/17/1531832424_98954.jpg" title="愛的3.14159" alt="愛的3.14159"></a></div><div style="position: relative; width: 707px;" class="slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/1003" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/04/12/1523535432_20018.jpg" title="高塔公主" alt="高塔公主"></a></div><div style="position: relative; width: 707px;" class="slick-slide" data-slick-index="3" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/6" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731620_65939.jpg" title="獅子王強大" alt="獅子王強大"></a></div><div style="position: relative; width: 707px;" class="slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/1002" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/02/07/1518020780_58102.jpg" title="我和我的四個男人" alt="我和我的四個男人"></a></div><div style="position: relative; width: 707px;" class="slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/5" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731724_41563.jpg" title="稍息立正我愛你" alt="稍息立正我愛你"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-current slick-active" data-slick-index="6" aria-hidden="false" tabindex="0"><a href="https://original.ebc.net.tw/Program/Content/10" target="_blank" tabindex="0"><img src="/upload/original/Prog/2018/01/23/1516731742_13571.jpg" title="鐘樓愛人" alt="鐘樓愛人"></a></div><div style="position: relative; width: 707px;" class="slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/4" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731765_79594.jpg" title="如朕親臨" alt="如朕親臨"></a></div><div style="position: relative; width: 707px;" class="slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/8" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731780_80850.jpg" title="必勝練習生" alt="必勝練習生"></a></div><div style="position: relative; width: 707px;" class="slick-slide" data-slick-index="9" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/3" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731648_88575.jpg" title="我和我的十七歲" alt="我和我的十七歲"></a></div><div style="position: relative; width: 707px;" class="slick-slide" data-slick-index="10" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/1" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731796_65809.jpg" title="原來1家人" alt="原來1家人"></a></div><div style="position: relative; width: 707px;" class="slick-slide" data-slick-index="11" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/11" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/24/1516809195_12731.jpg" title="我的30定律" alt="我的30定律"></a></div><div style="position: relative; width: 707px;" class="slick-slide" data-slick-index="12" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/12" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/24/1516810584_34204.jpg" title="必娶女人" alt="必娶女人"></a></div><div style="position: relative; width: 707px;" class="slick-slide" data-slick-index="13" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/7" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731668_51156.jpg" title="致，第三者" alt="致，第三者"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="14" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/1005" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/11/19/1542634763_10188.jpg" title="艾蜜麗的五件事" alt="艾蜜麗的五件事"></a><div class="hot"><img src="/Images/hot.jpg"></div></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="15" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/1004" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/07/17/1531832424_98954.jpg" title="愛的3.14159" alt="愛的3.14159"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="16" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/1003" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/04/12/1523535432_20018.jpg" title="高塔公主" alt="高塔公主"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="17" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/6" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731620_65939.jpg" title="獅子王強大" alt="獅子王強大"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="18" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/1002" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/02/07/1518020780_58102.jpg" title="我和我的四個男人" alt="我和我的四個男人"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="19" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/5" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731724_41563.jpg" title="稍息立正我愛你" alt="稍息立正我愛你"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="20" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/10" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731742_13571.jpg" title="鐘樓愛人" alt="鐘樓愛人"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="21" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/4" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731765_79594.jpg" title="如朕親臨" alt="如朕親臨"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="22" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/8" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731780_80850.jpg" title="必勝練習生" alt="必勝練習生"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="23" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/3" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731648_88575.jpg" title="我和我的十七歲" alt="我和我的十七歲"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="24" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/1" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731796_65809.jpg" title="原來1家人" alt="原來1家人"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="25" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/11" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/24/1516809195_12731.jpg" title="我的30定律" alt="我的30定律"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="26" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/12" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/24/1516810584_34204.jpg" title="必娶女人" alt="必娶女人"></a></div><div style="position: relative; width: 707px;" class="slick-slide slick-cloned" data-slick-index="27" aria-hidden="true" tabindex="-1"><a href="https://original.ebc.net.tw/Program/Content/7" target="_blank" tabindex="-1"><img src="/upload/original/Prog/2018/01/23/1516731668_51156.jpg" title="致，第三者" alt="致，第三者"></a></div></div></div></div><div><div class="arrow-left"><img src="/Images/arrow-left.png" class="slick-arrow" style="display: inline;"></div><div class="arrow-right"><img src="/Images/arrow-right.png" class="slick-arrow" style="display: inline;"></div></div><div class="originaldrama-logo"><img src="/Images/ebc-creativelogo_01.png"></div></div></div>
+    </div>
+<!--東森創作END-->
+<!--東森歷史-->
+<div class="ebc-history">
+    <div class="youarehere" style="margin-bottom:20px;">東森沿革歷史</div>
+    <div class="history">
+        <!--1年-->
+        <div class="year">
+            <div class="yearyear">2019年</div>
+            <!--1個-->
+            <div class="one">
+                <div style="padding-bottom:5px;">
+                    <div class="date">2月</div>
+                </div>
+                <ul>
+                    <li>
+                        <div class="event">【57彩券王】開獎轉播 (2015-2019年)</div>
+                        <ul>
+                            <li>
+                                「東森財經新聞台」《57彩券王》承製台灣彩券開獎轉播，製作報導多元個案，傳遞公益彩券對各種弱勢族群的幫助，以及公益彩券中獎人的愛心，同時呼籲民眾做公益、分享愛。另外，「東森財經新聞台」主播主持人也熱心參與各項公益活動<div class="history-img"><img src="/Images/2017-01.jpg"></div>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <div class="event">【YOYO愛心點點名】關懷病童活動(2011-2019年)</div>
+                        <ul>
+                            <li>
+                                「東森幼幼台」發揮媒體社會責任，積極參與公益活動，每年定期舉辦3~4次至各家醫院進行【YOYOTV愛心探訪-關懷病童】活動，希望藉由頻道與YOYO家族藝人的力量，能帶給病童們快樂、希望，與更大的勇氣抵抗病魔
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <!--1個 END-->
+        </div>
+        <!--1年 END-->
+
+        <a class="more-btn" href="/History">more↓</a>
+
+    </div>
+</div><!--history END-->
+
+    <div id="index-mobile-only">
+        <div class="ad_300250" style="margin:0 auto; position:relative;">
+
+
+    <div id="div-gpt-ad-1515034397119-0" style="width:300px; hight:250px;">
+        <script>
+            LoadDfp('00.EBC_All_1',[[300,250]], 'div-gpt-ad-1515034397119-0');
+        </script>
+    </div>
+
+        </div>
+    </div>
+<div id="react_VvckWIOKEkxbJ8xHGHVIQ"><section data-reactroot=""><div class="banner" data-title="三菱YOYO見面會" data-id="47"><a href="https://wooo.tw/tdfdYma" target="_blank" data-id="47" data-title="三菱YOYO見面會"><img src="/upload/index/img/banner/2019/02/27/1551276317_74341.jpg" title="三菱YOYO見面會" alt="三菱YOYO見面會"></a></div><div class="banner" data-title="台啤_王者之生電影院(1、2月)" data-id="35"><a href="https://www.twbeer.com.tw/" target="_blank" data-id="35" data-title="台啤_王者之生電影院(1、2月)"><img src="/upload/index/img/banner/2018/12/21/1545408009_34084.jpg" title="台啤_王者之生電影院(1、2月)" alt="台啤_王者之生電影院(1、2月)"></a></div><div class="banner" data-title="粉厲害特展" data-id="31"><a href="https://www.facebook.com/pinkpowertaiwan/" target="_blank" data-id="31" data-title="粉厲害特展"><img src="/upload/index/img/banner/2018/12/03/1543859329_77512.jpg" title="粉厲害特展" alt="粉厲害特展"></a></div></section></div>
+
+
+                    </div>
+                </div>
+
+                <span class="clear"></span>
+
+            </div><!--ebcmain END -->
+        </div><!--ebcmain-inner END -->
+
+
+<div id="footer-inner">
+    <div id="footer">
+
+            <div id="menu">
+                <ul>
+                    <li><a href="https://www.1111.com.tw/corp/50487691/#c4" target="_blank">東森徵才</a></li>
+                    <li><a href="/Welfare">員工福利</a></li>
+                    <li><a href="/EmpWelfare">員工專區</a></li>
+                    <li><a href="/Purchase">招標公告</a></li>
+                    <li><a href="/Member">會員中心</a></li>
+                    <li><a href="/Contact">聯絡我們</a></li>
+                        <li><a href="/Business" style="color: #0aa8fa">業務服務</a></li>
+                        <li><a href="/Event" style="color: #0aa8fa">活動專區</a></li>
+                        <li><a href="https://news.ebc.net.tw/Spy" target="_blank" style="color: #0aa8fa">東森新聞立即爆料</a></li>
+                </ul>
+                <div class="clear"></div>
+            </div>
+
+            <div id="info">
+                東森電視事業股份有限公司 10041 台北市忠孝西路一段4號14樓 客服專線:02-2388-5918 <a href="https://www.ebc.net.tw/Member" target="_blank">隱私權政策</a><br>
+                服務時間：週一至週五 09:00-20:00｜傳真：02-2388-5846｜客服信箱：<a href="mailto:service@ebc.net.tw">service@ebc.net.tw</a><br>
+                東森電視 版權所有 © 2019 EBC All Rights Reserved.
+            </div>
+    </div>
+</div>
+
+    </div>
+    <!-- gotop STR -->
+    <div id="gotop"><a href="#" class="scrollup">Scroll</a></div><!-- gotop END -->
+    
+<div class="overlay overlay-scale" id="login-dialog">
+    <button type="button" class="overlay-close">Close</button>
+    <div class="overlay-content overlay-login">
+        <div class="final-top-member">
+            <span class="cate">登入</span>
+        </div>
+        <div class="final-bottom-member">
+            <div class="login_message">
+                <div><label>帳號：</label><input id="ebc_acc" type="text" class="shText" style="width:180px;color:black;"></div>
+                <div><label>密碼：</label><input id="ebc_pwd" type="password" class="shText" style="width:180px;color:black;"></div>
+                <div><label>驗證碼：</label><input id="ebc_check" type="text" class="shText" style="width:180px;color:black;"><img id="captcha" style="vertical-align:middle">&nbsp;<a href="javascript:;" onclick="Captcha('captcha')">換一組</a></div>
+                <div><input id="remember" type="checkbox" class="squaredFour" style="width:1.2em; vertical-align:middle;">在此電腦保存登入資訊一週</div>
+                <div>
+                    <input type="button" class="message_btn2" value="登入" style="display:inline-block; margin-right:10px;" data-type="ebc">
+                    <input type="button" class="message_btn2" value="Facebook帳號登入" style="display:inline-block; background-color: #3b5998; color:#fff;" data-type="fb">
+                </div>
+                <div>
+                    <span class="checknumber" style="margin-top:10px;">
+                        <a class="forgetPassWord">忘記密碼？</a><br>
+                        <a href="/Member/Register">還不是會員？</a>
+                    </span>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+    
+<div class="overlay overlay-scale" id="forget-password-dialog">
+    <button type="button" class="overlay-close">Close</button>
+    <div class="overlay-content overlay-login">
+        <div class="final-top-member">
+            <span class="cate">忘記密碼</span>
+        </div>
+        <div class="final-bottom-member">
+            <div class="login_message">
+                <div><label>會員帳號：</label><input id="forget_acc" type="text" class="shText" style="width:300px;color:black;" maxlength="12"></div>
+                <div style="text-align:center"><label>或</label></div>
+                <div><label>電子信箱：</label><input id="forget_email" type="text" class="shText" style="width:300px;color:black;" maxlength="200"></div>
+                <div><label>驗證碼：</label><input id="forget_captcha_input" type="text" class="shText" style="width:120px;color:black;" maxlength="6"><img id="forget_captcha" style="vertical-align:middle">&nbsp;<a href="javascript:;" onclick="Captcha('forget_captcha')">換一組</a></div>
+                <p style="font-size:0.9em;">*重設密碼通知信將盡速E-mail您，若您過久未收到信件，請來電由客服人員為您處理。</p>
+                <div>
+                    <input type="button" class="message_btn2" value="確定送出" style="display:inline-block; margin-right:10px;" data-type="ebc_forget">
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+
+    <script src="/bundles/lodash?v=S0-Ta9gtplhgFG4JP1WbEc780zFt0FdG12Ig9v_SSGo1"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.26.0/polyfill.min.js"></script>
+<script src="/bundles/jquery?v="></script>
+<script src="https://unpkg.com/prop-types/prop-types.min.js"></script>
+<script src="https://unpkg.com/react@16.0.0/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@16.0.0/umd/react-dom.production.min.js"></script>
+<script src="/bundles/project-common?v=Lyu1egOPA5v4EgWmAR5zGWvC6O58gvBN_pk9SsZfwbU1"></script>
+<script src="/bundles/ad-image?v=svsWvhHs0hggssB9W2htghXZiU6Nsi-0tGn4RC1BdUI1"></script>
+
+
+
+    
+    <script src="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
+<script src="/bundles/ebc-websites?v=vccYzojNoUiZLBwzzUqNSxvW-4ctGP0CnG6aB0GoqgU1"></script>
+<script src="/bundles/image-slider?v=lpftUNEfqNuseiI18y54QLy-iSsQSBGR10Yymrts-PA1"></script>
+<script src="/bundles/embed-video-frame?v=L09-kRmvRPLmwPJpZmYyju0OvXZZaA7XEhoKl5ufXlA1"></script>
+<script src="/bundles/image-slick?v=k5eppGtSqLTJdXt7qsvOVd_8ehkGcYi9qCkKKXpp_kk1"></script>
+<script src="/bundles/ebc-intro?v=RwWhpvvBVDN13xv2SIeYAR0vfr5gpOWhQcIThI8Julc1"></script>
+
+
+    
+    <script>ReactDOM.hydrate(React.createElement(EbcWebsites, {"typeCode":1,"models":[{"name":"東森新聞","url":"https://news.ebc.net.tw/","imageLogo":"/Images/169-news.jpg","imageChannelNo":"/Images/ebcnews.png"},{"name":"東森財經新聞","url":"https://fnc.ebc.net.tw/","imageLogo":"/Images/169-fnc.jpg","imageChannelNo":"/Images/ebcfnc.png"},{"name":"東森幼幼","url":"https://yoyotv.ebc.net.tw/","imageLogo":"/Images/169-yoyotv.jpg","imageChannelNo":"/Images/ebcyoyotv.png"},{"name":"東森綜合","url":"https://ettv.ebc.net.tw/","imageLogo":"/Images/169-ettv.jpg","imageChannelNo":"/Images/ebcettv.png"},{"name":"東森戲劇","url":"https://drama.ebc.net.tw/","imageLogo":"/Images/169-drama.jpg","imageChannelNo":"/Images/ebcdrama.png"},{"name":"東森超視","url":"https://supertv.ebc.net.tw/","imageLogo":"/Images/169-stv.jpg","imageChannelNo":"/Images/ebcstv.png"},{"name":"東森洋片","url":"https://emovie.ebc.net.tw/","imageLogo":"/Images/169-emovie.jpg","imageChannelNo":"/Images/ebcemovie.png"},{"name":"東森電影","url":"https://etmovie.ebc.net.tw/","imageLogo":"/Images/169-movie.jpg","imageChannelNo":"/Images/ebcmovie.png"}]}), document.getElementById("react_Do4wITMVUam7UVsEv7iqA"));
+ReactDOM.hydrate(React.createElement(EbcWebsites, {"typeCode":2,"models":[{"name":"東森亞洲衛視","url":"http://ettvasia.ebc.net.tw/","imageLogo":"/Images/169-asia.jpg","nameEn":"ETTV ASIA Channels"},{"name":"東森美洲衛視","url":"http://www.ettvamerica.com/","imageLogo":"/Images/169-america.jpg","nameEn":"ETTV America Corp."},{"name":"東森創作","url":"https://original.ebc.net.tw/","imageLogo":"/Images/169-creative.jpg"},{"name":"噪咖","url":"https://www.ebcbuzz.com/","imageLogo":"/Images/169-ebcbuzz.jpg"},{"name":"東森幼兒園","url":"http://yoyokids.ebc.net.tw/","imageLogo":"/Images/169-yoyokids.jpg"},{"name":"萌學園幼兒園","url":"http://mkids.ebc.net.tw/","imageLogo":"/Images/169-mkids.jpg"},{"name":"好吃好玩好康","url":"/Fun","imageLogo":"/Images/169-food.jpg","openTarget":"_top"},{"name":"EBC YouTube","url":"http://yt.ebc.net.tw/","imageLogo":"/Images/169-youtube.jpg"}]}), document.getElementById("react_d2O6ahfvGkW8WBQoclVWkg"));
+ReactDOM.hydrate(React.createElement(EbcIntro, {"currentType":1,"introTitle":"東森簡介","tabTextTW":"繁","tabTextCN":"简","tabTextEN":"EN","videoSrc":"/upload/index/resources/ebc-intro.mp4","videoPoster":"/Images/ebc.jpg"}), document.getElementById("react_xG7wXYDQo0ePeRAp0S25lg"));
+ReactDOM.hydrate(React.createElement(ImageSlick, {"models":[{"is_hot":"Y","openlink":"Y","id":1005,"title":"艾蜜麗的五件事","url":"https://original.ebc.net.tw/Program/Content/1005","image":"/upload/original/Prog/2018/11/19/1542634763_10188.jpg"},{"is_hot":"N","openlink":"Y","id":1004,"title":"愛的3.14159","url":"https://original.ebc.net.tw/Program/Content/1004","image":"/upload/original/Prog/2018/07/17/1531832424_98954.jpg"},{"is_hot":"N","openlink":"Y","id":1003,"title":"高塔公主","url":"https://original.ebc.net.tw/Program/Content/1003","image":"/upload/original/Prog/2018/04/12/1523535432_20018.jpg"},{"is_hot":"N","openlink":"Y","id":6,"title":"獅子王強大","url":"https://original.ebc.net.tw/Program/Content/6","image":"/upload/original/Prog/2018/01/23/1516731620_65939.jpg"},{"is_hot":"N","openlink":"Y","id":1002,"title":"我和我的四個男人","url":"https://original.ebc.net.tw/Program/Content/1002","image":"/upload/original/Prog/2018/02/07/1518020780_58102.jpg"},{"is_hot":"N","openlink":"Y","id":5,"title":"稍息立正我愛你","url":"https://original.ebc.net.tw/Program/Content/5","image":"/upload/original/Prog/2018/01/23/1516731724_41563.jpg"},{"is_hot":"N","openlink":"Y","id":10,"title":"鐘樓愛人","url":"https://original.ebc.net.tw/Program/Content/10","image":"/upload/original/Prog/2018/01/23/1516731742_13571.jpg"},{"is_hot":"N","openlink":"Y","id":4,"title":"如朕親臨","url":"https://original.ebc.net.tw/Program/Content/4","image":"/upload/original/Prog/2018/01/23/1516731765_79594.jpg"},{"is_hot":"N","openlink":"Y","id":8,"title":"必勝練習生","url":"https://original.ebc.net.tw/Program/Content/8","image":"/upload/original/Prog/2018/01/23/1516731780_80850.jpg"},{"is_hot":"N","openlink":"Y","id":3,"title":"我和我的十七歲","url":"https://original.ebc.net.tw/Program/Content/3","image":"/upload/original/Prog/2018/01/23/1516731648_88575.jpg"},{"is_hot":"N","openlink":"Y","id":1,"title":"原來1家人","url":"https://original.ebc.net.tw/Program/Content/1","image":"/upload/original/Prog/2018/01/23/1516731796_65809.jpg"},{"is_hot":"N","openlink":"Y","id":11,"title":"我的30定律","url":"https://original.ebc.net.tw/Program/Content/11","image":"/upload/original/Prog/2018/01/24/1516809195_12731.jpg"},{"is_hot":"N","openlink":"Y","id":12,"title":"必娶女人","url":"https://original.ebc.net.tw/Program/Content/12","image":"/upload/original/Prog/2018/01/24/1516810584_34204.jpg"},{"is_hot":"N","openlink":"Y","id":7,"title":"致，第三者","url":"https://original.ebc.net.tw/Program/Content/7","image":"/upload/original/Prog/2018/01/23/1516731668_51156.jpg"}]}), document.getElementById("react_rtkCJ50xkUWtLYw7v45rlQ"));
+ReactDOM.hydrate(React.createElement(AdImage, {"models":[{"id":47,"title":"三菱YOYO見面會","url":"https://wooo.tw/tdfdYma","image":"/upload/index/img/banner/2019/02/27/1551276317_74341.jpg"},{"id":35,"title":"台啤_王者之生電影院(1、2月)","url":"https://www.twbeer.com.tw/","image":"/upload/index/img/banner/2018/12/21/1545408009_34084.jpg"},{"id":31,"title":"粉厲害特展","url":"https://www.facebook.com/pinkpowertaiwan/","image":"/upload/index/img/banner/2018/12/03/1543859329_77512.jpg"}]}), document.getElementById("react_VvckWIOKEkxbJ8xHGHVIQ"));
+ReactDOM.hydrate(React.createElement(ImageSlider, {"models":[{"id":48,"title":"東森傳愛 熱血澎湃 (2019.03.08五，10:00~17:00，228公園捐血車)","url":"https://event.ebc.net.tw/Charity2019/","image":"/upload/index/img/banner/2019/02/27/1551283317_15964.jpg"},{"id":46,"title":"三菱YOYO見面會","url":"https://wooo.tw/tdfdYma","image":"/upload/index/img/banner/2019/02/27/1551276233_12714.jpg"},{"id":42,"title":"足球嘉年華-瀚克寶寶","url":"http://bit.ly/2sxIIPF","image":"/upload/index/img/banner/2019/01/19/1547908590_42521.jpg"},{"id":38,"title":"玩美攝影棚展","url":"https://www.decoart.com.tw/pocky/","image":"/upload/index/img/banner/2019/01/17/1547719324_60440.jpg"},{"id":32,"title":"TikTok X 公主我來了","url":"https://go.onelink.me/BAuo/20de099a","image":"/upload/index/img/banner/2018/12/04/1543941331_76345.jpg"},{"id":29,"title":"2019 WDC亞巡賽 國標舞拆帳案","url":"https://www.ticket.com.tw/dm.asp?P1=0000019319","image":"/upload/index/img/banner/2018/11/29/1543509959_76135.jpg"},{"id":30,"title":"粉厲害特展","url":"https://www.facebook.com/pinkpowertaiwan/","image":"/upload/index/img/banner/2018/12/03/1543859205_19152.jpg"},{"id":1,"title":"東森新聞","url":"https://news.ebc.net.tw/","image":"/upload/index/img/banner/2018/03/05/1520275067_12265.jpg"},{"id":2,"title":"東森財經新聞台","url":"https://fnc.ebc.net.tw/","image":"/upload/index/img/banner/2018/03/05/1520275091_35597.jpg"},{"id":3,"title":"噪咖","url":"https://www.ebcbuzz.com/","image":"/upload/index/img/banner/2018/03/05/1520275102_46969.jpg"},{"id":110,"title":"置頂！","url":"https://event.ebc.net.tw/yoyoidol/","image":"/upload/yoyotv/img/banner/2018/12/28/1545999155_36783.jpg"},{"id":1037,"title":"","url":"https://ettv.ebc.net.tw/Program/Content/1034","image":"/upload/ettv/img/banner/2019/02/26/1551184090_81130.jpg"},{"id":1075,"title":"東森傳愛 熱血澎湃","url":"https://drama.ebc.net.tw/Charity/Content/5","image":"/upload/drama/img/banner/2019/02/27/1551269382_29482.jpg"},{"id":1022,"title":"","url":"https://supertv.ebc.net.tw/Program/Content/1020","image":"/upload/supertv/img/banner/2019/02/12/1549972864_22301.png"},{"id":1074,"title":"粉絲好康大FUN送","url":"https://goo.gl/HLJGpv","image":"/upload/etmovie/img/banner/2019/02/20/1550655227_14706.jpg"},{"id":10,"title":"魔獸:崛起","url":"https://emovie.ebc.net.tw/Program/Content/1060","image":"/upload/emovie/img/banner/2019/02/14/1550153338_49902.jpg"}]}), document.getElementById("react_sc5cGlXRm02AIfzifwCoLw"));
+</script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=854679562';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/vy-MhgbfL4v.js?version=44#channel=fd6691a68&amp;origin=https%3A%2F%2Fwww.ebc.net.tw" style="border: none;"></iframe></div><div></div></div></div></body></html>

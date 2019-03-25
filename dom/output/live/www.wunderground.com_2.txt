@@ -1,0 +1,1538 @@
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+  <title>Weather Forecast &amp; Reports - Long Range &amp; Local | Weather Underground</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="rating" content="general">
+  <meta name="referrer" content="no-referrer-when-downgrade">
+  <meta name="apple-itunes-app" content="app-id=486154808, affiliate-data=at=1010lrYB&amp;ct=website_wu">
+  <meta name="fb_app_id" content="325331260891611">
+  <meta name="fb_channel_url" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta property="og:site_name" content="Weather Underground">
+  <meta property="og:type" content="article">
+  <meta name="description" content="Weather Underground provides local &amp; long range weather forecasts, weather reports, maps &amp; tropical weather conditions for locations worldwide.">
+  <meta name="wui-member-logged-in" content="false">
+  <meta property="og:title" content="Weather Forecast &amp; Reports - Long Range &amp; Local">
+  <meta property="og:url" content="/">
+  <meta property="og:image" content="https://www.wunderground.com/static/opengraph-logo.png">
+  <meta property="og:description" content="Weather Underground provides local &amp; long range weather forecasts, weather reports, maps &amp; tropical weather conditions for locations worldwide.">
+  <meta property="com.silverpop.brandeddomains" content="www.pages02.net,www.wunderground.com">
+
+  <link rel="shortcut icon" href="https://icons.wxug.com/favicon.png" type="image/png">
+  <link rel="apple-touch-icon" href="https://icons.wxug.com/favicon.png">
+  <link rel="dns-prefetch" href="https://icons.wxug.com">
+  <link rel="stylesheet" href="/bundle-universal/omnibus.fab0ff26209a7eb873acd23fe8f1210e.css" type="text/css">
+  <link rel="dns-prefetch" href="https://api-ak.wunderground.com">
+  <link rel="canonical" href="https://www.wunderground.com/">
+  <link rel="dns-prefetch" href="https://cdn.polyfill.io">
+  <link rel="dns-prefetch" href="https://tags.tiqcdn.com">
+  <link rel="dns-prefetch" href="https://rtax.criteo.com">
+  <link rel="dns-prefetch" href="https://ad.crwdcntrl.net">
+  <link rel="dns-prefetch" href="https://aax.amazon-adsystem.com">
+  <link rel="dns-prefetch" href="https://c.amazon-adsystem.com">
+  <link rel="dns-prefetch" href="https://triggers1.wfxtriggers.com">
+
+  <script src="https://js-agent.newrelic.com/nr-spa-1071.min.js"></script><script type="text/javascript" async="" src="https://www.zergnet.com/zerg.js?id=66136"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script>
+  //<![CDATA[
+  window.webpackManifest = {"0":"city-history-module.9af2efef01a92b6753b4.js","1":"video-module.4338954dc3409bd5950a.js","2":"health-module.8f697267290f6743a285.js","3":"city-today-module.f036d0ff5e70b05214b5.js","4":"hurricane-module.6e3d18105c06bf3d60ee.js","5":"city-ten-day-module.27afc070f47a91d1fb94.js","6":"city-hourly-module.08c1b5d585f564a32d37.js","7":"precipitation-module.96aa4cd20eb24bc4767c.js","8":"city-history-calendar-module.0e6eb964d7c1d7a1e5fe.js","9":"city-severe-module.59ea8818e3884f3050ce.js","10":"radar-module.c278a90dcf42f203b474.js","11":"article-page-module.ce44f302c19f86d9be86.js","12":"page-module.3504dd1f2002f2ce48a5.js","13":"member-mydevices-module.b26a20c0e9b434f78bac.js","14":"landing-purpleair-module.c803a4da2f289e5d5063.js","15":"test-module.c0f7f86b6833aa6fb2f5.js","16":"hurricane-storm-module.b39a6557df69025a4175.js","17":"wundermap-module.081f05f67d2ed5783559.js","18":"homepage-module.271d237b7a7610c93056.js","19":"cat-six-article-module.66c1b6ccdd2d002665cd.js","20":"printer-cityforecast-module.fbac072e489be971e51f.js","21":"cat-six-landing-module.edc3ab5a20505843bb5f.js","22":"cat-six-author-module.d2911d358fa73306a402.js","23":"cat-six-archive-module.dd8566c0717db0bcb0a1.js","24":"prepare-module.e1a1d071da27cf59b156.js","25":"poster-module.9a8503d581e8c9f39933.js","26":"full-screen-weather-module.bf544e577d0df28ebfe3.js","27":"weather-posters-module.cd8bec65f928e39c7af9.js","28":"infographic-module.3d1f0840f69e112827ae.js","29":"articles-list-page-module.df5b7d7d1049e2cf0fb2.js","30":"weather-infographics-module.e54530fde746b8402f87.js","31":"about-contact-us-module.70d1c218f470b924234c.js","32":"member-favorites-module.4a7e0532667084a216d8.js","33":"member-settings-module.9cd1b09adbdb695a776f.js","34":"about-our-company-module.4d89a074462afeb531f0.js","35":"prepare-for-module.b6f2e13b1338c139cb21.js","36":"download-module.a7bb114f4bb96532042a.js","37":"about-data-module.304e0ea82e769c325fe1.js","38":"universal-module.61a5a47924349d64c17b.js","39":"hurricane-archive-module.1785ec14e3a1f6689926.js","40":"hurricane-archive-year-module.c80586e5ea61c3050195.js","41":"wunder-friends-module.4f578a0f9687543e35b9.js","42":"member-iotmywebcam-module.4cf25a2c1088ad4d01a1.js","43":"member-iotmydata-module.85f811d17a86fb4ce5cc.js","44":"sign-up-module.3c47e7cbeb10f0dbb282.js","45":"foobot-success-module.40582c1ddf1a3f5ead81.js","46":"foobot-failure-module.dbee47115c178bb40fa2.js","47":"reset-password-module.1f7308284ca9cfc7bbfe.js","48":"login-module.2186a716b4b7cf7f7d9e.js","49":"data-rights-module.77442c5117ccb95d0116.js","50":"vendor.2.4d3ab26d0433e1bdf66d.js","51":"polyfills.a4427223207f6ffd6222.js","52":"index.d221699f75866826e3b5.js","53":"vendor.1.0d60607903526c73dfbe.js","54":"body-scripts.6a1f08b0d05035e1b641.js","55":"ads-meta-refresh.2f4720be004af9a9024a.js","56":"ads-no-meta-refresh.d9aea161dc9cef77cdb5.js","57":"ads-action-refresh.4b13616e4c8d7ab4cf64.js","58":"dpr.372f909c2022193f4d8f.js","59":"metrics.32345f580b5ceb5b4e1a.js","60":"omnibus.ba38f0594eeb1423e5f8.js","61":"head-scripts.2643cd10e9c001ad8c81.js","62":"ads-disabled.41270edbdc872ca7c065.js"};
+  //]]>
+  </script>
+  <script src="/bundle-universal/manifest.06985bb5f3130dc55f6c.js"></script>
+  <script src="/bundle-universal/head-scripts.2643cd10e9c001ad8c81.js"></script>
+  <script>
+window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(20),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{h?h-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(21),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(13),t(12),"addEventListener"in window&&t(6),s.xhrWrappable&&t(14),d=!0)}c.on("fn-start",function(t,e,n){d&&(h+=1)}),c.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,S=y.hash,this[u]=b.now()}function o(){M--,y.hash!==S&&i(0,!0);var t=b.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=b.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,b=t("loader");if(w[v]&&b.xhrWrappable){var g=t(10),x=t(11),E=t(8),P=t(6),O=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),N=j.get("tracer");t(15),b.features.spa=!0;var S,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(h,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),P.buffer([u]),O.buffer(["setTimeout"+s,"clearTimeout"+c,u]),T.buffer([u,"new-xhr","send-xhr"+c]),R.buffer([m+c,m+"-done",m+f+c,m+f+s]),E.buffer(["newURL"]),g.buffer([u]),x.buffer(["propagate",p,h,"executor-err","resolve"+c]),N.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+c),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+c),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),c=t(12),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(23)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(20);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&&d&&p&&(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(23)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){s.emit("jsonp-error",[],p),s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=c(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),s.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function c(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var s=t("ee").get("jsonp"),f=t(23)(s);if(e.exports=s,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*).([^.]+)/,p=/^(w+)(.|$)(.*)$/,h=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,h,"dom-"),f.inPlace(HTMLHeadElement.prototype,h,"dom-"),f.inPlace(HTMLBodyElement.prototype,h,"dom-"),s.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(23)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(23),a=t("ee").get("promise"),c=i(a),s=t(20),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(23)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(23)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",c)}function i(t){b.push(t),l&&(x?x.then(a):v?v(a):(E=-E,P.data=E))}function a(){for(var t=0;t<b.length;t++)r([],b[t]);b.length&&(b=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(23)(u),p=NREUM.o,h=p.XHR,l=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],b=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,g),g.prototype=h.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var x=m&&m.resolve();if(!v&&!m){var E=1,P=document.createTextNode(E);new l(a).observe(P,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(19),l=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(20),c=t(21),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[/s](d+.d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],21:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],22:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],23:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(21),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(20),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(20),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1071.min.js"},b=m&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(17),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(22)},{}]},{},["loader",2,15,5,3,4]);
+    ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"e6bbbab7f0",applicationID:"38901983",sa:1}
+  </script>
+  <script>
+function getCookiesMap(t){return t.split(";").map(function(t){return t.trim().split(/=(.+)/)}).reduce(function(t,i){return t[i[0]]=i[1],t},{})}getCookiesMap(document.cookie).ci.split("&").forEach(function(t){newrelic.setCustomAttribute(t.split("=")[0],t.split("=")[1])});
+  </script>
+
+  <base href="/">
+<script>window['UNIVERSAL_CACHE'] = {"89a1ba5c47eb9878a17beb8745147a36":{"value":{"location":{"address":["San Francisco, California, United States of America","San Francisco, Zulia, Venezuela","San Francisco de Macorís, Duarte Province, Dominican Republic","São Francisco do Sul, Santa Catarina, Brazil","San Francisco, Córdoba Province, Argentina","San Francisco Coaxusco, México, Mexico","São Francisco de Paula, Rio Grande do Sul, Brazil","San Francisco del Rincón, Guanajuato, Mexico","San Francisco Ocotlán, Puebla, Mexico","San Francisco, 48003, Bilbao, Biscay, Spain"],"adminDistrict":["California","Zulia","Duarte Province","Santa Catarina","Córdoba Province","México","Rio Grande do Sul","Guanajuato","Puebla","Biscay"],"adminDistrictCode":["CA",null,null,null,null,null,null,null,null,null],"city":["San Francisco","San Francisco","San Francisco de Macorís","São Francisco do Sul","San Francisco","San Francisco Coaxusco","São Francisco de Paula","San Francisco del Rincón","San Francisco Ocotlán","Bilbao"],"country":["United States of America","Venezuela","Dominican Republic","Brazil","Argentina","Mexico","Brazil","Mexico","Mexico","Spain"],"countryCode":["US","VE","DO","BR","AR","MX","BR","MX","MX","ES"],"displayName":["San Francisco","San Francisco","San Francisco de Macorís","São Francisco do Sul","San Francisco","San Francisco Coaxusco","São Francisco de Paula","San Francisco del Rincón","San Francisco Ocotlán","San Francisco"],"ianaTimeZone":["America/Los_Angeles","America/Caracas","America/Santo_Domingo","America/Sao_Paulo","America/Argentina/Cordoba","America/Mexico_City","America/Sao_Paulo","America/Mexico_City","America/Mexico_City","Europe/Madrid"],"latitude":[37.765,10.549,19.3,-26.25,-31.436,19.27,-29.447,21.018,19.13,43.256],"locale":[{"locale1":null,"locale2":"San Francisco","locale3":null,"locale4":null},{"locale1":null,"locale2":"San Francisco","locale3":null,"locale4":null},{"locale1":null,"locale2":"San Francisco de Macorís","locale3":null,"locale4":null},{"locale1":null,"locale2":"São Francisco do Sul","locale3":null,"locale4":null},{"locale1":null,"locale2":"San Francisco","locale3":null,"locale4":null},{"locale1":null,"locale2":"San Francisco Coaxusco","locale3":null,"locale4":null},{"locale1":null,"locale2":"São Francisco de Paula","locale3":null,"locale4":null},{"locale1":null,"locale2":"San Francisco del Rincón","locale3":null,"locale4":null},{"locale1":null,"locale2":"San Francisco Ocotlán","locale3":null,"locale4":null},{"locale1":null,"locale2":"Bilbao","locale3":"San Francisco","locale4":null}],"longitude":[-122.463,-71.677,-70.25,-48.631,-62.071,-99.63,-50.578,-101.858,-98.27,-2.929],"neighborhood":[null,null,null,null,null,null,null,null,null,null],"placeId":["69bedc6a5b6e977993fb3e5344e3c06d8bc36a1fb6754c3ddfb5310a3c6d6c87","97276620684eb69727a9f3e2f67e0a505875e358b35d0422a989de8a7b98f5b8","c8104325992ce39b29e37b5a8d7cbd68a3ac6005c96bb3076e0733fbadc7228e","e185f9146c0e505b152f31f484e5680a81553c7330878c4d0285d53b282317ab","331efea8cd8783fdd48f3d5af31797cfc7c266b7a70c6e9fbd236e511513664d","989e21095e7e7eca5c4c323cf6ded154074fc0bfa9893f6a0670fa506916a19a","052b7ca31f7bc9d74080d60c59baea72916438d6244eed1039b7e8fe32ca0ac1","4520cfeb5ff99c8ae4972bcf2a6e8c970e089c2f56c3ad27edbd28b6d8017f0a","b764e2e244db1e38f83a2fa70bb96bd5c8ce1d391bd1ecb4a4f057e68354c490","4411f084b92b387be924e5130e376afda4284dc46280d92fbdeb564edaa5aa17"],"postalCode":["94122","40","31000","89240","X2400",null,"95400",null,null,"48003"],"postalKey":["94122:US","40:VE","31000:DO","89240:BR","X2400:AR",null,"95400:BR",null,null,"48003:ES"],"disputedArea":[false,false,false,false,false,false,false,false,false,false],"locId":[null,null,null,null,null,null,null,null,null,null],"locationCategory":[null,null,null,null,null,null,null,null,null,null],"pwsId":[null,null,null,null,null,null,null,null,null,null],"type":["city","city","city","city","city","city","city","city","city","locality"]}},"expiresAt":"2019-03-24T04:46:34.934Z","url":"https://api.weather.com/v3/location/search?language=en-US&apiKey=6532d6454b8aa370768e63d6ba5a832e&query=San%20Francisco&format=json"},"668f9a315a46b12aca6e9c7a83ab508e":{"value":{"status":200,"body":{"id":"e80a067e-1158-474e-a3cf-39da8591dc53","type":"content_media_queryset","schema_version":"1.2.0","locale":"en_US","queries":[{"title":"Africa's Hurricane Katrina","description":"Idai is one of the deadliest tropical cyclones on record in the Southern Hemisphere.\r\n","image":{"url":"https://s.w-x.co/wu/idai-rooftops.jpg","title":"","attributes":[],"type":"static"},"link":{"url":"https://www.wunderground.com/cat6/Africas-Hurricane-Katrina-Tropical-Cyclone-Idai-Causes-Extreme-Catastrophe","title":"","attributes":[]},"collection":null,"playlist":null,"attribution":"","options":{"wait_flag":false,"new_tab":false,"nofollow":false,"icon":""},"query_type":"linker"},{"title":"More Historic, Widespread Flooding Expected This Spring","description":"A dire warning from NOAA.","image":{"url":"https://s.w-x.co/util/image/w/floodmap3.png?v=at&w=320&h=180","title":"","attributes":[],"type":"static"},"link":{"url":"https://weather.com/forecast/national/news/2019-03-21-spring-outlook-historic-widespread-flooding-rain-snowmelt-noaa?cm_ven=wu_videos","title":"","attributes":[]},"collection":null,"playlist":null,"attribution":"","options":{"wait_flag":false,"new_tab":false,"nofollow":false,"icon":"video"},"query_type":"linker"},{"title":"Midwest Flood Could Cost Billions","description":"The damage is mounting from epic early-season floodwaters.","image":{"url":"https://s.w-x.co/wu/AP_19076776858624-bnsf-835px.jpg","title":"","attributes":[],"type":"static"},"link":{"url":"https://www.wunderground.com/cat6/Flood-Damage-Midwestern-Levees-Roads-Farms-May-Run-Well-Billions","title":"","attributes":[]},"collection":null,"playlist":null,"attribution":"","options":{"wait_flag":false,"new_tab":false,"nofollow":false,"icon":"video"},"query_type":"linker"},{"title":"Can the South Survive a Sudden Spring?","description":"The consequences of climate change are hitting some communities in the South hard.","image":{"url":"https://s3.amazonaws.com/s.w-x.co/D0GSIDUWsAEEkgt.jpg","title":"","attributes":[],"type":"static"},"link":{"url":"http://bit.ly/2HdLSBj","title":"","attributes":[]},"collection":null,"playlist":null,"attribution":"","options":{"wait_flag":false,"new_tab":false,"nofollow":false,"icon":""},"query_type":"linker"},{"title":"Latest Spring Temperature Outlook","description":"Here's what to expect.","image":{"url":"https://s.w-x.co/util/image/w/WSI_Apr-June_prim_0313.jpg?v=at&w=320&h=180","title":"","attributes":[],"type":"static"},"link":{"url":"https://weather.com/forecast/national/news/2019-03-13-april-may-june-spring-temperature-outlook-the-weather-company?cm_ven=wu_videos","title":"","attributes":[]},"collection":null,"playlist":null,"attribution":"","options":{"wait_flag":false,"new_tab":false,"nofollow":false,"icon":""},"query_type":"linker"}]}},"expiresAt":"2019-03-24T01:58:51.001Z","url":"https://dsx.weather.com/cms/v4/query-set/en_US/e80a067e-1158-474e-a3cf-39da8591dc53?api=7bb1c920-7027-4289-9c96-ae5e263980bc&jsonp=JSONP_CALLBACK"},"dccc08f0d436e1e000d3398a1429eea9":{"value":{"location":{"stationName":["San Francisco","Inner Sunset, CA","San Francisco","Forest Knolls","San Francisco","San Francisco","San Francisco","pws:KCASANFR374","San Francisco","San Francisco"],"stationId":["KCASANFR1433","KCASANFR591","KCASANFR1136","KCASANFR1073","KCASANFR1256","KCASANFR345","KCASANFR1445","KCASANFR374","KCASANFR1074","KCASANFR593"],"latitude":[37.7648,37.76537,37.76292,37.75953,37.76049,37.75729,37.75857,37.76315,37.76094,37.75703],"longitude":[-122.463,-122.46025,-122.46805,-122.46265,-122.47003,-122.46206,-122.46861,-122.45188,-122.45218,-122.47098],"distanceKm":[0.02,0.25,0.5,0.61,0.8,0.86,0.87,1,1.05,1.13],"distanceMi":[0.01,0.15,0.31,0.38,0.49,0.54,0.54,0.62,0.65,0.7]}},"expiresAt":"2019-03-24T05:57:42.986Z","url":"https://api.weather.com/v3/location/near?apiKey=6532d6454b8aa370768e63d6ba5a832e&geocode=37.765%2C-122.463&product=pws&format=json"},"2e41483a8c5f78be55a70a484af23ffb":{"value":{"observations":[{"stationID":"KCASANFR1433","obsTimeUtc":"2019-03-24T01:53:00Z","obsTimeLocal":"2019-03-23 18:53:00","neighborhood":"Dog patch","softwareType":"","country":"US","solarRadiation":52.18,"lon":-122.46299744,"realtimeFrequency":null,"epoch":1553392380,"lat":37.76480103,"uv":0,"winddir":191,"humidity":70,"qcStatus":1,"imperial":{"temp":56,"heatIndex":56,"dewpt":46,"windChill":56,"windSpeed":1,"windGust":3,"pressure":30.19,"precipRate":0,"precipTotal":0.07,"elev":72}}]},"expiresAt":"2019-03-24T01:55:21.017Z","url":"https://api.weather.com/v2/pws/observations/current?apiKey=6532d6454b8aa370768e63d6ba5a832e&units=e&stationId=KCASANFR1433&format=json"},"b205f459d1b4879248cac35adce18a5a":{"value":{"location":{"airportName":["San Francisco International Airport","Oakland International Airport","Norman Y. Mineta San Jose International Airport","Charles M. Schulz-Sonoma County Airport","Stockton Metropolitan Airport","Sacramento International Airport","Monterey Regional Airport","Fresno Yosemite International Airport","Reno/Tahoe International Airport","Redding Municipal Airport"],"icaoCode":["KSFO","KOAK","KSJC","KSTS","KSCK","KSMF","KMRY","KFAT","KRNO","KRDD"],"iataCode":["SFO","OAK","SJC","STS","SCK","SMF","MRY","FAT","RNO","RDD"],"latitude":[37.6188172,37.7212597,37.3626667,38.5096807,37.8941667,38.6954444,36.587,36.7765556,39.4991111,40.509],"longitude":[-122.3754281,-122.2211489,-121.9291111,-122.8128989,-121.2383056,-121.5907778,-121.8429444,-119.7188333,-119.7681111,-122.2933889],"distanceKm":[17.99,21.81,64.93,88.28,108.51,128.49,142.04,266.54,303.28,305.47],"distanceMi":[11.18,13.56,40.35,54.85,67.43,79.84,88.26,165.62,188.45,189.81]}},"expiresAt":"2019-03-24T04:39:47.096Z","url":"https://api.weather.com/v3/location/near?apiKey=6532d6454b8aa370768e63d6ba5a832e&geocode=37.765%2C-122.463&product=airport&subproduct=major&format=json"},"192a7a66367db73972da63fb0abe8f0a":{"value":{"dayOfWeek":["Saturday","Sunday","Monday","Tuesday"],"expirationTimeUtc":[1553393916,1553393916,1553393916,1553393916],"moonPhase":["Waning Gibbous","Waning Gibbous","Waning Gibbous","Waning Gibbous"],"moonPhaseCode":["WNG","WNG","WNG","WNG"],"moonPhaseDay":[18,19,20,21],"moonriseTimeLocal":["2019-03-23T22:43:53-0700","2019-03-24T23:49:20-0700","","2019-03-26T00:52:13-0700"],"moonriseTimeUtc":[1553406233,1553496560,null,1553586733],"moonsetTimeLocal":["2019-03-23T09:05:14-0700","2019-03-24T09:41:29-0700","2019-03-25T10:20:42-0700","2019-03-26T11:02:36-0700"],"moonsetTimeUtc":[1553357114,1553445689,1553534442,1553623356],"narrative":["Mostly clear. Lows overnight in the mid 40s.","Considerable cloudiness. Highs in the upper 50s and lows in the low 50s.","Cloudy, periods of rain. Highs in the mid 50s and lows in the upper 40s.","A few morning showers. Highs in the upper 50s and lows in the low 50s."],"qpf":[0,0.29,0.43,0.3],"qpfSnow":[0,0,0,0],"sunriseTimeLocal":["2019-03-23T07:08:50-0700","2019-03-24T07:07:20-0700","2019-03-25T07:05:50-0700","2019-03-26T07:04:20-0700"],"sunriseTimeUtc":[1553350130,1553436440,1553522750,1553609060],"sunsetTimeLocal":["2019-03-23T19:24:12-0700","2019-03-24T19:25:08-0700","2019-03-25T19:26:03-0700","2019-03-26T19:26:58-0700"],"sunsetTimeUtc":[1553394252,1553480708,1553567163,1553653618],"temperatureMax":[null,58,55,57],"temperatureMin":[44,51,48,50],"validTimeLocal":["2019-03-23T07:00:00-0700","2019-03-24T07:00:00-0700","2019-03-25T07:00:00-0700","2019-03-26T07:00:00-0700"],"validTimeUtc":[1553349600,1553436000,1553522400,1553608800],"daypart":[{"cloudCover":[null,19,76,89,100,87,82,86],"dayOrNight":[null,"N","D","N","D","N","D","N"],"daypartName":[null,"Tonight","Tomorrow","Tomorrow night","Monday","Monday night","Tuesday","Tuesday night"],"iconCode":[null,33,28,12,12,45,39,12],"iconCodeExtend":[null,3300,2800,7300,1200,6100,6103,1240],"narrative":[null,"Clear to partly cloudy. Low 44F. W winds at 10 to 20 mph, decreasing to less than 5 mph.","Mostly cloudy. High 58F. Winds ESE at 5 to 10 mph.","Cloudy with rain developing after midnight. Low 51F. Winds S at 10 to 15 mph. Chance of rain 90%. Rainfall near a quarter of an inch.","Cloudy with periods of rain. High near 55F. Winds SSW at 10 to 20 mph. Chance of rain 90%. Rainfall near a half an inch.","A few showers early with overcast skies late. Low 48F. Winds WSW at 5 to 10 mph. Chance of rain 30%.","Showers in the morning, then cloudy in the afternoon. High 57F. ESE winds shifting to SSW at 10 to 20 mph. Chance of rain 40%.","Thundershowers following a period of rain early. Low near 50F. Winds SSW at 15 to 25 mph. Chance of rain 90%."],"precipChance":[null,10,10,90,90,30,40,90],"precipType":[null,"rain","rain","rain","rain","rain","rain","rain"],"qpf":[null,0,0,0.29,0.4,0.02,0.02,0.28],"qpfSnow":[null,0,0,0,0,0,0,0],"qualifierCode":[null,null,null,null,null,null,null,null],"qualifierPhrase":[null,null,null,null,null,null,null,null],"relativeHumidity":[null,84,74,72,80,87,78,84],"snowRange":[null,"","","","","","",""],"temperature":[null,44,58,51,55,48,57,50],"temperatureHeatIndex":[null,53,57,55,55,54,56,55],"temperatureWindChill":[null,45,45,48,48,49,49,45],"thunderCategory":[null,"No thunder","No thunder","No thunder","No thunder","No thunder","No thunder","Thunder possible"],"thunderIndex":[null,0,0,0,0,0,0,1],"uvDescription":[null,"Low","Moderate","Low","Low","Low","Moderate","Low"],"uvIndex":[null,0,4,0,2,0,4,0],"windDirection":[null,269,106,177,194,240,159,193],"windDirectionCardinal":[null,"W","ESE","S","SSW","WSW","SSE","SSW"],"windPhrase":[null,"W winds at 10 to 20 mph, decreasing to less than 5 mph.","Winds ESE at 5 to 10 mph.","Winds S at 10 to 15 mph.","Winds SSW at 10 to 20 mph.","Winds WSW at 5 to 10 mph.","ESE winds shifting to SSW at 10 to 20 mph.","Winds SSW at 15 to 25 mph."],"windSpeed":[null,14,8,12,16,8,13,17],"wxPhraseLong":[null,"Mostly Clear","Mostly Cloudy","Rain Late","Rain","Showers Early","AM Showers","Rain/Thunder"],"wxPhraseShort":[null,"M Clear","M Cloudy","Rain Late","Rain","Shwrs Early","AM Showers","Rain/Thunder"]}]},"expiresAt":"2019-03-24T02:18:27.147Z","url":"https://api.weather.com/v3/wx/forecast/daily/3day?language=en-US&apiKey=6532d6454b8aa370768e63d6ba5a832e&geocode=37.765%2C-122.463&units=e&format=json"},"962346b9733de214765376686e96b174":{"value":{"cloudCover":[17,15,12,11,4,11,23,31,30,25,24,39,56,65,66,65,70,74,77,92,94,91,86,71],"dayOfWeek":["Saturday","Saturday","Saturday","Saturday","Saturday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday","Sunday"],"dayOrNight":["D","N","N","N","N","N","N","N","N","N","N","N","N","D","D","D","D","D","D","D","D","D","D","D"],"expirationTimeUtc":[1553392490,1553392490,1553392490,1553392490,1553392490,1553392490,1553392490,1553393916,1553393916,1553393916,1553393916,1553393916,1553393916,1553393916,1553393916,1553393916,1553393916,1553393916,1553393916,1553393916,1553393916,1553393916,1553393916,1553393916],"iconCode":[32,31,31,31,31,31,33,29,29,33,33,29,29,28,28,28,28,28,28,26,26,26,26,28],"iconCodeExtend":[3200,3100,3100,3100,3100,3100,3300,2900,2900,3300,3300,2900,2900,2800,2800,2800,2800,2800,2800,2600,2600,2600,2600,2800],"precipChance":[0,0,0,0,1,3,5,6,6,7,7,11,8,9,8,5,4,3,2,2,1,1,1,2],"precipType":["rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain","rain"],"pressureMeanSeaLevel":[30.21,30.22,30.23,30.24,30.24,30.24,30.24,30.24,30.23,30.21,30.21,30.22,30.22,30.23,30.24,30.24,30.24,30.23,30.22,30.21,30.19,30.17,30.16,30.15],"qpf":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"qpfSnow":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"relativeHumidity":[70,73,76,79,84,85,87,88,89,90,91,91,93,94,91,83,78,73,65,63,62,63,62,65],"temperature":[54,53,52,51,49,48,47,47,46,46,45,45,45,45,47,50,51,52,54,56,57,57,57,56],"temperatureDewPoint":[45,45,44,44,44,44,44,44,43,43,43,43,43,44,45,45,45,44,43,44,44,44,44,45],"temperatureFeelsLike":[50,49,48,47,46,46,46,47,46,46,45,45,45,45,47,49,50,51,54,56,56,55,56,54],"temperatureHeatIndex":[54,53,52,51,49,48,47,47,46,46,45,45,45,45,47,50,51,52,54,56,57,57,57,56],"temperatureWindChill":[50,49,48,47,46,46,46,47,46,46,45,45,45,45,47,49,50,51,54,56,56,55,56,54],"uvDescription":["Low","Low","Low","Low","Low","Low","Low","Low","Low","Low","Low","Low","Low","Low","Low","Low","Moderate","Moderate","Moderate","Moderate","Low","Low","Low","Low"],"uvIndex":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,4,4,3,2,1,1,0],"validTimeLocal":["2019-03-23T19:00:00-0700","2019-03-23T20:00:00-0700","2019-03-23T21:00:00-0700","2019-03-23T22:00:00-0700","2019-03-23T23:00:00-0700","2019-03-24T00:00:00-0700","2019-03-24T01:00:00-0700","2019-03-24T02:00:00-0700","2019-03-24T03:00:00-0700","2019-03-24T04:00:00-0700","2019-03-24T05:00:00-0700","2019-03-24T06:00:00-0700","2019-03-24T07:00:00-0700","2019-03-24T08:00:00-0700","2019-03-24T09:00:00-0700","2019-03-24T10:00:00-0700","2019-03-24T11:00:00-0700","2019-03-24T12:00:00-0700","2019-03-24T13:00:00-0700","2019-03-24T14:00:00-0700","2019-03-24T15:00:00-0700","2019-03-24T16:00:00-0700","2019-03-24T17:00:00-0700","2019-03-24T18:00:00-0700"],"validTimeUtc":[1553392800,1553396400,1553400000,1553403600,1553407200,1553410800,1553414400,1553418000,1553421600,1553425200,1553428800,1553432400,1553436000,1553439600,1553443200,1553446800,1553450400,1553454000,1553457600,1553461200,1553464800,1553468400,1553472000,1553475600],"visibility":[9,9,9,9,9,9,8,8,8,8,8,7,6,6,8,9,9,9,10,10,10,10,10,10],"windDirection":[284,286,287,291,294,292,287,285,250,235,199,141,81,92,81,80,83,81,79,95,242,242,232,227],"windDirectionCardinal":["WNW","WNW","WNW","WNW","WNW","WNW","WNW","WNW","WSW","SW","SSW","SE","E","E","E","E","E","E","ENE","E","WSW","WSW","SW","SW"],"windGust":[20,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"windSpeed":[14,12,10,9,8,6,3,2,1,1,1,1,1,1,2,3,4,4,4,3,6,8,8,9],"wxPhraseLong":["Sunny","Clear","Clear","Clear","Clear","Clear","Mostly Clear","Partly Cloudy","Partly Cloudy","Mostly Clear","Mostly Clear","Partly Cloudy","Partly Cloudy","Mostly Cloudy","Mostly Cloudy","Mostly Cloudy","Mostly Cloudy","Mostly Cloudy","Mostly Cloudy","Cloudy","Cloudy","Cloudy","Cloudy","Mostly Cloudy"],"wxPhraseShort":["Sunny","Clear","Clear","Clear","Clear","Clear","M Clear","P Cloudy","P Cloudy","M Clear","M Clear","P Cloudy","P Cloudy","M Cloudy","M Cloudy","M Cloudy","M Cloudy","M Cloudy","M Cloudy","Cloudy","Cloudy","Cloudy","Cloudy","M Cloudy"],"wxSeverity":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]},"expiresAt":"2019-03-24T01:56:44.179Z","url":"https://api.weather.com/v3/wx/forecast/hourly/1day?language=en-US&apiKey=6532d6454b8aa370768e63d6ba5a832e&geocode=37.765%2C-122.463&units=e&format=json"},"bdd6387a14a90d47ac36adbe9a899334":{"value":{"cloudCeiling":[null,null,null,null,null,null,null,null,null,null,null,null,2700,3000,6200,5700,5700,4700,3400,4700,3300,1900,2100,1900],"dayOfWeek":["Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Saturday","Friday","Friday","Friday","Friday","Friday"],"dayOrNight":["D","D","D","D","D","D","D","D","D","D","D","N","N","N","N","N","N","N","N","N","N","N","N","D"],"expirationTimeUtc":[1553475600,1553472000,1553468400,1553464800,1553461200,1553457600,1553454000,1553450400,1553446800,1553443200,1553439600,1553436000,1553432400,1553428800,1553425200,1553421600,1553418000,1553414400,1553410800,1553407200,1553403600,1553400000,1553396400,1553392800],"iconCode":[32,34,34,34,30,30,34,32,34,30,30,29,27,26,11,12,12,12,12,40,12,26,11,11],"precip24Hour":[0.73,0.75,0.77,0.84,0.9,0.92,0.94,0.95,0.95,0.96,0.96,0.99,1.04,1.07,1.07,1.03,0.94,0.87,0.76,0.58,0.41,0.37,0.36,0.35],"pressureAltimeter":[30.21,30.21,30.21,30.22,30.21,30.22,30.23,30.22,30.22,30.2,30.19,30.18,30.17,30.16,30.16,30.16,30.16,30.16,30.16,30.16,30.16,30.15,30.14,30.14],"pressureChange":[0,-0.01,-0.01,-0.01,-0.01,0.01,0.02,0.03,0.04,0.03,0.03,0.02,0.01,0,0,-0.01,0,0,0.02,0.01,0.01,0,-0.01,-0.01],"pressureMeanSeaLevel":[1022.9,1023.1,1023.1,1023.2,1023.3,1023.2,1023.3,1023,1022.3,1022.2,1021.6,1021,1020.5,1020.2,1020.2,1020.5,1020.2,1020.5,1020.8,1020.3,1020.4,1020.3,1020.2,1020.2],"pressureTendencyCode":[0,2,2,2,2,1,1,1,1,1,1,1,1,0,0,2,0,0,1,1,1,0,2,2],"pressureTendencyTrend":["Steady","Falling","Falling","Falling","Falling","Rising","Rising","Rising","Rising","Rising","Rising","Rising","Rising","Steady","Steady","Falling","Steady","Steady","Rising","Rising","Rising","Steady","Falling","Falling"],"relativeHumidity":[67,63,65,65,67,64,64,72,77,86,85,92,84,83,94,93,92,93,93,90,91,91,93,91],"snow24Hour":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sunriseTimeLocal":["2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-23T07:08:51-0700","2019-03-22T07:10:22-0700","2019-03-22T07:10:22-0700","2019-03-22T07:10:22-0700","2019-03-22T07:10:22-0700","2019-03-22T07:10:22-0700"],"sunriseTimeUtc":[1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553350131,1553263822,1553263822,1553263822,1553263822,1553263822],"sunsetTimeLocal":["2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-23T19:24:14-0700","2019-03-22T19:23:18-0700","2019-03-22T19:23:18-0700","2019-03-22T19:23:18-0700","2019-03-22T19:23:18-0700","2019-03-22T19:23:18-0700"],"sunsetTimeUtc":[1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553394254,1553307798,1553307798,1553307798,1553307798,1553307798],"temperature":[55,56,56,57,56,56,57,55,54,51,51,50,54,55,52,52,53,53,53,53,54,54,54,54],"temperatureChange24Hour":[0,0,0,1,2,0,3,1,3,0,0,0,3,4,2,2,2,1,2,1,2,1,1,0],"temperatureDewPoint":[44,44,44,45,46,44,45,46,47,47,47,48,49,50,50,50,51,51,51,50,51,51,52,52],"temperatureFeelsLike":[51,53,52,53,53,53,55,52,51,49,49,46,52,53,50,50,52,51,51,50,51,51,51,51],"temperatureHeatIndex":[55,56,56,57,56,56,57,55,54,51,51,50,54,55,52,52,53,53,53,53,54,54,54,54],"temperatureMax24Hour":[58,58,58,58,58,57,57,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56],"temperatureMaxSince7Am":[58,58,58,58,58,57,57,55,54,51,51,50,56,56,56,56,56,56,56,56,56,56,56,56],"temperatureMin24Hour":[51,51,51,51,51,51,51,51,51,50,50,50,50,50,49,49,49,49,49,49,49,49,49,49],"temperatureWindChill":[51,52,51,53,53,53,55,51,51,49,48,46,52,52,49,50,51,51,50,50,51,51,50,51],"uvDescription":["Low","Low","Moderate","Moderate","High","High","Moderate","Moderate","Low","Low","Low","Low","Low","Low","Low","Low","Low","Low","Low","Low","Low","Low","Low","Low"],"uvIndex":[0,2,3,5,6,6,5,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"validTimeLocal":["2019-03-23T18:00:00-0700","2019-03-23T17:00:00-0700","2019-03-23T16:00:00-0700","2019-03-23T15:00:00-0700","2019-03-23T14:00:00-0700","2019-03-23T13:00:00-0700","2019-03-23T12:00:00-0700","2019-03-23T11:00:00-0700","2019-03-23T10:00:00-0700","2019-03-23T09:00:00-0700","2019-03-23T08:00:00-0700","2019-03-23T07:00:00-0700","2019-03-23T06:00:00-0700","2019-03-23T05:00:00-0700","2019-03-23T04:00:00-0700","2019-03-23T03:00:00-0700","2019-03-23T02:00:00-0700","2019-03-23T01:00:00-0700","2019-03-23T00:00:00-0700","2019-03-22T23:00:00-0700","2019-03-22T22:00:00-0700","2019-03-22T21:00:00-0700","2019-03-22T20:00:00-0700","2019-03-22T19:00:00-0700"],"validTimeUtc":[1553389200,1553385600,1553382000,1553378400,1553374800,1553371200,1553367600,1553364000,1553360400,1553356800,1553353200,1553349600,1553346000,1553342400,1553338800,1553335200,1553331600,1553328000,1553324400,1553320800,1553317200,1553313600,1553310000,1553306400],"visibility":[8,8,8,8,8,8,8,8,8,8,8,9,9,8,6,2.1,2.5,2,2,0.5,2,8,7,7],"windDirection":[280,270,270,270,270,270,270,280,290,290,290,290,290,270,270,220,210,220,190,160,150,150,150,150],"windDirectionCardinal":["W","W","W","W","W","W","W","W","WNW","WNW","WNW","WNW","WNW","W","W","SW","SSW","SW","S","SSE","SSE","SSE","SSE","SSE"],"windGust":[null,25,null,28,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,17,18,null],"windSpeed":[15,18,17,18,15,13,12,12,10,8,8,11,9,8,8,7,6,8,10,10,10,11,12,11],"wxPhraseLong":["Sunny","Fair","Fair","Fair","Partly Cloudy","Partly Cloudy","Fair","Sunny","Fair","Partly Cloudy","Partly Cloudy","Partly Cloudy","Mostly Cloudy","Cloudy","Light Rain","Rain","Rain","Rain","Rain","Heavy Rain","Rain","Cloudy","Light Rain","Rain Shower"]},"expiresAt":"2019-03-24T02:16:37.143Z","url":"https://api.weather.com/v3/wx/conditions/historical/hourly/1day?language=en-US&apiKey=6532d6454b8aa370768e63d6ba5a832e&geocode=37.765%2C-122.463&units=e&format=json"},"e245400cb12c93df5bdce07d4125b204":{"value":{"dateTime":"2019-03-23T18:54:20.191-07:00","ianaTimeZone":"America/Los_Angeles","timeZoneAbbreviation":"PDT"},"expiresAt":"2019-03-24T01:55:17.300Z","url":"https://api.weather.com/v3/dateTime?apiKey=6532d6454b8aa370768e63d6ba5a832e&geocode=37.765%2C-122.463&format=json"}}</script><script src="//nebula-cdn.kampyle.com/we/178135/onsite/embed.js" async=""></script><script type="text/javascript" charset="utf-8" async="" src="/bundle-universal/homepage-module.271d237b7a7610c93056.js"></script><meta class="foundation-mq"><style>.content-wrap[_ngcontent-c0]{background-color:#1E2023}.inner-content[_ngcontent-c0]{margin:0 auto;max-width:none}.homepage-mast[_ngcontent-c0]{background-color:#1E2023;padding-top:5px}  .top-banner{background-color:#E7E7E7;padding:5px 0}@media screen and (min-width: 64em){  .has-sidebar{position:relative;box-sizing:border-box;padding-right:320px}.is-sidebar[_ngcontent-c0]{position:absolute;top:0;right:0;margin:0;padding:0;width:310px}}  .cat-six-recent-articles{max-width:940px;margin:0 auto}  .wu-paid .has-sidebar{padding-right:0}  .wu-paid .is-sidebar{display:none}  #WX_Top300Variable .ad-unit{background-color:transparent;border:0}  .topbar{background-image:none}.signup-hero[_ngcontent-c0]{border-top:1px solid #575757;border-bottom:1px solid #595959;padding:11px 0 10px;text-align:center;color:#fff;background-size:28px 28px;background-color:#333;font-size:1rem;padding-left:20px;padding-right:20px}@media screen and (min-width: 40em){.signup-hero[_ngcontent-c0]{max-height:58px}}@media screen and (min-width: 75em){.signup-hero[_ngcontent-c0]{text-align:left}}@media screen and (min-width: 75em){.wu-paid[_ngcontent-c0]   .signup-hero[_ngcontent-c0]{padding-left:340px}}</style><style>[_nghost-c1]{display:block}.pane-favorites[_ngcontent-c1], favorites[_ngcontent-c1]{display:block;min-height:39px}favorites-dark-bar[_ngcontent-c1]{display:block}.favorites-dark[_ngcontent-c1]   .favorites-bar[_ngcontent-c1]{border-top:1px solid dimgray;border-bottom:1px solid dimgray}</style><style>.conditions-card[_ngcontent-c2]{position:relative;color:#fff;background-color:#1E2023;width:100%}@media only screen and (max-width: 40em){.conditions-card[_ngcontent-c2]{width:100%}}.temp-60[_ngcontent-c2]{color:#9F94A7}.temp-55[_ngcontent-c2]{color:#896EA0}.temp-50[_ngcontent-c2]{color:#754A9A}.temp-45[_ngcontent-c2]{color:#7C409F}.temp-40[_ngcontent-c2]{color:#883DA5}.temp-35[_ngcontent-c2]{color:#953AAC}.temp-30[_ngcontent-c2]{color:#8341B4}.temp-25[_ngcontent-c2]{color:#6F47BC}.temp-20[_ngcontent-c2]{color:#5B4EC4}.temp-15[_ngcontent-c2]{color:#445BC7}.temp-10[_ngcontent-c2]{color:#4655C9}.temp-5[_ngcontent-c2]{color:#1767C3}.temp0[_ngcontent-c2]{color:#1278C8}.temp5[_ngcontent-c2]{color:#1F91D7}.temp10[_ngcontent-c2]{color:#2AA8E5}.temp15[_ngcontent-c2]{color:#36C1F3}.temp20[_ngcontent-c2]{color:#30BFEF}.temp25[_ngcontent-c2]{color:#28B7E6}.temp30[_ngcontent-c2]{color:#1FAFDD}.temp35[_ngcontent-c2]{color:#32AFB1}.temp40[_ngcontent-c2]{color:#52B673}.temp45[_ngcontent-c2]{color:#71BC3C}.temp50[_ngcontent-c2]{color:#93C124}.temp55[_ngcontent-c2]{color:#B6C609}.temp60[_ngcontent-c2]{color:#F4B701}.temp65[_ngcontent-c2]{color:#FEAE3C}.temp70[_ngcontent-c2]{color:#FE9A3B}.temp75[_ngcontent-c2]{color:#FD843B}.temp80[_ngcontent-c2]{color:#EC5A34}.temp85[_ngcontent-c2]{color:#DA2F2F}.temp90[_ngcontent-c2]{color:#D50A36}.temp95[_ngcontent-c2]{color:#DA3A45}.temp100[_ngcontent-c2]{color:#DC4953}.temp105[_ngcontent-c2]{color:#DF5961}.temp110[_ngcontent-c2]{color:#E26870}.temp115[_ngcontent-c2]{color:#E5787F}.temp120[_ngcontent-c2]{color:#E8878D}.temp125[_ngcontent-c2]{color:#E8878D}.hist[_ngcontent-c2]{opacity:0.4}.conditions-card[_ngcontent-c2]{background-color:#1E2023}.conditions-card[_ngcontent-c2]   .no-style[_ngcontent-c2]{color:#fff}.conditions-card[_ngcontent-c2]   .header-link[_ngcontent-c2]{display:block;margin-right:65px}.conditions-card[_ngcontent-c2]   .pseudo-link[_ngcontent-c2], .conditions-card[_ngcontent-c2]   .pseudo-link[_ngcontent-c2]:visited, .conditions-card[_ngcontent-c2]   .pseudo-link[_ngcontent-c2]:link, .conditions-card[_ngcontent-c2]   .pseudo-link[_ngcontent-c2]:active{color:#8ED1E9}.conditions-card[_ngcontent-c2]   .pseudo-link[_ngcontent-c2]:hover{color:#f83}@media screen and (max-width: 39.9375em){.conditions-card[_ngcontent-c2]{width:100%}}.conditions-card.placeholder.no-border[_ngcontent-c2]{border:0px solid #8A8A8A}.conditions-card[_ngcontent-c2]   .location[_ngcontent-c2]{height:21px;width:60%}.conditions-card.placeholder[_ngcontent-c2]   .location.has-city[_ngcontent-c2]{background-color:#1E2023;color:#F7F7F7}.conditions-card.placeholder[_ngcontent-c2]   .pws[_ngcontent-c2]{height:16px;width:90%;margin-top:5px;background-color:#696969;background-image:none}.conditions-card.placeholder[_ngcontent-c2]   .temps-wrapper[_ngcontent-c2]   .cur-temp[_ngcontent-c2]{color:#F7F7F7}.conditions-card[_ngcontent-c2]   .temps-wrapper[_ngcontent-c2]   .feelslike[_ngcontent-c2]{height:18px;width:90%;margin-top:5px}.conditions-card.placeholder[_ngcontent-c2]   .condition-icon[_ngcontent-c2]{height:56px;width:56px;vertical-align:bottom}.conditions-card.placeholder[_ngcontent-c2]   .hlp-wrapper[_ngcontent-c2]{width:30%}.conditions-card.placeholder[_ngcontent-c2]   .hlp-wrapper[_ngcontent-c2]   .high[_ngcontent-c2], .conditions-card.placeholder[_ngcontent-c2]   .hlp-wrapper[_ngcontent-c2]   .low[_ngcontent-c2]{width:46%;color:#F7F7F7}.conditions-card.placeholder[_ngcontent-c2]   .hlp-wrapper[_ngcontent-c2]   .pop[_ngcontent-c2]{color:#F7F7F7}.conditions-card[_ngcontent-c2]   .forecast[_ngcontent-c2]   .temps[_ngcontent-c2], .conditions-card[_ngcontent-c2]   .forecast[_ngcontent-c2]   .condition-icons[_ngcontent-c2]{opacity:1}.conditions-card[_ngcontent-c2]   .forecast[_ngcontent-c2]   .condition-icons[_ngcontent-c2]   img[_ngcontent-c2]{width:10%;min-height:100%}.conditions-card[_ngcontent-c2]   .forecast[_ngcontent-c2]   .temps[_ngcontent-c2]   span[_ngcontent-c2]{color:#F7F7F7}.conditions-card.transparent[_ngcontent-c2]{opacity:0.2}.conditions-card-inner[_ngcontent-c2]{position:relative;margin-left:0;margin-right:0}.conditions-card-inner[_ngcontent-c2]   h2[_ngcontent-c2]{color:#fff}.location[_ngcontent-c2]{font-size:17px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.location.has-alerts[_ngcontent-c2]{width:80%}.location[_ngcontent-c2]   A[_ngcontent-c2], .location[_ngcontent-c2]   A[_ngcontent-c2]:visited, .location[_ngcontent-c2]   A[_ngcontent-c2]:link, .location[_ngcontent-c2]   A[_ngcontent-c2]:active{color:#8ED1E9}.location[_ngcontent-c2]   A[_ngcontent-c2]:hover{color:#f83}.homecity-button[_ngcontent-c2]{margin-left:2px;margin-right:8px;font-size:22px}.pws[_ngcontent-c2]{font-size:14px;line-height:20px;margin-bottom:5px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding-left:25px;background-image:url("//icons.wxug.com/i/o/sprite-common-vert.png?v=1.21");background-repeat:no-repeat;background-position:0 -616px;width:85%;color:#A3A3A3}.pws.icao[_ngcontent-c2]{background-position:0 -596px}.pws.has-alerts[_ngcontent-c2]{width:75%}.forecast-wrapper[_ngcontent-c2]   .no-style[_ngcontent-c2]{text-decoration:none !important;color:#fff}.alerts-wrapper[_ngcontent-c2]{position:relative;z-index:2}.alerts[_ngcontent-c2]{position:absolute;width:100%}.alert-icon[_ngcontent-c2]{position:absolute;right:15px;width:35px;height:35px;cursor:pointer}.alert-icon[_ngcontent-c2]   i[_ngcontent-c2]{color:#1E2023;text-shadow:-1px -1px 0px #8A8A8A,1px -1px 0px #8A8A8A,-2px 1px 0px #8A8A8A,2px 1px 0px #8A8A8A,0px -2px 0px #8A8A8A;font-size:32px;line-height:35px}.alert-icon[_ngcontent-c2]   i.DF5[_ngcontent-c2]{text-shadow:-1px -1px 0px #8A8A8A,1px -1px 0px #8A8A8A,-2px 1px 0px #8A8A8A,2px 1px 0px #8A8A8A,0px -2px 0px #8A8A8A}.alert-icon[_ngcontent-c2]   i.DF4[_ngcontent-c2]{text-shadow:-1px -1px 0px #8A8A8A,1px -1px 0px #8A8A8A,-2px 1px 0px #8A8A8A,2px 1px 0px #8A8A8A,0px -2px 0px #8A8A8A}.alert-icon[_ngcontent-c2]   i.DF3[_ngcontent-c2]{text-shadow:-1px -1px 0px #FFB92F,1px -1px 0px #FFB92F,-2px 1px 0px #FFB92F,2px 1px 0px #FFB92F,0px -2px 0px #FFB92F}.alert-icon[_ngcontent-c2]   i.DF2[_ngcontent-c2]{text-shadow:-1px -1px 0px #f83,1px -1px 0px #f83,-2px 1px 0px #f83,2px 1px 0px #f83,0px -2px 0px #f83}.alert-icon[_ngcontent-c2]   i.DF1[_ngcontent-c2]{text-shadow:-1px -1px 0px #D5202A,1px -1px 0px #D5202A,-2px 1px 0px #D5202A,2px 1px 0px #D5202A,0px -2px 0px #D5202A}.alert-icon[_ngcontent-c2]   span[_ngcontent-c2]{display:inline-block;border-radius:50%;width:17px;height:17px;background-color:#D5202A;color:#fff;position:absolute;top:0px;right:0px;font-size:12px;line-height:17px;text-align:center;border:1px solid #1E2023;box-sizing:content-box}.has-degs[_ngcontent-c2]:after{content:"\00b0"}.temps-wrapper[_ngcontent-c2]{display:inline-block;width:45%}.cur-temp[_ngcontent-c2]{font-size:48px;line-height:45px}.cur-temp.funits[_ngcontent-c2]:after{content:"\00b0 F";vertical-align:super;font-size:20px;margin-left:5px}.cur-temp.cunits[_ngcontent-c2]:after{content:"\00b0 C";vertical-align:super;font-size:20px;margin-left:5px}.feelslike[_ngcontent-c2]{font-weight:100;font-size:15px;font-style:italic;text-align:center}.condition-icon[_ngcontent-c2]{display:inline-block;width:20%;vertical-align:top}.condition-icon[_ngcontent-c2]   img[_ngcontent-c2]{padding-top:5px;padding-right:5px}@media screen and (min-width: 40em){.condition-icon[_ngcontent-c2]   img[_ngcontent-c2]{max-height:54px}}.condition-icon[_ngcontent-c2]   img[_ngcontent-c2]{padding-top:5px;padding-right:5px}@media screen and (min-width: 40em){.condition-icon[_ngcontent-c2]   img[_ngcontent-c2]{max-height:54px}}@media only screen and (min-width: 40.063em){.condition-icon[_ngcontent-c2]   img[_ngcontent-c2]{max-height:54px}}.hlp-wrapper[_ngcontent-c2]{display:inline-block;width:35%;vertical-align:top;margin-top:10px;padding-left:5px}.hlp-wrapper[_ngcontent-c2]   .high[_ngcontent-c2], .hlp-wrapper[_ngcontent-c2]   .low[_ngcontent-c2]{display:inline-block;width:50%;text-align:center;margin-bottom:15px}.hlp-wrapper[_ngcontent-c2]   .high[_ngcontent-c2]{border-right:1px solid #4C4C4C}.pop[_ngcontent-c2]{text-align:center;display:inline-block;width:100%}.pop-icon[_ngcontent-c2]{display:inline-block;width:14px;height:14px;margin-right:5px;background-image:url("//icons.wxug.com/i/o/sprite-common-vert.png?v=1.21");background-repeat:no-repeat;background-position:0 -398px}.divider[_ngcontent-c2]{width:90%;margin-left:auto;margin-right:auto;border-top:1px solid #4C4C4C}.title[_ngcontent-c2]{color:#A3A3A3;text-align:left;margin-top:5px}.forecast[_ngcontent-c2]{text-align:center;margin:15px auto 30px auto;min-height:54px}.forecast.small-margin[_ngcontent-c2]{margin:15px auto 5px auto}.tomorrow-temps[_ngcontent-c2]{width:170px;margin-right:auto;margin-left:auto}.day-label[_ngcontent-c2]{color:#A3A3A3;font-size:11px;position:absolute;bottom:-10px}.tom-high[_ngcontent-c2], .tom-low[_ngcontent-c2]{display:inline-block;position:relative;width:50%;text-align:center;margin-bottom:15px;font-size:38px}.tom-high[_ngcontent-c2]{border-right:1px solid #4C4C4C}.tom-high[_ngcontent-c2]   .day-label[_ngcontent-c2]{right:30px}.tom-low[_ngcontent-c2]{padding-left:15px}.tom-low[_ngcontent-c2]   .day-label[_ngcontent-c2]{left:28px}.tom-pop[_ngcontent-c2]{color:#A3A3A3}.fade-in[_ngcontent-c2]{transition:opacity 300ms ease-in;-webkit-transition:opacity 300ms ease-in}.condition-icons[_ngcontent-c2]{height:42px;min-height:42px;display:block;text-align:left}.condition-icons.animate-in[_ngcontent-c2]   img[_ngcontent-c2]{width:10%;vertical-align:bottom;transition:width 400ms ease-in;-webkit-transition:width 400ms ease-in;transition-delay:400ms;-webkit-transition-delay:400ms}.condition-icons.animate-in[_ngcontent-c2]   img[_ngcontent-c2]:nth-child(2){transition-delay:500ms;-webkit-transition-delay:500ms}.condition-icons.animate-in[_ngcontent-c2]   img[_ngcontent-c2]:nth-child(3){transition-delay:600ms;-webkit-transition-delay:600ms}.condition-icons.animate-in[_ngcontent-c2]   img[_ngcontent-c2]:nth-child(4){transition-delay:700ms;-webkit-transition-delay:700ms}.condition-icons.animate-in[_ngcontent-c2]   img[_ngcontent-c2]:nth-child(5){transition-delay:800ms;-webkit-transition-delay:800ms}.condition-icons.animate-in[_ngcontent-c2]   img[_ngcontent-c2]:nth-child(6){transition-delay:900ms;-webkit-transition-delay:900ms}.condition-icons.animate-in[_ngcontent-c2]   img[_ngcontent-c2]:nth-child(7){transition-delay:1000ms;-webkit-transition-delay:1000ms}.condition-icons.animate-in[_ngcontent-c2]   img[_ngcontent-c2]:nth-child(8){transition-delay:1100ms;-webkit-transition-delay:1100ms}.condition-icons.animate-in[_ngcontent-c2]   img[_ngcontent-c2]:nth-child(9){transition-delay:1200ms;-webkit-transition-delay:1200ms}.condition-icons[_ngcontent-c2]   img[_ngcontent-c2]{display:inline-block;width:0%;margin-right:1%}.condition-icons[_ngcontent-c2]   img[_ngcontent-c2]:first-child{width:10%}.temps.animate-in[_ngcontent-c2]   span[_ngcontent-c2]{opacity:0.1}.temps.animate-in[_ngcontent-c2]   span.show-temp[_ngcontent-c2]{opacity:1}.temps.animate-in[_ngcontent-c2]   span.show-temp.hist[_ngcontent-c2]{opacity:0.4}.temps.animate-in[_ngcontent-c2]   span[_ngcontent-c2]{transition:opacity 1600ms ease-in;-webkit-transition:opacity 1600ms ease-in}.temps.animate-in[_ngcontent-c2]   span[_ngcontent-c2]{transition-delay:400ms;-webkit-transition-delay:400ms}.temps.animate-in[_ngcontent-c2]   span[_ngcontent-c2]:nth-child(2){transition-delay:500ms;-webkit-transition-delay:500ms}.temps.animate-in[_ngcontent-c2]   span[_ngcontent-c2]:nth-child(3){transition-delay:600ms;-webkit-transition-delay:600ms}.temps.animate-in[_ngcontent-c2]   span[_ngcontent-c2]:nth-child(4){transition-delay:700ms;-webkit-transition-delay:700ms}.temps.animate-in[_ngcontent-c2]   span[_ngcontent-c2]:nth-child(5){transition-delay:800ms;-webkit-transition-delay:800ms}.temps.animate-in[_ngcontent-c2]   span[_ngcontent-c2]:nth-child(6){transition-delay:900ms;-webkit-transition-delay:900ms}.temps.animate-in[_ngcontent-c2]   span[_ngcontent-c2]:nth-child(7){transition-delay:1000ms;-webkit-transition-delay:1000ms}.temps.animate-in[_ngcontent-c2]   span[_ngcontent-c2]:nth-child(8){transition-delay:1100ms;-webkit-transition-delay:1100ms}.temps.animate-in[_ngcontent-c2]   span[_ngcontent-c2]:nth-child(9){transition-delay:1200ms;-webkit-transition-delay:1200ms}.temps[_ngcontent-c2]   span[_ngcontent-c2]{display:inline-block;width:10%;margin-right:1%;text-align:center;font-size:12px}.temps[_ngcontent-c2]   span[_ngcontent-c2]:after{content:"\00b0"}.timeline[_ngcontent-c2]   .outer-bars[_ngcontent-c2]{position:relative;margin:auto;width:90%;height:10px;border-left:1px solid #4C4C4C;border-right:1px solid #4C4C4C;z-index:1}.timeline[_ngcontent-c2]   .inner-bars[_ngcontent-c2]{display:inline-block;position:relative;top:-8px;width:12.5%;height:5px;border-right:1px solid #4C4C4C;z-index:1}.timeline[_ngcontent-c2]   .inner-bars[_ngcontent-c2]:last-of-type{border-right:0px solid #4C4C4C}.timeline[_ngcontent-c2]   .horizontal-bar[_ngcontent-c2]{position:absolute;width:100%;height:1px;top:4px;border-top:1px solid #4C4C4C;z-index:1}.timeline[_ngcontent-c2]   .now-ball[_ngcontent-c2]{position:absolute;top:0px;left:0%;height:10px;width:10px;border-radius:50%;background-color:#87C404;-webkit-transition:left 1s;transition:left 1s;z-index:2}.times[_ngcontent-c2]   span[_ngcontent-c2]{display:inline-block;width:8.8%;margin-right:1%;margin-top:3px;text-align:center;font-size:10px;color:#A3A3A3}.dates[_ngcontent-c2]{position:relative}.dates[_ngcontent-c2]   span[_ngcontent-c2]{position:absolute;font-size:10px;color:#696969}.dates[_ngcontent-c2]   span[_ngcontent-c2]:first-child{left:0}.dates[_ngcontent-c2]   span[_ngcontent-c2]:nth-child(2){left:47%}.dates[_ngcontent-c2]   span[_ngcontent-c2]:last-child{right:0}.fct-button[_ngcontent-c2]{text-align:center;display:block;margin:auto;width:225px}.loading-overlay[_ngcontent-c2]{position:absolute;min-height:300px;top:0;bottom:0;right:0;left:0;background-color:rgba(30,32,35,0.85);z-index:1}#unknownLocNote[_ngcontent-c2]{position:absolute;top:0px}.hp-popup[_ngcontent-c2]{background-color:#fff;color:#1E2023;position:absolute;top:40px;padding:15px 20px;width:100%}.hp-popup[_ngcontent-c2]   .arrow[_ngcontent-c2]{content:"";display:block;width:0;height:0;border:inset 8px;border-color:transparent transparent #fff transparent;border-bottom-style:solid;position:absolute;right:29px;top:-16px}.hp-popup[_ngcontent-c2]   A[_ngcontent-c2]{display:block;margin:8px 0px;color:#1088B0}.hp-popup[_ngcontent-c2]   A[_ngcontent-c2]   .alert-type[_ngcontent-c2]{color:#1E2023}.hp-popup[_ngcontent-c2]   A[_ngcontent-c2]   .alert-desc[_ngcontent-c2]{color:#D5202A;cursor:pointer}.hp-popup[_ngcontent-c2]   A.home-setting-link[_ngcontent-c2]{margin-top:3px;font-size:14px}.hp-popup[_ngcontent-c2]   A.home-setting-link[_ngcontent-c2]   i[_ngcontent-c2]{font-size:16px}.hp-popup[_ngcontent-c2]   A.inline-link[_ngcontent-c2]{display:inline}.hp-popup-close[_ngcontent-c2]{color:#1E2023;position:absolute;right:0px;top:0px;cursor:pointer;font-weight:bold;padding:2px 10px;font-size:20px}.hp-popup-close[_ngcontent-c2]:hover{color:#f83}.alert-scroll-wrapper[_ngcontent-c2]{max-height:210px;overflow:scroll}.location-name[_ngcontent-c2]{font-size:1.125rem}.home-setting-desc[_ngcontent-c2]{border-top:1px solid #D7D7D7;margin-top:10px;padding-top:10px;font-size:14px}.set-success[_ngcontent-c2]{color:#5B9F49}.home-settings-popup[_ngcontent-c2]{border-radius:5px;border:1px solid #D7D7D7;top:90px;left:0px}#loc-denied-message[_ngcontent-c2]{top:0px;left:340px;font-size:14px}.conditions-card-inner[_ngcontent-c2]{padding:0 10px 20px}@media screen and (min-width: 40em){.conditions-card-inner[_ngcontent-c2]{padding:10px 0 20px 0}}.card-n-ad-wrap[_ngcontent-c2]{position:static}@media screen and (min-width: 64em){  .wu-paid .card-n-ad-wrap{width:75%;float:left;padding-left:.3125rem;padding-right:.3125rem;float:none;margin-left:auto;margin-right:auto}}@media screen and (min-width: 64em) and (min-width: 40em){  .wu-paid .card-n-ad-wrap{padding-left:.625rem;padding-right:.625rem}}@media screen and (min-width: 64em){  .wu-paid .card-n-ad-wrap:last-child:not(:first-child){float:right}}.conditions-card[_ngcontent-c2]{width:auto;height:auto;min-height:initial;background-color:transparent}@media screen and (min-width: 40em){.holder-wrap[_ngcontent-c2]{position:relative}.card-holder[_ngcontent-c2]{position:absolute;height:300px;width:100%;display:block;background-color:#1E2023}.email-holder[_ngcontent-c2]{position:absolute;height:180px;width:100%;display:block;background-color:#4C4C4C;top:300px}}.forecast-email-wrap[_ngcontent-c2]{height:180px}.search-arrow[_ngcontent-c2]{display:inline-block;position:absolute;right:11px;top:19px;border-right:3px solid #15AADC;border-top:3px solid #15AADC}.wu-search-contain[_ngcontent-c2]   .wu-search[_ngcontent-c2]::-webkit-input-placeholder{color:#1E2023}.search-open[_ngcontent-c2]   .wu-search-contain[_ngcontent-c2]   .wu-search[_ngcontent-c2]::-webkit-input-placeholder{color:#D7D7D7}.loading-overlay[_ngcontent-c2]{min-height:212px}.alert-icon[_ngcontent-c2]{width:9px;right:19px}.alert-icon[_ngcontent-c2]   i[_ngcontent-c2]{font-size:25px;line-height:30px}.hp-popup[_ngcontent-c2]   .arrow[_ngcontent-c2]{right:10px}.condition-name[_ngcontent-c2]{margin-top:5px}.condition-icon[_ngcontent-c2]   img[_ngcontent-c2]{max-height:100px}.curconds-wrapper[_ngcontent-c2]{min-height:100px}@media screen and (min-width: 64em){.forecast-wrapper[_ngcontent-c2], .curconds-wrapper[_ngcontent-c2]{padding:0 25px}}@media screen and (max-width: 39.9375em){.curconds-wrapper[_ngcontent-c2]{padding:0}.forecast-wrapper[_ngcontent-c2]{padding:15px 10px 0}}.condition-icon[_ngcontent-c2]{width:35%;text-align:center}.condition-icon[_ngcontent-c2]   img[_ngcontent-c2]{padding-top:10px}.temps-wrapper[_ngcontent-c2]{width:35%}.temps-wrapper[_ngcontent-c2]   .cur-temp[_ngcontent-c2]{margin-top:12px;font-size:75px;line-height:65px;text-align:center}.temps-wrapper[_ngcontent-c2]   .cur-temp.has-degs[_ngcontent-c2]:after{color:#fff;top:-8px;position:relative;font-size:16px;margin-left:2px}.hlp-wrapper[_ngcontent-c2]{width:30%;border-left:0 none;margin-top:20px;font-size:20px;text-align:center}.hlp-wrapper[_ngcontent-c2]   .hlp-inner[_ngcontent-c2]{text-align:center;display:inline-block}.hlp-wrapper[_ngcontent-c2]   .high[_ngcontent-c2], .hlp-wrapper[_ngcontent-c2]   .low[_ngcontent-c2]{width:auto}.hlp-wrapper[_ngcontent-c2]   .high[_ngcontent-c2]{border:0 none;border-right:1px solid #D7D7D7;padding:2px 7px 1px 2px;margin-right:7px}.hlp-wrapper[_ngcontent-c2]   .low[_ngcontent-c2]{margin-bottom:0;color:#8A8A8A}@media screen and (max-width: 39.9375em){.forecast[_ngcontent-c2]{margin-top:0}.hlp-wrapper[_ngcontent-c2]{font-size:16px}.temps-wrapper[_ngcontent-c2]   .cur-temp[_ngcontent-c2]{font-size:65px;line-height:65px}.condition-icon[_ngcontent-c2]   img[_ngcontent-c2]{max-height:80px}}.expand-conds[_ngcontent-c2]   .condition-icon[_ngcontent-c2]{width:25%}.expand-conds[_ngcontent-c2]   .temps-wrapper[_ngcontent-c2]{width:45%}.expand-conds[_ngcontent-c2]   .hlp-wrapper[_ngcontent-c2]{width:30%}.expand-conds[_ngcontent-c2]   .cur-temp[_ngcontent-c2]{font-size:72px;line-height:65px}.expand-conds[_ngcontent-c2]   .hlp-wrapper[_ngcontent-c2]{font-size:17px}@media screen and (min-width: 64em){#top-ad-wrapper[_ngcontent-c2]{position:absolute;right:10px;top:-200px}}#inner-content[_ngcontent-c2]{position:relative}.feels-like[_ngcontent-c2]{font-style:italic;margin-bottom:15px}@media screen and (min-width: 40em){.feels-like[_ngcontent-c2]{margin-top:10px;font-style:italic}}.conditions-card.placeholder[_ngcontent-c2]{border:0 none}@media screen and (min-width: 40em){.card-n-ad-wrap[_ngcontent-c2], .conditions-card-inner[_ngcontent-c2]{min-height:239px}}.favorites[_ngcontent-c2]   .favorites-bar[_ngcontent-c2]   UL[_ngcontent-c2]   LI.has-conds[_ngcontent-c2]   a[_ngcontent-c2]   .city-conds[_ngcontent-c2], .favorites[_ngcontent-c2]   .favorites-bar[_ngcontent-c2]   UL[_ngcontent-c2]   LI.has-conds[_ngcontent-c2]   a[_ngcontent-c2]   .city-name[_ngcontent-c2]{display:inline}.favorites[_ngcontent-c2]   .favorites-bar[_ngcontent-c2]   UL[_ngcontent-c2]   LI.has-conds[_ngcontent-c2]   a[_ngcontent-c2]   .city-conds[_ngcontent-c2]{color:#fff}.cond-icon-touch[_ngcontent-c2]{width:30px;height:30px;background-size:30px 30px}.favorites[_ngcontent-c2]   .favorites-bar[_ngcontent-c2]   UL[_ngcontent-c2]   LI[_ngcontent-c2]   A[_ngcontent-c2]{line-height:38px}.lb-arrow[_ngcontent-c2]{position:relative;content:"";display:inline-block;width:10px;height:10px;border-right:4px solid #8ED1E9;border-top:4px solid #8ED1E9;transform:rotate(45deg)}.precip-alert[_ngcontent-c2]{border:1px solid #8ED1E9;border-radius:4px;text-align:center;color:#8ED1E9;position:relative;margin:0 auto 14px;height:44px;max-width:350px;margin-top:15px}@media screen and (min-width: 40em){.precip-alert[_ngcontent-c2]{margin-bottom:0}}.precip-alert[_ngcontent-c2]   .lb-arrow[_ngcontent-c2]{position:absolute;right:12px;top:17px}.precip-alert[_ngcontent-c2]   a[_ngcontent-c2]{display:block;color:#8ED1E9;padding:12px;font-size:1rem;line-height:normal}.precip-alert[_ngcontent-c2]   a[_ngcontent-c2]:hover{text-decoration:none}.precip-icon[_ngcontent-c2]{width:25px;height:25px;position:absolute;left:8px;top:9px}.fct-button[_ngcontent-c2]{max-width:350px;width:auto;margin-top:15px;font-size:1rem;line-height:normal}@media screen and (min-width: 40em){.condition-wrap[_ngcontent-c2], .forecast[_ngcontent-c2]{height:135px}.forecast[_ngcontent-c2]{margin:0 auto;padding-top:15px}.fct-button[_ngcontent-c2]{padding-top:10px}}.alert-i[_ngcontent-c2]{font-size:19px;position:relative;top:2px;margin-right:5px}@media screen and (min-width: 64em){.alert-i[_ngcontent-c2]{font-size:22px;top:3px}}.condition-location[_ngcontent-c2]{font-size:1.125rem;font-weight:bold;text-align:center}.conditions-card-wrap[_ngcontent-c2], .conditions-card-wrap[_ngcontent-c2]   .row[_ngcontent-c2]{margin-left:0;margin-right:0}.DF1[_ngcontent-c2]{background-color:#D5202A;border:1px solid #D5202A}.DF2[_ngcontent-c2]{background-color:#f83;border:1px solid #f83}.DF3[_ngcontent-c2]{background-color:#FFB92F;border:1px solid #FFB92F}.DF4[_ngcontent-c2]{background-color:#8A8A8A;border:1px solid #8A8A8A}.DF5[_ngcontent-c2]{background-color:#8A8A8A;border:1px solid #8A8A8A}.alert-row[_ngcontent-c2]{margin:10px 0 0}.alert-row[_ngcontent-c2]   .alert-wrapper[_ngcontent-c2]{padding:0}.alert-row[_ngcontent-c2]   .alert-wrapper[_ngcontent-c2] > div[_ngcontent-c2]{border-radius:3px}.alert-inner[_ngcontent-c2]{height:auto;padding:3px 0 5px;line-height:20px;font-size:13px;max-width:80rem;margin-left:auto;margin-right:auto;color:#fff;text-align:center}@media screen and (min-width: 64em){.alert-inner[_ngcontent-c2]{height:35px;padding:0;font-size:.9375rem;line-height:31px}}.alert-inner[_ngcontent-c2]   A[_ngcontent-c2]{text-decoration:underline;color:#fff}.see-more[_ngcontent-c2]{font-size:.75rem}.loader-wrapper[_ngcontent-c2]{padding-left:42%;padding-right:58%}@media screen and (min-width: 40em){.loader-wrapper[_ngcontent-c2]{padding-left:46%;padding-right:54%;margin-top:-40px}}.loader[_ngcontent-c2], .loader[_ngcontent-c2]:after{z-index:1;position:absolute;border-radius:50%;width:8em;height:8em}.loader[_ngcontent-c2]{margin:60px auto;font-size:10px;text-indent:-9999em;border-top:0.8em solid #333;border-right:0.8em solid #333;border-bottom:0.8em solid #333;border-left:0.8em solid #d7d7d7;-webkit-transform:translateZ(0);-ms-transform:translateZ(0);transform:translateZ(0);-webkit-animation:load 1.6s infinite linear;animation:load 1.6s infinite linear}@-webkit-keyframes load{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes load{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}</style><style>#position-2-banner-ad-browser[_ngcontent-c3]{text-align:center}#position-2-banner-ad-browser[_ngcontent-c3]   #MW_Position2[_ngcontent-c3]{display:inline-block;max-width:100%}</style><style>[_nghost-c4]   input[_ngcontent-c4]{margin:5px 0}[_nghost-c4]   .control-wrap[_ngcontent-c4]   .tooltip[_ngcontent-c4]{position:static;text-align:left;padding:0;background-color:transparent;font-style:italic;color:#E55C5C}[_nghost-c4]   .control-wrap[_ngcontent-c4]   .tooltip.top[_ngcontent-c4]:before{display:none}@media screen and (min-width: 40em){[_nghost-c4]   .control-wrap[_ngcontent-c4]   .tooltip[_ngcontent-c4]{position:absolute;top:-50px;left:0;right:0;background-color:#D5202A;color:#fff;text-align:center;padding:.5rem;max-width:none !important}[_nghost-c4]   .control-wrap[_ngcontent-c4]   .tooltip.top[_ngcontent-c4]:before{display:block;border-color:#D5202A transparent transparent}}[_nghost-c4]   .has-error[_ngcontent-c4]{color:#D5202A}[_nghost-c4]   .control-wrap[_ngcontent-c4]{width:100%;display:inline;position:relative}[_nghost-c4]     .ui-autocomplete{left:0 !important;top:23px;text-align:left}[_nghost-c4]     .ui-autocomplete .ui-autocomplete-geolocate{display:none}[_nghost-c4]     .ui-autocomplete .manage-favorites{display:none}[_nghost-c4]   .hp-alert-sign-up[_ngcontent-c4]{text-align:center}@media screen and (min-width: 40em){[_nghost-c4]   .hp-alert-sign-up[_ngcontent-c4]   input[_ngcontent-c4]{margin:0;display:inline;width:180px;font-size:.875rem}}[_nghost-c4]   .alert-text[_ngcontent-c4]{display:inline-block;padding-right:10px;text-align:right}@media screen and (min-width: 40em) and (max-width: 63.9375em){[_nghost-c4]   .alert-text[_ngcontent-c4]{font-size:.875rem}}[_nghost-c4]   .alert-subscribe[_ngcontent-c4]{display:inline-block;margin-top:5px;margin-bottom:0}@media screen and (min-width: 40em){[_nghost-c4]   .alert-subscribe[_ngcontent-c4]{height:34px}}@media screen and (min-width: 40em){[_nghost-c4]   .alert-subscribe[_ngcontent-c4]{height:34px;width:33px;position:relative;margin:0 0 2px;padding:12px}[_nghost-c4]   .alert-subscribe[_ngcontent-c4]:after{transform:rotate(45deg) translateY(-70%);content:"";border-style:solid;border-width:2px 2px 0 0;width:11px;height:11px;display:inline-block;position:absolute;color:#1088B0;top:15px;left:2px}}@media screen and (max-width: 39.9375em){[_nghost-c4]   .city-alert-box[_ngcontent-c4]   input[_ngcontent-c4]{width:100%;margin:3px 0}[_nghost-c4]   .city-alert-box[_ngcontent-c4]   .control-wrap[_ngcontent-c4]{display:inline-block}[_nghost-c4]   .city-alert-box[_ngcontent-c4]   .alert-text[_ngcontent-c4]{display:block;text-align:left;text-transform:uppercase;font-weight:bold}[_nghost-c4]   .city-alert-box[_ngcontent-c4]   .alert-subscribe[_ngcontent-c4]{padding:0.6em 1em;height:auto;width:auto;margin:3px 0 0 0}}@media screen and (min-width: 64em){[_nghost-c4]   .city-alert-box[_ngcontent-c4]   input[_ngcontent-c4]{width:100%;margin:3px 0}[_nghost-c4]   .city-alert-box[_ngcontent-c4]   .control-wrap[_ngcontent-c4]{display:inline-block}[_nghost-c4]   .city-alert-box[_ngcontent-c4]   .alert-text[_ngcontent-c4]{display:block;text-align:left;text-transform:uppercase;font-weight:bold}[_nghost-c4]   .city-alert-box[_ngcontent-c4]   .alert-subscribe[_ngcontent-c4]{padding:0.6em 1em;height:auto;width:auto;margin:3px 0 0 0}}[_nghost-c4]   .city-alert-box[_ngcontent-c4]   form[_ngcontent-c4]{padding:7px 10px}[_nghost-c4]   .city-alert-box[_ngcontent-c4]   .alert-subscribe[_ngcontent-c4]:after{display:none}@media screen and (min-width: 40em) and (max-width: 63.9375em){[_nghost-c4]   .city-alert-box[_ngcontent-c4]   .alert-subscribe[_ngcontent-c4]:after{display:inline-block}}</style><style>.wu-paid[_nghost-c5]   .caster-inner[_ngcontent-c5], .wu-paid   [_nghost-c5]   .caster-inner[_ngcontent-c5]{font-size:1rem}@media screen and (min-width: 40em){.wu-paid[_nghost-c5]   .caster-inner[_ngcontent-c5], .wu-paid   [_nghost-c5]   .caster-inner[_ngcontent-c5]{width:75%;float:none;margin-left:auto;margin-right:auto}}[_nghost-c5]{display:block}[_nghost-c5] > .row[_ngcontent-c5]{padding-top:1rem}.row[_ngcontent-c5]   .row[_ngcontent-c5]{margin:0}.caster-story[_ngcontent-c5]{min-height:284px;background-color:#1E2023}.hp-caster[_ngcontent-c5]{color:#fff;padding-top:30px;padding-bottom:30px}</style><style>.ad-zergnet[_ngcontent-c6]{padding:0 15px;background:#fff}.ad-zergnet[_ngcontent-c6]   .zergnet-container[_ngcontent-c6]{margin:0 auto}</style><style>[_nghost-c7]{display:block}.triple-box[_ngcontent-c7]{margin:0 auto;padding:30px 0}.triple-box[_ngcontent-c7]   div[_ngcontent-c7]{text-align:center}</style><style>.site-notice{width:100%;z-index:3;display:block;padding:8px 10px;text-align:center;color:#fff;background-color:#6697CC;font-size:.9375rem}  .site-notice a{color:#fff;text-decoration:underline}</style><style>[_nghost-c10]   ul[_ngcontent-c10]   li.has-conds[_ngcontent-c10]   a[_ngcontent-c10]{line-height:38px}[_nghost-c10]   ul[_ngcontent-c10]   li.has-conds[_ngcontent-c10]   a[_ngcontent-c10]   .city-name[_ngcontent-c10]{color:#8ED1E9;display:inline}[_nghost-c10]   ul[_ngcontent-c10]   li.has-conds[_ngcontent-c10]   a[_ngcontent-c10]   .city-conds[_ngcontent-c10]{display:inline}[_nghost-c10]   .cond-icon-touch[_ngcontent-c10]{background-size:30px 30px;width:30px;height:30px}[_nghost-c10]   ul[_ngcontent-c10]   li[_ngcontent-c10]   a[_ngcontent-c10]:hover{background-color:#333;color:#f83;transition:background-color 0.25s ease-out;border-radius:3px}[_nghost-c10]   ul[_ngcontent-c10]   li[_ngcontent-c10]:first-child   a[_ngcontent-c10]{border-right:none}[_nghost-c10]   ul[_ngcontent-c10]   li[_ngcontent-c10]:first-child   a[_ngcontent-c10]:hover{color:#008FBF;background-color:#333}[_nghost-c10]   ul[_ngcontent-c10]   li[_ngcontent-c10]   label[_ngcontent-c10] + a[_ngcontent-c10]:hover{border-radius:0 3px 3px 0}[_nghost-c10]     .wu-value, [_nghost-c10]     .wu-label{color:#FFF;font-weight:bold}[_nghost-c10]     .wu-suffix{display:none}</style><style>[_nghost-c11]   .favorites-list-toggle[_ngcontent-c11]{background:-webkit-linear-gradient(left, transparent, #1E2023 45%);background:-moz-linear-gradient(left, transparent, #1E2023 45%);background:-o-linear-gradient(left, transparent, #1E2023 45%);background:linear-gradient(to right, transparent, #1E2023 45%);width:50px;border:0 none;cursor:pointer}[_nghost-c11]   .favorites-list-toggle[_ngcontent-c11]::after{transform:rotate(135deg) translateY(100%);content:"";border-style:solid;border-width:2px 2px 0 0;width:11px;height:11px;display:inline-block;position:absolute;color:#8ED1E9;top:17px;right:4px}[_nghost-c11]   .favorites-list-toggle[_ngcontent-c11]:hover, [_nghost-c11]   .favorites-list-toggle.selected[_ngcontent-c11], [_nghost-c11]   .favorites-list-toggle.selected[_ngcontent-c11]:hover{background:-webkit-linear-gradient(left, transparent, #1E2023 45%);background:-moz-linear-gradient(left, transparent, #1E2023 45%);background:-o-linear-gradient(left, transparent, #1E2023 45%);background:linear-gradient(to right, transparent, #1E2023 45%)}</style><style>.alert-row[_ngcontent-c12]{margin:0;max-width:none}.alert-row[_ngcontent-c12]   .alert-wrapper[_ngcontent-c12]{padding:0}.alert-row[_ngcontent-c12]   .alert-wrapper[_ngcontent-c12] > div[_ngcontent-c12]{border-radius:3px}.DF1[_ngcontent-c12]{background-color:#D5202A;border:1px solid #D5202A}.DF2[_ngcontent-c12]{background-color:#f83;border:1px solid #f83}.DF3[_ngcontent-c12]{background-color:#FFB92F;border:1px solid #FFB92F}.DF4[_ngcontent-c12]{background-color:#8A8A8A;border:1px solid #8A8A8A}.DF5[_ngcontent-c12]{background-color:#8A8A8A;border:1px solid #8A8A8A}.alert-i[_ngcontent-c12]{font-size:19px;position:relative;top:2px;margin-right:5px}@media screen and (min-width: 64em){.alert-i[_ngcontent-c12]{font-size:22px;top:3px}}.alert-inner[_ngcontent-c12]{height:auto;padding:3px 0 5px;line-height:20px;font-size:13px;max-width:80rem;margin-left:auto;margin-right:auto;color:#fff;text-align:center}@media screen and (min-width: 64em){.alert-inner[_ngcontent-c12]{height:35px;padding:0;font-size:.9375rem;line-height:31px}}.alert-inner[_ngcontent-c12]   A[_ngcontent-c12]{text-decoration:underline;color:#fff}  .severe-header{background-color:#F7F7F7}  .severe-header .alert-row{margin:0 auto}  .severe-header .alert-row .alert-wrapper>div{border-radius:0 !important}  .severe-header .alert-inner{text-align:left;padding:0 15px;height:40px;line-height:36px}</style><style>#dpr-manager-server{margin:30px 0}</style><style>.wu-account[_ngcontent-c9]{width:100px;height:50px;position:absolute;top:0;right:50px;display:block;text-align:center;line-height:50px;font-size:1.0rem;z-index:5;color:#FFF;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:96px}.wu-account[_ngcontent-c9]   a[_ngcontent-c9]{color:#FFF;text-decoration:underline}</style><style>[_nghost-c13]     p{color:#fff;margin-bottom:10px}[_nghost-c13]{display:block;margin-bottom:20px}.hp-story-title[_ngcontent-c13]{color:#8ED1E9}.severe[_ngcontent-c13]{background-color:#D5202A}.normal[_ngcontent-c13]{background-color:#3347ff}.hp-story-art-box.columns[_ngcontent-c13]{padding-right:0;padding-left:0}@media screen and (min-width: 40em){.hp-story-art-box.columns[_ngcontent-c13]{padding-right:5px;padding-left:5px}}.hp-story-art[_ngcontent-c13]{position:relative;display:block;width:100%}@media screen and (min-width: 40em){.hp-story-art[_ngcontent-c13]{min-height:200px}}.hp-story-art[_ngcontent-c13]   img[_ngcontent-c13]{width:100%;display:none}@media screen and (min-width: 40em){.hp-story-art[_ngcontent-c13]   img[_ngcontent-c13]{display:block}}.hp-story-type[_ngcontent-c13]{padding:7px;font-size:1.125rem;color:#fff;margin-top:20px;padding-left:20px;padding-right:20px}@media screen and (min-width: 40em){.hp-story-type[_ngcontent-c13]{margin-top:0;position:absolute;bottom:0;width:100%}}.hp-story-link[_ngcontent-c13]   a[_ngcontent-c13]{color:#8ED1E9}.fi-social-twitter[_ngcontent-c13]{color:#fff;font-size:1.25rem;position:relative;top:3px;color:#fff;margin-right:5px}.story-body[_ngcontent-c13]{margin-top:-8px;padding:0 20px}@media screen and (min-width: 40em){.story-body[_ngcontent-c13]{padding:0 10px 0 40px}}</style><script src="//icons.wxug.com/scripts/sourcepoint/msg.js"></script><script src="//icons.wxug.com/scripts/sourcepoint/mms_client.js"></script><script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js" async=""></script><script type="text/javascript" src="//js-sec.indexww.com/ht/p/182970-203800257961387.js" async=""></script><script async="" src="//triggers.wfxtriggers.com/json/?resp_type=json&amp;current=true&amp;acctid=B1CC73&amp;zcs=30188&amp;nzcs=30188&amp;callback=jsonp_callback_27693"></script><script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js" async=""></script><script type="text/javascript" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script async="" src="//ad.crwdcntrl.net/5/c=2216/pe=y/callback=jsonp_callback_12490"></script><style>.unit-no-wrap[_ngcontent-c15]{white-space:nowrap}.is-degree-visible[_ngcontent-c15]   .wu-label[_ngcontent-c15]:before{content:'\00b0'}</style><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.wunderground.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.wunderground.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_319.js" async=""></script></head>
+<body class="omnibus page">
+
+  <!-- universal -->
+  <app ng-version="4.1.3"><privacy-policy-toast><!----><div class="privacy-policy-toast"></div>
+</privacy-policy-toast><router-outlet></router-outlet><homepage><homepage-layout _nghost-c0=""><div _ngcontent-c0="" class="content-wrap right-side-nav">
+
+  
+  <div class="region-header">
+    <ad-wx-ws>
+    <div class="top-banner ad-wrap ad-desktop" id="top-banner-ad-browser">
+      <div id="WX_WindowShade"></div>
+    </div>
+  </ad-wx-ws>
+    <ad-mw-position-1>
+    <div class="top-banner ad-wrap ad-mobile" id="position-1-banner-ad-browser">
+      <div id="MW_Position1"></div>
+    </div>
+  </ad-mw-position-1>
+    <header-component><site-notice _nghost-c8=""><!----></site-notice>
+
+<header-menu-mobile><nav class="sidebar" id="feature-menu-mobile">
+  <div class="sidebar-wrapper">
+    <ul class="side-main-nav nav-bar">
+      <!----><li>
+        <a href="/signup">
+          <i class="fi-torso sidebar-icon"></i>Log in / Join
+        </a>
+      </li>
+      <!---->
+      <li class="gotMore">
+        <a href="data.asp#">
+          <i class="fi-widget sidebar-icon"></i> Settings
+        </a>
+        <ul class="sideSubNav">
+          <li class="sideGoBack"><a href="javascript:void(0);">Settings</a></li>
+          <li>
+            <header-user-settings><!---->
+
+<!----><div class="hide-for-small">
+  <div class="wu-settings-quick content" id="wuSettings-quick-homepage">
+    <li>
+      <div class="button-group button-group-dark">
+        <a class="button button-dark selected" title="Switch to English">
+          °F
+        </a>
+        <a class="button button-dark" title="Switch to Metric">
+          °C
+        </a>
+      </div>
+
+      <div class="button-group button-group-dark forecast-type">
+        <a class="button button-dark selected" title="Use BestForecast">
+          BestForecast
+        </a>
+        <a class="button button-dark" title="Use NWS">
+          NWS
+        </a>
+      </div>
+
+      <p class="settings-info"><a href="/about/data#differences">What's the difference?</a></p>
+    </li>
+    <li>
+      <a class="wu-settings-more-mobile" href="/member/membersettings.html?page=prefs">More Settings</a>
+    </li>
+    <!---->
+  </div>
+</div>
+</header-user-settings>
+          </li>
+        </ul>
+      </li>
+      <li class="gotMore">
+        <a class="wunder-r" href="javascript:void(0);">Sensor Network</a>
+        <ul class="sideSubNav">
+          <li class="sideGoBack"><a href="javascript:void(0);">Sensor Network</a></li>
+          <li><a href="/weatherstation/overview.asp">Weather Station Network</a></li>
+          <li><a href="/weatherstation/buyingguide.asp">PWS Buying Guide</a></li>
+          <li><a href="/personal-weather-station/mypws">Connect a Weather Station</a></li>
+          <li><a href="/webcams/signup.html">Connect a Webcam</a></li>
+        </ul>
+      </li>
+      <li class="gotMore">
+        <a class="wunder-o" href="javascript:void(0);">Maps &amp; Radar</a>
+        <ul class="sideSubNav">
+          <li class="sideGoBack"><a href="javascript:void(0);">Maps &amp; Radar</a></li>
+          <li><a href="/wundermap" title="WunderMap">WunderMap</a></li>
+          <li><a href="/wundermap/?rad=1&amp;rad.num=1&amp;rad.spd=25&amp;rad.opa=81&amp;rad.type=00Q&amp;rad.type2=&amp;rad.smo=1&amp;rad.stm=0&amp;sat=0&amp;stormreports=0&amp;svr=0&amp;pix=0&amp;cams=0&amp;tor=0&amp;riv=0&amp;wxsn=0&amp;ski=0&amp;tfk=0&amp;mm=0&amp;ndfd=0&amp;fire=0&amp;firewfas=0&amp;extremes=0&amp;hurrevac=0&amp;sst=0&amp;livesurge=0&amp;femaflood=0&amp;tsunami=0&amp;seismicrisk=0&amp;fault=0&amp;fissures=0&amp;fronts=0&amp;dir=1&amp;dir.mode=driving&amp;hur=0" title="Interactive Radar">Interactive Radar</a></li>
+          <li><a href="/wundermap/?zoom=5&amp;type=&amp;tl.play=0&amp;tl.spd=2&amp;extremes=0&amp;fault=0&amp;femaflood=0&amp;fire=0&amp;firewfas=0&amp;fissures=0&amp;fronts=0&amp;hurrevac=0&amp;hur=0&amp;lightning=0&amp;livesurge=0&amp;mm=0&amp;ndfd=0&amp;rad=0&amp;dir=1&amp;dir.mode=driving&amp;sst=0&amp;sat=1&amp;sat.num=1&amp;sat.spd=25&amp;sat.opa=87&amp;sat.gtt1=108&amp;sat.gtt2=108&amp;sat.type=IR4&amp;seismicrisk=0&amp;svr=0&amp;ski=0&amp;snowfall=0&amp;stormreports=0&amp;tor=0&amp;tfk=0&amp;tsunami=0&amp;riv=0&amp;wxsn=0&amp;cams=0&amp;pix=0" title="Interactive Satellite">Interactive Satellite</a></li>
+          <li><a href="/radar/" title="Radar Maps">Radar Maps</a></li>
+          <li><a href="/ndfdimage/viewimage/" title="Forecast Maps">Forecast Maps</a></li>
+          <li><a href="/maps" title="Maps Catalog">Full Maps Catalog</a></li>
+        </ul>
+      </li>
+      <li class="gotMore">
+        <a class="wunder-y" href="javascript:void(0);">Severe Weather</a>
+        <ul class="sideSubNav">
+          <li class="sideGoBack"><a href="javascript:void(0);">Severe Weather</a></li>
+          <li><a href="/hurricane" title="Hurricane &amp; Tropical Cyclones">Hurricane &amp; Tropical Cyclones</a></li>
+          <li><a href="/wundermap?zoom=5&amp;lat=37.80307138624724&amp;lon=-90.50826873347978&amp;wxstn=0&amp;wxstnmode=tw&amp;radar=0&amp;radaropa=0.7&amp;satellite=0&amp;satelliteopa=0.8&amp;insertHurricaneNameHere=false&amp;goes16opa=&amp;severe=1&amp;severeopa=0.9&amp;sst=0&amp;sstopa=0.8&amp;sstanom=0&amp;sstanomopa=0.8&amp;cam=0&amp;fronts=0&amp;hur=0&amp;models=0&amp;modelsmodel=ecmwf&amp;modelsopa=0.8&amp;modelstype=SURPRE&amp;lightning=0&amp;fire=0&amp;fireopa=0.9&amp;rep=0&amp;surge=0&amp;tor=0" title="U.S. Severe Weather Map">U.S. Severe Weather Map</a></li>
+          <li><a href="/severeconvective.asp" title="Convective Outlook">Convective Outlook</a></li>
+          <li><a href="/wundermap?zoom=5&amp;lat=37.80307138624724&amp;lon=-90.50826873347978&amp;wxstn=0&amp;wxstnmode=tw&amp;radar=0&amp;radaropa=0.7&amp;satellite=0&amp;satelliteopa=0.8&amp;insertHurricaneNameHere=false&amp;goes16opa=0&amp;severe=0&amp;severeopa=0.9&amp;sst=0&amp;sstopa=0.8&amp;sstanom=0&amp;sstanomopa=0.8&amp;cam=0&amp;fronts=0&amp;hur=0&amp;models=0&amp;modelsmodel=ecmwf&amp;modelsopa=0.8&amp;modelstype=SURPRE&amp;lightning=0&amp;fire=1&amp;fireopa=0.9&amp;rep=0&amp;surge=0&amp;tor=0" title="Wildfires">Wildfires</a></li>
+          <li><a href="/prepare" title="Preparedness">Preparedness</a></li>
+          <li><a href="/weather-alerts/" title="Email Alerts">Email Alerts</a></li>
+        </ul>
+      </li>
+      <li class="gotMore">
+        <a class="wunder-g" href="javascript:void(0);">News &amp; Blogs</a>
+        <ul class="sideSubNav">
+          <li class="sideGoBack"><a href="javascript:void(0);">News &amp; Blogs</a></li>
+          <li><a href="/cat6" title="Category 6">Category 6</a></li>
+          <li><a href="/news" title="News Stories">News Stories</a></li>
+          <li><a href="/video" title="Videos">Videos</a></li>
+          <li><a href="/weather-infographics" title="Weather Infographics">Weather Infographics</a></li>
+          <li><a href="/weather-posters" title="Weather Posters">Weather Posters</a></li>
+          <li><a href="/wutv" title="WUTV">WUTV</a></li>
+          <li><a href="/blog" title="Blog Archive">Blog Archive</a></li>
+        </ul>
+      </li>
+      <li class="gotMore">
+        <a class="wunder-b" href="javascript:void(0);">Apps</a>
+        <ul class="sideSubNav">
+          <li class="sideGoBack"><a href="javascript:void(0);">Apps</a></li>
+          <li><a href="https://app.appsflyer.com/id486154808?pid=Web&amp;c=AppPage" target="new">Weather Underground for iOS</a></li>
+          <li><a href="https://app.appsflyer.com/com.wunderground.android.weather?pid=Web&amp;c=AppPage" target="new">Weather Underground for Android</a></li>
+          <li><a href="https://itunes.apple.com/us/app/wunderstation-weather-from/id906099986?ls=1&amp;mt=8" target="new">WunderStation for iPad</a></li>
+          <li><a href="/download">All Mobile Apps</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="sidebar-footer">
+      <li><a class="history" href="/history/" title="Historical Weather">Historical Weather</a></li>
+    </ul>
+  </div>
+</nav>
+</header-menu-mobile>
+
+<nav class="topbar">
+
+  <div class="global-header" id="global-header">
+
+    <a class="right-off-canvas-toggle" href="javascript:void(0);" id="sidebarButton">
+      <span class="fi-list-wrap"><i class="fi-list"></i></span>
+    </a>
+
+    <a class="logo" href="/" id="header-logo" title="Weather Underground"></a>
+
+    <div></div>
+
+    <!---->
+
+      <header-menu-desktop><nav class="topbar">
+  <div class="global-header" id="global-header">
+    <a class="right-off-canvas-toggle" href="javascript:void(0);" id="sidebarButton"><span class="fi-list-wrap"><i class="fi-list"></i></span></a>
+    <a class="logo" href="/" id="header-logo" title="Weather Underground"></a>
+    <div class="panel-pane pane-ngpanes pane-wu-header-menu">
+      <div class="wu-header-menu" data-instance="3ec9a4d5-d125-4e9a-8316-6590f404f040">
+        <nav class="feature-menu visible" id="feature-menu">
+          
+        <div class="menu-wrapper" style="left: 0px; top: 50px;"><ul class="menu-list">
+                <li><a href="/weatherstation/overview.asp">Weather Station Network</a></li>
+                <li><a href="/weatherstation/buyingguide.asp">PWS Buying Guide</a></li>
+                <li><a href="/personal-weather-station/mypws">Connect a Weather Station</a></li>
+                <li><a href="/webcams/signup.html">Connect a Webcam</a></li>
+              </ul></div><div class="menu-wrapper" style="left: 119.594px; top: 50px;"><ul class="menu-list">
+                <li><a href="/wundermap" title="WunderMap">WunderMap</a></li>
+                <li><a href="/wundermap/?units=english&amp;rad=1&amp;rad.num=1&amp;rad.spd=25&amp;rad.opa=81&amp;rad.type=00Q&amp;rad.type2=&amp;rad.smo=1&amp;rad.stm=0&amp;sat=0&amp;stormreports=0&amp;svr=0&amp;pix=0&amp;cams=0&amp;tor=0&amp;riv=0&amp;wxsn=0&amp;ski=0&amp;tfk=0&amp;mm=0&amp;ndfd=0&amp;fire=0&amp;firewfas=0&amp;extremes=0&amp;hurrevac=0&amp;sst=0&amp;livesurge=0&amp;femaflood=0&amp;tsunami=0&amp;seismicrisk=0&amp;fault=0&amp;fissures=0&amp;fronts=0&amp;dir=1&amp;dir.mode=driving&amp;hur=0" title="Interactive Radar">Interactive Radar</a></li>
+                <li><a href="/wundermap/?zoom=5&amp;type=&amp;tl.play=0&amp;tl.spd=2&amp;extremes=0&amp;fault=0&amp;femaflood=0&amp;fire=0&amp;firewfas=0&amp;fissures=0&amp;fronts=0&amp;hurrevac=0&amp;hur=0&amp;lightning=0&amp;livesurge=0&amp;mm=0&amp;ndfd=0&amp;rad=0&amp;dir=1&amp;dir.mode=driving&amp;sst=0&amp;sat=1&amp;sat.num=1&amp;sat.spd=25&amp;sat.opa=87&amp;sat.gtt1=108&amp;sat.gtt2=108&amp;sat.type=IR4&amp;seismicrisk=0&amp;svr=0&amp;ski=0&amp;snowfall=0&amp;stormreports=0&amp;tor=0&amp;tfk=0&amp;tsunami=0&amp;riv=0&amp;wxsn=0&amp;cams=0&amp;pix=0" title="Interactive Satellite">Interactive Satellite</a></li>
+                <li><a href="/radar/" title="Radar Maps">Radar Maps</a></li>
+                <li><a href="/ndfdimage/viewimage/" title="Forecast Maps">Forecast Maps</a></li>
+                <li><a href="/maps" title="Maps Catalog">Full Maps Catalog</a></li>
+              </ul></div><div class="menu-wrapper" style="left: 0px; top: 50px;"><ul class="menu-list">
+                <li><a href="/hurricane" title="Hurricane &amp; Tropical Cyclones">Hurricane &amp; Tropical Cyclones</a></li>
+                <li><a href="/wundermap?zoom=5&amp;lat=37.80307138624724&amp;lon=-90.50826873347978&amp;wxstn=0&amp;wxstnmode=tw&amp;radar=0&amp;radaropa=0.7&amp;satellite=0&amp;satelliteopa=0.8&amp;insertHurricaneNameHere=false&amp;goes16opa=&amp;severe=1&amp;severeopa=0.9&amp;sst=0&amp;sstopa=0.8&amp;sstanom=0&amp;sstanomopa=0.8&amp;cam=0&amp;fronts=0&amp;hur=0&amp;models=0&amp;modelsmodel=ecmwf&amp;modelsopa=0.8&amp;modelstype=SURPRE&amp;lightning=0&amp;fire=0&amp;fireopa=0.9&amp;rep=0&amp;surge=0&amp;tor=0" title="U.S. Severe Weather Map">U.S. Severe Weather Map</a></li>
+                <li><a href="/severeconvective.asp" title="Convective Outlook">Convective Outlook</a></li>
+                <li><a href="/wundermap?zoom=5&amp;lat=37.80307138624724&amp;lon=-90.50826873347978&amp;wxstn=0&amp;wxstnmode=tw&amp;radar=0&amp;radaropa=0.7&amp;satellite=0&amp;satelliteopa=0.8&amp;insertHurricaneNameHere=false&amp;goes16opa=0&amp;severe=0&amp;severeopa=0.9&amp;sst=0&amp;sstopa=0.8&amp;sstanom=0&amp;sstanomopa=0.8&amp;cam=0&amp;fronts=0&amp;hur=0&amp;models=0&amp;modelsmodel=ecmwf&amp;modelsopa=0.8&amp;modelstype=SURPRE&amp;lightning=0&amp;fire=1&amp;fireopa=0.9&amp;rep=0&amp;surge=0&amp;tor=0" title="Wildfires">Wildfires</a></li>
+                <li><a href="/prepare" title="Preparedness">Preparedness</a></li>
+                <li><a href="/weather-alerts/" title="Email Alerts">Email Alerts</a></li>
+              </ul></div><div class="menu-wrapper" style="left: 120.906px; top: 50px;"><ul class="menu-list">
+                <li><a href="/cat6" title="Category 6">Category 6</a></li>
+                <li><a href="/news" title="News Stories">News Stories</a></li>
+                <li><a href="/video" title="Videos">Videos</a></li>
+                <li><a href="/weather-infographics" title="Weather Infographics">Weather Infographics</a></li>
+                <li><a href="/weather-posters" title="Weather Posters">Weather Posters</a></li>
+                <li><a href="/wutv" title="WUTV">WUTV</a></li>
+                <li><a href="/blog" title="Blog Archive">Blog Archive</a></li>
+              </ul></div><div class="menu-wrapper" style="left: 0px; top: 50px;"><ul class="menu-list">
+                <li><a href="https://app.appsflyer.com/id486154808?pid=Web&amp;c=AppPage" target="new">Weather Underground for iOS</a></li>
+                <li><a href="https://app.appsflyer.com/com.wunderground.android.weather?pid=Web&amp;c=AppPage" target="new">Weather Underground for Android</a></li>
+                <li><a href="https://itunes.apple.com/us/app/wunderstation-weather-from/id906099986?ls=1&amp;mt=8" target="new">WunderStation for iPad</a></li>
+                <li><a href="/download">All Mobile Apps</a></li>
+              </ul></div><ul class="menu-list primary-menu" style="padding-right: 75px;"><li><label class="wunder-r">Sensor Network</label></li><li><label class="wunder-o">Maps &amp; Radar</label></li><li><label class="wunder-y">Severe Weather</label></li><li><label class="wunder-g">News &amp; Blogs</label></li><li><label class="wunder-b">Mobile Apps</label></li><li class="more-menu-label" style="left: 229.078px;"><label class="more">More</label></li></ul><div class="menu-wrapper more-menu" style="left: 229.062px; top: 50px;"><ul class="menu-list primary-menu"><li class="hidden"><label class="wunder-r">Sensor Network</label></li><li class="hidden"><label class="wunder-o">Maps &amp; Radar</label></li><li class="active"><label class="wunder-y">Severe Weather</label></li><li><label class="wunder-g">News &amp; Blogs</label></li><li><label class="wunder-b">Mobile Apps</label></li><li class="more-menu-only"><a href="/history/">Historical Weather</a></li><li class="more-menu-only"><a href="/forecast-flyer">Daily Forecast Flyer</a></li></ul><div class="menu-wrapper"><ul class="menu-list">
+                <li><a href="/weatherstation/overview.asp">Weather Station Network</a></li>
+                <li><a href="/weatherstation/buyingguide.asp">PWS Buying Guide</a></li>
+                <li><a href="/personal-weather-station/mypws">Connect a Weather Station</a></li>
+                <li><a href="/webcams/signup.html">Connect a Webcam</a></li>
+              </ul></div><div class="menu-wrapper"><ul class="menu-list">
+                <li><a href="/wundermap" title="WunderMap">WunderMap</a></li>
+                <li><a href="/wundermap/?units=english&amp;rad=1&amp;rad.num=1&amp;rad.spd=25&amp;rad.opa=81&amp;rad.type=00Q&amp;rad.type2=&amp;rad.smo=1&amp;rad.stm=0&amp;sat=0&amp;stormreports=0&amp;svr=0&amp;pix=0&amp;cams=0&amp;tor=0&amp;riv=0&amp;wxsn=0&amp;ski=0&amp;tfk=0&amp;mm=0&amp;ndfd=0&amp;fire=0&amp;firewfas=0&amp;extremes=0&amp;hurrevac=0&amp;sst=0&amp;livesurge=0&amp;femaflood=0&amp;tsunami=0&amp;seismicrisk=0&amp;fault=0&amp;fissures=0&amp;fronts=0&amp;dir=1&amp;dir.mode=driving&amp;hur=0" title="Interactive Radar">Interactive Radar</a></li>
+                <li><a href="/wundermap/?zoom=5&amp;type=&amp;tl.play=0&amp;tl.spd=2&amp;extremes=0&amp;fault=0&amp;femaflood=0&amp;fire=0&amp;firewfas=0&amp;fissures=0&amp;fronts=0&amp;hurrevac=0&amp;hur=0&amp;lightning=0&amp;livesurge=0&amp;mm=0&amp;ndfd=0&amp;rad=0&amp;dir=1&amp;dir.mode=driving&amp;sst=0&amp;sat=1&amp;sat.num=1&amp;sat.spd=25&amp;sat.opa=87&amp;sat.gtt1=108&amp;sat.gtt2=108&amp;sat.type=IR4&amp;seismicrisk=0&amp;svr=0&amp;ski=0&amp;snowfall=0&amp;stormreports=0&amp;tor=0&amp;tfk=0&amp;tsunami=0&amp;riv=0&amp;wxsn=0&amp;cams=0&amp;pix=0" title="Interactive Satellite">Interactive Satellite</a></li>
+                <li><a href="/radar/" title="Radar Maps">Radar Maps</a></li>
+                <li><a href="/ndfdimage/viewimage/" title="Forecast Maps">Forecast Maps</a></li>
+                <li><a href="/maps" title="Maps Catalog">Full Maps Catalog</a></li>
+              </ul></div><div class="menu-wrapper active"><ul class="menu-list">
+                <li><a href="/hurricane" title="Hurricane &amp; Tropical Cyclones">Hurricane &amp; Tropical Cyclones</a></li>
+                <li><a href="/wundermap?zoom=5&amp;lat=37.80307138624724&amp;lon=-90.50826873347978&amp;wxstn=0&amp;wxstnmode=tw&amp;radar=0&amp;radaropa=0.7&amp;satellite=0&amp;satelliteopa=0.8&amp;insertHurricaneNameHere=false&amp;goes16opa=&amp;severe=1&amp;severeopa=0.9&amp;sst=0&amp;sstopa=0.8&amp;sstanom=0&amp;sstanomopa=0.8&amp;cam=0&amp;fronts=0&amp;hur=0&amp;models=0&amp;modelsmodel=ecmwf&amp;modelsopa=0.8&amp;modelstype=SURPRE&amp;lightning=0&amp;fire=0&amp;fireopa=0.9&amp;rep=0&amp;surge=0&amp;tor=0" title="U.S. Severe Weather Map">U.S. Severe Weather Map</a></li>
+                <li><a href="/severeconvective.asp" title="Convective Outlook">Convective Outlook</a></li>
+                <li><a href="/wundermap?zoom=5&amp;lat=37.80307138624724&amp;lon=-90.50826873347978&amp;wxstn=0&amp;wxstnmode=tw&amp;radar=0&amp;radaropa=0.7&amp;satellite=0&amp;satelliteopa=0.8&amp;insertHurricaneNameHere=false&amp;goes16opa=0&amp;severe=0&amp;severeopa=0.9&amp;sst=0&amp;sstopa=0.8&amp;sstanom=0&amp;sstanomopa=0.8&amp;cam=0&amp;fronts=0&amp;hur=0&amp;models=0&amp;modelsmodel=ecmwf&amp;modelsopa=0.8&amp;modelstype=SURPRE&amp;lightning=0&amp;fire=1&amp;fireopa=0.9&amp;rep=0&amp;surge=0&amp;tor=0" title="Wildfires">Wildfires</a></li>
+                <li><a href="/prepare" title="Preparedness">Preparedness</a></li>
+                <li><a href="/weather-alerts/" title="Email Alerts">Email Alerts</a></li>
+              </ul></div><div class="menu-wrapper"><ul class="menu-list">
+                <li><a href="/cat6" title="Category 6">Category 6</a></li>
+                <li><a href="/news" title="News Stories">News Stories</a></li>
+                <li><a href="/video" title="Videos">Videos</a></li>
+                <li><a href="/weather-infographics" title="Weather Infographics">Weather Infographics</a></li>
+                <li><a href="/weather-posters" title="Weather Posters">Weather Posters</a></li>
+                <li><a href="/wutv" title="WUTV">WUTV</a></li>
+                <li><a href="/blog" title="Blog Archive">Blog Archive</a></li>
+              </ul></div><div class="menu-wrapper"><ul class="menu-list">
+                <li><a href="https://app.appsflyer.com/id486154808?pid=Web&amp;c=AppPage" target="new">Weather Underground for iOS</a></li>
+                <li><a href="https://app.appsflyer.com/com.wunderground.android.weather?pid=Web&amp;c=AppPage" target="new">Weather Underground for Android</a></li>
+                <li><a href="https://itunes.apple.com/us/app/wunderstation-weather-from/id906099986?ls=1&amp;mt=8" target="new">WunderStation for iPad</a></li>
+                <li><a href="/download">All Mobile Apps</a></li>
+              </ul></div></div></nav>
+      </div>
+    </div>
+  </div>
+</nav>
+</header-menu-desktop>
+
+      <header-search-box><div class="wu-form-contain" id="wuForm-contain">
+  <form action="/cgi-bin/findweather/getForecast" class="ui-front wu-form ng-untouched ng-pristine ng-valid" id="wuForm" name="wxsearch" novalidate="">
+
+    <!----><div class="wu-search-contain" id="wuSearch-contain">
+      <input autocomplete="off" class="wu-search ng-untouched ng-pristine ng-valid" id="wuSearch" name="query" type="search" value="" placeholder="Search Locations">
+
+      <span class="close-search">
+        <i class="fi-x-circle"></i>
+      </span>
+
+      <!----><span class="geolocate-wrap">
+        <i class="fi-target-two"></i>
+      </span>
+    </div>
+
+    <!---->
+
+    <search-autocomplete><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all hide" tabindex="0">
+
+  <!----><li class="ui-autocomplete-geolocate">
+    <div class="mimic-a menu-geolocate">
+      <i class="fi-target-two"></i>Find Nearest Station
+    </div>
+  </li>
+
+  <!---->
+
+  <li class="ui-autocomplete-last ui-menu-item manage-favorites">
+    <a class="ui-corner-all" href="/member/membersettings.html?page=favorites" tabindex="-1">Manage Favorite Cities</a>
+  </li>
+</ul>
+</search-autocomplete>
+  </form>
+</div>
+</header-search-box>
+
+      <header-user-login _nghost-c9=""><div _ngcontent-c9="" class="show-for-medium">
+  <!---->
+
+  <!----><p _ngcontent-c9="" class="wu-account">
+    <span _ngcontent-c9=""><a _ngcontent-c9="" href="/login" translate="" translatecontext="header-user-login">Log in</a> | </span>
+    <a _ngcontent-c9="" href="/signup" translate="" translatecontext="header-user-login">Join</a>
+  </p>
+</div>
+
+<!---->
+</header-user-login>
+
+      <header-user-settings><!----><div class="hide-for-small">
+
+  <button class="wu-settings" data-toggle="wuSettings-quick" id="wuSettings" aria-controls="wuSettings-quick" data-is-focus="false" data-yeti-box="wuSettings-quick" aria-haspopup="true" aria-expanded="false">
+    <i class="fi-widget"></i>
+  </button>
+
+  <div class="dropdown-pane wu-settings-quick content" data-close-on-click="true" data-dropdown="" id="wuSettings-quick" aria-hidden="true" data-yeti-box="wuSettings-quick" data-resize="wuSettings-quick" aria-labelledby="c9babv-dd-anchor" data-e="ktdb43-e">
+
+    <div class="button-group">
+      <a class="button selected" title="Switch to English">
+        °F
+      </a>
+      <a class="button" title="Switch to Metric">
+        °C
+      </a>
+    </div>
+
+    <a class="wu-settings-more" href="/member/membersettings.html?page=prefs">More Settings</a>
+    <!---->
+
+  </div>
+
+</div>
+
+<!---->
+</header-user-settings>
+
+    
+
+  </div>
+
+</nav>
+</header-component>
+  </div>
+  
+
+  <div _ngcontent-c0="" id="inner-wrap">
+
+    
+    
+    
+
+    <section _ngcontent-c0="" class="inner-content" id="inner-content" role="main">
+      <div _ngcontent-c0="" class="homepage-mast">
+        <div _ngcontent-c0="" class="row collapse has-sidebar">
+      		<div _ngcontent-c0="" class="columns">
+
+            
+            <div class="region-conditions">
+    <favorites-dark _nghost-c1=""><div _ngcontent-c1="" class="favs-wrapper">
+  <div _ngcontent-c1="" class="favorites favorites-dark" id="favorites">
+    <div _ngcontent-c1="" class="favorites-bar" style="display: block;">
+      <favorites-dark-bar _ngcontent-c1="" _nghost-c10=""><ul _ngcontent-c10="" class="no-bullet">
+  <li _ngcontent-c10=""><a _ngcontent-c10="" href="https://www.wunderground.com/member/membersettings.html?page=favorites" onclick="s_objectID=&quot;https:\/\/www.wunderground.com/member/membersettings.html?page=favorites_1&quot;;return this.s_oc?this.s_oc(e):true" title="Manage Favorites"><i _ngcontent-c10="" class="fi-star"></i></a></li>
+
+  <!---->
+    <!----><li _ngcontent-c10="" class="popularCities-label">Popular <br _ngcontent-c10="">Cities</li>
+
+    <!---->
+      <li _ngcontent-c10="" class="is-city defcon-0 has-conds" data-cityname="San Francisco, CA">
+
+        <!---->
+
+        <a _ngcontent-c10="" href="weather/us/ca/san-francisco/37.78,-122.40">
+          <!----><span _ngcontent-c10="" class="city-conds">
+            <display-unit _ngcontent-c10="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-true wu-unit wu-unit-temperature is-degree-visible">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">55</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Sunny</span>
+</span>
+<!---->
+</display-unit>
+          </span>
+
+          <span _ngcontent-c10="" class="city-name">
+            San Francisco, CA
+            <!----><i _ngcontent-c10="" class="fi-alert"></i>
+          </span>
+
+          <!----><span _ngcontent-c10="" class="cond-icon-touch
+            cond-set- cond-32"></span>
+        </a>
+      </li>
+    
+      <li _ngcontent-c10="" class="is-city defcon-4 has-conds is-severe" data-cityname="Manhattan, NY">
+
+        <!---->
+
+        <a _ngcontent-c10="" href="weather/us/ny/manhattan/40.71,-74.01">
+          <!----><span _ngcontent-c10="" class="city-conds">
+            <display-unit _ngcontent-c10="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-true wu-unit wu-unit-temperature is-degree-visible">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">43</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Clear</span>
+</span>
+<!---->
+</display-unit>
+          </span>
+
+          <span _ngcontent-c10="" class="city-name">
+            Manhattan, NY
+            <!----><i _ngcontent-c10="" class="fi-alert"></i>
+          </span>
+
+          <!----><span _ngcontent-c10="" class="cond-icon-touch
+            cond-set- cond-31"></span>
+        </a>
+      </li>
+    
+      <li _ngcontent-c10="" class="is-city defcon-0 has-conds" data-cityname="Atlanta, GA">
+
+        <!---->
+
+        <a _ngcontent-c10="" href="weather/us/ga/atlanta/33.76,-84.39">
+          <!----><span _ngcontent-c10="" class="city-conds">
+            <display-unit _ngcontent-c10="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-true wu-unit wu-unit-temperature is-degree-visible">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">60</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Fair</span>
+</span>
+<!---->
+</display-unit>
+          </span>
+
+          <span _ngcontent-c10="" class="city-name">
+            Atlanta, GA
+            <!----><i _ngcontent-c10="" class="fi-alert"></i>
+          </span>
+
+          <!----><span _ngcontent-c10="" class="cond-icon-touch
+            cond-set- cond-33"></span>
+        </a>
+      </li>
+    
+      <li _ngcontent-c10="" class="is-city defcon-3 has-conds is-severe" data-cityname="Chicago, IL">
+
+        <!---->
+
+        <a _ngcontent-c10="" href="weather/us/il/chicago/41.88,-87.63">
+          <!----><span _ngcontent-c10="" class="city-conds">
+            <display-unit _ngcontent-c10="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-true wu-unit wu-unit-temperature is-degree-visible">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">43</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Partly Cloudy</span>
+</span>
+<!---->
+</display-unit>
+          </span>
+
+          <span _ngcontent-c10="" class="city-name">
+            Chicago, IL
+            <!----><i _ngcontent-c10="" class="fi-alert"></i>
+          </span>
+
+          <!----><span _ngcontent-c10="" class="cond-icon-touch
+            cond-set- cond-29"></span>
+        </a>
+      </li>
+    
+      <li _ngcontent-c10="" class="is-city defcon-4 has-conds is-severe" data-cityname="Boston, MA">
+
+        <!---->
+
+        <a _ngcontent-c10="" href="weather/us/ma/boston/42.36,-71.06">
+          <!----><span _ngcontent-c10="" class="city-conds">
+            <display-unit _ngcontent-c10="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-true wu-unit wu-unit-temperature is-degree-visible">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">39</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Clear</span>
+</span>
+<!---->
+</display-unit>
+          </span>
+
+          <span _ngcontent-c10="" class="city-name">
+            Boston, MA
+            <!----><i _ngcontent-c10="" class="fi-alert"></i>
+          </span>
+
+          <!----><span _ngcontent-c10="" class="cond-icon-touch
+            cond-set- cond-31"></span>
+        </a>
+      </li>
+    
+      <li _ngcontent-c10="" class="is-city defcon-0 has-conds" data-cityname="Houston, TX">
+
+        <!---->
+
+        <a _ngcontent-c10="" href="weather/us/tx/houston/29.76,-95.36">
+          <!----><span _ngcontent-c10="" class="city-conds">
+            <display-unit _ngcontent-c10="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-true wu-unit wu-unit-temperature is-degree-visible">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">67</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Partly Cloudy</span>
+</span>
+<!---->
+</display-unit>
+          </span>
+
+          <span _ngcontent-c10="" class="city-name">
+            Houston, TX
+            <!----><i _ngcontent-c10="" class="fi-alert"></i>
+          </span>
+
+          <!----><span _ngcontent-c10="" class="cond-icon-touch
+            cond-set- cond-29"></span>
+        </a>
+      </li>
+    
+      <li _ngcontent-c10="" class="is-city defcon-0 has-conds" data-cityname="Saint-Merri, France">
+
+        <!---->
+
+        <a _ngcontent-c10="" href="weather/fr/saint-merri/48.86,2.35">
+          <!----><span _ngcontent-c10="" class="city-conds">
+            <display-unit _ngcontent-c10="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-true wu-unit wu-unit-temperature is-degree-visible">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">47</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Mostly Cloudy</span>
+</span>
+<!---->
+</display-unit>
+          </span>
+
+          <span _ngcontent-c10="" class="city-name">
+            Saint-Merri, France
+            <!----><i _ngcontent-c10="" class="fi-alert"></i>
+          </span>
+
+          <!----><span _ngcontent-c10="" class="cond-icon-touch
+            cond-set- cond-27"></span>
+        </a>
+      </li>
+    
+      <li _ngcontent-c10="" class="is-city defcon-0 has-conds" data-cityname="Munich, Germany">
+
+        <!---->
+
+        <a _ngcontent-c10="" href="weather/de/munich/48.14,11.57">
+          <!----><span _ngcontent-c10="" class="city-conds">
+            <display-unit _ngcontent-c10="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-true wu-unit wu-unit-temperature is-degree-visible">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">39</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Clear</span>
+</span>
+<!---->
+</display-unit>
+          </span>
+
+          <span _ngcontent-c10="" class="city-name">
+            Munich, Germany
+            <!----><i _ngcontent-c10="" class="fi-alert"></i>
+          </span>
+
+          <!----><span _ngcontent-c10="" class="cond-icon-touch
+            cond-set- cond-31"></span>
+        </a>
+      </li>
+    
+  
+</ul>
+</favorites-dark-bar>
+    </div>
+
+    <favorites-dark-more _ngcontent-c1="" _nghost-c11=""><div _ngcontent-c11="" class="favorites-list-toggle"></div>
+
+
+<div _ngcontent-c11="" class="favorites-list dropdown-pane hide" id="favorites-list">
+  <!---->
+    <!---->
+    <!---->
+    <!----><label _ngcontent-c11="">Popular Cities</label>
+
+    <ul _ngcontent-c11="" class="list-favorites">
+      <!---->
+        <li _ngcontent-c11="" class="is-city defcon-0 has-conds" data-cityname="San Francisco, CA">
+
+          <a _ngcontent-c11="" href="weather/us/ca/san-francisco/37.78,-122.40">
+            <span _ngcontent-c11="" class="city-name">
+              San Francisco, CA
+              <!----><i _ngcontent-c11="" class="fi-alert"></i>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="city-conds">
+              <display-unit _ngcontent-c11="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-false wu-unit wu-unit-temperature">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">55</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Sunny</span>
+</span>
+<!---->
+</display-unit>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="cond-icon-touch
+              cond-set- cond-32"></span>
+
+            <span _ngcontent-c11="" class="city-star" title="Add To Favorite Cities"></span>
+          </a>
+        </li>
+      
+        <li _ngcontent-c11="" class="is-city defcon-4 has-conds is-severe" data-cityname="Manhattan, NY">
+
+          <a _ngcontent-c11="" href="weather/us/ny/manhattan/40.71,-74.01">
+            <span _ngcontent-c11="" class="city-name">
+              Manhattan, NY
+              <!----><i _ngcontent-c11="" class="fi-alert"></i>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="city-conds">
+              <display-unit _ngcontent-c11="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-false wu-unit wu-unit-temperature">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">43</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Clear</span>
+</span>
+<!---->
+</display-unit>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="cond-icon-touch
+              cond-set- cond-31"></span>
+
+            <span _ngcontent-c11="" class="city-star" title="Add To Favorite Cities"></span>
+          </a>
+        </li>
+      
+        <li _ngcontent-c11="" class="is-city defcon-0 has-conds" data-cityname="Atlanta, GA">
+
+          <a _ngcontent-c11="" href="weather/us/ga/atlanta/33.76,-84.39">
+            <span _ngcontent-c11="" class="city-name">
+              Atlanta, GA
+              <!----><i _ngcontent-c11="" class="fi-alert"></i>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="city-conds">
+              <display-unit _ngcontent-c11="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-false wu-unit wu-unit-temperature">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">60</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Fair</span>
+</span>
+<!---->
+</display-unit>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="cond-icon-touch
+              cond-set- cond-33"></span>
+
+            <span _ngcontent-c11="" class="city-star" title="Add To Favorite Cities"></span>
+          </a>
+        </li>
+      
+        <li _ngcontent-c11="" class="is-city defcon-3 has-conds is-severe" data-cityname="Chicago, IL">
+
+          <a _ngcontent-c11="" href="weather/us/il/chicago/41.88,-87.63">
+            <span _ngcontent-c11="" class="city-name">
+              Chicago, IL
+              <!----><i _ngcontent-c11="" class="fi-alert"></i>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="city-conds">
+              <display-unit _ngcontent-c11="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-false wu-unit wu-unit-temperature">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">43</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Partly Cloudy</span>
+</span>
+<!---->
+</display-unit>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="cond-icon-touch
+              cond-set- cond-29"></span>
+
+            <span _ngcontent-c11="" class="city-star" title="Add To Favorite Cities"></span>
+          </a>
+        </li>
+      
+        <li _ngcontent-c11="" class="is-city defcon-4 has-conds is-severe" data-cityname="Boston, MA">
+
+          <a _ngcontent-c11="" href="weather/us/ma/boston/42.36,-71.06">
+            <span _ngcontent-c11="" class="city-name">
+              Boston, MA
+              <!----><i _ngcontent-c11="" class="fi-alert"></i>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="city-conds">
+              <display-unit _ngcontent-c11="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-false wu-unit wu-unit-temperature">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">39</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Clear</span>
+</span>
+<!---->
+</display-unit>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="cond-icon-touch
+              cond-set- cond-31"></span>
+
+            <span _ngcontent-c11="" class="city-star" title="Add To Favorite Cities"></span>
+          </a>
+        </li>
+      
+        <li _ngcontent-c11="" class="is-city defcon-0 has-conds" data-cityname="Houston, TX">
+
+          <a _ngcontent-c11="" href="weather/us/tx/houston/29.76,-95.36">
+            <span _ngcontent-c11="" class="city-name">
+              Houston, TX
+              <!----><i _ngcontent-c11="" class="fi-alert"></i>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="city-conds">
+              <display-unit _ngcontent-c11="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-false wu-unit wu-unit-temperature">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">67</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Partly Cloudy</span>
+</span>
+<!---->
+</display-unit>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="cond-icon-touch
+              cond-set- cond-29"></span>
+
+            <span _ngcontent-c11="" class="city-star" title="Add To Favorite Cities"></span>
+          </a>
+        </li>
+      
+        <li _ngcontent-c11="" class="is-city defcon-0 has-conds" data-cityname="Saint-Merri, France">
+
+          <a _ngcontent-c11="" href="weather/fr/saint-merri/48.86,2.35">
+            <span _ngcontent-c11="" class="city-name">
+              Saint-Merri, France
+              <!----><i _ngcontent-c11="" class="fi-alert"></i>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="city-conds">
+              <display-unit _ngcontent-c11="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-false wu-unit wu-unit-temperature">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">47</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Mostly Cloudy</span>
+</span>
+<!---->
+</display-unit>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="cond-icon-touch
+              cond-set- cond-27"></span>
+
+            <span _ngcontent-c11="" class="city-star" title="Add To Favorite Cities"></span>
+          </a>
+        </li>
+      
+        <li _ngcontent-c11="" class="is-city defcon-0 has-conds" data-cityname="Munich, Germany">
+
+          <a _ngcontent-c11="" href="weather/de/munich/48.14,11.57">
+            <span _ngcontent-c11="" class="city-name">
+              Munich, Germany
+              <!----><i _ngcontent-c11="" class="fi-alert"></i>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="city-conds">
+              <display-unit _ngcontent-c11="" type="temperature" _nghost-c15=""><!----><span _ngcontent-c15="" class="test-false wu-unit wu-unit-temperature">
+  <!---->
+  <!---->
+  <!---->
+  <span _ngcontent-c15="" class="wu-value wu-value-to">39</span> <span _ngcontent-c15="" class="wu-label">
+    <!---->F
+    <!---->
+  </span>
+  <!----><span _ngcontent-c15="" class="wu-suffix">Clear</span>
+</span>
+<!---->
+</display-unit>
+            </span>
+
+            <!----><span _ngcontent-c11="" class="cond-icon-touch
+              cond-set- cond-31"></span>
+
+            <span _ngcontent-c11="" class="city-star" title="Add To Favorite Cities"></span>
+          </a>
+        </li>
+      
+    </ul>
+  
+</div>
+</favorites-dark-more>
+  </div>
+</div>
+</favorites-dark>
+    <conditions-card _nghost-c2=""><severe-alert _ngcontent-c2="" _nghost-c12=""><!---->
+</severe-alert>
+<div _ngcontent-c2="" class="row conditions-card-wrap">
+    <div _ngcontent-c2="" class="card-n-ad-wrap columns small-12">
+        <div _ngcontent-c2="" class="conditions-card no-style placeholder" id="conditions-card">
+            <div _ngcontent-c2="" class="conditions-card-inner row">
+                <div _ngcontent-c2="" class="loader-wrapper">
+                  <div _ngcontent-c2="" class="loader"></div>
+                </div>
+                <div _ngcontent-c2="" class="condition-location columns small-12 fade-in" style="visibility: hidden; opacity: 0;">
+                    
+                </div>
+                <div _ngcontent-c2="" class="curconds-wrapper curconds-b columns medium-6 fade-in" style="visibility: hidden; opacity: 0;">
+                    <a _ngcontent-c2="" class="no-style" href="null">
+                        <div _ngcontent-c2="" class="condition-wrap">
+                            <div _ngcontent-c2="" class="condition-icon">
+                                <img _ngcontent-c2="" src="" alt="">
+                            </div><div _ngcontent-c2="" class="temps-wrapper">
+                                <div _ngcontent-c2="" class="cur-temp has-degs temp-- cunits">--</div>
+                                <div _ngcontent-c2="" class="feelslike has-degs">
+                                    <span _ngcontent-c2="" translate="Feels like" translatecontext="conditions-card">Feels like</span> --</div>
+                            </div><div _ngcontent-c2="" class="hlp-wrapper">
+                                <div _ngcontent-c2="" class="high has-degs">--</div><div _ngcontent-c2="" class="low has-degs">--</div>
+                                <div _ngcontent-c2="" class="pop">
+                                    <span _ngcontent-c2="" class="pop-icon"></span><span _ngcontent-c2=""></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <!---->
+                </div>
+                <div _ngcontent-c2="" class="forecast-wrapper columns small-12 medium-6 fade-in" style="visibility: hidden; opacity: 0;">
+                    <a _ngcontent-c2="" class="no-style" href="null">
+                        <div _ngcontent-c2="" class="forecast">
+                            <div _ngcontent-c2="" class="condition-icons animate-in">
+                                <!----><img _ngcontent-c2="" src="" alt="" class="" style="width: 0%;"><img _ngcontent-c2="" src="" alt="" class="" style="width: 0%;"><img _ngcontent-c2="" src="" alt="" class="" style="width: 0%;"><img _ngcontent-c2="" src="" alt="" class="" style="width: 0%;"><img _ngcontent-c2="" src="" alt="" class="" style="width: 0%;"><img _ngcontent-c2="" src="" alt="" class="" style="width: 0%;"><img _ngcontent-c2="" src="" alt="" class="" style="width: 0%;"><img _ngcontent-c2="" src="" alt="" class="" style="width: 0%;"><img _ngcontent-c2="" src="" alt="" class="" style="width: 0%;">
+                            </div>
+                            <div _ngcontent-c2="" class="temps animate-in">
+                                <!----><span _ngcontent-c2="">--</span><span _ngcontent-c2="">--</span><span _ngcontent-c2="">--</span><span _ngcontent-c2="">--</span><span _ngcontent-c2="">--</span><span _ngcontent-c2="">--</span><span _ngcontent-c2="">--</span><span _ngcontent-c2="">--</span><span _ngcontent-c2="">--</span>
+                            </div>
+                            <div _ngcontent-c2="" class="timeline">
+                                <div _ngcontent-c2="" class="outer-bars"><div _ngcontent-c2="" class="horizontal-bar"></div><div _ngcontent-c2="" class="now-ball" style="left: 0px;"></div><div _ngcontent-c2="" class="inner-bars"></div><div _ngcontent-c2="" class="inner-bars"></div><div _ngcontent-c2="" class="inner-bars"></div><div _ngcontent-c2="" class="inner-bars"></div><div _ngcontent-c2="" class="inner-bars"></div><div _ngcontent-c2="" class="inner-bars"></div><div _ngcontent-c2="" class="inner-bars"></div><div _ngcontent-c2="" class="inner-bars"></div>
+                                </div>
+                            </div>
+                            <div _ngcontent-c2="" class="times">
+                                <span _ngcontent-c2="">12AM</span>
+                                <span _ngcontent-c2=""></span>
+                                <span _ngcontent-c2="">6AM</span>
+                                <span _ngcontent-c2=""></span>
+                                <span _ngcontent-c2="">NOON</span>
+                                <span _ngcontent-c2=""></span>
+                                <span _ngcontent-c2="">6PM</span>
+                                <span _ngcontent-c2=""></span>
+                                <span _ngcontent-c2="">12AM</span>
+                            </div>
+                            <div _ngcontent-c2="" class="dates">
+                                <span _ngcontent-c2="">Mar 23</span>
+                                <span _ngcontent-c2="">EDT</span>
+                                <span _ngcontent-c2="">Mar 24</span>
+                            </div>
+                        </div>
+                    </a>
+                    <!---->
+                </div>
+                <!----><div _ngcontent-c2="" class="columns small-12">
+                    <a _ngcontent-c2="" class="button radius fct-button disabled" href="null">Full Forecast</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</conditions-card>
+  </div>
+            
+
+          </div>
+
+          <div _ngcontent-c0="" class="is-sidebar">
+
+            
+            <div class="region-sidebar">
+    <ad-wx-top-300-var>
+  <div class="atf-box ad-wrap ad-desktop" id="atf-box-browser">
+    <div id="WX_Top300Variable"></div>
+  </div>
+  </ad-wx-top-300-var>
+    <ad-mw-position-2 _nghost-c3="">
+    <div _ngcontent-c3="" class="ad-wrap ad-mobile" id="position-2-banner-ad-browser">
+      <div _ngcontent-c3="" id="MW_Position2"></div>
+    </div>
+  </ad-mw-position-2>
+  </div>
+            
+
+          </div>
+        </div>
+      </div>
+
+      
+      <div _ngcontent-c0="" class="signup-hero">
+	      <div _ngcontent-c0="" class="row has-sidebar">
+          <div class="region-alerts">
+    <alerts-signup _nghost-c4=""><!----><div _ngcontent-c4="" id="alerts-box">
+	<form _ngcontent-c4="" class="hp-alert-sign-up ng-untouched ng-pristine ng-invalid" id="alert-form" novalidate="">
+		<div _ngcontent-c4="" class="alert-text">Get Daily Forecasts by Email</div>
+		<div _ngcontent-c4="" class="control-wrap">
+			<!---->
+			<input _ngcontent-c4="" autocomplete="off" class="alerts-location radius ng-untouched ng-pristine ng-valid" id="alerts-control" name="alertQuery" placeholder="Location" type="text" value="">
+			<search-autocomplete _ngcontent-c4=""><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all hide" tabindex="0">
+
+  <!----><li class="ui-autocomplete-geolocate">
+    <div class="mimic-a menu-geolocate">
+      <i class="fi-target-two"></i>Find Nearest Station
+    </div>
+  </li>
+
+  <!---->
+
+  <li class="ui-autocomplete-last ui-menu-item manage-favorites">
+    <a class="ui-corner-all" href="/member/membersettings.html?page=favorites" tabindex="-1">Manage Favorite Cities</a>
+  </li>
+</ul>
+</search-autocomplete>
+		</div>
+		<div _ngcontent-c4="" class="control-wrap">
+			<input _ngcontent-c4="" class="radius ng-untouched ng-pristine ng-invalid" formcontrolname="altemail" id="alerts-email" name="email" placeholder="Email" type="email" value="">
+		</div>
+		<button _ngcontent-c4="" class="button radius hollow alert-subscribe" id="alert-subscribe" type="submit" value="">
+			<span _ngcontent-c4="" class="hide-for-medium">Subscribe</span>
+		</button>
+	</form>
+</div>
+<!---->
+</alerts-signup>
+  </div>
+	      </div>
+      </div>
+      
+
+      
+      <div class="region-caster">
+    <caster-story _nghost-c5=""><!----><div _ngcontent-c5="" class="caster-story hp-caster">
+  <div _ngcontent-c5="" class="row collapse has-sidebar">
+    <div _ngcontent-c5="" class="columns small-12 caster-inner">
+      <!---->
+        <story _ngcontent-c5="" _nghost-c13=""><!----><div _ngcontent-c13="" class="row">
+  <div _ngcontent-c13="" class="columns small-12 medium-8 medium-push-4 story-body">
+    <h2 _ngcontent-c13="">
+      <a _ngcontent-c13="" class="hp-story-title" href="https://www.wunderground.com/cat6/Africas-Hurricane-Katrina-Tropical-Cyclone-Idai-Causes-Extreme-Catastrophe?cm_ven=hp-slot-1">Africa's Hurricane Katrina</a>
+    </h2>
+
+    <div _ngcontent-c13="" class="hp-story-summary">Idai is one of the deadliest tropical cyclones on record in the Southern Hemisphere.
+</div>
+
+    <!----><div _ngcontent-c13="" class="hp-story-link">
+      <a _ngcontent-c13="" target="_blank" href="https://twitter.com/wunderground">
+        <i _ngcontent-c13="" class="fi-social-twitter"></i>
+        Up-To-The-Minute Coverage
+      </a>
+    </div>
+  </div>
+
+  <div _ngcontent-c13="" class="hp-story-art-box columns small-12 small-push-12 medium-4 medium-pull-8">
+    <a _ngcontent-c13="" class="hp-story-art" href="https://www.wunderground.com/cat6/Africas-Hurricane-Katrina-Tropical-Cyclone-Idai-Causes-Extreme-Catastrophe?cm_ven=hp-slot-1">
+      <img _ngcontent-c13="" src="https://s.w-x.co/wu/idai-rooftops.jpg">
+      <!---->
+    </a>
+  </div>
+</div>
+</story>
+
+        <!---->
+      
+        <story _ngcontent-c5="" _nghost-c13=""><!----><div _ngcontent-c13="" class="row">
+  <div _ngcontent-c13="" class="columns small-12 medium-8 medium-push-4 story-body">
+    <h2 _ngcontent-c13="">
+      <a _ngcontent-c13="" class="hp-story-title" href="https://weather.com/forecast/national/news/2019-03-21-spring-outlook-historic-widespread-flooding-rain-snowmelt-noaa?cm_ven=wu_videos?cm_ven=hp-slot-2">More Historic, Widespread Flooding Expected This Spring</a>
+    </h2>
+
+    <div _ngcontent-c13="" class="hp-story-summary">A dire warning from NOAA.</div>
+
+    <!---->
+  </div>
+
+  <div _ngcontent-c13="" class="hp-story-art-box columns small-12 small-push-12 medium-4 medium-pull-8">
+    <a _ngcontent-c13="" class="hp-story-art" href="https://weather.com/forecast/national/news/2019-03-21-spring-outlook-historic-widespread-flooding-rain-snowmelt-noaa?cm_ven=wu_videos?cm_ven=hp-slot-2">
+      <img _ngcontent-c13="" src="https://s.w-x.co/util/image/w/floodmap3.png?v=at&amp;w=320&amp;h=180">
+      <!---->
+    </a>
+  </div>
+</div>
+</story>
+
+        <!---->
+      
+        <story _ngcontent-c5="" _nghost-c13=""><!----><div _ngcontent-c13="" class="row">
+  <div _ngcontent-c13="" class="columns small-12 medium-8 medium-push-4 story-body">
+    <h2 _ngcontent-c13="">
+      <a _ngcontent-c13="" class="hp-story-title" href="https://www.wunderground.com/cat6/Flood-Damage-Midwestern-Levees-Roads-Farms-May-Run-Well-Billions?cm_ven=hp-slot-3">Midwest Flood Could Cost Billions</a>
+    </h2>
+
+    <div _ngcontent-c13="" class="hp-story-summary">The damage is mounting from epic early-season floodwaters.</div>
+
+    <!----><div _ngcontent-c13="" class="hp-story-link">
+      <a _ngcontent-c13="" target="_blank" href="https://twitter.com/wunderground">
+        <i _ngcontent-c13="" class="fi-social-twitter"></i>
+        Up-To-The-Minute Coverage
+      </a>
+    </div>
+  </div>
+
+  <div _ngcontent-c13="" class="hp-story-art-box columns small-12 small-push-12 medium-4 medium-pull-8">
+    <a _ngcontent-c13="" class="hp-story-art" href="https://www.wunderground.com/cat6/Flood-Damage-Midwestern-Levees-Roads-Farms-May-Run-Well-Billions?cm_ven=hp-slot-3">
+      <img _ngcontent-c13="" src="https://s.w-x.co/wu/AP_19076776858624-bnsf-835px.jpg">
+      <!---->
+    </a>
+  </div>
+</div>
+</story>
+
+        <!---->
+          <ad-wx-mid-leader _ngcontent-c5="">
+    <div class="leaderboard-banner ad-wrap ad-desktop" id="leaderboard-ad-1-browser">
+      <div id="WX_MidLeader"></div>
+    </div>
+  </ad-wx-mid-leader>
+          <ad-mw-position-3 _ngcontent-c5="">
+    <div class="ad-wrap ad-mobile" id="position-3-banner-ad-browser">
+      <div id="MW_Position3"></div>
+    </div>
+  </ad-mw-position-3>
+        
+      
+        <story _ngcontent-c5="" _nghost-c13=""><!----><div _ngcontent-c13="" class="row">
+  <div _ngcontent-c13="" class="columns small-12 medium-8 medium-push-4 story-body">
+    <h2 _ngcontent-c13="">
+      <a _ngcontent-c13="" class="hp-story-title" href="http://bit.ly/2HdLSBj?cm_ven=hp-slot-4">Can the South Survive a Sudden Spring?</a>
+    </h2>
+
+    <div _ngcontent-c13="" class="hp-story-summary">The consequences of climate change are hitting some communities in the South hard.</div>
+
+    <!---->
+  </div>
+
+  <div _ngcontent-c13="" class="hp-story-art-box columns small-12 small-push-12 medium-4 medium-pull-8">
+    <a _ngcontent-c13="" class="hp-story-art" href="http://bit.ly/2HdLSBj?cm_ven=hp-slot-4">
+      <img _ngcontent-c13="" src="https://s3.amazonaws.com/s.w-x.co/D0GSIDUWsAEEkgt.jpg">
+      <!---->
+    </a>
+  </div>
+</div>
+</story>
+
+        <!---->
+      
+        <story _ngcontent-c5="" _nghost-c13=""><!----><div _ngcontent-c13="" class="row">
+  <div _ngcontent-c13="" class="columns small-12 medium-8 medium-push-4 story-body">
+    <h2 _ngcontent-c13="">
+      <a _ngcontent-c13="" class="hp-story-title" href="https://weather.com/forecast/national/news/2019-03-13-april-may-june-spring-temperature-outlook-the-weather-company?cm_ven=wu_videos?cm_ven=hp-slot-5">Latest Spring Temperature Outlook</a>
+    </h2>
+
+    <div _ngcontent-c13="" class="hp-story-summary">Here's what to expect.</div>
+
+    <!---->
+  </div>
+
+  <div _ngcontent-c13="" class="hp-story-art-box columns small-12 small-push-12 medium-4 medium-pull-8">
+    <a _ngcontent-c13="" class="hp-story-art" href="https://weather.com/forecast/national/news/2019-03-13-april-may-june-spring-temperature-outlook-the-weather-company?cm_ven=wu_videos?cm_ven=hp-slot-5">
+      <img _ngcontent-c13="" src="https://s.w-x.co/util/image/w/WSI_Apr-June_prim_0313.jpg?v=at&amp;w=320&amp;h=180">
+      <!---->
+    </a>
+  </div>
+</div>
+</story>
+
+        <!---->
+      
+    </div>
+  </div>
+</div>
+</caster-story>
+    <ad-zergnet type="PaidUnderHomepage" _nghost-c6=""><div _ngcontent-c6="" class="ad-zergnet">
+  <div _ngcontent-c6="" class="row">
+    <!----><div _ngcontent-c6="" class="zergnet-container widget-loaded" id="zergnet-widget-66136"><div class="zerghead"><span class="zergheader">From the Web</span><span class="zergattribution">Powered by ZergNet</span></div><div class="zerglayoutcl"><div class="zergrow">
+			<div class="zergentity">
+				<a href="http://www.zergnet.com/i/3813494/66136/0/0/24001816/1" target="_blank" rel="nofollow" class="zergimg">
+					<img src="https://img5.zergnet.com/3813494_300.jpg" nopin="true" data-pin-no-hover="true">
+				</a>
+				<div class="zergheadline">
+					<a href="http://www.zergnet.com/i/3813494/66136/0/0/24001816/1" target="_blank" rel="nofollow">The Tragic Story Behind 'American Chopper'</a>
+				</div>
+			</div>
+			<div class="zergentity">
+				<a href="http://www.zergnet.com/i/3852684/66136/0/0/24001816/2" target="_blank" rel="nofollow" class="zergimg">
+					<img src="https://img1.zergnet.com/3852684_300.jpg" nopin="true" data-pin-no-hover="true">
+				</a>
+				<div class="zergheadline">
+					<a href="http://www.zergnet.com/i/3852684/66136/0/0/24001816/2" target="_blank" rel="nofollow">Young Jenny From 'Forrest Gump' is 34 Now and Gorgeous</a>
+				</div>
+			</div>
+			<div class="zergentity">
+				<a href="http://www.zergnet.com/i/3881100/66136/0/0/24001816/3" target="_blank" rel="nofollow" class="zergimg">
+					<img src="https://img1.zergnet.com/3881100_300.jpg" nopin="true" data-pin-no-hover="true">
+				</a>
+				<div class="zergheadline">
+					<a href="http://www.zergnet.com/i/3881100/66136/0/0/24001816/3" target="_blank" rel="nofollow">Man's Challenge to Bison Goes Pretty Much How You'd Expect</a>
+				</div>
+			</div>
+			<div class="zergentity">
+				<a href="http://www.zergnet.com/i/3685312/66136/0/0/24001816/4" target="_blank" rel="nofollow" class="zergimg">
+					<img src="https://img1.zergnet.com/3685312_300.jpg" nopin="true" data-pin-no-hover="true">
+				</a>
+				<div class="zergheadline">
+					<a href="http://www.zergnet.com/i/3685312/66136/0/0/24001816/4" target="_blank" rel="nofollow">The Daredevil That Fell to His Death From a 62-Story Building</a>
+				</div>
+			</div>
+			<div class="zergentity">
+				<a href="http://www.zergnet.com/i/3664300/66136/0/0/24001816/5" target="_blank" rel="nofollow" class="zergimg">
+					<img src="https://img1.zergnet.com/3664300_300.jpg" nopin="true" data-pin-no-hover="true">
+				</a>
+				<div class="zergheadline">
+					<a href="http://www.zergnet.com/i/3664300/66136/0/0/24001816/5" target="_blank" rel="nofollow">What You Should Know Before Stepping Foot in Aldi</a>
+				</div>
+			</div>
+			<div class="zergentity">
+				<a href="http://www.zergnet.com/i/3797591/66136/0/0/24001816/6" target="_blank" rel="nofollow" class="zergimg">
+					<img src="https://img4.zergnet.com/3797591_300.jpg" nopin="true" data-pin-no-hover="true">
+				</a>
+				<div class="zergheadline">
+					<a href="http://www.zergnet.com/i/3797591/66136/0/0/24001816/6" target="_blank" rel="nofollow">Why Did Outhouses All Have Crescent Moons in Their Doors?</a>
+				</div>
+			</div>
+			<div class="zergentity">
+				<a href="http://www.zergnet.com/i/3871797/66136/0/0/24001816/7" target="_blank" rel="nofollow" class="zergimg">
+					<img src="https://img2.zergnet.com/3871797_300.jpg" nopin="true" data-pin-no-hover="true">
+				</a>
+				<div class="zergheadline">
+					<a href="http://www.zergnet.com/i/3871797/66136/0/0/24001816/7" target="_blank" rel="nofollow">The Girl from 'Mrs Doubtfire' is 31 Now and Absolutely Gorgeous</a>
+				</div>
+			</div>
+			<div class="zergentity">
+				<a href="http://www.zergnet.com/i/3465881/66136/0/0/24001816/8" target="_blank" rel="nofollow" class="zergimg">
+					<img src="https://img2.zergnet.com/3465881_300.jpg" nopin="true" data-pin-no-hover="true">
+				</a>
+				<div class="zergheadline">
+					<a href="http://www.zergnet.com/i/3465881/66136/0/0/24001816/8" target="_blank" rel="nofollow">Inside The Pioneer Woman's Strange Marriage</a>
+				</div>
+			</div></div></div><div style="clear: both"></div><style type="text/css">.ad-zergnet {
+background: #1E2023 !important;
+}
+
+#zergnet-widget-66136 {
+max-width:935px;
+}
+
+#zergnet-widget-66136 .zerglayoutcl {
+width: 100%;
+}
+
+#zergnet-widget-66136 .zergentity {
+float: left;
+width: 23.5%;
+margin-bottom: 10px;
+margin-left: 2%;
+overflow: hidden;
+}
+
+#zergnet-widget-66136 .zergentity:nth-of-type(4n+1) {
+clear: left;
+margin-left: 0;
+}
+
+#zergnet-widget-66136 .zerghead {
+display: block;
+margin-bottom: 10px;
+line-height: 20px;
+}
+
+#zergnet-widget-66136 .zerghead::after {
+display: block;
+content: "";
+clear: both;
+}
+
+#zergnet-widget-66136 .zergheader {
+float: left;
+color: #fff;
+font-size: 20px;
+font-weight: bold;
+font-family: Arial, sans-serif;
+}
+
+#zergnet-widget-66136 .zergattribution {
+float: right;
+padding-top: 1px;
+color: #fff;
+font-size: 12px;
+font-weight: normal;
+font-family: sans-serif;
+}
+
+#zergnet-widget-66136 .zergheadline {
+width: 100%;
+margin-top: 6px;
+text-align: left;
+line-height: 23px;
+}
+ 
+#zergnet-widget-66136 .zergheadline a {
+font-size: 20px;
+font-weight: bold;
+font-family: 'Open Sans',Arial, sans-serif;
+color: #8ED1E9;
+text-decoration: none;
+}
+
+#zergnet-widget-66136 .zergentity img {
+display: block;
+width: 100%;
+height: auto;
+}
+
+@media (max-width: 600px) {
+#zergnet-widget-66136 .zergentity {width: 48%; margin-left: 4%;}
+#zergnet-widget-66136 .zergentity:nth-of-type(4n+1) {clear: none;}
+#zergnet-widget-66136 .zergentity:nth-of-type(2n+1) {clear: left; margin-left: 0;}
+}</style></div>
+  </div>
+</div>
+</ad-zergnet>
+    <ad-triple-box _nghost-c7=""><div _ngcontent-c7="" class="row show-for-medium triple-box">
+	<div _ngcontent-c7="" class="small-12 medium-6 large-4 columns">
+		<ad-wx-adx1 _ngcontent-c7="">
+    <div class="ad-wrap ad-desktop" id="wx-adx1-browser">
+      <div id="WX_Bot300AdX1"></div>
+    </div>
+  </ad-wx-adx1>
+	</div>
+	<div _ngcontent-c7="" class="small-12 medium-6 large-4 columns">
+		<ad-wx-adx2 _ngcontent-c7="">
+    <div class="ad-wrap ad-desktop" id="wx-adx2-browser">
+      <div id="WX_Bot300AdX2"></div>
+    </div>
+  </ad-wx-adx2>
+	</div>
+	<div _ngcontent-c7="" class="small-12 medium-12 large-4 columns">
+		<ad-wx-adx3 _ngcontent-c7="">
+    <div class="ad-wrap ad-desktop" id="wx-adx3-browser">
+      <div id="WX_Bot300AdX3"></div>
+    </div>
+  </ad-wx-adx3>
+	</div>
+</div>
+</ad-triple-box>
+    <ad-mw-position-4>
+    <div class="ad-wrap ad-mobile" id="position-4-banner-ad-browser">
+      <div id="MW_Position4"></div>
+    </div>
+  </ad-mw-position-4>
+  </div>
+      
+    </section>
+
+  </div>
+
+  
+  <div class="region-footer">
+    <footer-component><footer class="primary">
+
+  <div class="row">
+    <div class="small-12 large-6 large-centered columns">
+      <div class="row">
+
+        <div class="small-12 medium-4 columns">
+          <ul class="no-bullet">
+            <li>
+              <a href="/download" title="Weather Underground Mobile Apps">Our Apps</a>
+            </li>
+            <li>
+              <a href="/about/our-company" title="About Weather Underground">About Us</a>
+            </li>
+            <li>
+              <a href="/about/contact-us" title="Contact Weather Underground">Contact</a>
+            </li>
+            <li>
+            	<a href="http://ibm.biz/BdH3av" target="_blank">Careers</a>
+            </li>
+            <li>
+              <a href="/sitemap/">Site Map</a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="small-12 medium-4 columns">
+          <ul class="no-bullet">
+            <li>
+              <a href="/weatherstation/" title="Personal Weather Station Network">PWS Network</a>
+            </li>
+            <li>
+              <a href="/fullscreenweather" title="Experience Full Screen Weather">Full Screen Weather</a>
+            </li>
+            <li>
+              <a href="https://www.wunderground.com/feedback" target="_blank" title="Customer Feedback for Weather Underground">Feedback &amp; Support</a>
+            </li>
+            <li>
+              <a href="/privacy-settings" target="_blank">Data Rights</a>
+            </li>
+            <!---->
+          </ul>
+        </div>
+
+        <div class="small-12 medium-4 columns">
+          <ul class="no-bullet">
+            <li>
+              <a href="/company/legal">Terms of Use</a>
+            </li>
+            <li>
+              <a href="/company/privacy-policy">Privacy Policy</a>
+            </li>
+            <li>
+              <a href="/company/ad-choices">AdChoices</a>
+            </li>
+            <li>
+              <a href="/company/ad-partners">Ad Partners</a>
+            </li>
+            <li>
+              <a href="/company/analytics-partners">Analytics Partners</a>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="columns">
+      <a class="ibm-cloud" href="https://www.ibm.com/cloud/" target="_blank">Powered by the IBM Cloud</a>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="columns copyright-wrap">    
+      <p class="copyright">© Copyright TWC Product and Technology LLC 2014, 2019</p>
+    </div>
+  </div>
+
+  <dpr _nghost-c14=""><div _ngcontent-c14="" id="dpr-manager-server" universalpassthrough="">
+  <span _ngcontent-c14="" id="dpr-manager"></span>
+</div>
+</dpr>
+
+</footer>
+
+<a class="exit-off-canvas"></a>
+</footer-component>
+  </div>
+  
+
+<a id="sidebar-gutter"></a></div>
+</homepage-layout>
+</homepage></app>
+  <!-- /universal -->
+
+<div>
+    <script>
+    function getCookieByName (name) {
+      var list = {},
+        rc = document.cookie;
+
+      rc && rc.split(';').forEach(function( cookie ) {
+        var parts = cookie.split('=');
+        list[parts.shift().trim()] = decodeURI(parts.join('='));
+      });
+
+      return list[name];
+    }
+
+    function getValueFromCiCookie (name) {
+      var list = {};
+      var ciCookie = getCookieByName('ci');
+      ciCookie && ciCookie.split('&').forEach(function( value ) {
+        var parts = value.split('=');
+        list[parts.shift().trim()] = decodeURI(parts.join('='));
+      });
+
+      return list[name];
+    }
+
+
+        window.esi                        = {};
+        window.esi.enabled                = true;
+        window.esi.edgescape              = {};
+        window.esi.edgescape.country_code = getValueFromCiCookie('TWC-GeoIP-Country') || 'US';
+        window.esi.edgescape.lat          = getValueFromCiCookie('TWC-GeoIP-Lat') || '37.78';
+        window.esi.edgescape.long         = getValueFromCiCookie('TWC-GeoIP-Long') || '-122.42';
+      </script></div>
+    
+  <script src="/bundle-universal/polyfills.a4427223207f6ffd6222.js"></script>
+  <script src="/bundle-universal/dpr.372f909c2022193f4d8f.js"></script>
+  <script src="/bundle-universal/ads-no-meta-refresh.d9aea161dc9cef77cdb5.js"></script>
+  <script src="//www.wunderground.com/static/newrelic-google-publisher-tag.v2.0.6.min.js" async="true"></script>
+  <script src="/bundle-universal/vendor.1.0d60607903526c73dfbe.js"></script>
+  <script src="/bundle-universal/vendor.2.4d3ab26d0433e1bdf66d.js"></script>
+  <script src="/bundle-universal/body-scripts.6a1f08b0d05035e1b641.js"></script>
+  <script src="/bundle-universal/index.d221699f75866826e3b5.js"></script>
+  <script src="https://www.wunderground.com/static/scripts/metrics/omniture-appmeasurement.js"></script>
+  <script src="/bundle-universal/metrics.32345f580b5ceb5b4e1a.js"></script>
+  <script>
+
+  function allowOmniture(){var dprObject=JSON.parse(window.localStorage.getItem("dpr/consents")||"{}");return!!(dprObject&&dprObject.featureFlags&&dprObject.featureFlags.allowOmniture)};
+  function getConsentOptIns(){var dprObject=JSON.parse(window.localStorage.getItem("dpr/consents")||"{}");return dprObject&&dprObject.consentOptIns?dprObject.consentOptIns:""};
+  function getCookie(name){var value="";return(document.cookie?document.cookie.split(";"):[]).forEach(function(cookie){if(cookie){var cookieParts=cookie.split("=");if(cookieParts[0].trim()===name){var cookieValue=cookieParts.slice(1).join("=");value=cookieValue||""}}}),value}
+
+  window.s = window.s || {};
+  window.s.site = 'universal-ibm.wunderground.com';
+  window.s.pageName = 'Homepage';
+  window.s.channel = 'Homepage';
+  window.s.eVar86 = getConsentOptIns();
+  window.s.prop5 = allowOmniture() ? 'Other Content' : '';
+  window.s.prop2 = allowOmniture() ? 'Homepage': '';
+  window.s.events = getParameterByName('mr') ? 'event15,event16' : 'event15';
+  window.s.campaign = getCampaignString();
+  if (!allowOmniture()) {
+    window.s.pageName = 'gdpr_opt_out';
+    window.s.campaign = 'gdpr_opt_out';
+    window.s.referrer = 'gdpr_opt_out';
+    window.s.pageURL = 'gdpr_opt_out';
+    window.s.pageType = 'gdpr_opt_out';
+    window.s.state = 'gdpr_opt_out';
+    window.s.zip = 'gdpr_opt_out';
+    window.s.city = 'gdpr_opt_out';
+  }
+  </script>
+  <script>
+var s_code=s.t();if(s_code)document.write(s_code);
+  </script>
+  <script>
+(function(window){"use strict";window.timing=window.timing||{getTimes:function(opts){var performance=window.performance||window.webkitPerformance||window.msPerformance||window.mozPerformance;if(performance===undefined){return false}var timing=performance.timing;var api={};opts=opts||{};if(timing){if(opts&&!opts.simple){for(var k in timing){if(isNumeric(timing[k])){api[k]=parseFloat(timing[k])}}}if(api.firstPaint===undefined){var firstPaint=0;if(window.chrome&&window.chrome.loadTimes){firstPaint=window.chrome.loadTimes().firstPaintTime*1e3;api.firstPaintTime=firstPaint-window.chrome.loadTimes().startLoadTime*1e3}else if(typeof window.performance.timing.msFirstPaint==="number"){firstPaint=window.performance.timing.msFirstPaint;api.firstPaintTime=firstPaint-window.performance.timing.navigationStart}if(opts&&!opts.simple){api.firstPaint=firstPaint}}api.loadTime=timing.loadEventEnd-timing.fetchStart;api.domReadyTime=timing.domComplete-timing.domInteractive;api.readyStart=timing.fetchStart-timing.navigationStart;api.redirectTime=timing.redirectEnd-timing.redirectStart;api.appcacheTime=timing.domainLookupStart-timing.fetchStart;api.unloadEventTime=timing.unloadEventEnd-timing.unloadEventStart;api.lookupDomainTime=timing.domainLookupEnd-timing.domainLookupStart;api.connectTime=timing.connectEnd-timing.connectStart;api.requestTime=timing.responseEnd-timing.requestStart;api.initDomTreeTime=timing.domInteractive-timing.responseEnd;api.loadEventTime=timing.loadEventEnd-timing.loadEventStart}return api},printTable:function(opts){var table={};var data=this.getTimes(opts)||{};Object.keys(data).sort().forEach(function(k){table[k]={ms:data[k],s:+(data[k]/1e3).toFixed(2)}});console.table(table)},printSimpleTable:function(){this.printTable({simple:true})}};function isNumeric(n){return!isNaN(parseFloat(n))&&isFinite(n)}if(typeof module!=="undefined"&&module.exports){module.exports=window.timing}})(typeof window!=="undefined"?window:{});
+  </script>
+  <script>
+window.addEventListener("load",function(){setTimeout(function(){newrelic&&timing&&timing.getTimes()&&Object.keys(timing.getTimes()).forEach(function(i){newrelic.setCustomAttribute("timing"+i.charAt(0).toUpperCase()+i.slice(1),timing.getTimes()[i])})},0)});
+  </script>
+
+
+
+
+<div class="plainAd" style="position: absolute; top: -2000px; left: -2000px; height: 30px; width: 30px;"></div><div style="position: absolute; top: -2000px; left: -2000px; height: 30px; width: 30px;"></div><div class="abp_ob_exist" style="position: absolute; top: -2000px; left: -2000px; height: 30px; width: 30px;"></div><div style="position: absolute; top: -2000px; left: -2000px; height: 30px; width: 30px;"></div><div class="player-under-ad"></div><div class="playerAd"></div><script type="text/javascript" async="" src="https://nebula-cdn.kampyle.com/we/178135/onsite/generic1552892930766.js" charset="UTF-8"></script><div class="plainAd" style="position: absolute; top: -2000px; left: -2000px; height: 30px; width: 30px;"></div><div style="position: absolute; top: -2000px; left: -2000px; height: 30px; width: 30px;"></div><iframe src="//s.amazon-adsystem.com/iu3?cm3ppd=1&amp;d=dtb-pub&amp;csif=t&amp;dl=bf_rbd_brt_an_3lift" style="display: none;"></iframe></body></html>

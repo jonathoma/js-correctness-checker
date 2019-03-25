@@ -1,0 +1,2941 @@
+<html xmlns="http://www.w3.org/1999/xhtml" class=""><head><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script src="https://cdn.ampproject.org/rtv/011903070012530/amp4ads-host-v0.js"></script><script src="https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&amp;pvsid=4031205258257836&amp;correlator=2924835336730036&amp;output=json_html&amp;callback=googletag.impl.pubads.callbackProxy1&amp;impl=fifs&amp;adsid=NT&amp;json_a=1&amp;eid=21063406%2C21063425%2C21063430&amp;vrg=319&amp;guci=2.2.0.0.2.2.0.0&amp;plat=1%3A8%2C2%3A8%2C8%3A8&amp;sc=1&amp;sfv=1-0-32&amp;iu_parts=1001609%2CDiscuss_Web_HOME_MR1%2CDiscuss_Web_HOME_BB1%2CDiscuss_Web_HOME_BB2%2CDiscuss_Web_HOME_BB3%2CDiscuss_Web_Home_LB2&amp;enc_prev_ius=%2F0%2F1%2C%2F0%2F2%2C%2F0%2F3%2C%2F0%2F4%2C%2F0%2F5&amp;prev_iu_szs=300x250%2C970x250%7C728x90%7C970x90%2C970x250%7C970x90%7C728x90%2C970x250%7C728x90%7C970x90%2C728x90&amp;fsbs=1%2C1%2C1%2C1%2C1&amp;eri=1&amp;cust_params=dfid%3D0%26dgid%3D0%26dtid%3D0%26daid%3D%26page%3Dhome%26domain%3Dwww.discuss.com.hk&amp;cookie_enabled=1&amp;bc=15&amp;abxe=1&amp;lmt=1553533264&amp;dt=1553533264760&amp;dlt=1553533195138&amp;idt=69464&amp;frm=20&amp;biw=785&amp;bih=585&amp;oid=3&amp;adxs=689%2C9%2C14%2C9%2C9&amp;adys=433%2C140%2C1275%2C2251%2C3227&amp;adks=164980073%2C2700575564%2C2555848918%2C3751713898%2C2972400964&amp;ucis=1%7C2%7C3%7C4%7C5&amp;ifi=1&amp;u_tz=-240&amp;u_his=2&amp;u_h=600&amp;u_w=800&amp;u_ah=600&amp;u_aw=800&amp;u_cd=24&amp;u_sd=1&amp;flash=0&amp;url=https%3A%2F%2Fwww.discuss.com.hk%2F&amp;dssz=67&amp;icsg=17579180196080&amp;std=0&amp;vis=1&amp;dmc=2&amp;scr_x=0&amp;scr_y=0&amp;psz=300x250%7C980x250%7C980x250%7C980x250%7C980x3641&amp;msz=300x250%7C980x250%7C980x250%7C980x250%7C980x90&amp;blev=0.9&amp;bisch=1&amp;ga_vid=110184543.1553533214&amp;ga_sid=1553533214&amp;ga_hid=1118936456&amp;ga_fc=true&amp;fws=0%2C0%2C0%2C0%2C0"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_319.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//static.criteo.net/js/ld/publishertag.prebid.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title> 香港討論區 Discuss.com.hk - 香討．香港 No.1</title>
+<!--prebid-->
+<script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/api2/v1552285980763/recaptcha__en.js"></script><script type="text/javascript" async="" src="https://certify-js.alexametrics.com/atrk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://tr.discuss.com.hk/core.js?id=GTM-NLLFZG"></script><script type="text/javascript" src="include/javascript/prebid1.28.0.20181018.js" async=""></script><style type="text/css">
+<!--
+.style1 {color: #FF6600}
+-->
+</style>
+<meta name="keywords" content=",香港討論區,網民,熱話,頭條,突發,焦點,香討,討論區,足球,籃球,遊戲,動漫畫,飲食,寵物,電影,電視,投資,股票,地產,新盤,消閒娛樂,手機討論,各行各業,博彩娛樂,生活,電腦,財經,時事經濟,運動,潮流資訊,校園生活,成人討論,音樂世界,電子遊戲,學術文化,興趣,貼圖影片,購物情報,親子,iOS,iphone,Android,流感,PS4,天氣,恒指,美股,道瓊斯指數,曼聯,英超,地震,恒生指數,考評局,特朗普,習近平,中美貿易戰,天文台,NBA,TVB,騰訊,高鐵,港鐵,林鄭,新居屋,華為,孟晚舟,文翠珊,英國脫歐,豬瘟,鄭若驊,樓市,愛回家,大灣區,皓鑭傳,財政預算案,陳茂波,福爾摩師奶,勝利,荃灣綫,iPad Air,iPad Mini,iPad 2019,蘋果發布會,林峯">
+<meta name="description" content=" 香討為全港5大最高瀏覽率的網站之一，每月單一訪客人數過千萬，擁有超過550萬位來自不同階層、背景的會員。主要討論涵蓋新聞、娛樂、地產、財經、汽車、婚姻等話題，廣為香港人熟悉，可說是香港社會的縮影。 香港討論區">
+<meta name="application-name" content="香港討論區 Discuss.com.hk">
+<link rel="canonical" href="https://www.discuss.com.hk/index.php">
+	<meta property="og:title" content="香港討論區">
+<meta property="og:type" content="website">
+<meta property="og:description" content="香討為全港5大最高瀏覽率的網站之一，每月單一訪客人數過千萬，擁有超過550萬位來自不同階層、背景的會員。主要討論涵蓋新聞、娛樂、地產、財經、汽車、婚姻等話題，廣為香港人熟悉，可說是香港社會的縮影。">
+<meta property="og:site_name" content="香港討論區">
+<meta property="og:locale" content="zh_HK">
+<meta property="article:author" content="https://www.facebook.com/DiscussHK">
+<meta property="article:section" content="首頁">
+<meta property="og:url" content="https://www.discuss.com.hk">
+<meta property="og:image" content="https://n2.hk/d/images/logo/discuss_fb.jpg">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="https://www.discuss.com.hk">
+<meta name="twitter:title" content="香港討論區">
+<meta name="twitter:description" content="香討為全港5大最高瀏覽率的網站之一，每月單一訪客人數過千萬，擁有超過550萬位來自不同階層、背景的會員。主要討論涵蓋新聞、娛樂、地產、財經、汽車、婚姻等話題，廣為香港人熟悉，可說是香港社會的縮影。">
+<meta name="twitter:image" content="https://n2.hk/d/images/logo/discuss_fb.jpg">
+
+<meta property="fb:admins" content="626682414">
+<meta property="fb:app_id" content="1123050414379686">
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org"
+		,"@type": "WebPage"
+        ,"description": "香討為全港5大最高瀏覽率的網站之一，每月單一訪客人數過千萬，擁有超過550萬位來自不同階層、背景的會員。主要討論涵蓋新聞、娛樂、地產、財經、汽車、婚姻等話題，廣為香港人熟悉，可說是香港社會的縮影。"
+        ,"url": "https://www.discuss.com.hk"
+        ,"name": " 香港討論區  Discuss.com.hk - 香討．香港 No.1" 
+		,"publisher": {
+            "@type": "Organization",
+            "name": "香港討論區",
+            "logo": "https://n2.hk/d/images/r13/logo.png"
+        }
+        
+    }
+</script>
+<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon">
+
+	<script type="text/javascript">var gid = 'index';var fid='0';var fid2='0';</script>
+<script src="include/index_rev1308.js?v=20181212" type="text/javascript"></script>
+<script src="include/javascript/common_rev09.js?v=20181212" type="text/javascript"></script>
+<script src="include/javascript/menu.js?v=20140303" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+//var basetimestamp = 1553485672000;
+var basetimestamp = 0;
+</script>
+<script src="include/javascript/jquery-1.10.2.modified.js?v=20140124" type="text/javascript"></script>
+
+<script src="https://n2.hk/aeiou/201309_discuss_promo/js/promo2013a.js?v=20140124" type="text/javascript"></script>
+<script src="include/javascript/fancybox2/jquery.fancybox.js?v=2.1.5" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="include/javascript/fancybox2/jquery.fancybox.css?v=2.1.5" media="screen">
+
+<script>
+function ThumbScrollH(direction){
+	if(($$('#menulogo:animated').length==0)){
+		if(direction=='left'){
+			target_scroll_Left=$$("#menulogo").scrollLeft()-$$("#menulogo").width();
+		}else{
+			target_scroll_Left=$$("#menulogo").scrollLeft()+$$("#menulogo").width();
+		}
+		$$("#menulogo").animate({scrollLeft: target_scroll_Left}, 500);
+	}
+}
+</script>
+
+<script type="text/javascript">var tr_act = 'index';var tr_htab = parseInt('1');var abtest21_trackingVar = {"1":{"tr_h":"13386261495c984f68a01706_70113323","hltcount":3,"phltcount":0},"2":{"tr_h":"15551190015c984f68a01936_83359039","hltcount":8,"phltcount":0},"3":{"tr_h":"14026538265c984f68a01c83_66477753","hltcount":12,"phltcount":0},"4":{"tr_h":"17424304615c984f68a02102_44803878","hltcount":12,"phltcount":0},"5":{"tr_h":"15498816835c984f68a025b2_90623832","hltcount":12,"phltcount":0}};
+</script>
+
+<style>
+.fancybox-inner {
+    overflow: hidden !important;
+}
+</style>
+<script src="include/javascript/idle_check.js?i=170210" type="text/javascript"></script>
+<!--link href="homepage.css" rel="stylesheet" type="text/css"-->
+<link rel="stylesheet" type="text/css" media="all" href="rev_style_revamp_1308a4.css?v=20190225"><link rel="stylesheet" type="text/css" media="all" href="searchbox_1308.css?v=20140225">
+<link rel="stylesheet" type="text/css" media="all" href="enlargefonts.css?v=20140124">
+<style>
+/*
+#service_menu #scroll{ width:460px; margin-top:20px; margin-left:-10px; float:left; }
+#service_menu #scroll a.scrollarrow{ height:82px; width:30px; display:block; text-align:center; float:left; }
+#service_menu #scroll a.scrollarrow div{ display:block; width:15px; height:15px; background-position:-15px; margin:0 auto; margin-top:33px; }
+#service_menu #scroll a#scrollleft div{ background:url(images/service_menu/arrow.png) no-repeat 0 -15px; }
+#service_menu #scroll a#scrollright div{ background:url(images/service_menu/arrow.png) no-repeat -15px -15px; }
+#service_menu #scroll a#scrollleft:hover div{ background-position:0 0; }
+#service_menu #scroll a#scrollright:hover div{ background-position:-15px 0; }
+#service_menu #scroll #menulogo{ height:82px; width:390px; overflow:hidden; float:left; }
+#service_menu #scroll ul{ margin:0px; padding:0px; width:1170px; }
+#service_menu #scroll ul li{ height:82px; width:130px; text-align:center; list-style:none; margin:0px; padding:0px; float:left; }
+#service_menu #scroll ul li a{ color:#000; text-decoration:none; font-size:12px; display:block; width:118px; height:78px; margin:1px 5px; border:none; }
+#service_menu #scroll ul li a:hover{ color:#666; margin-top:3px; }
+*/
+
+/* CSS FOR FEATURED TAB START */
+/*#tab li.tabnoad{ width:81px; }*/
+/*
+#tab li.tabnoad{ width:203px; }
+#tab li.featured{ background-image:url(https://n2.hk/d/images/ftab_off_d.gif); width:50px}
+#tab li.featured.on{ background-image:url(https://n2.hk/d/images/ftab_on_d.gif); }
+*/
+#featured {height:318px; overflow:hidden;}
+.featured .featured_topic{ height:140px; padding:20px 0; width:390px; margin:0 14px; text-align:left; overflow:hidden; }
+.featured .featured_topic a.featured_thumbnail{ height:140px; max-width:200px; overflow:hidden; float:left; border:1px solid #ddd; }
+.featured .featured_topic a.featured_thumbnail:hover{ border:1px solid #999; box-shadow:2px 2px 5px #ccc; -moz-box-shadow:2px 2px 5px #ccc; -webkit-box-shadow:2px 2px 5px #ccc; }
+.featured .featured_topic a.featured_thumbnail img{ height:136px; padding:2px; border:0; }
+.featured .featured_topic a.featured_title{ display:block; font-family: 微軟正黑體,Microsoft JhengHei,蘋果儷中黑,Apple LiGothic Medium,黑体,SimHei; font-size:20px; line-height:1.2em; font-weight:bold; color:#333; max-height:48px; overflow:hidden; padding-left:10px; }
+.featured .featured_topic a.featured_title:hover{ color:#f90; text-decoration:none; }
+.featured .featured_topic span.featured_desc{ font-size:15px; color:#555; height:65px; overflow:hidden; display:block; padding-left:10px; padding-top:5px; line-height:1.44em; }
+.featured .topic3 {margin: 3px 14px; text-align:left; font-size:15px; line-height:25px; height:120px; overflow:hidden;}
+.featured .topic3 li{ width:346px !important; padding:2px 22px !important; background-image:url(https://n2.hk/d/images/star_d.png) !important; background-repeat:no-repeat !important; background-position:5px center !important; }
+/* CSS FOR FEATURED TAB END */
+
+</style>
+<style type="text/css">
+#hot-live-box-container .live-box-block .title-area .title-text, #top_nav_keywords, .gid_list_style, #tabs, #footer, .section_hot, .featured .featured_topic a.featured_title,#topbar *,.gid_title,#sections .gid_group .gid_group_title span,#page #gid_group_restricted .section .restricted_gid_title,#page #gid_group_restricted .gid_group_title span{
+	font-family: "Heiti TC","微軟正黑體", "Microsoft JhengHei","蘋果儷中黑","Apple LiGothic Medium", Arial, sans-serif;
+	text-shadow:none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+
+
+#sections .section .content{
+	font-size:14px;
+	letter-spacing:-0.5px;
+	
+}
+#tab li span{
+	font-size:14px;
+	letter-spacing:-0.5px;
+	
+}
+#hot-live-box-container .live-box-block .title-area .title-text,#tabs,#tabs .content li,#top_nav_keywords,.featured .featured_topic a.featured_title,#topbar *{
+	font-family: "微軟正黑體", "Microsoft JhengHei","蘋果儷中黑","Apple LiGothic Medium", Arial, sans-serif;
+	font-weight:bold;
+}
+
+#topbar{
+	font-size:14px;
+}
+
+@-moz-document url-prefix() {
+    #hot-live-box-container .live-box-block .title-area .title-text, #top_nav_keywords, .gid_list_style, #tabs, #footer, .section_hot, .featured .featured_topic a.featured_title,#topbar *,.gid_title,#sections .gid_group .gid_group_title span,#page #gid_group_restricted .section .restricted_gid_title,#page #gid_group_restricted .gid_group_title span{
+	font-family: "Heiti TC","微軟正黑體", "Microsoft JhengHei","蘋果儷中黑","Apple LiGothic Medium", Arial, sans-serif !important;
+	}
+	#tabs .content li{
+		font-weight:normal;
+	}
+}
+</style>
+
+<script language="javascript" type="text/javascript">
+	/*document._createElement = document.createElement;
+		document.createElement = function(tagName, password) {
+			if (tagName != "SCRIPT" || tagName != "STYLE" || password == "My scripts are OK!") {
+        return document._createElement(tagName);
+    	}
+		};*/
+
+	
+	var timer_checker;
+	var aaaRbC = 0;
+	var sb_div = null ;
+	var unsupport_msg = "<div style=\"width:400px;margin:10px auto;border:1px solid #333333;text-align:left;padding:4px\">閣下正在使用的瀏覽器並不支援本網站，<br>建議使用 Internet Explorer, Firefox, Chrome 等瀏覽器來瀏覽本站。<br><br>如您已經正在使用上述瀏覽器，則可能是您在瀏覽器內安裝了一些附加元件或擴充功能，<br>而這些功能並不兼容於本網站，導致問題發生。<br>建議您移除一些可能會導致問題的附加元件，再重新載入本站。<br><br>多謝支持香港討論區。</div>";
+	
+	if(typeof($) != 'function'){
+   function $(id){
+   return document.getElementById(id);
+   }
+  }
+	if(typeof(isUndefined) != 'function'){
+		function isUndefined(){
+			return typeof variable == 'undefined' ? true : false;
+		}
+	}
+	if(typeof(strlen) != 'function'){
+		function strlen(str){
+			return (is_ie && str.indexOf('\n') != -1) ? str.replace(/\r?\n/g, '_').length : str.length;
+		}
+	}
+	if(typeof(shortcut) != 'object'){
+		shortcut = {};
+
+		
+	}
+
+
+	if(typeof(is_ie) == 'undefined'){
+		var userAgent = navigator.userAgent.toLowerCase();
+		var is_opera = userAgent.indexOf('opera') != -1 && opera.version();
+		var is_moz = (navigator.product == 'Gecko') && userAgent.substr(userAgent.indexOf('firefox') + 8, 3);
+		var is_ie = (userAgent.indexOf('msie') != -1 && !is_opera) && userAgent.substr(userAgent.indexOf('msie') + 5, 3);
+		var is_chrome = (userAgent.indexOf('chrome') != -1);
+	}
+
+	//	alert(typeof($));
+	var raTRunbma = window.getComputedStyle;
+	var ROWTBs = document.getElementById;
+	var yRFMYjH = document.getElementsByTagName;
+	var ZlpBRGJ;
+	var GjPaIapYL;
+	if(!is_ie){
+			ZlpBRGJ = window;
+			GjPaIapYL = document;
+		}
+	
+	function asgZYGu(){
+				document.body.innerHTML = unsupport_msg;
+				if(timer_checker){
+			clearInterval(timer_checker);
+			timer_checker = null;
+		}
+	}
+
+	
+function asNmAykP(){
+		
+	sheets = document.styleSheets;
+	for(i=0;i<sheets.length;i++){
+		sheet = sheets[i];
+		if(!sheet.disabled && (!sheet.href || ! sheet.href.match(/^(http:\/\/[^\.]+\.discuss\.com\.hk)|(http:\/\/n2\.hk\/)/))){
+			_rules = is_ie?sheet.rules:sheet.cssRules;
+			for(j=0;j<_rules.length;j++){
+				_rule = _rules[j];
+				if(_rule.selectorText.toLowerCase().match(/>\s*iframe/)){
+					sheet.disabled = true;
+					break;
+				}
+			}
+		}
+	}	
+	  if(!is_ie && GjPaIapYL){
+		document = GjPaIapYL;
+	}
+		
+	
+	_indexer2 = document.getElementById('indexer2');
+	_sidebar = document.getElementById('sidebar');
+	fa_div = document.getElementById('featuread');	
+	
+	x=y=x1=y1=x2=y2=null;	
+	if(!sb_div){
+		_head_div = document.getElementById('head');
+		divs = _head_div.getElementsByTagName('div');
+		for(i=0;i<divs.length;i++){
+			if(divs[i].className=="ad"){
+				sb_div = divs[i];
+			}
+		}
+	}
+	
+	_test_arr = new Array();
+        _test_arr[_test_arr.length] = _sidebar;
+        _test_arr[_test_arr.length] = sb_div;
+        _test_arr[_test_arr.length] = fa_div;
+
+
+	
+	for(i=0;i<_test_arr.length;i++){
+  	_obj = _test_arr[i];
+  	if(!_obj){
+  		alert("obj "+i+" is null");
+  		asgZYGu();
+  		return 0;
+  	}
+  	if( window.getComputedStyle ) {
+  		_x = window.getComputedStyle(_obj,null).display;
+  		_y = window.getComputedStyle(_obj,null).MozBinding;
+  	}else{
+  			
+  		_x = _obj.currentStyle["display"];
+  		_y = _obj.currentStyle["MozBinding"];
+  	}
+  	if( (_y && _y.match(/url/) ) || _x == "none"){
+  		alert(_obj.id + " x/y ");
+  		asgZYGu();
+  		return 0;
+  	}
+  }
+	
+	/*if( window.getComputedStyle ) {x = window.getComputedStyle(_sidebar,null).display;
+		x1 = window.getComputedStyle(sb_div,null).display;
+		x2 = window.getComputedStyle(fa_div,null).display;y = window.getComputedStyle(_sidebar,null).MozBinding
+		y1 = window.getComputedStyle(sb_div,null).MozBinding
+		y2 = window.getComputedStyle(fa_div,null).MozBinding
+		
+		
+	}else{
+		x = sb_div.currentStyle["display"];
+		y = sb_div.currentStyle["MozBinding"];
+		x1 = _sidebar.currentStyle["display"];
+		y1 = _sidebar.currentStyle["MozBinding"];
+		x2 = fa_div.currentStyle["display"];
+		y2 = fa_div.currentStyle["MozBinding"];
+	}if((y && y.match(/url/)) || (y1 && y1.match(/url/))|| (y2 && y2.match(/url/))){
+		asgZYGu();
+		return 0;
+	}if (x == "none" || x1 == "none"|| x2 == "none"){
+		asgZYGu();
+		return 0;
+	}
+	*/
+	}
+</script>
+
+<script>
+function EjujCDJya(){
+		getgroup();
+	highlight_table();
+		heads = document.getElementsByTagName("head");
+		_style = document.getElementsByTagName('style');
+		for(i=0; i<_style.length;i++){
+			if(_style[i].innerHTML.match(/>\s*iframe/)){
+				heads[0].removeChild(_style[i]);
+				i--;
+			}
+		}
+	
+	setInterval('write_current_time()',1000);
+	$('srchtxt').onfocus = function(){
+		addClass(this,"txt_focus");
+		//added for yahoo search
+		if ($('srchtxt').value=='請輸入搜尋字')
+			$('srchtxt').value='';
+	}
+	$('srchtxt').onblur = function(){
+		removeClass(this,"txt_focus");
+		//added for yahoo search
+		if ($('srchtxt').value=='')
+			$('srchtxt').value='請輸入搜尋字';
+	}
+	if(shortcut.add){
+	shortcut.add("Ctrl+K",function(){
+		obj_srchtxt = $('srchtxt');
+		if(obj_srchtxt){
+			obj_srchtxt.focus();
+		}
+	},{"type":"keydown","propagate":false,"target":document});
+}
+	}
+
+</script>
+<style>
+/* #tabs .content #tab5{border: 0px solid black; width: 420px; height: 220px;} */
+</style>
+<!--[if IE 8]>
+<style>
+#guide{height:258px}
+</style>
+<![endif]-->
+<!--[if IE 6]>
+<style>
+#sidebar{margin-left:2px}
+</style>
+<![endif]-->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://tr.discuss.com.hk/core.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NLLFZG');</script>
+<!-- End Google Tag Manager -->
+
+
+
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+
+	<script>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+
+		// Make sure that we disable DFP loading as soon as possible
+		googletag.cmd.push(function() {
+			googletag.pubads().disableInitialLoad();
+		});
+
+	</script>
+	<script>
+		// =================================================================
+		// Combined section starts
+
+		// Combined timeout
+		var HB_TIMEOUT = 1000;
+
+		var PREBID_TIMEOUT = HB_TIMEOUT;
+		var CDB_TIMEOUT = HB_TIMEOUT;
+
+
+		window.hb_status = {
+		    n_adserver_callback: [],
+		    adserverRequestSent: false,
+            prebidTargetingSet: false
+		};
+		  
+		function adServerCallback(source) {
+		    if (window.hb_status.adserverRequestSent) return;
+		    // add source to the processed list
+		    window.hb_status.n_adserver_callback.push(source);
+		    if (source == 'prebid') {
+		        googletag.cmd.push(function() {
+		            pbjs.que.push(function() {
+		                pbjs.setTargetingForGPTAsync();
+                        	window.hb_status.prebidTargetingSet = true;
+		            });
+		        });
+		    } else if (source == 'criteo') {
+		        googletag.cmd.push(function() {
+		            Criteo.SetDFPKeyValueTargeting();
+		        });
+		    }
+		  
+		    if (window.hb_status.n_adserver_callback.length >= 2
+		            || "timeout" == source) {
+		            //move out from cmd.push to fix FF refresh bug
+		            window.hb_status.adserverRequestSent = true;
+		        googletag.cmd.push(function() {
+                    if (!window.hb_status.prebidTargetingSet) {
+                        pbjs.que.push(function() {
+                            pbjs.setTargetingForGPTAsync(); 
+                        });
+                    }
+		            googletag.pubads().refresh();
+		        });
+		    };
+		  
+		}
+	</script>  
+  <script type="text/javascript" src="./include/javascript/audience-extraction.js?v=180719"></script>
+<script>
+getAudiences();
+var lotaudsarr = [];
+if (typeof(Storage) !== "undefined") {
+	if (localStorage.getItem("lotauds") != null) {
+   		var lotaudsarr = localStorage.getItem("lotauds").split(",");
+	}
+}
+    </script><script type="text/javascript" src="//ad.crwdcntrl.net/5/c=12775/pe=y/callback=ccauds"></script>
+<script type="text/javascript">var dfpmode = "async";</script>
+
+  <script> 
+
+    var adUnits = [{
+        code: '/1001609/Discuss_Web_HOME_BB1',
+        mediaTypes: {banner: {sizes: [[728, 90], [970, 250]]}},
+        bids: [{
+            bidder: 'rubicon',
+            params: {
+				accountId: '16548',
+				siteId: '137000',
+				zoneId: '643992'
+            }
+        },{
+        bidder: 'criteo',
+        params: {
+          zoneId: '1278488'
+        }
+      },{
+        bidder: 'appnexus',
+        params: {
+          placementId: '13688782'
+        }
+      }]
+    },{
+        code: '/1001609/Discuss_Web_HOME_MR1',
+        mediaTypes: {banner: {sizes: [300, 250]}},
+        bids: [{
+            bidder: 'rubicon',
+            params: {
+				accountId: '16548',
+				siteId: '137000',
+				zoneId: '643992'
+            }
+        },{
+        bidder: 'ucfunnel',
+        params: {
+          adid: "ad-34BBD376273DA7BDF3242AB46847A897"
+        }
+      },{
+        bidder: 'criteo',
+        params: {
+          zoneId: '1278484'
+        }
+      },{
+        bidder: 'appnexus',
+        params: {
+          placementId: '13690196'
+        }
+      }]
+    },{
+        code: '/1001609/Discuss_Web_HOME_BB3',
+        mediaTypes: {banner: {sizes: [[728, 90], [970, 250]]}},
+        bids: [{
+            bidder: 'rubicon',
+            params: {
+				accountId: '16548',
+				siteId: '137000',
+				zoneId: '643994'
+            }
+        },{
+        bidder: 'criteo',
+        params: {
+          zoneId: '1278488'
+        }
+      },{
+        bidder: 'appnexus',
+        params: {
+          placementId: '13688782'
+        }
+      }]
+      
+    }]; //adUnits
+    
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+
+         const customConfigObject = {
+             "buckets" : [
+                 {
+                     "precision": 2,  //default is 2 if omitted - means 2.1234 rounded to 2 decimal places = 2.12
+                     "min" : 0,
+                     "max" : 20,
+                     "increment" : 0.2
+                 },
+                 {
+                     "precision": 2,
+                     "min" : 20,
+                     "max" : 60,
+                     "increment" : 0.8
+                 },
+                 {
+                     "precision": 2,
+                     "min" : 60,
+                     "max" : 150,
+                     "increment" : 2
+                 }
+             ]
+         };
+
+
+    pbjs.bidderSettings = {
+      rubicon: {
+        bidCpmAdjustment : function(bidCpm, bid){
+          // adjust the bid in real time before the auction takes place
+          console.log(bid.bidderCode + bid.adUnitCode + ' USD bidCpm is: ' + bidCpm);
+          return bidCpm * 6.3;
+        }
+      },
+      appnexus: {
+        bidCpmAdjustment : function(bidCpm, bid){
+          // adjust the bid in real time before the auction takes place
+          console.log(bid.bidderCode + bid.adUnitCode + ' USD bidCpm is: ' + bidCpm);
+          return bidCpm * 7.8;
+        }
+      },
+      criteo: {
+        bidCpmAdjustment : function(bidCpm, bid){
+          // adjust the bid in real time before the auction takes place
+          console.log(bid.bidderCode + bid.adUnitCode + ' USD bidCpm is: ' + bidCpm);
+          return bidCpm * 7.8;
+        }
+      },
+      ucfunnel: {
+        bidCpmAdjustment : function(bidCpm, bid){
+          // adjust the bid in real time before the auction takes place
+          console.log(bid.bidderCode + bid.adUnitCode + ' USD bidCpm is: ' + bidCpm);
+          return bidCpm * 7.8;
+        }
+      }
+    };
+
+    pbjs.que.push(function() {
+        pbjs.setConfig({
+		enableSendAllBids: true,
+		priceGranularity: customConfigObject
+		})
+    });
+
+		pbjs.que.push(function() {
+			pbjs.addAdUnits(adUnits);
+			pbjs.requestBids({
+			  bidsBackHandler: function() {
+			    adServerCallback('prebid');
+			  }
+			});
+		});
+
+		setTimeout(function() {
+		  adServerCallback('timeout');
+		}, PREBID_TIMEOUT);
+
+
+  </script>	
+	<!-- BEGIN CRITEO CHB -->
+
+	<script>
+		// =================================================================
+		// Criteo section starts
+		window.Criteo = window.Criteo || {};
+		window.Criteo.events = window.Criteo.events || [];
+	</script>
+	
+<script>
+		Criteo.events.push(function() {
+			// Initialize the adUnit mapping
+			var adUnit = { "placements": [
+    /* Criteo Placements List, slotid must match DFP Container ID */
+    { "slotid": "div-gpt-ad-1488855305141-0", "zoneid": 766629 }, // NetWorld - Discuss.com - HK - CDB - SA - 970x250 LB1
+    { "slotid": "div-gpt-ad-1488855305143-0", "zoneid": 766627 }, // NetWorld - Discuss.com - HK - CDB - SA - 728x90 LB3
+    { "slotid": "div-gpt-ad-1488855305151-0", "zoneid": 766628 }, // NetWorld - Discuss.com - HK - CDB - SA - 336x280 MR1
+    { "slotid": "div-gpt-ad-1488855305151-1", "zoneid": 766626 }, // NetWorld - Discuss.com - HK - CDB - SA - 300x250 Home MR1
+    { "slotid": "div-gpt-ad-1488855305161-0", "zoneid": 766625 }, // NetWorld - Discuss.com - HK - CDB - SA - 160x600 WS1
+    { "slotid": "div-gpt-ad-1489635411249-0", "zoneid": 766628 }, // NetWorld - Discuss.com - HK - CDB - SA - 336x280 PX1
+
+
+]}
+			// Define the price band range
+			Criteo.SetLineItemRanges("0..3:0.01;3..8:0.05;8..20:0.50;20..30:1.00");
+			// Call Criteo and execute the callback function for a given timeout
+			Criteo.RequestBids(adUnit,
+			  function() { adServerCallback('criteo'); },
+			  CDB_TIMEOUT);
+
+		});
+</script>
+<!-- END CRITEO CHB -->
+
+<script>
+
+
+    var screen_skin = "false"; 
+    if (window.innerWidth >= 1200) { screen_skin = "true"; 
+    googletag.cmd.push(function() {
+    googletag.pubads().setTargeting("screenSkin", screen_skin);})}; 
+
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1001609/Discuss_Web_HOME_MR1', [300, 250], 'div-gpt-ad-1488855305151-1').addService(googletag.pubads());
+    googletag.defineSlot('/1001609/Discuss_Web_HOME_BB1', [[970, 250],[728, 90],[970, 90]], 'div-gpt-ad-1488855305141-0').addService(googletag.pubads());
+    googletag.defineSlot('/1001609/Discuss_Web_HOME_BB2', [[970, 250],[970, 90],[728, 90]], 'div-gpt-ad-1488855305142-0').addService(googletag.pubads());
+    googletag.defineSlot('/1001609/Discuss_Web_HOME_BB3', [[970, 250],[728, 90],[970, 90]], 'div-gpt-ad-1488855305143-0').addService(googletag.pubads());
+    googletag.defineSlot('/1001609/Discuss_Web_Home_LB2', [728, 90], 'div-gpt-ad-1544418464342-0').addService(googletag.pubads());
+
+//lazy loading
+//  googletag.pubads().enableLazyLoad();
+/*
+  googletag.pubads().enableLazyLoad({
+    fetchMarginPercent: 50,  // Fetch slots within 5 viewports.
+    renderMarginPercent: 20,  // Render slots within 2 viewports.
+    mobileScaling: 1.0  // Double the above values on mobile.
+  });
+*/
+	//start of expandable ads config
+var pageConfig = {
+    allowOverlayExpansion: true,
+    allowPushExpansion: true,
+    sandbox: true
+  };
+googletag.pubads().setSafeFrameConfig(pageConfig);
+//end of Expandable config  
+
+
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+	
+    googletag.pubads().setTargeting('dfid', ['0']);
+    googletag.pubads().setTargeting('dgid', ['0']);
+    googletag.pubads().setTargeting('dtid', ['0']);
+    googletag.pubads().setTargeting('daid', ['']);
+    googletag.pubads().setTargeting('page', ['home']);
+    googletag.pubads().setTargeting('domain', ['www.discuss.com.hk']);
+    googletag.pubads().setTargeting('lotauds', lotaudsarr);
+    
+    googletag.enableServices();
+});
+</script>	
+	
+
+<link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.discuss.com.hk" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.discuss.com.hk"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_319.js" async=""></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/979459899/?random=1553533216236&amp;cv=9&amp;fst=1553533216236&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635471&amp;u_h=600&amp;u_w=800&amp;u_ah=600&amp;u_aw=800&amp;u_cd=24&amp;u_his=2&amp;u_tz=-240&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;sendb=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.discuss.com.hk%2F&amp;tiba=%E9%A6%99%E6%B8%AF%E8%A8%8E%E8%AB%96%E5%8D%80%20Discuss.com.hk%20-%20%E9%A6%99%E8%A8%8E%EF%BC%8E%E9%A6%99%E6%B8%AF%20No.1&amp;rfmt=3&amp;fmt=4"></script><style type="text/css">.fancybox-margin{margin-right:15px;}</style><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-32/html/container.html"></head>
+<!--sb=0, lr=0, lr2=, tl=0, sc=0, sb2= r=10-->
+<body onload="EjujCDJya()" style="">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLLFZG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- ab test track image -->
+<!-- end -->
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "7381692" });
+(function(){
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="https://b.scorecardresearch.com/p?c1=2&amp;c2=7381692&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"RI+7j1a8Dy00qz", domain:"discuss.com.hk",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=RI+7j1a8Dy00qz" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->		<div id="page"><div id="wrapper">
+
+
+<!-- invisible recaptcha tracking -->
+<script src="https://www.google.com/recaptcha/api.js?render=6LdcyoUUAAAAAPHc-WXthGOeupB3LFqdbx2NYFz8" type="text/javascript"></script>
+<script>
+    grecaptcha.ready(function() {
+        grecaptcha.execute('6LdcyoUUAAAAAPHc-WXthGOeupB3LFqdbx2NYFz8', {action: 'index'}).then(function(token) {
+            var j = window.$$ ? window.$$ : window.$ || {ajax: function(){}};
+			j.ajax({
+				url: "ajax.php",
+				data: {action: "invisibleRecaptchaVerify", irToken: token, irAction: 'index'},
+				type: "GET",
+				async: true,
+				success: function(response) {
+				    if(response && response.status && response.status.type === 'success' && response.meta.score) {
+                        if(typeof dataLayer != "undefined"){
+                            dataLayer.push({
+                                'event': 'detect_human:submit_score',
+                                'tr_score': response.meta.score,
+                            });
+                        }
+                    }
+				},
+			});
+        });
+    });
+</script>
+<!-- lotame audience tracking -->
+<script>
+    (function() {
+        window.onAudiencesLoaded = function(data) {
+            if(data && data.Profile) {
+                var ids = data.Profile.Audiences && data.Profile.Audiences.Audience ? data.Profile.Audiences.Audience.map(function(a) {return a.id;}) : [],
+                    idsStr = ids.length ? ids.join('|') : '',
+                    pid = data.Profile.pid || '',
+                    tpid = data.Profile.tpid || '';
+                if(idsStr && window.dataLayer) {
+                    dataLayer.push({
+                        'event': 'lotame_audience:track_audience_ids',
+                        'pid': pid,
+                        'tpid': tpid,
+                        'aud': idsStr,
+                    });
+                                            document.cookie = 'lotame-audience-web=1553485672; max-age=86400; path=/; domain=discuss.com.hk';
+                                    }
+            }
+        }
+        var workerProcess = function() {
+            var sc = document.createElement('script');
+            sc.src = window.get_cc_extr_url().replace(/(callback=.+)/i, 'callback=onAudiencesLoaded');
+            document.body.appendChild(sc);
+        }
+        if(!window.get_cc_extr_url || !(window.get_cc_extr_url instanceof Function)) {
+            var sc = document.createElement('script');
+            sc.onload = workerProcess;
+            sc.src = '/include/javascript/audience-extraction.js?v=180719';
+            document.body.appendChild(sc);
+        }else{
+            workerProcess();
+        }
+    })();
+</script>
+<!-- The Trade Desk mapping -->
+<iframe style="display: none;" src="https://match.adsrvr.org/track/cmf/generic?ttd_puid=d,5c984f68957486.39149266&amp;ttd_pid=t3scd4v&amp;ttd_tpi=1"></iframe>
+
+<!-- Davincii mapping -->
+<iframe style="display: none;" src="https://csync.adsfactor.net/pixel.php?partnerid=networld&amp;userid=d,5c984f68957486.39149266"></iframe>
+
+<!-- Start revamp 1308 -->
+<script language="javascript">
+function showSearchMenu(){
+	document.getElementById("searchbox_menu").style.display = "block";
+}
+
+function hideSearchMenu(){
+	document.getElementById("searchbox_menu").style.display = "none";
+}
+
+function changeSearchAction(searchengine){
+	//if 0, yahoo engine, if 1, discuz engine
+	document.searchform.srcheng.value = searchengine;
+	document.searchform.target = '_self';
+	if(searchengine==0){
+		document.searchform.action = 'ysearchgw.php';
+	}else if(searchengine==1){
+		document.searchform.action = 'search.php';
+	}else if(searchengine==2){ //advance search
+		window.location = 'search.php';
+	}else if(searchengine==3){ //price
+		document.searchform.action = 'ysearchgw.php';
+		document.searchform.target = '_blank';
+	}
+}
+
+function searchtype(id,txt){
+	document.getElementById('searchbox_menu').style.display = 'none';
+	document.getElementById('currentsearchitem').innerHTML = txt;
+	changeSearchAction(id);
+}
+
+function checkSrchtxt(txt){
+	if (txt.value == '請輸入搜尋字') {alert(txt.value);txt.focus();return false;}
+	else {changeSearchAction(document.searchform.srcheng.value);return true;}
+}
+
+function hideLogin() {
+	}
+function showLogin() {
+	}
+function showProfile() {
+	$$("#profile_btn").addClass('active');
+	$$("#profile_menu").show();
+}
+
+$$(document).ready(function() {
+	var loginform_timer;
+  $$("#login_btn").hover(function(e) {
+      clearTimeout(loginform_timer);
+      loginform_timer = setTimeout(function(){
+          showLogin();
+      },300);
+  },function(){
+      clearTimeout(loginform_timer);
+      loginform_timer = setTimeout(function(){
+          if( !($$(".username").is(":focus")) && !($$(".password").is(":focus")) ){
+              hideLogin();
+          }
+      },3000);
+  });
+	$$("#login_form").click(function(e) {
+		e.stopPropagation();
+	});
+	
+	/*
+	$$("#login_btn").click(function(e) {
+		e.stopPropagation();
+		
+		if (e.target.id == "login_click_area") {
+			if ($$("#login_btn").hasClass('active')) {
+				hideLogin();
+			} else {
+				showLogin();
+			}	
+		}
+	});
+	*/
+	$$(document).click(function(e) {
+		hideLogin();
+	});
+	
+		
+		
+});
+</script>
+
+<div id="head">
+	<!-- Logo -->
+	<div id="siteid"><a href="index.php"><img src="images/discuss_style/logo.png"></a></div>
+    
+  <div id="topbar">
+		<div style="display:inline-block;width:740px;">
+			
+			<div id="topbar_control">				
+				
+				
+				
+								<span class="register_btn" style="background-color:#3C5A98">
+					<a href="./fb_sdk/fb_login_process.php" onclick="setHiliTimer(); ga_trackEvent(this,'Front FB Register Button ','click');"><img src="/images/facebook_logo.png" style="padding-top: 5px; padding-right: 5px;">註冊/登錄</a>
+				</span>		
+    		<span class="topbar_control_vline"></span>
+				<span class="register_btn"><a href="register.php" onclick="setHiliTimer(); ga_trackEvent(this,'Front Register Button ','click');">註冊</a></span>
+				<span class="topbar_control_vline"></span>
+				
+				<span id="login_btn">
+					<a href="logging.php?action=login">登入</a>
+									</span>
+				<span class="topbar_control_vline"></span>
+
+				
+				<div id="searchcontainer">
+					<form name="searchform" id="searchform" action="search.php" method="get" onsubmit="return checkSrchtxt(this.srchtxt)">
+						<input type="hidden" name="srchfrom" value="2592000">
+				    <input type="hidden" name="orderby" value="dateline">
+				    <input type="hidden" name="searchsubmit" value="yes">
+				    <input type="hidden" name="ei" value="UTF-8">
+				    <input type="hidden" name="forumpartner" value="discuss">
+				    <input type="hidden" name="provider" value="www.discuss.com.hk">
+				    <input type="hidden" name="srcheng" value="0">
+						
+						<div id="searchbox" class="" onmouseover="showSearchMenu()" onmouseout="hideSearchMenu()">
+							<a href="#" onfocus="showSearchMenu()"><div id="currentsearchitem">全文</div><img border="0" src="/images/icons/search_arrow.png" align="absmiddle"></a>
+							<div id="searchbox_menu">
+                <ul id="popup_search_items">
+                  <li><a href="javascript:void(0)" onclick="searchtype(0,'全文')">全文</a></li>
+                  <li><a href="javascript:void(0)" onclick="searchtype(1,'實時')">實時</a></li>
+                  <li><a href="javascript:void(0)" onclick="searchtype(2,'進階')">進階</a></li>
+                  <li><a href="javascript:void(0)" onclick="searchtype(3,'價格')" onblur="hideSearchMenu()">價格</a></li>
+                </ul>
+              </div>
+						</div>						
+						<input type="text" name="srchtxt" id="srchtxt" title="快捷鍵: Ctrl+K" maxlength="255" value="請輸入搜尋字" onfocus="if (this.value=='請輸入搜尋字') this.value='';" onblur="if (this.value=='') this.value='請輸入搜尋字';">
+						<input type="image" alt="搜尋" src="/images/icons/d_btn_search.png" class="submit" name="searchbtn" style="background:none">
+					</form>
+				</div>
+				<span class="topbar_control_vline"></span>
+				<div id="noti_btn">
+    			<a href="logging.php?action=login" id="top-menu-btn-notification" onclick="return ga_trackEvent(this,'notification icon','click');"><span id="noti_btn_icon" class="btn_icon"></span><span id="top-menu-btn-notification-num"></span></a>
+				<div id="noti_arrow"></div>
+				<div id="noti_wrapper"></div>
+				</div>
+			</div>  <!-- End topbar_control -->
+			
+			<div id="today">
+		  	<span id="cur_date"><span class="date">3月25日</span><span class="weekday">(一)</span><span class="time">1:02pm</span></span>
+		  				  	<span class="weather">
+			    	<img src="https://n2.hk/d/images/r09/weather/60.gif" alt="大致多雲，有幾陣雨，初時部分地區能見度較低。吹和緩至清勁東北風。" title="大致多雲，有幾陣雨，初時部分地區能見度較低。吹和緩至清勁東北風。" align="absmiddle"></span><span class="temperature ">21°C</span>
+			  				  	<span class="humidity ">85%</span>
+			  			  			  </div>  <!-- End today -->
+			
+    </div>
+
+	<script language="javascript">
+		function submithotkeywordsearch(obj){
+			searchtype(0,'全文');
+			document.getElementById("searchform").elements["srchtxt"].value = obj.innerHTML;
+			pageTracker._trackEvent('Homepage Hot Keyword', obj.innerHTML);
+			document.getElementById("searchform").setAttribute("target", "_blank");
+			document.getElementById("searchform").submit();
+		}
+		
+		$$("#service_btn").hover(function(){
+			$$(this).addClass("active");
+			$$("#service_menu").show();
+			hideLogin();
+		},function(){
+			$$(this).removeClass("active");
+			$$("#service_menu").hide();
+		});
+		
+		$$("#profile_btn").hover(function(){
+			$$(this).addClass("active");
+			$$("#profile_menu").show();
+		},function(){
+			$$(this).removeClass("active");
+			$$("#profile_menu").hide();
+		});
+		
+		$$("#setting_btn").hover(function(){
+			$$(this).addClass("active");
+			$$("#setting_menu").show();
+		},function(){
+			$$(this).removeClass("active");
+			$$("#setting_menu").hide();
+		});
+		
+		$$("#topbar_control>span:not(.active)>a,#setting_btn>span:not(.active)>a, #topbar_nav a, #siteid a").focus(function(){
+			$$("#topbar_control .active").removeClass("active");
+			$$("#profile_menu, #setting_menu, #service_menu").hide();
+			hideSearchMenu();
+		});
+		
+		$$("#topbar_control>span>a.active").blur(function(){
+			$$("#topbar_control .active").removeClass("active");
+			$$("#profile_menu, #setting_menu, #service_menu").hide();
+		});
+		$$("#profile_btn>a").focus(function(){
+			$$(this).parent().addClass("active");
+			$$("#profile_menu").show();
+		});
+		$$("#setting_btn>a").focus(function(){
+			$$(this).parent().addClass("active");
+			$$("#setting_menu").show();
+		});
+		$$("#service_btn>a").focus(function(){
+			$$(this).parent().addClass("active");
+			$$("#service_menu").show();
+		});
+	</script>
+	
+		<!--Add keywords and New nav_bar by Grace 20160823--> 
+    		<ul id="top_nav_btns">
+     	<li><a href="#gid_group_news" class="top_nav_btn top_nav_news" onclick="setHiliTimer(); ga_trackEvent(this,'Group News','click');">
+     	時事財經</a></li>
+     	<li><a href="index2.php?gid=478" class="top_nav_btn top_nav_ladies" onclick="setHiliTimer(); return ga_trackEvent(this,'Group Ladies','click');" style="padding-left: 18px;">
+     	女性家庭</a></li>
+     	<li><a href="#gid_group_sports" class="top_nav_btn top_nav_sports" onclick="setHiliTimer(); ga_trackEvent(this,'Group Sport','click');" style="padding-left: 18px;">
+     	運動</a></li>
+     	<li><a href="#gid_group_entertainment" class="top_nav_btn top_nav_entertainment" onclick="setHiliTimer(); ga_trackEvent(this,'Group Entertainment','click');" style="padding-left: 18px;">
+     	吃暍玩樂</a></li>
+     	<li><a href="#gid_group_digital" class="top_nav_btn top_nav_digital" onclick="setHiliTimer(); ga_trackEvent(this,'Group Digital','click');">
+     	數碼</a></li>
+     	<li><a href="#gid_group_spirit" class="top_nav_btn top_nav_spirit" onclick="setHiliTimer(); ga_trackEvent(this,'Group Spirit','click');">
+     	身心靈</a></li>
+     	<li><a href="#gid_group_leisure" class="top_nav_btn top_nav_leisure" onclick="setHiliTimer(); ga_trackEvent(this,'Group Leisure','click');">
+     	影視消閒</a></li>
+     	<li><a href="#gid_group_life" class="top_nav_btn top_nav_life" onclick="setHiliTimer(); ga_trackEvent(this,'Group Life','click');">
+     	生活興趣</a></li>
+     	<li><a href="#gid_group_culture" class="top_nav_btn top_nav_culture" onclick="setHiliTimer(); ga_trackEvent(this,'Group Culture','click');">
+     	校園</a></li>
+     	<li><a href="#gid_group_others" class="top_nav_btn top_nav_others" onclick="setHiliTimer(); ga_trackEvent(this,'Group Others','click');">
+     	其他</a></li>
+		</ul>
+		<div id="top_nav_keywords">
+			<div class="keywords_title">熱門:</div>			<a class="keywords" style="position:relative; width: 155px; height: 30px;" href="stylepage.php?&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=discussstyle&amp;tr_des=hc_top_hottopic" title="Discuss Style Page" onclick="return ga_trackEvent(this,'Home Top Hot Topics','discussstyle')"><img style="width:155px;position:absolute;top:50%;transform:translateY(-50%);" src="./images/discuss_style/Discuss_Mainpage_entry_Style.png"></a><a class="keywords" href="viewthread.php?tid=28113437&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=home_top_hottopic&amp;tr_des=hc_top_hottopic" title="千萬不可同親友一起去睇樓" onclick="return ga_trackEvent(this,'Home Top Hot Topics','千萬不可同親友一起去睇樓 - 28113437')">千萬不可同親友一起去睇樓</a><a class="keywords" style="border-right:0" href="viewthread.php?tid=28110653&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=home_top_hottopic&amp;tr_des=hc_top_hottopic" title="時至今日太靚唔係好事，係禍" onclick="return ga_trackEvent(this,'Home Top Hot Topics','時至今日太靚唔係好事，係禍 - 28110653')">時至今日太靚唔係好事，係禍</a>					</div>
+					</div>  <!-- End topbar -->
+	
+	
+	
+</div>  <!-- End head -->
+
+<!-- End revamp 1308 -->
+<div id="superbanner">
+	<div class="ad">
+			  	<!-- /1001609/Discuss_Web_HOME_BB1 -->
+<div id="div-gpt-ad-1488855305141-0" data-google-query-id="CM-8zZOxnOECFQU6TwodcqwNwA">
+
+<div id="google_ads_iframe_/1001609/Discuss_Web_HOME_BB1_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/1001609/Discuss_Web_HOME_BB1_0" title="3rd party ad content" name="google_ads_iframe_/1001609/Discuss_Web_HOME_BB1_0" width="970" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="2" data-load-complete="true"></iframe></div></div>	  	</div>
+</div>
+
+<div id="subhead">
+  <div style="width:100px; overflow:hidden; float:right;">
+  	<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FDiscussHK&amp;width=100&amp;height=21&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=false&amp;appId=412906822098296" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+	</div>
+	<a class="fbcirclebtn" href="https://www.facebook.com/DiscussHK" title="香討Facebook Page"></a>
+	
+			</div>
+<!-- end of subhead -->
+
+
+<div id="main">	
+	<!-- index highlight, added on 130712 -->
+		
+	<!-- end index highlight -->
+	
+	<div id="story"><!-- 索引 + tabs + boards-->
+		<div id="guide">
+			<!-- live topic start -->
+			<link href="rev_style_revamp_1308b1.css?v=20190225" rel="stylesheet" type="text/css">
+			<script language="javascript">
+			var live_timer_in;
+            var live_timer_out;
+			var hotlive_page=0;
+			is_hotlive_array={};
+
+			$$(document).ready(function(e) {
+
+				$$('#hot-live-main-box').mouseenter(function(){
+					HotLiveBoxShow();
+                    //console.log(live_timer);
+				})
+				$$('#hot-live-main-box').mouseleave(function(){
+					HotLiveBoxHide();
+                    //console.log(live_timer);
+				})
+
+                $$('#hot-live-scroll-left').click(function(){
+                    if(hotlive_page>0){
+                        hotlive_page-=1;
+                        $$('#hot-live-box').animate({scrollLeft: 898*(hotlive_page)}, 200);
+                        hotlive_trackEvent(hotlive_page);
+                        show_hotlive_paging_btn(hotlive_page);
+                    }
+                });
+
+                $$('#hot-live-scroll-right').click(function(){
+                    if(hotlive_page<3){
+                        hotlive_page+=1;
+                        $$('#hot-live-box').animate({scrollLeft: 898*hotlive_page}, 200);
+                        hotlive_trackEvent(hotlive_page);
+                        show_hotlive_paging_btn(hotlive_page);
+                    }
+                });
+
+				/*
+                $$('#hot-live-box').bind('mousewheel', function(event){
+					//alert(hotlive_page);
+                    if(event.originalEvent.wheelDelta/120 > 0) {
+                        if(hotlive_page>0){
+                            hotlive_page-=1;
+                            $$('#hot-live-box').animate({scrollLeft: 898*(hotlive_page)}, 300);
+						}
+                    }else{
+                        if(hotlive_page<4){
+                            hotlive_page+=1;
+                            $$('#hot-live-box').animate({scrollLeft: 898*hotlive_page}, 300);
+                            //$$('#hot-live-box .live-box-more-bar').css("left",1131);
+						}
+					}
+                });
+				*/
+            });
+
+
+            function show_hotlive_paging_btn(func_page){
+                //alert(hotlive_page);
+                if(func_page==0){
+
+                    $$('#hot-live-scroll-left').css('display','none');
+                    $$('#hot-live-scroll-right').css('display','block');
+                }else if(func_page==3){
+
+                    $$('#hot-live-scroll-left').css('display','block');
+                    $$('#hot-live-scroll-right').css('display','none');
+				}else{
+
+                    $$('#hot-live-scroll-left').css('display','block');
+                    $$('#hot-live-scroll-right').css('display','block');
+				}
+            }
+
+
+			function hotlive_trackEvent(page){
+			    if(is_hotlive_array[page]){return;}
+                if(typeof dataLayer != "undefined"){
+                    dataLayer.push({
+                        'event' : 'HotliveEvent',
+                        'eventPage' : (page+2)
+                    });
+                }
+				is_hotlive_array[page]=true;
+			}
+
+            function HotLiveBoxHide(){
+                if(live_timer_in) {
+                    clearTimeout(live_timer_in);
+                }
+				live_timer_out = setTimeout(function(){
+					HotLiveBoxHideFunction();
+				},300)
+			}
+			function HotLiveBoxShow(){
+                if(live_timer_out){
+                    clearTimeout(live_timer_out);
+				}
+
+                live_timer_in = setTimeout(function(){
+					HotLiveBoxShowFunction();
+				},300)
+			}
+			
+			function HotLiveBoxHideFunction(){
+				//clearTimeout(live_timer);
+				$$('#hot-live-box').stop();
+				//$$('#hot-live-box').animate({width:'242px'}, 500);
+                $$('#hot-live-main-box').animate({width:'242px'},300);
+				$$('#hot-live-main-box .live-box-more-bar').stop();
+				$$('#hot-live-main-box .live-box-more-bar').css('display','block');
+				$$('#hot-live-main-box .live-box-more-bar').animate({opacity:100},300);
+
+
+                $$('#hot-live-scroll-left').css('display','none');
+                $$('#hot-live-scroll-right').css('display','none');
+			}
+			
+			function HotLiveBoxShowFunction(){
+				$$('#hot-live-box').stop();
+				$$('#hot-live-box').animate({width:'898px'}, 100);
+                $$('#hot-live-main-box').animate({width:'898px'},300);
+				$$('#hot-live-main-box .live-box-more-bar').stop();
+				$$('#hot-live-main-box .live-box-more-bar').animate({opacity:0},300,function(){
+					$$('#hot-live-main-box .live-box-more-bar').css('display','none');
+					ga_trackEvent('','Homepage Live Topics','open');
+                    hotlive_trackEvent(hotlive_page);
+					// add fire counter for abtest21 hotlive expand event
+					window.firehlexpanded=true;
+				});
+
+                show_hotlive_paging_btn(hotlive_page);
+                //$$('#hot-live-scroll-left').css('display','block');
+                //$$('#hot-live-scroll-right').css('display','block');
+			}
+			</script>
+
+			<div id="hot-live-box-container">
+		    <div class="live-box-title" style="top:-21px;"></div>
+
+			<div id="hot-live-main-box">
+				<div id="hot-live-scroll-left"></div>
+				<div id="hot-live-scroll-right"></div>
+				<div class="live-box-more-bar"></div>
+				<div id="hot-live-box"><div id="live-box-column-1">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28114785&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_1&amp;tr_h=13386261495c984f68a01706_70113323" onclick="return ga_trackEvent(this,'Hottopic Live','急！病假期間遇見上司偷拍我(28114785)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_149_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/4c2650/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_281147858f2dc5f7fbba19d2e9a2c1efpng');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">117</div>
+										<div class="view">8967</div>
+								</div>
+					  <div class="title-area">
+												<div class="writer-thumb"><img src="https://www.discuss.com.hk/images/avatars/02.gif"></div>
+												<div class="title-text">急！病假期間遇見上司偷拍我</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28114941&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_1&amp;tr_h=13386261495c984f68a01706_70113323" onclick="return ga_trackEvent(this,'Hottopic Live','【屋苑亂局】管理費一年內加近四成荃威花園業主控法團黑箱作業(28114941)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_150_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/f679c1/f/320x320/filters:extract_cover()/https://cdn.hk01.com/media/images/2590991/org/b571d501f153bf2fd56b88b0803d44c0.jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">108</div>
+										<div class="view">5866</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">【屋苑亂局】管理費一年內加近四成荃威花園業主控法團黑箱作業</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-3 live-box-block" href="viewthread.php?tid=28115456&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_1&amp;tr_h=13386261495c984f68a01706_70113323" onclick="return ga_trackEvent(this,'Hottopic Live','33歲男子公園上吊亡 (09:44) - 20190325 ...(28115456)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_150_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/6086d9/f/320x320/filters:extract_cover()/https://fs.mingpao.com/ins/20190325/s00001/f911101507b1d897068c1601317d94e7.jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">30</div>
+										<div class="view">1103</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">33歲男子公園上吊亡 (09:44) - 20190325 ...</div>
+					  </div>
+					</a>
+									  </div><div id="live-box-column-2">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28114468&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_2&amp;tr_h=15551190015c984f68a01936_83359039" onclick="return ga_trackEvent(this,'Hottopic Live','18歲少年：自己不想供樓 要2-3年儲夠錢「full pay...(28114468)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/01ca95/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_281144681b5708bec042af2b7d60a293png');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">122</div>
+										<div class="view">11041</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">18歲少年：自己不想供樓 要2-3年儲夠錢「full pay...</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28114747&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_2&amp;tr_h=15551190015c984f68a01936_83359039" onclick="return ga_trackEvent(this,'Hottopic Live','聽日⋯⋯(28114747)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/c43499/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_2811474765179fa31d9aa099d6d3d29bjpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">145</div>
+										<div class="view">15730</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">聽日⋯⋯</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-3 live-box-block" href="viewthread.php?tid=28114983&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_2&amp;tr_h=15551190015c984f68a01936_83359039" onclick="return ga_trackEvent(this,'Hottopic Live','朋友兩年聽老婆話加按自住層樓一開二，依家好後悔聽老婆話(28114983)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/6e984d/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_28114983fcbce26e6fb11bb736ce1629png');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">102</div>
+										<div class="view">15809</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">朋友兩年聽老婆話加按自住層樓一開二，依家好後悔聽老婆話</div>
+					  </div>
+					</a>
+									  </div><div id="live-box-column-3">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28105721&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_2&amp;tr_h=15551190015c984f68a01936_83359039" onclick="return ga_trackEvent(this,'Hottopic Live','期指牛熊走位參謀會議（十）(28105721)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/6296b1/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190320/20190320_281057211a1052857748d98c502988a3jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">1715</div>
+										<div class="view">97514</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">期指牛熊走位參謀會議（十）</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28115267&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_2&amp;tr_h=15551190015c984f68a01936_83359039" onclick="return ga_trackEvent(this,'Hottopic Live','翻查警方會面尋破綻 精神科專家揭私影兇手扮失常(28115267)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_150_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/4573ff/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_281152672811526717ceb9a46180b1512489df78png');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">35</div>
+										<div class="view">4360</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">翻查警方會面尋破綻 精神科專家揭私影兇手扮失常</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-3 live-box-block" href="viewthread.php?tid=28114146&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_2&amp;tr_h=15551190015c984f68a01936_83359039" onclick="return ga_trackEvent(this,'Hottopic Live','林子健Q&amp;A時間 ,   忍唔住發爛渣？(28114146)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_150_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/56e911/f/320x320/filters:extract_cover()/https://img.youtube.com/vi/AIBAGEhMUGA/0.jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">124</div>
+										<div class="view">19185</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">林子健Q&amp;A時間 ,   忍唔住發爛渣？</div>
+					  </div>
+					</a>
+									  </div><div id="live-box-column-4">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28115262&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_2&amp;tr_h=15551190015c984f68a01936_83359039" onclick="return ga_trackEvent(this,'Hottopic Live','部 tesla罰3500及重新考牌(28115262)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_1101_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/0cd3f6/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_205c0e9cd97fd814c7ebJuEeNxPM1vgg.jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">23</div>
+										<div class="view">1591</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">部 tesla罰3500及重新考牌</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28115379&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_2&amp;tr_h=15551190015c984f68a01936_83359039" onclick="return ga_trackEvent(this,'Hottopic Live','卡城超賤，正式對沙拉事件走數，你死你事(28115379)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_1050_wide.png);"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">9</div>
+										<div class="view">609</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">卡城超賤，正式對沙拉事件走數，你死你事</div>
+					  </div>
+					</a>
+									  						<div class="live-box-block-3 live-box-block"><iframe frameborder="no" scrolling="no" marginwidth="0" marginheight="0" src="https://n2.hk/ads/houseads/ysm/ysm_fullad.php?btype=5&amp;s=d" width="216" height="114"></iframe></div>
+									  </div><div id="live-box-column-5">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28115406&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_3&amp;tr_h=14026538265c984f68a01c83_66477753" onclick="return ga_trackEvent(this,'Hottopic Live','獅子銀行嘅估價有啲唔尋常(28115406)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">6</div>
+										<div class="view">806</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">獅子銀行嘅估價有啲唔尋常</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28114112&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_3&amp;tr_h=14026538265c984f68a01c83_66477753" onclick="return ga_trackEvent(this,'Hottopic Live','麥明詩收檔啦！(28114112)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_480_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/bf6d80/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190324/20190324_c7ad71d7f6a0cc76eda7IIpOOrKsdpYt.jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">104</div>
+										<div class="view">16884</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">麥明詩收檔啦！</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-3 live-box-block" href="viewthread.php?tid=28112461&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_3&amp;tr_h=14026538265c984f68a01c83_66477753" onclick="return ga_trackEvent(this,'Hottopic Live','賠償問題(28112461)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_1101_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/7e030a/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190324/20190324_2811246180a8f882ed7be5edac251757jpeg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">909</div>
+										<div class="view">69193</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">賠償問題</div>
+					  </div>
+					</a>
+									  </div><div id="live-box-column-6">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28112549&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_3&amp;tr_h=14026538265c984f68a01c83_66477753" onclick="return ga_trackEvent(this,'Hottopic Live','楊思琦收檔啦！(28112549)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_480_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/235c25/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190324/20190324_28112549a0119bf9017e0531d388e273jpeg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">363</div>
+										<div class="view">96427</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">楊思琦收檔啦！</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28111684&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_3&amp;tr_h=14026538265c984f68a01c83_66477753" onclick="return ga_trackEvent(this,'Hottopic Live','燈神俱樂部 （82）買貨賣貨(28111684)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/9d052c/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_2811168480437c25174f88896c33ac13png');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">165</div>
+										<div class="view">9773</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">燈神俱樂部 （82）買貨賣貨</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-3 live-box-block" href="viewthread.php?tid=28109343&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_3&amp;tr_h=14026538265c984f68a01c83_66477753" onclick="return ga_trackEvent(this,'Hottopic Live','人到四十 有少少心聲想分享(28109343)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_149_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/bf651f/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_281093432810934306d216504fec1fc714c100aepng');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">359</div>
+										<div class="view">66970</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">人到四十 有少少心聲想分享</div>
+					  </div>
+					</a>
+									  </div><div id="live-box-column-7">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28061447&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_3&amp;tr_h=14026538265c984f68a01c83_66477753" onclick="return ga_trackEvent(this,'Hottopic Live','居屋-每日賣樓情況 #1964剩餘數目 (更新21/03/2...(28061447)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/5da36f/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190228/20190228_28061447122953dd84f7e396f34e9932jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">2117</div>
+										<div class="view">269895</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">居屋-每日賣樓情況 #1964剩餘數目 (更新21/03/2...</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28114889&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_3&amp;tr_h=14026538265c984f68a01c83_66477753" onclick="return ga_trackEvent(this,'Hottopic Live','我結左婚8年了，仍然忘記唔到9年前既前度。(28114889)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_482_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/6deefc/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_281148897049689f7ecfac7dabf44fd0png');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">77</div>
+										<div class="view">6074</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">我結左婚8年了，仍然忘記唔到9年前既前度。</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-3 live-box-block" href="viewthread.php?tid=28114862&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_3&amp;tr_h=14026538265c984f68a01c83_66477753" onclick="return ga_trackEvent(this,'Hottopic Live','真心問，小弟黎緊諗住入手第三隻勞，藍黑定單紅？(28114862)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_1215_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/445b09/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_28114862fa781a665abe9f6d0aef2870jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">31</div>
+										<div class="view">1467</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">真心問，小弟黎緊諗住入手第三隻勞，藍黑定單紅？</div>
+					  </div>
+					</a>
+									  </div><div id="live-box-column-8">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28115051&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_3&amp;tr_h=14026538265c984f68a01c83_66477753" onclick="return ga_trackEvent(this,'Hottopic Live','李永達回憶錄引權威人士： 每日40中共黨員持單程證滲港(28115051)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_150_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/957126/f/320x320/filters:extract_cover()/https://static.appledaily.hk/images/apple-photos/video/20190325/720pix/1553450441_994c.jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">221</div>
+										<div class="view">8195</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">李永達回憶錄引權威人士： 每日40中共黨員持單程證滲港</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28115395&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_3&amp;tr_h=14026538265c984f68a01c83_66477753" onclick="return ga_trackEvent(this,'Hottopic Live','最新操作 夏神去皇馬車仔簽古仔(28115395)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_1050_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/b58dd8/f/320x320/filters:extract_cover()/https://hk.on.cc/hk/bkn/cnt/sport/20190325/photo/bkn-20190325010532293-0325_00882_001_01p.jpg?20190325010542');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">8</div>
+										<div class="view">667</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">最新操作 夏神去皇馬車仔簽古仔</div>
+					  </div>
+					</a>
+									  						<div class="live-box-block-3 live-box-block"><iframe frameborder="no" scrolling="no" marginwidth="0" marginheight="0" src="https://n2.hk/ads/houseads/ysm/ysm_fullad.php?btype=5&amp;s=d" width="216" height="114"></iframe></div>
+									  </div><div id="live-box-column-9">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28112487&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_4&amp;tr_h=17424304615c984f68a02102_44803878" onclick="return ga_trackEvent(this,'Hottopic Live','女人過38歲真係冇須要嫁了(28112487)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_482_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/daee21/f/320x320/filters:extract_cover()/https://i.smalljoys.me/2018/07/img_5b4d44e0e64c8.png?resize=412,232');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">154</div>
+										<div class="view">19897</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">女人過38歲真係冇須要嫁了</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28115244&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_4&amp;tr_h=17424304615c984f68a02102_44803878" onclick="return ga_trackEvent(this,'Hottopic Live','緊急！止紅仔先，個市有D病(28115244)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">49</div>
+										<div class="view">917</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">緊急！止紅仔先，個市有D病</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-3 live-box-block" href="viewthread.php?tid=28111611&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_4&amp;tr_h=17424304615c984f68a02102_44803878" onclick="return ga_trackEvent(this,'Hottopic Live','師姐︰原來我連一碗單餸米線都唔值...(28111611)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_482_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/dde04e/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_2811161128111611d7620106a6d9fc8345ad989fpng');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">663</div>
+										<div class="view">49023</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">師姐︰原來我連一碗單餸米線都唔值...</div>
+					  </div>
+					</a>
+									  </div><div id="live-box-column-10">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28064377&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_4&amp;tr_h=17424304615c984f68a02102_44803878" onclick="return ga_trackEvent(this,'Hottopic Live','2018年建倉3, 12(19年主力12號月供)的快樂時代主...(28064377)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/f490c1/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190301/20190301_2806437713eba713af962ed87b40269epng');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">3436</div>
+										<div class="view">252672</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">2018年建倉3, 12(19年主力12號月供)的快樂時代主...</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28114660&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_4&amp;tr_h=17424304615c984f68a02102_44803878" onclick="return ga_trackEvent(this,'Hottopic Live','女朋友好煩(28114660)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_482_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/adace6/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_281146608c4325097f5d5546f6a49f5apng');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">90</div>
+										<div class="view">7408</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">女朋友好煩</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-3 live-box-block" href="viewthread.php?tid=28113437&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_4&amp;tr_h=17424304615c984f68a02102_44803878" onclick="return ga_trackEvent(this,'Hottopic Live','千萬不可同親友一起去睇樓(28113437)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/c56df1/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190324/20190324_28113437618f7da4fedd13c8880ecc8ejpeg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">136</div>
+										<div class="view">19512</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">千萬不可同親友一起去睇樓</div>
+					  </div>
+					</a>
+									  </div><div id="live-box-column-11">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28107043&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_4&amp;tr_h=17424304615c984f68a02102_44803878" onclick="return ga_trackEvent(this,'Hottopic Live','唔睇好騰訊業績(28107043)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/8fe155/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190321/20190321_28107043a5237c734f57bc186ff15175png');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">125</div>
+										<div class="view">16472</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">唔睇好騰訊業績</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28113006&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_4&amp;tr_h=17424304615c984f68a02102_44803878" onclick="return ga_trackEvent(this,'Hottopic Live','有冇人選擇單身唔結婚？(28113006)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_482_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/c8bf8c/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190324/20190324_28113006373fdc4adbd8264f61d006c2jpeg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">269</div>
+										<div class="view">14017</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">有冇人選擇單身唔結婚？</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-3 live-box-block" href="viewthread.php?tid=28073330&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_4&amp;tr_h=17424304615c984f68a02102_44803878" onclick="return ga_trackEvent(this,'Hottopic Live','我的做淡日記第五季-3 (‘🐻的故事下集’  by 無間道R...(28073330)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/653301/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190305/20190305_28073330078480724f1135f99652728cpng');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">3239</div>
+										<div class="view">258649</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">我的做淡日記第五季-3 (‘🐻的故事下集’  by 無間道R...</div>
+					  </div>
+					</a>
+									  </div><div id="live-box-column-12">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28115073&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_4&amp;tr_h=17424304615c984f68a02102_44803878" onclick="return ga_trackEvent(this,'Hottopic Live','落田遇襲92歲阿伯鋤頭打死82公斤重野豬(28115073)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_150_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/60dff3/f/320x320/filters:extract_cover()/http://hk.on.cc/hk/bkn/cnt/aeanews/20190325/photo/bkn-20190325043010715-0325_00912_001_01b.jpg?20190325043406');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">51</div>
+										<div class="view">3347</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">落田遇襲92歲阿伯鋤頭打死82公斤重野豬</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28110591&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_4&amp;tr_h=17424304615c984f68a02102_44803878" onclick="return ga_trackEvent(this,'Hottopic Live','揀長沙灣一房定東涌兩房好?(28110591)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">116</div>
+										<div class="view">5207</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">揀長沙灣一房定東涌兩房好?</div>
+					  </div>
+					</a>
+									  						<div class="live-box-block-3 live-box-block"><iframe frameborder="no" scrolling="no" marginwidth="0" marginheight="0" src="https://n2.hk/ads/houseads/ysm/ysm_fullad.php?btype=5&amp;s=d" width="216" height="114"></iframe></div>
+									  </div><div id="live-box-column-13">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28115279&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_5&amp;tr_h=15498816835c984f68a025b2_90623832" onclick="return ga_trackEvent(this,'Hottopic Live','買牛熊嘅真係好on9(28115279)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_838_wide.png);"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">33</div>
+										<div class="view">592</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">買牛熊嘅真係好on9</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28115150&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_5&amp;tr_h=15498816835c984f68a025b2_90623832" onclick="return ga_trackEvent(this,'Hottopic Live','希望跑手可以有品有禮(28115150)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_72_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/092293/f/320x320/filters:extract_cover()/https://fitz.hk/wp-content/uploads/2016/11/%E6%96%B0%E4%B8%80%E4%BB%A3%E5%A5%B3%E8%B7%91%E6%89%8B%E7%9A%84%E3%80%8C%E5%85%84%E5%BC%9F%E6%83%85%E3%80%8D3.jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">33</div>
+										<div class="view">566</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">希望跑手可以有品有禮</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-3 live-box-block" href="viewthread.php?tid=28113073&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_5&amp;tr_h=15498816835c984f68a025b2_90623832" onclick="return ga_trackEvent(this,'Hottopic Live','瑪莎拉蒂真係好肉酸又唔夠快，唔明點解賣超跑價仲有人買？(28113073)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_1101_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/ee7632/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190324/20190324_281130730f8a883f5e2a1fe73da6cd30jpeg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">180</div>
+										<div class="view">22668</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">瑪莎拉蒂真係好肉酸又唔夠快，唔明點解賣超跑價仲有人買？</div>
+					  </div>
+					</a>
+									  </div><div id="live-box-column-14">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28115193&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_5&amp;tr_h=15498816835c984f68a025b2_90623832" onclick="return ga_trackEvent(this,'Hottopic Live','証據確鑿！從李永達口中所言 民主黨是鬼！(28115193)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_150_wide.png);"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">11</div>
+										<div class="view">551</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">証據確鑿！從李永達口中所言 民主黨是鬼！</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28112424&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_5&amp;tr_h=15498816835c984f68a025b2_90623832" onclick="return ga_trackEvent(this,'Hottopic Live','進一步退兩步 美官員：貿易談判北京轉強硬(28112424)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_150_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/9a31bc/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190324/20190324_281124249781b4a855392c98c41bbacajpeg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">244</div>
+										<div class="view">32580</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">進一步退兩步 美官員：貿易談判北京轉強硬</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-3 live-box-block" href="viewthread.php?tid=28111043&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_5&amp;tr_h=15498816835c984f68a025b2_90623832" onclick="return ga_trackEvent(this,'Hottopic Live','樓下安裝咗六部冷氣機 對正我間屋出面嘅牆！(28111043)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_76_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/a4e4ac/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190323/20190323_2811104328111043efb530cc1171c705dd8f280bjpeg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">257</div>
+										<div class="view">53387</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">樓下安裝咗六部冷氣機 對正我間屋出面嘅牆！</div>
+					  </div>
+					</a>
+									  </div><div id="live-box-column-15">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28109369&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_5&amp;tr_h=15498816835c984f68a025b2_90623832" onclick="return ga_trackEvent(this,'Hottopic Live','簡單卻相當有力！Tudor P01 復刻潛水錶(28109369)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_155_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/00e1f1/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190322/20190322_ffd12b6eaf75ac95fd3fjwK64nEeBzFM.jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">13</div>
+										<div class="view">3650</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">簡單卻相當有力！Tudor P01 復刻潛水錶</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28115487&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_5&amp;tr_h=15498816835c984f68a025b2_90623832" onclick="return ga_trackEvent(this,'Hottopic Live','網民熱話：第一城再掀鎖車爭議今次係鎖單車？(28115487)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_150_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/ddfad6/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_b4199f4e723fd1fcbac78xTZ7igrbg0j.jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">5</div>
+										<div class="view">64</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">網民熱話：第一城再掀鎖車爭議今次係鎖單車？</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-3 live-box-block" href="viewthread.php?tid=28115064&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_5&amp;tr_h=15498816835c984f68a025b2_90623832" onclick="return ga_trackEvent(this,'Hottopic Live','文職好似好爽坐足八粒鐘，我夜更保安都不差，只係行企係兩粒鐘。(28115064)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_103_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/531364/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_28115064a82fee6e5e26a7535e9c2902png');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">49</div>
+										<div class="view">3883</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">文職好似好爽坐足八粒鐘，我夜更保安都不差，只係行企係兩粒鐘。</div>
+					  </div>
+					</a>
+									  </div><div id="live-box-column-16">					<a class="live-box-block-1 live-box-block" href="viewthread.php?tid=28114542&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_5&amp;tr_h=15498816835c984f68a025b2_90623832" onclick="return ga_trackEvent(this,'Hottopic Live','張超雄扭傷腰坐輪椅體會困苦 乘港鐵等4班車先上到(28114542)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_150_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/a7070b/f/320x320/filters:extract_cover()/http://static.stheadline.com/stheadline/inewsmedia/20190324/_2019032416114849759.jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">211</div>
+										<div class="view">9274</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">張超雄扭傷腰坐輪椅體會困苦 乘港鐵等4班車先上到</div>
+					  </div>
+					</a>
+									  					<a class="live-box-block-2 live-box-block" href="viewthread.php?tid=28114150&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=livetopics&amp;tr_des=hc_hotlive|jtp_5&amp;tr_h=15498816835c984f68a025b2_90623832" onclick="return ga_trackEvent(this,'Hottopic Live','第一隻勞已買，可惜...(28114150)')">
+						<div class="photo-area default" style="background-image:url(/images/hot-live/cat/grid_view_image_gid_1215_wide.png);"></div>
+					  					  <div class="photo-area" style="background-image:url('https://cdn.discuss.com.hk/t/f8f3b9/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190324/20190324_6c1b36dff5d7c6091621SZbJtkjt2hLp.jpg');"></div>
+					  
+					  <div class="info-box">
+										<div class="reply">77</div>
+										<div class="view">10282</div>
+								</div>
+					  <div class="title-area">
+												<div class="title-text">第一隻勞已買，可惜...</div>
+					  </div>
+					</a>
+									  						<div class="live-box-block-3 live-box-block"><iframe frameborder="no" scrolling="no" marginwidth="0" marginheight="0" src="https://n2.hk/ads/houseads/ysm/ysm_fullad.php?btype=5&amp;s=d" width="216" height="114"></iframe></div>
+									  </div><div id="live-box-column-21"></div>
+				</div>
+			</div>
+
+			</div>
+			<!-- live topic end -->
+
+
+			<!-- tabs start -->
+      <div id="tabs" style="overflow:hidden;">
+        <ul id="tab">
+				<li id="tabname0" class="featured on" onmouseover="setHottTimer(0)" onmouseout="clearHottTimer()"><span>焦點</span></li>
+<li id="tabname1" onmouseover="setHottTimer(1)" onmouseout="clearHottTimer()"><span>熱話</span></li>
+<li id="tabname2" class="" onmouseover="setHottTimer(2)" onmouseout="clearHottTimer()"><span>上班一族</span></li>
+<li id="tabname3" class="" onmouseover="setHottTimer(3);" onmouseout="clearHottTimer()" style="#fff"><span>影片</span></li>
+<li id="tabname4" class="" onmouseover="setHottTimer(4);" onmouseout="clearHottTimer()"><span>星期三公投</span></li>
+<li id="tabname6" class="" onmouseover="setHottTimer(6)" onmouseout="clearHottTimer()" style="width:48px;"><span>運程</span></li>
+<li id="tabname5" class="" onmouseover="setHottTimer(5)" onmouseout="clearHottTimer()" style="display:none;">TBC</li>
+        </ul>
+        <div class="content">
+				<div id="tab0" class="box"><div class="featured"><div class="hslice" id="featured">
+
+            <div class="featured_topic">
+                <a href="viewthread.php?tid=28115267&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=focus&amp;tr_des=hc_focustopic" class="featured_thumbnail" title="翻查警方會面尋破綻 精神科專家揭私影兇手扮失常" onclick="return ga_trackEvent(this,'Focus Topics','Top - 翻查警方會面尋破綻 精神科專家揭私影兇手扮失常 - 28115267 - Img')"><img src="https://cdn.discuss.com.hk/t/4573ff/f/320x320/filters:extract_cover()/https://img.discuss.com.hk/d/attachments/day_190325/20190325_281152672811526717ceb9a46180b1512489df78png"></a>
+                <a class="featured_title" href="viewthread.php?tid=28115267&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=focus" title="翻查警方會面尋破綻 精神科專家揭私影兇手扮失常" onclick="return ga_trackEvent(this,'Focus Topics','Top - 翻查警方會面尋破綻 精神科專家揭私影兇手扮失常 - 28115267')">翻查警方會面尋破綻 精神科專家揭私影兇手扮失常</a>
+                <span class="featured_desc">在青山醫院法醫精神科執業9年的陳炤佑，猶如精神科福爾摩斯，撕破不少扮有精神病殺人犯....</span>
+            </div>
+            <div class="topic3"><ul>
+            
+<li class="alt"><a href="viewthread.php?tid=28111043&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=focus&amp;tr_des=hc_focustopic" title="樓下安裝咗六部冷氣機 對正我間屋出面嘅牆！" onclick="return ga_trackEvent(this,'Focus Topics','樓下安裝咗六部冷氣機 對正我間屋出面嘅牆！ - 28111043')">樓下安裝咗六部冷氣機 對正我間屋出面嘅牆！</a></li>
+<li><a href="viewthread.php?tid=28107183&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=focus&amp;tr_des=hc_focustopic" title="美斯受傷！係唔係可以宣佈巴塞玩完？" onclick="return ga_trackEvent(this,'Focus Topics','美斯受傷！係唔係可以宣佈巴塞玩完？ - 28107183')">美斯受傷！係唔係可以宣佈巴塞玩完？</a></li>
+<li class="alt"><a href="viewthread.php?tid=28113960&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=focus&amp;tr_des=hc_focustopic" title="國內手機銷量大洗牌：華為只排第三，榜首銷量竟是..." onclick="return ga_trackEvent(this,'Focus Topics','國內手機銷量大洗牌：華為只排第三，榜首銷量竟是... - 28113960')">國內手機銷量大洗牌：華為只排第三，榜首銷量竟是...</a></li>
+<li><a href="viewthread.php?tid=28114245&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=focus&amp;tr_des=hc_focustopic" title="一張圖說出美斯的尷尬..." onclick="return ga_trackEvent(this,'Focus Topics','一張圖說出美斯的尷尬... - 28114245')">一張圖說出美斯的尷尬...</a></li>
+<li class="alt"><a href="viewthread.php?tid=28108300&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=focus&amp;tr_des=hc_focustopic" title="九巴最近在facebook專頁公開最新引入的巴士，惟當中的設計卻引起不少網民質疑..." onclick="return ga_trackEvent(this,'Focus Topics','九巴新車玻璃樓梯有走光風險 九巴：會優化設計 - 28108300')">九巴新車玻璃樓梯有走光風險 九巴：會優化設計</a></li>
+</ul></div></div></div></div><div id="tab1" class="boxoff"><div class="hslice" id="hottopics_all"><div class="entry-title" style="display:none">Discuss.com.hk 熱話 [熱話]</div><a rel="feedurl" href="webslice.php?type=hottopics&amp;id=all"></a>
+<div class="topic6"><ul><li class="firstli"><a href="viewthread.php?tid=28113960&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="國內手機銷量大洗牌：華為只排第三，榜首銷量是小米的近3倍" onclick="return ga_trackEvent(this,'Hot Topics','國內手機銷量大洗牌：華為只排第三，榜首銷量是小米的近3倍 - 28113960')">國內手機銷量大洗牌：華為只排第三，榜首銷量是小米的近3倍</a></li>
+<li class="alt"><a href="viewthread.php?tid=28112549&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="楊思琦收檔啦！" onclick="return ga_trackEvent(this,'Hot Topics','楊思琦收檔啦！ - 28112549')">楊思琦收檔啦！</a></li>
+<li><a href="viewthread.php?tid=28112461&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="賠償問題" onclick="return ga_trackEvent(this,'Hot Topics','賠償問題 - 28112461')">賠償問題</a></li>
+<li class="alt"><a href="viewthread.php?tid=28114116&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="男人婚後都是這麽差，早知同個有錢佬結婚。" onclick="return ga_trackEvent(this,'Hot Topics','男人婚後都是這麽差，早知同個有錢佬結婚。 - 28114116')">男人婚後都是這麽差，早知同個有錢佬結婚。</a></li>
+<li><a href="viewthread.php?tid=28113437&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="千萬不可同親友一起去睇樓" onclick="return ga_trackEvent(this,'Hot Topics','千萬不可同親友一起去睇樓 - 28113437')">千萬不可同親友一起去睇樓</a></li>
+<li class="alt"><a href="viewthread.php?tid=28114747&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="聽日⋯⋯" onclick="return ga_trackEvent(this,'Hot Topics','聽日⋯⋯ - 28114747')">聽日⋯⋯</a></li>
+<li><a href="viewthread.php?tid=28114245&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="一張圖說出美斯的尷尬⋯" onclick="return ga_trackEvent(this,'Hot Topics','一張圖說出美斯的尷尬⋯ - 28114245')">一張圖說出美斯的尷尬⋯</a></li>
+<li class="alt"><a href="viewthread.php?tid=28114150&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="第一隻勞已買，可惜..." onclick="return ga_trackEvent(this,'Hot Topics','第一隻勞已買，可惜... - 28114150')">第一隻勞已買，可惜...</a></li>
+<li><a href="viewthread.php?tid=28114785&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="急！病假期間遇見上司偷拍我" onclick="return ga_trackEvent(this,'Hot Topics','急！病假期間遇見上司偷拍我 - 28114785')">急！病假期間遇見上司偷拍我</a></li>
+<li class="alt"><a href="viewthread.php?tid=28113677&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="胡椒豬肚湯飯" onclick="return ga_trackEvent(this,'Hot Topics','胡椒豬肚湯飯 - 28113677')">胡椒豬肚湯飯</a></li>
+<li><a href="viewthread.php?tid=28112267&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="iPhone SE 2 一出即入" onclick="return ga_trackEvent(this,'Hot Topics','iPhone SE 2 一出即入 - 28112267')">iPhone SE 2 一出即入</a></li>
+<li class="alt"><a href="viewthread.php?tid=28111750&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="陽朔三日兩夜驚喜遊" onclick="return ga_trackEvent(this,'Hot Topics','陽朔三日兩夜驚喜遊 - 28111750')">陽朔三日兩夜驚喜遊</a></li>
+<li><a href="viewthread.php?tid=28113411&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="其實大家嘅婚後生活係點？" onclick="return ga_trackEvent(this,'Hot Topics','其實大家嘅婚後生活係點？ - 28113411')">其實大家嘅婚後生活係點？</a></li>
+<li class="alt"><a href="viewthread.php?tid=28112410&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="James Harden 成為「歷史第一位」單季對 29 隊均取 30 分以上的球員" onclick="return ga_trackEvent(this,'Hot Topics','James Harden 成為「歷史第一位」單季對 29 隊均取 30 分以上的球員 - 28112410')">James Harden 成為「歷史第一位」單季對 29 隊均取 30 分以上的球員</a></li>
+<li><a href="viewthread.php?tid=28113807&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="新手準備入坑" onclick="return ga_trackEvent(this,'Hot Topics','新手準備入坑 - 28113807')">新手準備入坑</a></li>
+<li class="alt"><a href="viewthread.php?tid=28113651&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="九州追櫻，半鐵路，半自駕，半直播" onclick="return ga_trackEvent(this,'Hot Topics','九州追櫻，半鐵路，半自駕，半直播 - 28113651')">九州追櫻，半鐵路，半自駕，半直播</a></li>
+<li><a href="viewthread.php?tid=28110653&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="時至今日太靚唔係好事，係禍" onclick="return ga_trackEvent(this,'Hot Topics','時至今日太靚唔係好事，係禍 - 28110653')">時至今日太靚唔係好事，係禍</a></li>
+<li class="alt"><a href="viewthread.php?tid=28113468&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=hottopic&amp;tr_des=hc_hottopic" title="荃灣巴士" onclick="return ga_trackEvent(this,'Hot Topics','荃灣巴士 - 28113468')">荃灣巴士</a></li>
+</ul></div><div class="all_hot">››&nbsp;<a href="hottopics.php" onclick="return ga_trackEvent(this,'Hot Topics','more detail')">全部熱門話題</a></div></div>
+</div>
+<div id="tab2" class="boxoff"><div class="featured"><div class="topic6"><ul><li class="firstli"><a href="viewthread.php?tid=28114785&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=group_hottopic&amp;tr_des=hc_group_hottopic" title="急！病假期間遇見上司偷拍我" onclick="return ga_trackEvent(this,'Group Hot Topics','急！病假期間遇見上司偷拍我 - 28114785')">急！病假期間遇見上司偷拍我</a></li>
+<li class="alt"><a href="viewthread.php?tid=28109343&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=group_hottopic&amp;tr_des=hc_group_hottopic" title="我的40歲, 小小心聲" onclick="return ga_trackEvent(this,'Group Hot Topics','我的40歲, 小小心聲 - 28109343')">我的40歲, 小小心聲</a></li>
+<li><a href="viewthread.php?tid=28111590&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=group_hottopic&amp;tr_des=hc_group_hottopic" title="被公司即時解僱" onclick="return ga_trackEvent(this,'Group Hot Topics','被公司即時解僱 - 28111590')">被公司即時解僱</a></li>
+<li class="alt"><a href="viewthread.php?tid=28114512&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=group_hottopic&amp;tr_des=hc_group_hottopic" title="求解. 什麼是準時上班?" onclick="return ga_trackEvent(this,'Group Hot Topics','求解. 什麼是準時上班? - 28114512')">求解. 什麼是準時上班?</a></li>
+<li><a href="viewthread.php?tid=28111850&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=group_hottopic&amp;tr_des=hc_group_hottopic" title="男人老狗竟然返工帶飯" onclick="return ga_trackEvent(this,'Group Hot Topics','男人老狗竟然返工帶飯 - 28111850')">男人老狗竟然返工帶飯</a></li>
+<li class="alt"><a href="viewthread.php?tid=28112721&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=group_hottopic&amp;tr_des=hc_group_hottopic" title="求其搵份工都萬五蚊，香港地邊有窮人" onclick="return ga_trackEvent(this,'Group Hot Topics','求其搵份工都萬五蚊，香港地邊有窮人 - 28112721')">求其搵份工都萬五蚊，香港地邊有窮人</a></li>
+<li><a href="viewthread.php?tid=28113235&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=group_hottopic&amp;tr_des=hc_group_hottopic" title="其實新一代真係唔識咩叫 比面" onclick="return ga_trackEvent(this,'Group Hot Topics','其實新一代真係唔識咩叫 比面 - 28113235')">其實新一代真係唔識咩叫 比面</a></li>
+<li class="alt"><a href="viewthread.php?tid=28111515&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=group_hottopic&amp;tr_des=hc_group_hottopic" title="新同事人緣應該好差" onclick="return ga_trackEvent(this,'Group Hot Topics','新同事人緣應該好差 - 28111515')">新同事人緣應該好差</a></li>
+<li><a href="viewthread.php?tid=28110532&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=group_hottopic&amp;tr_des=hc_group_hottopic" title="公司取消大假、旅行錢有無得叫公司賠?" onclick="return ga_trackEvent(this,'Group Hot Topics','公司取消大假、旅行錢有無得叫公司賠? - 28110532')">公司取消大假、旅行錢有無得叫公司賠?</a></li>
+<li class="alt"><a href="viewthread.php?tid=28109772&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=group_hottopic&amp;tr_des=hc_group_hottopic" title="剛才食luhcn被外國人同事當面指正" onclick="return ga_trackEvent(this,'Group Hot Topics','剛才食luhcn被外國人同事當面指正 - 28109772')">剛才食luhcn被外國人同事當面指正</a></li>
+</ul></div><div class="all_hot"><span>››&nbsp;<a href="hottopics.php" onclick="return ga_trackEvent(this,'Group Hot Topics','more detail')">全部熱門話題</a></span></div></div></div><div id="tab3" class="boxoff"><div class="featured"><div class="featured_topic" style="padding:20px 0 15px 0;"><a href="viewthread.php?tid=28101372&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=videochannel&amp;tr_des=hc_videochannel" class="featured_thumbnail" title="慎入【艾弗森:歷史最佳陣容:控球後衛:選庫里】【喬丹:歷史最佳陣容:得分後衛:選科比】" onclick="return ga_trackEvent(this,'Video Topics','Top - 慎入【艾弗森:歷史最佳陣容:控球後衛:選庫里】【喬丹:歷史最佳陣容:得分後衛:選科比】 - 28101372 - Img')"><img src="https://cdn.discuss.com.hk/t/e9d7ea/f/320x320/filters:extract_cover()/https://img.youtube.com/vi/53pdOVlE0AI/0.jpg" alt="慎入【艾弗森:歷史最佳陣容:控球後衛:選庫里】【喬丹:歷史最佳陣容:得分後衛:選科比】"><div class="play-thumbnail"></div></a><a href="viewthread.php?tid=28101372&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=videochannel&amp;tr_des=hc_videochannel" class="featured_title" title="慎入【艾弗森:歷史最佳陣容:控球後衛:選庫里】【喬丹:歷史最佳陣容:得分後衛:選科比】" onclick="return ga_trackEvent(this,'Video Topics','Top - 慎入【艾弗森:歷史最佳陣容:控球後衛:選庫里】【喬丹:歷史最佳陣容:得分後衛:選科比】 - 28101372')">慎入【艾弗森:歷史最佳陣容:控球後衛:選庫里】【喬丹:歷史最佳陣容:得分後衛:選科比】</a><span class="featured_desc">艾弗森說出心目中歷史最佳陣容: 中鋒:奧尼爾 大前鋒:詹姆斯 小前鋒:喬丹 得分後衛:科比 控球後衛:庫里 喬丹說出心目中最合理的歷史最佳陣容: 中鋒:奧拉朱旺 大前鋒:詹姆斯 小前鋒:皮蓬 得分後衛...</span></div><div class="topic3"><ul><li class="alt"><a href="viewthread.php?tid=28109146&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=videochannel&amp;tr_des=hc_videochannel" title="新債冚舊債  TVB玩完" onclick="return ga_trackEvent(this,'Video Topics','新債冚舊債  TVB玩完 - 28109146')">新債冚舊債  TVB玩完</a></li><li><a href="viewthread.php?tid=28105093&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=videochannel&amp;tr_des=hc_videochannel" title="葉問 4 預告咁似 復仇者 4" onclick="return ga_trackEvent(this,'Video Topics','葉問 4 預告咁似 復仇者 4 - 28105093')">葉問 4 預告咁似 復仇者 4</a></li><li class="alt"><a href="viewthread.php?tid=28108156&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=videochannel&amp;tr_des=hc_videochannel" title="新版《倚天屠龍記》周華健《刀劍如夢》主題曲." onclick="return ga_trackEvent(this,'Video Topics','新版《倚天屠龍記》周華健《刀劍如夢》主題曲. - 28108156')">新版《倚天屠龍記》周華健《刀劍如夢》主題曲.</a></li><li><a href="viewthread.php?tid=28104269&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=videochannel&amp;tr_des=hc_videochannel" title="連帶帽數都追貼埋, 其實C朗仲有咩羸美斯?" onclick="return ga_trackEvent(this,'Video Topics','連帶帽數都追貼埋, 其實C朗仲有咩羸美斯? - 28104269')">連帶帽數都追貼埋, 其實C朗仲有咩羸美斯?</a></li></ul></div><div class="all_hot" style="margin-top: -11px;"><span><a href="videochannel.php?i=0&amp;utm_source=discuss_homepage&amp;utm_medium=click&amp;utm_campaign=videochannel" onclick="return ga_trackEvent(this,'Video Topics','more detail')">&gt;&gt; 全部影片</a></span></div></div></div><style>.featured_thumbnail{position:relative;} .featured_thumbnail .play-thumbnail{position: absolute; width:100%; height:100%; top:0;}.featured_thumbnail:hover .play-thumbnail{background:url(/images/video_play.png)  no-repeat center; opacity: 0.95; filter: alpha(opacity=95);background-color: rgba(0,0,0,0.4);background-size: 20% auto;}</style><link rel="stylesheet" type="text/css" href="./css/style_desktop_horoscope.css"><div id="tab6" class="boxoff">
+						<div class="featured"><div class="horoscope">
+							<a href="./horoscope_content.php?zh_type=1&amp;ref=h" class="hz_btn">
+							<div class="item constellation">
+								<img class="icon" src="./images/fortune/constellation_434px.png">
+								<img class="text" src="./images/fortune/constellation_text.svg">
+								<p>查看更多</p>
+							</div></a>
+					
+							<a href="./horoscope_content.php?zh_type=2&amp;ref=h" class="hz_btn"><div class="item zodiac">
+								<img class="icon" src="./images/fortune/zodiac_434px.png">
+								<img class="text" src="./images/fortune/zodiac_text.svg">
+								<p>查看更多</p>
+							</div></a>
+					</div></div></div><div id="tab4" class="boxoff" style="background-color:#FAED2C">
+</div>
+
+			<script>
+			var wp_content_loaded = 0;
+			function wp_load_content(){
+				if(wp_content_loaded) return;
+				var url = '<iframe id="poll_frame" name="poll_frame" frameborder="no" scrolling="no" src="/sa/sr/poll/sr_poll_content.php?t=1553485672&tb=1" width="418" height="318" marginwidth="0" marginheight="0" ></iframe>';
+				var loadUrl = '<img id="wp_loading_icon" src="https://n2.hk/d/images/r13/bigloading.gif" style="position:absolute;left:194px;top:170px">';
+				$$("#tabs #tab4").html(url+loadUrl);
+				$$("#poll_frame").load(function(){
+					$$("#wp_loading_icon").hide();
+				});
+				wp_content_loaded = 1;
+			}
+			</script><style>#tab #tabname4.on{background-color:#FAED2C}</style><script type="text/javascript">
+			var oldFunc = showHottTab;
+			showHottTab = function(i){
+				oldFunc(i);
+				if(i==4){
+					if (typeof(wp_load_content)=="function") wp_load_content();
+				}
+			};
+		</script><div id="tab5" class="boxoff" style="display:none">
+</div>
+   		 </div>
+     	</div>
+     	<script language="JavaScript">
+			hott_currtab = 0;
+			</script>
+			<!-- tabs end -->
+
+
+      </div><!-- end of guide -->
+    </div><!-- end of story -->
+    
+    
+    
+  <div id="featuread">
+  	<div id="banner_mr1">
+  			<!-- /1001609/Discuss_Web_HOME_MR1 -->
+<div id="div-gpt-ad-1488855305151-1" data-google-query-id="CM68zZOxnOECFQU6TwodcqwNwA">
+
+<div id="google_ads_iframe_/1001609/Discuss_Web_HOME_MR1_0__container__" style="border: 0pt none; display: inline-block; width: 300px; height: 250px;"><iframe frameborder="0" src="https://tpc.googlesyndication.com/safeframe/1-0-32/html/container.html" id="google_ads_iframe_/1001609/Discuss_Web_HOME_MR1_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="300" height="250" data-is-safeframe="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>				</div>
+
+  	<div class="banner_b1">
+  	
+			<!-------------------- Start Mini Banner -------------------->
+
+			<script>
+				$$(document).ready(function() {
+					$$(".hz_btn").fancybox({
+						width: 900,
+						height: 750,
+						padding: 0,
+						type: 'iframe',
+						autoSize    : false,
+						scrolling : 'no',
+						helpers     : {
+							overlay : {closeClick: false}
+						},
+						beforeShow: function(){
+							$$(".fancybox-skin").css("backgroundColor","#fff");
+							$$(".fancybox-inner").css("border-radius",10);
+						}
+					});
+				});
+			</script>
+			
+   		<!-- NW1089724 -->
+				
+			<!-- NW1089722 -->
+						
+			<!-------------------- End Mini Banner -------------------->
+   	
+   	   	</div>
+  </div>
+  <div class="clear"></div>
+
+	<div class="section_hot">
+		<ul>
+			<li><a fid="1070" class="inlineHotTopicCard" href="/forumdisplay.php?fid=1070" onclick="return ga_trackEvent(this, 'Homepage', 'PS4')">PS4</a></li>
+			<li><a fid="1142" class="inlineHotTopicCard" href="/forumdisplay.php?fid=1142" onclick="return ga_trackEvent(this, 'Homepage', '網購')">網購</a></li>
+			<li><a fid="426" class="inlineHotTopicCard" href="/forumdisplay.php?fid=426" onclick="return ga_trackEvent(this, 'Homepage', '化妝心得')">化妝心得</a></li>
+			<li><a fid="605" class="inlineHotTopicCard" href="/forumdisplay.php?fid=605" onclick="return ga_trackEvent(this, 'Homepage', 'iPhone討論')">iPhone討論</a></li>
+			<li><a href="/stylepage.php" onclick="return ga_trackEvent(this, 'Homepage', 'Discuss Style')">Discuss Style</a></li>
+			<li><a fid="1197" class="inlineHotTopicCard" href="/forumdisplay.php?fid=1197" onclick="return ga_trackEvent(this, 'Homepage', '綜合報價區')">綜合報價區</a></li>
+			<li><a fid="157" href="/index2.php?gid=157" onclick="return ga_trackEvent(this, 'Homepage', '購物情報')">購物情報</a></li>
+			<!--<li><a fid="289" class="inlineHotTopicCard" href="/forumdisplay.php?fid=289" onclick="return ga_trackEvent(this, 'Homepage', '任天堂Switch')">任天堂Switch</a></li>-->
+			<li><a fid="679" class="inlineHotTopicCard" href="/forumdisplay.php?fid=679" onclick="return ga_trackEvent(this, 'Homepage', '無綫電視 TVB')">無綫電視 TVB</a></li>
+			<!--<li><a href="index2.php?gid=1101" onclick="return ga_trackEvent(this, 'Homepage', '新分區 : 汽車交流')"><b><font color="#ee7600">新分區 : 汽車交流</font></b><img border="0" src="https://www.discuss.com.hk/images/discuss_style/firstnew.gif" class="vert"></a></li>-->
+			<!--<li><a fid="1015" class="inlineHotTopicCard" href="forumdisplay.php?fid=1015" onclick="return ga_trackEvent(this, 'Homepage', '熱門話題 - 微信討論')"><b><font color="DarkGreen">微信討論</font></b></a></li>-->
+			<!--<li><a href="http://www.ichoice.hk/vote-result.php" target="_blank" onclick="return ga_trackEvent(this, 'Homepage', 'ichoice')"><b><font color="#3D3935">iChoice Awards 投選結果</font></b><img border="0" src="https://www.discuss.com.hk/images/discuss_style/firstnew.gif" class="vert"></a></li>-->
+			<!--<li><a href="http://ad-apac.doubleclick.net/clk;251714198;75925368;w?https://www.discuss.com.hk/citibank.php"><img border="0" src="https://n2.hk/aeiou/citifinancial_201106_16x16v2.gif"> <b><font color="Blue">貸款專區</font></b></a></li>-->
+					</ul>
+		
+		<script type="text/javascript">
+		// quick link button
+		$$(document).ready(function(){
+			var timer;
+			$$("#scTab").click(function(){
+				if ($$("#sc").is(':hidden')) {
+					setcookie('cdb_quicklink_state',1,86400,'/','discuss.com.hk');  // it will open, change state to 1
+				} else {
+					setcookie('cdb_quicklink_state',0,86400,'/','discuss.com.hk');
+				}
+				$$("#sc").slideToggle();
+			});
+			$$("#qmark_icon").hover(function(){
+		    clearTimeout(timer);
+		    timer = setTimeout(function(){
+		      $$("#qmark_content").show(0);
+		    },500)
+			},function(){
+		    clearTimeout(timer);
+		    $$("#qmark_content").hide(0);
+			})
+		})	
+		</script>			
+		
+		<!-- start quick link -->
+		<div id="scTab">
+			<span>快捷連結</span>
+			<div id="qmark_icon">
+				<!--<div id="qmark_content">隨時睇心水版區，與香討App同步使用。</div>-->
+				
+				<div id="qmark_content">
+					<div style="width:180px;margin:0 auto;">
+	        	<div style="width:180px;line-height:20px;text-align:left;font-size:16px;color:#fff;font-family:'微軟正黑體','Microsoft JhengHei','蘋果儷中黑','Apple LiGothic Medium','黑体','SimHei';">會員登入後，可以在首頁自訂“快捷連結”，方便前往常瀏覽的版區.<br><span style="font-size:14px;color:#eee;">(設置與香討App同步)</span></div>
+	        	<div style="margin-top:10px;"><a href="https://www.youtube.com/watch?v=vDBa7tVEa0M" target="_blank"><img src="https://n2.hk/d/images/r13/youtube_thumb.png" border="0"></a></div>
+	    		</div>
+    		</div>
+			</div>
+		</div>
+		
+		<div id="sc" style="display:none;">
+						<div class="shortcut_msg" style="padding:0;background:#f0f0f0;">
+				會員登入後，可以在首頁自訂“快捷連結”，方便前往常瀏覽的版區. [<a href="https://www.youtube.com/watch?v=vDBa7tVEa0M" target="_blank">教學</a>]
+			</div>
+					</div>
+		<!-- end quick link -->
+	</div>
+	
+	
+	<script type="text/javascript">
+var quickLinkUpdated = false;	
+	
+$$(document).ready(function() {
+	/* TP 14695, 20170419
+	var offset = 120;
+	$$('a.gid_more').fancybox({
+		'type':'iframe',
+		'autoScale':true,
+		'autoDimensions':true,
+		'autoResize':true,
+		'afterClose':function() {
+			if (quickLinkUpdated) {
+				location.reload(true);
+			}	
+		},
+		'afterLoad': function() {
+			var inner_table_width = $$('.fancybox-iframe').contents().find('table').width() + offset;
+			var inner_table_height = $$('.fancybox-iframe').contents().find('table').height() + offset;
+			this.width = (inner_table_width == offset ? 400 : inner_table_width);
+			this.height = (inner_table_height == offset ? 300 : inner_table_height);
+			
+			$$('.fancybox-skin').css({"padding":"0", "border":"5px solid #f90"});
+     }
+	});
+	*/
+	/*
+	$$(".gid_more").click(function() {});
+	$$("#forumgroup_more").click(function(){
+		$$(this).fadeOut('fast');
+	})
+	
+	$$(window).resize(function() {
+		$$("#forumgroup_more").width($$(this).width());
+		$$("#forumgroup_more").height($$(this).height());
+	});
+	*/
+});
+
+function updateQuickLinkState() {
+	quickLinkUpdated = true;
+}
+</script>	
+	
+
+<style>
+#sections .section_row{
+	height:350px;
+}
+#sections .gid_group{
+	height:348px;
+}
+#sections .section{
+	height:298px;
+}
+#sections .section .content{
+	height:165px;
+}
+</style>
+
+	
+	<div id="sections">
+		<style>
+		.ranking-homepage-container{
+			height: 65px;
+			width: 980px;
+			border: 1px solid #FDBB11;
+			margin: 10px auto;
+			
+		}
+		
+		.ranking-homepage-title{
+			display: inline-block;
+			background: url(../images/ranking_homepage_bg1@2x.png?v=20170620) no-repeat;
+			background-size: 162px 65px;
+			width: 162px;
+			height: 65px;
+			vertical-align: middle;
+		}
+		
+		.ranking-homepage-list{
+			display: inline-block;
+			width: 739px;
+			height: 65px;
+			vertical-align: middle;
+		}
+		
+			.ranking-homepage-more{
+			display: inline-block;
+			background: url(../images/ranking_homepage_bg2@2x.png) no-repeat;
+			background-size: 70px 65px;
+			width: 70px;
+			height: 65px;
+			vertical-align: middle;
+			float: right;
+		}
+		 
+
+			.ranking-homepage-profile-pic {
+			display: inline-block;
+			width: 45px;
+			height: 45px;
+			border-radius: 150px;
+			-webkit-border-radius: 150px;
+			-moz-border-radius: 150px;
+			background-repeat: no-repeat;
+			background-size: cover;
+			border: 2px solid #FDBB11;
+			vertical-align: top;
+		}
+
+		.ranking-homepage-username{
+			display: block;
+	    font-size: 13px;
+	    color: #000000;
+	    padding-left: 2px;
+	    width: 107px;
+	    text-overflow: ellipsis;
+	    white-space: nowrap;
+	    overflow: hidden;
+		}
+		
+		
+		.ranking-homepage-info{
+			display: inline-block;
+			width: 90px;
+			vertical-align: top;
+			margin-top: 5px;
+		}
+		
+		
+		.ranking-homepage-list-section{
+			display: inline-block;
+			width: 145px;
+			margin: 8px 0px 0px 35px;
+			position: relative;
+		}
+		.ranking-homepage-list-section:hover{
+			text-decoration:none;
+		}
+		
+		.ranking-homepage-numberoffans{
+			display: block;
+			color: #999999;
+			background: url(../images/ranking_fans_icon@2x.png) no-repeat;
+    		background-size: 20px 15px;
+    		background-position: 0px 1px;
+   			padding-left: 20px;
+		}
+		
+		
+		.ranking-homepage-rank {
+			position: absolute;
+			left: -11px;
+			top: 14px;
+			height: 20px;
+			width: 20px;
+			border-radius: 150px;
+			-webkit-border-radius: 150px;
+			-moz-border-radius: 150px;
+			background-color: #FDBB11;
+			color: #4A4A4A;
+			font-size: 12px;
+			text-align: center;
+			line-height: 20px;
+			font-style: oblique;
+			display: none;
+		}
+		
+	</style>
+
+<div class="ranking-homepage-container">			
+	<div class="ranking-homepage-title"></div>
+	<div class="ranking-homepage-list">		<a href="space.php?action=viewpro&amp;uid=3751692" class="ranking-homepage-list-section">
+			<div class="ranking-homepage-profile-pic" style="background-image:url('https://cdn.discuss.com.hk/t/f940b8/f/200x200/https://img.discuss.com.hk/d/customavatars/375/3751692_1504141333.jpg')"></div>
+			<div class="ranking-homepage-rank"><img src="../images/ranking_top_icon_small@2x.png" width="20px" height="20px"></div>			
+			<div class="ranking-homepage-info">
+				<div class="ranking-homepage-username">浚乂</div>
+				<div class="ranking-homepage-numberoffans">368</div>
+			</div>
+		</a>
+				<a href="space.php?action=viewpro&amp;uid=3612611" class="ranking-homepage-list-section">
+			<div class="ranking-homepage-profile-pic" style="background-image:url('https://www.discuss.com.hk/images/avatars/16.gif')"></div>
+			<div class="ranking-homepage-rank">2</div>			
+			<div class="ranking-homepage-info">
+				<div class="ranking-homepage-username">83010278301027</div>
+				<div class="ranking-homepage-numberoffans">417</div>
+			</div>
+		</a>
+				<a href="space.php?action=viewpro&amp;uid=3303470" class="ranking-homepage-list-section">
+			<div class="ranking-homepage-profile-pic" style="background-image:url('https://www.discuss.com.hk/images/avatars/noavatar.gif')"></div>
+			<div class="ranking-homepage-rank">3</div>			
+			<div class="ranking-homepage-info">
+				<div class="ranking-homepage-username">能殺能成</div>
+				<div class="ranking-homepage-numberoffans">388</div>
+			</div>
+		</a>
+				<a href="space.php?action=viewpro&amp;uid=2055963" class="ranking-homepage-list-section">
+			<div class="ranking-homepage-profile-pic" style="background-image:url('https://cdn.discuss.com.hk/t/27a39d/f/200x200/https://img.discuss.com.hk/d/customavatars/2055963.jpg')"></div>
+			<div class="ranking-homepage-rank">4</div>			
+			<div class="ranking-homepage-info">
+				<div class="ranking-homepage-username">9airwave</div>
+				<div class="ranking-homepage-numberoffans">856</div>
+			</div>
+		</a>
+		</div>
+	<a href="followrank.php"><div class="ranking-homepage-more"></div></a>
+</div>
+<div class="section_row">
+	    <div class="gid_group" id="gid_group_news" name="gid_group_news" style="margin-right:5px;float:left;">
+				<div class="gid_group_title"><span>時事財經</span></div>
+		    <div class="section" id="group_150">
+				<div class="gid_thumb"><a href="index2.php?gid=150"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_150.png"></a></div>
+					<a href="index2.php?gid=150" class="gid_title">時事新聞</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="54" href="forumdisplay.php?fid=54">香港及世界新聞討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="54" href="forumdisplay.php?fid=54&amp;filter=type&amp;typeid=100">國際新聞</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1230" href="forumdisplay.php?fid=1230">副刊專題</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="106" href="forumdisplay.php?fid=106">時政文化</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="193" href="forumdisplay.php?fid=193">軍事討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1121" href="forumdisplay.php?fid=1121">突發事件報料 (Beta)</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1136" href="forumdisplay.php?fid=1136">立法會事務</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=150" class="gid_more" data-gid="150" data-width="220" data-height="360" onclick="return false; ga_trackEvent(this,'更多 - 時事新聞','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+		    <div class="section" id="group_838">
+				<div class="gid_thumb"><a href="index2.php?gid=838"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_838.png"></a></div>
+					<a href="index2.php?gid=838" class="gid_title">金融財經</a>
+					<div class="content">
+						<ul>
+							
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="110" href="forumdisplay.php?fid=110">地產討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="57" href="forumdisplay.php?fid=57">金融財經投資區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="586" href="forumdisplay.php?fid=586">全港屋苑住戶專區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="192" href="forumdisplay.php?fid=192">創業經驗分享</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="191" href="forumdisplay.php?fid=191">創業問題及解答</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="717" href="forumdisplay.php?fid=717">新股討論區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="624" href="forumdisplay.php?fid=624">國內及澳門房地產</a></li>
+							
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=838" class="gid_more" data-gid="838" data-width="450" data-height="420" onclick="return false; ga_trackEvent(this,'更多 - 金融財經','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+	      </div>
+		    <div class="section" id="group_149">
+				<div class="gid_thumb"><a href="index2.php?gid=149"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_149.png"></a></div>
+					<a href="index2.php?gid=149" class="gid_title">各行各業</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="39" href="forumdisplay.php?fid=39">上班一族</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="406" href="forumdisplay.php?fid=406">求職及面試心得</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="175" href="forumdisplay.php?fid=175">政府服務界</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="174" href="forumdisplay.php?fid=174">建築界</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="172" href="forumdisplay.php?fid=172">會計界</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1185" href="forumdisplay.php?fid=1185">招聘廣場</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="179" href="forumdisplay.php?fid=179">工程界</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=149" class="gid_more" data-gid="149" data-width="630" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 各行各業','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+	      </div>
+			</div>
+			
+
+	    <div class="gid_group" id="gid_group_ladies" name="gid_group_ladies" style="float:right;">
+				<div class="gid_group_title"><a href="index2.php?gid=478" class="gid_title" onclick="return ga_trackEvent(this,'homepage_women_section','click');" style="padding:0;"><span>女性家庭</span></a></div>
+		    	<div class="section" id="group_478">
+					<div class="gid_thumb"><a href="index2.php?gid=478"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_478.png"></a></div>
+					<a href="index2.php?gid=478" class="gid_title" onclick="return ga_trackEvent(this,'homepage_women_section_gid_478','click');">女性頻道</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="428" href="forumdisplay.php?fid=428">女人心事 Lady's Talk</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="230" href="forumdisplay.php?fid=230">美容</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="426" href="forumdisplay.php?fid=426">化妝心得</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="58" href="forumdisplay.php?fid=58">瘦身</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="422" href="forumdisplay.php?fid=422">時裝</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="423" href="forumdisplay.php?fid=423">珠寶首飾</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="425" href="forumdisplay.php?fid=425">內衣及泳衣</a></li>
+							
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=478" class="gid_more" data-gid="478" data-width="230" data-height="430" onclick="return false; ga_trackEvent(this,'更多 - 女性頻道','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+	                  </div>
+		    	<div class="section" id="group_482">
+					<div class="gid_thumb"><a href="index2.php?gid=482"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_482.png"></a></div>
+					<a href="index2.php?gid=482" class="gid_title" onclick="return ga_trackEvent(this,'homepage_women_section_gid_482','click');">戀愛婚姻</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="38" href="forumdisplay.php?fid=38">情情愛愛</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="465" href="forumdisplay.php?fid=465">婚後生活</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="255" href="forumdisplay.php?fid=255">結婚資訊</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="455" href="forumdisplay.php?fid=455">拍拖熱點推介</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="452" href="forumdisplay.php?fid=452">暗戀經歷</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="453" href="forumdisplay.php?fid=453">戀情分析</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="451" href="forumdisplay.php?fid=451">失戀告解</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=482" class="gid_more" data-gid="482" data-width="190" data-height="360" onclick="return false; ga_trackEvent(this,'更多 - 戀愛婚姻','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+	                  </div>
+		    	<div class="section" id="group_483">
+					<div class="gid_thumb">
+						<a href="index2.php?gid=483"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_483.png"></a>
+					</div>
+					<a href="index2.php?gid=483" class="gid_title" onclick="return ga_trackEvent(this,'homepage_women_section_gid_483','click');">親子家庭</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="377" href="forumdisplay.php?fid=377">家事討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="374" href="forumdisplay.php?fid=374">產前產後</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="375" href="forumdisplay.php?fid=375">幼兒護理</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="472" href="forumdisplay.php?fid=472">家傭討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="254" href="forumdisplay.php?fid=254">親子討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="376" href="forumdisplay.php?fid=376">子女教育</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1259" href="forumdisplay.php?fid=1259">長者討論</a></li>
+							
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=483" class="gid_more" data-gid="483" data-width="390" data-height="360" onclick="return false; ga_trackEvent(this,'更多 - 親子家庭','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+	                  </div>
+			</div>
+		</div>
+	
+		
+			<div style="margin-bottom:10px;">
+			<center><!-- /1001609/Discuss_Web_HOME_BB2 -->
+        <div id="div-gpt-ad-1488855305142-0" data-google-query-id="CNC8zZOxnOECFQU6TwodcqwNwA">
+        
+        <div id="google_ads_iframe_/1001609/Discuss_Web_HOME_BB2_0__container__" style="border: 0pt none; display: inline-block; width: 728px; height: 90px;"><iframe frameborder="0" src="https://tpc.googlesyndication.com/safeframe/1-0-32/html/container.html" id="google_ads_iframe_/1001609/Discuss_Web_HOME_BB2_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="3" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div></center>			</div>
+
+
+		<div class="section_row">
+	    <div class="gid_group" id="gid_group_sports" name="gid_group_sports" style="margin-right:5px;float:left;">
+				<div class="gid_group_title"><span>運動</span></div>
+				<div class="section" id="group_72">
+					<div class="gid_thumb"><a href="index2.php?gid=72"><img width="160" height="67" src="https://n2.hk/d/images/r13/i_72.png"></a></div>
+					<a href="index2.php?gid=72" class="gid_title">運動</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="19" href="forumdisplay.php?fid=19">籃球</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="92" href="forumdisplay.php?fid=92">單車</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="82" href="forumdisplay.php?fid=82">健身運動</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="220" href="forumdisplay.php?fid=220">釣魚</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="524" href="forumdisplay.php?fid=524">跑步</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="281" href="forumdisplay.php?fid=281">羽毛球</a></li>
+							<!--<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1119" href="forumdisplay.php?fid=1119">巴西奧運2016</a></li>-->
+							<!--<li class="gid_list_style"><a class="inlineHotTopicCard" fid="524" href="forumdisplay.php?fid=524">跑步</a></li>-->
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=72" class="gid_more" data-gid="72" data-width="850" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 運動','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+	                  </div>
+		    	<div class="section" id="group_1050">
+					<div class="gid_thumb"><a href="index2.php?gid=1050"><img width="160" height="67" src="https://n2.hk/d/images/r13/i_1050.png"></a></div>
+					<a href="index2.php?gid=1050" class="gid_title">足球</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="17" href="forumdisplay.php?fid=17">足球消息及賽事</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="497" href="forumdisplay.php?fid=497">足球圖片及影片</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="513" href="forumdisplay.php?fid=513">亞洲區及本地足球</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1055" href="forumdisplay.php?fid=1055">球迷世界</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1053" href="forumdisplay.php?fid=1053">足球用品討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="306" href="forumdisplay.php?fid=306">球迷 Fan Clubs</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=1050" class="gid_more" data-gid="1050" data-width="250" data-height="360" onclick="return false; ga_trackEvent(this,'更多 - 足球','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+			</div>
+			
+
+			<div class="gid_group" id="gid_group_entertainment" name="gid_group_entertainment" style="float:right;">
+				<div class="gid_group_title"><span>吃喝玩樂</span></div>
+				<div class="section" id="group_484">
+					<div class="gid_thumb"><a href="index2.php?gid=484"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_484.png"></a></div>
+					<a href="index2.php?gid=484" class="gid_title">飲飲食食</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="40" href="forumdisplay.php?fid=40">飲飲食食</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="475" href="forumdisplay.php?fid=475">餐廳食後推介</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="146" href="forumdisplay.php?fid=146">廚樂無窮</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="474" href="forumdisplay.php?fid=474">品酒文化</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="477" href="forumdisplay.php?fid=477">品茶文化</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="639" href="forumdisplay.php?fid=639">烹飪問答區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="514" href="forumdisplay.php?fid=514">廚具討論</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=484" class="gid_more" data-gid="484" data-width="220" data-height="360" onclick="return false; ga_trackEvent(this,'更多 - 飲飲食食','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				<div class="section" id="group_481">
+					<div class="gid_thumb"><a href="index2.php?gid=481"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_481.png"></a></div>
+					<a href="index2.php?gid=481" class="gid_title">旅遊資訊</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="442" href="forumdisplay.php?fid=442">日本</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="438" href="forumdisplay.php?fid=438">台灣</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="443" href="forumdisplay.php?fid=443">韓國</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="440" href="forumdisplay.php?fid=440">泰國</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="444" href="forumdisplay.php?fid=444">歐洲</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="437" href="forumdisplay.php?fid=437">中國</a></li>	
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="439" href="forumdisplay.php?fid=439">澳門</a></li>	
+							
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=481" class="gid_more" data-gid="481" data-width="380" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 旅遊資訊','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				<div class="section" id="group_154"><div class="gid_thumb">
+						<a href="/stylepage.php" style="background-image: url(/images/web_stylepage_entry@2x.png); background-repeat: no-repeat; background-size: contain; display: block; width: 100%; height: 67px;"></a>
+					</div>
+					<a href="index2.php?gid=154" class="gid_title">潮流資訊</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="84" href="forumdisplay.php?fid=84">衣著心得</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="31" href="forumdisplay.php?fid=31">波鞋及其他鞋類</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="232" href="forumdisplay.php?fid=232">髮型心得</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="235" href="forumdisplay.php?fid=235">銀包手袋</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="556" href="forumdisplay.php?fid=556">古著及牛仔服飾</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="994" href="forumdisplay.php?fid=994">高級時裝</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="421" href="forumdisplay.php?fid=421">飾物,眼鏡及紋身</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=154" class="gid_more" data-gid="154" data-width="240" data-height="390" onclick="return false; ga_trackEvent(this,'更多 - 潮流資訊','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				<div class="section" id="group_1215">
+					<div class="gid_thumb"><a href="index2.php?gid=1215"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_1215.png"></a></div>
+					<a href="index2.php?gid=1215" class="gid_title" onclick="return ga_trackEvent(this,'homepage_watch_section_gid_1215','click');">鐘錶</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="29" href="forumdisplay.php?fid=29">鐘錶綜合討論區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="342" href="forumdisplay.php?fid=342">Rolex/Tudor</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="367" href="forumdisplay.php?fid=367">IWC</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="343" href="forumdisplay.php?fid=343">Panerai</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="366" href="forumdisplay.php?fid=366">Omega</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="344" href="forumdisplay.php?fid=344">Seiko/Citizen/...</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="345" href="forumdisplay.php?fid=345">Casio</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=1215" class="gid_more" data-gid="1215" data-width="340" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 鐘錶','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				<div class="section" id="group_157">
+					<div class="gid_thumb"><a href="index2.php?gid=157"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_157.png"></a></div>
+					<a href="index2.php?gid=157" class="gid_title" onclick="return ga_trackEvent(this,'homepage_2nd_hand_section_gid_157','click');">購物情報</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="622" href="forumdisplay.php?fid=622">鐘錶</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="392" href="forumdisplay.php?fid=392">數碼產品及電器</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="822" href="forumdisplay.php?fid=822">單車及零件</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="107" href="forumdisplay.php?fid=107">其他用品</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="391" href="forumdisplay.php?fid=391">服飾及配件</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="882" href="forumdisplay.php?fid=882">運動用品</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="258" href="forumdisplay.php?fid=258">電腦硬件</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=157" class="gid_more" data-gid="157" data-width="400" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 購物情報','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+			</div>
+		</div>
+	    
+	    
+
+		<div class="section_row">
+			<div class="gid_group" id="gid_group_digital" name="gid_group_digital" style="margin-right:5px;float:left;">
+				<div class="gid_group_title"><span>數碼電腦</span></div>
+				<div class="section" id="group_77">
+					<div class="gid_thumb"><a href="index2.php?gid=77"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_77.png"></a></div>
+					<a href="index2.php?gid=77" class="gid_title">手機討論</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="925" href="forumdisplay.php?fid=925">Android 技術討論區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="605" href="forumdisplay.php?fid=605">iPhone 綜合討論區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="927" href="forumdisplay.php?fid=927">Windows Phone</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="403" href="forumdisplay.php?fid=403">網絡供應商</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1034" href="forumdisplay.php?fid=1034">機種比較及其他品牌</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1032" href="forumdisplay.php?fid=1032">Samsung</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1110" href="forumdisplay.php?fid=1110">LG</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=77" class="gid_more" data-gid="77" data-width="760" data-height="440" onclick="return false; ga_trackEvent(this,'更多 - 手機討論','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				<div class="section" id="group_78">
+					<div class="gid_thumb"><a href="index2.php?gid=78"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_78.png"></a></div>
+					<a href="index2.php?gid=78" class="gid_title">電腦講場</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="227" href="forumdisplay.php?fid=227">網頁設計及程式編寫</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="37" href="forumdisplay.php?fid=37">電腦硬件</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="66" href="forumdisplay.php?fid=66">Windows Q&amp;A</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="115" href="forumdisplay.php?fid=115">寬頻討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="246" href="forumdisplay.php?fid=246">Mac 討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="113" href="forumdisplay.php?fid=113">網絡架設</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="231" href="forumdisplay.php?fid=231">圖像設計及經驗交流</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=78" class="gid_more" data-gid="78" data-width="480" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 電腦講場','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				<div class="section" id="group_153">
+					<div class="gid_thumb"><a href="index2.php?gid=153"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_153.png"></a></div>
+					<a href="index2.php?gid=153" class="gid_title">數碼產品</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="700" href="forumdisplay.php?fid=700">高清電視/數碼廣播</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="984" href="forumdisplay.php?fid=984">平板電腦</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="25" href="forumdisplay.php?fid=25">DC 數碼相機</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="886" href="forumdisplay.php?fid=886">DSLR 單鏡反光相機</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="65" href="forumdisplay.php?fid=65">MP3,MP4,PMP及耳機</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="248" href="forumdisplay.php?fid=248">手提電腦</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="893" href="forumdisplay.php?fid=893">iPad</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=153" class="gid_more" data-gid="153" data-width="440" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 數碼產品','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				<div class="section" id="group_73">
+					<div class="gid_thumb"><a href="index2.php?gid=73"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_73.png"></a></div>
+					<a href="index2.php?gid=73" class="gid_title">電子遊戲</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="289" href="forumdisplay.php?fid=289">任天堂Switch</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="26" href="forumdisplay.php?fid=26">PC 遊戲</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1070" href="forumdisplay.php?fid=1070">PS4</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="23" href="forumdisplay.php?fid=23">XBOX 360 專區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="94" href="forumdisplay.php?fid=94">PSP / PSV 專區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="960" href="forumdisplay.php?fid=960">手機遊戲討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="96" href="forumdisplay.php?fid=96">NDS及N3DS遊戲</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=73" class="gid_more" data-gid="73" data-width="700" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 電子遊戲','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				<div class="section" id="group_873">
+					<div class="gid_thumb"><a href="index2.php?gid=873"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_873.png"></a></div>
+					<a href="index2.php?gid=873" class="gid_title">網絡遊戲</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="28" href="forumdisplay.php?fid=28">綜合Online Game</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="993" href="forumdisplay.php?fid=993">League of Legends</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="271" href="forumdisplay.php?fid=271">戰地風雲系列</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1018" href="forumdisplay.php?fid=1018">暗黑破壞神 Diablo 3</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="270" href="forumdisplay.php?fid=270">Counter Strike GO</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1126" href="forumdisplay.php?fid=1126">Call of Duty系列</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1128" href="forumdisplay.php?fid=1128">FIFA系列</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=873" class="gid_more" data-gid="873" data-width="500" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 網絡遊戲','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+			</div>
+	    	    
+	    <div class="gid_group" id="gid_group_spirit" name="gid_group_spirit" style="float:right;">
+				<div class="gid_group_title"><span>身心靈</span></div>
+				<div class="section" id="group_1166">
+					<div class="gid_thumb"><a href="index2.php?gid=1166"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_1166.png"></a></div>
+					<a href="index2.php?gid=1166" class="gid_title">身心靈</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1157" href="forumdisplay.php?fid=1157">Newage拆解王</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1160" href="forumdisplay.php?fid=1160">身心靈書籍討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1161" href="forumdisplay.php?fid=1161">療癒方法</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1162" href="forumdisplay.php?fid=1162">史前文明</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1163" href="forumdisplay.php?fid=1163">靈性修鍊</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1164" href="forumdisplay.php?fid=1164">靈性知識</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1165" href="forumdisplay.php?fid=1165">正能量/好人好事</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=1166" class="gid_more" data-gid="1166" data-width="170" data-height="270" onclick="return false; ga_trackEvent(this,'更多 - 身心靈','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+	    </div>
+	  </div>
+	
+			<div style="margin-bottom:10px;">
+			<!-- /1001609/Discuss_Web_HOME_BB3 -->
+<div id="div-gpt-ad-1488855305143-0" data-google-query-id="CNG8zZOxnOECFQU6TwodcqwNwA">
+
+<div id="google_ads_iframe_/1001609/Discuss_Web_HOME_BB3_0__container__" style="border: 0pt none; display: inline-block; width: 970px; height: 250px;"><iframe frameborder="0" src="https://tpc.googlesyndication.com/safeframe/1-0-32/html/container.html" id="google_ads_iframe_/1001609/Discuss_Web_HOME_BB3_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="970" height="250" data-is-safeframe="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="4" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>			</div>
+	
+	
+		<div class="section_row">
+			<div class="gid_group" id="gid_group_leisure" name="gid_group_leisure" style="margin-right:5px;float:left;">
+				<div class="gid_group_title"><span>影視消閒</span></div>
+				<div class="section" id="group_480">
+					<div class="gid_thumb"><a href="index2.php?gid=480"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_480.png"></a></div>
+					<a href="index2.php?gid=480" class="gid_title">影視娛樂</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="679" href="forumdisplay.php?fid=679">無線電視TVB</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="686" href="forumdisplay.php?fid=686">首輪電影討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="46" href="forumdisplay.php?fid=46">電影</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="53" href="forumdisplay.php?fid=53">娛樂頻道</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="48" href="forumdisplay.php?fid=48">電視劇集及節目</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="683" href="forumdisplay.php?fid=683">日、韓節目區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1118" href="forumdisplay.php?fid=1118">ViuTV電視節目</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=480" class="gid_more" data-gid="480" data-width="450" data-height="360" onclick="return false; ga_trackEvent(this,'更多 - 影視娛樂','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+		    <div class="section" id="group_116">
+				<div class="gid_thumb"><a href="index2.php?gid=116"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_116.png"></a></div>
+					<a href="index2.php?gid=116" class="gid_title">音樂世界</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="118" href="forumdisplay.php?fid=118">華語樂壇討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="939" href="forumdisplay.php?fid=939">韓語樂壇討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="125" href="forumdisplay.php?fid=125">樂器演奏心得交流</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="122" href="forumdisplay.php?fid=122">外語樂壇討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="119" href="forumdisplay.php?fid=119">日語樂壇討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="129" href="forumdisplay.php?fid=129">專輯地帶</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="508" href="forumdisplay.php?fid=508">MP3放送區</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=116" class="gid_more" data-gid="116" data-width="400" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 音樂世界','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+		    <div class="section" id="group_103">
+				<div class="gid_thumb"><a href="index2.php?gid=103"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_103.png"></a></div>
+					<a href="index2.php?gid=103" class="gid_title">消閒娛樂</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="62" href="forumdisplay.php?fid=62">吹水閒聊</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="243" href="forumdisplay.php?fid=243">UFO及超自然力量</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="60" href="forumdisplay.php?fid=60">鬼故事</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="59" href="forumdisplay.php?fid=59">有趣電郵及笑話</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="109" href="forumdisplay.php?fid=109">星座及心理測驗</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="204" href="forumdisplay.php?fid=204">風水玄學命理</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="637" href="forumdisplay.php?fid=637">靈異影像館</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=103" class="gid_more" data-gid="103" data-width="360" data-height="400" onclick="return false; ga_trackEvent(this,'更多 - 消閒娛樂','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+			</div>
+			
+			
+			
+
+	    <div class="gid_group" id="gid_group_life" name="gid_group_life" style="float:right;">
+				<div class="gid_group_title"><span>生活興趣</span></div>
+				<div class="section" id="group_76">
+					<div class="gid_thumb"><a href="index2.php?gid=76"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_76.png"></a></div>
+					<a href="index2.php?gid=76" class="gid_title">日常生活</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="314" href="forumdisplay.php?fid=314">家居設計佈置</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="168" href="forumdisplay.php?fid=168">生活百科及冷知識</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="171" href="forumdisplay.php?fid=171">性本善</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="244" href="forumdisplay.php?fid=244">法律知識</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="859" href="forumdisplay.php?fid=859">交通問路版</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="399" href="forumdisplay.php?fid=399">健康互助區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="855" href="forumdisplay.php?fid=855">癌症治療交流</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=76" class="gid_more" data-gid="76" data-width="400" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 日常生活','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				<div class="section" id="group_479">
+					<div class="gid_thumb"><a href="index2.php?gid=479"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_479.png"></a></div>
+					<a href="index2.php?gid=479" class="gid_title">寵物樂園</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="42" href="forumdisplay.php?fid=42">寵物</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="315" href="forumdisplay.php?fid=315">水族世界</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="430" href="forumdisplay.php?fid=430">健康與飲食</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="436" href="forumdisplay.php?fid=436">待領</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="431" href="forumdisplay.php?fid=431">動物新資</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="547" href="forumdisplay.php?fid=547">領養中心</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="494" href="forumdisplay.php?fid=494">鹹水生物飼養區</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=479" class="gid_more" data-gid="479" data-width="240" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 寵物樂園','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				<div class="section" id="group_156">
+					<div class="gid_thumb"><a href="index2.php?gid=156"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_156.png"></a></div>
+					<a href="index2.php?gid=156" class="gid_title">興趣交流</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a href="index2.php?gid=1101">汽車(新分區)</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="130" href="forumdisplay.php?fid=130">巴士討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="81" href="forumdisplay.php?fid=81">動畫/漫畫</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="210" href="forumdisplay.php?fid=210">模型及玩具</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="998" href="forumdisplay.php?fid=998">藝術</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="316" href="forumdisplay.php?fid=316">鐵路討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="310" href="forumdisplay.php?fid=310">航空</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=156" class="gid_more" data-gid="156" data-width="970" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 興報交流','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				
+				<div class="section" id="group_1101">
+					<div class="gid_thumb"><a href="index2.php?gid=1101"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_1101.png"></a></div>
+					<a href="index2.php?gid=1101" class="gid_title">汽車交流</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="21" href="forumdisplay.php?fid=21">汽車討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="529" href="forumdisplay.php?fid=529">車款討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1139" href="http://www.car.com.hk/">二手汽車(港車網)</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="803" href="forumdisplay.php?fid=803">車友聚會區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="625" href="forumdisplay.php?fid=625">汽車維修及改裝</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1104" href="forumdisplay.php?fid=1104">駕駛技術交流</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1139" href="forumdisplay.php?fid=1139">汽車影片</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=1101" class="gid_more" data-gid="1101" data-width="260" data-height="320" onclick="return false; ga_trackEvent(this,'更多 - 汽車(新分區)','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+	    </div>
+	  </div>
+	      
+	      
+	      
+		<div class="section_row">
+			<div class="gid_group" id="gid_group_culture" name="gid_group_culture" style="margin-right:5px;float:left;">
+				<div class="gid_group_title"><span>校園學術</span></div>
+				<div class="section" id="group_158">
+					<div class="gid_thumb"><a href="index2.php?gid=158"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_158.png"></a></div>
+					<a href="index2.php?gid=158" class="gid_title">校園生活</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="44" href="forumdisplay.php?fid=44">升學心得交流</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="579" href="forumdisplay.php?fid=579">香港公開考試</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="296" href="forumdisplay.php?fid=296">IVE</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="194" href="forumdisplay.php?fid=194">理工大學</a></li>
+							<!--<li class="gid_list_style"><a class="inlineHotTopicCard" fid="199" href="forumdisplay.php?fid=199">城市大學</a></li>-->
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="767" href="forumdisplay.php?fid=767">DSE放榜及JUPAS專區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="201" href="forumdisplay.php?fid=201">公開大學</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="202" href="forumdisplay.php?fid=202">功課問題及解答</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=158" class="gid_more" data-gid="158" data-width="520" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 校園生活','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+	    	<div class="section" id="group_155">
+				<div class="gid_thumb"><a href="index2.php?gid=155"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_155.png"></a></div>
+					<a href="index2.php?gid=155" class="gid_title">學術及文化討論</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1137" href="forumdisplay.php?fid=1137">香港書展</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="752" href="forumdisplay.php?fid=752">英語討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="219" href="forumdisplay.php?fid=219">閱讀交流</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="228" href="forumdisplay.php?fid=228">語言討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="226" href="forumdisplay.php?fid=226">歷史討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="221" href="forumdisplay.php?fid=221">哲學討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="761" href="forumdisplay.php?fid=761">原創及轉載小說</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=155" class="gid_more" data-gid="155" data-width="420" data-height="410" onclick="return false; ga_trackEvent(this,'更多 - 學術及文化討論','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+	    </div>
+	    
+	    <div class="gid_group" id="gid_group_others" name="gid_group_others" style="float:right;">
+				<div class="gid_group_title"><span>其他</span></div>
+				<div class="section" id="group_1169">
+					<div class="gid_thumb"><a href="index2.php?gid=1169"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_1169.png"></a></div>
+					<a href="index2.php?gid=1169" class="gid_title">香討試點</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1142" href="forumdisplay.php?fid=1142">網購討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1176" href="forumdisplay.php?fid=1176">創意科技</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1182" href="forumdisplay.php?fid=1182">招聘廣場</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1183" href="forumdisplay.php?fid=1183">自讓盤</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1191" href="forumdisplay.php?fid=1191">工作假期</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1192" href="forumdisplay.php?fid=1192">留學生活</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1197" href="forumdisplay.php?fid=1197">綜合報價區</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=1169" class="gid_more" data-gid="1169" data-width="550" data-height="680" onclick="return false; ga_trackEvent(this,'更多 - 香討試點','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				<div class="section" id="group_89">
+					<div class="gid_thumb"><a href="index2.php?gid=89"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_89.png"></a></div>
+					<a href="index2.php?gid=89" class="gid_title">論壇資訊</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="90" href="forumdisplay.php?fid=90">會員教學及意見</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="117" href="forumdisplay.php?fid=117">最新消息</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="1051" href="forumdisplay.php?fid=1051">香討新App-意見區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="143" href="forumdisplay.php?fid=143">論壇遊戲</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="148" href="forumdisplay.php?fid=148">版主會議室</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="147" href="forumdisplay.php?fid=147">投訴版</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="949" href="forumdisplay.php?fid=949">慈善活動資訊</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=89" class="gid_more" data-gid="89" data-width="180" data-height="360" onclick="return false; ga_trackEvent(this,'更多 - 論壇資訊','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				<div class="section" id="group_151">
+					<div class="gid_thumb"><a href="index2.php?gid=151"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_151.png"></a></div>
+					<a href="index2.php?gid=151" class="gid_title">貼圖及影片</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="140" href="forumdisplay.php?fid=140">各地美女貼圖</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="86" href="forumdisplay.php?fid=86">有趣圖片分享</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="104" href="forumdisplay.php?fid=104">有趣影片分享</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="213" href="forumdisplay.php?fid=213">攝影作品分享</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="98" href="forumdisplay.php?fid=98">會員自貼區</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="211" href="forumdisplay.php?fid=211">汽車貼圖</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="485" href="forumdisplay.php?fid=485">動畫卡通貼圖</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=151" class="gid_more" data-gid="151" data-width="340" data-height="360" onclick="return false; ga_trackEvent(this,'更多 - 貼圖及影片','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+				<div class="section" id="group_152">
+					<div class="gid_thumb"><a href="index2.php?gid=152"><img width="155" height="67" src="https://n2.hk/d/images/r13/i_152.png"></a></div>
+					<a href="index2.php?gid=152" class="gid_title">博彩娛樂</a>
+					<div class="content">
+						<ul>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="93" href="forumdisplay.php?fid=93">足球投注</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="18" href="forumdisplay.php?fid=18">香港賽馬</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="238" href="forumdisplay.php?fid=238">賭場討論</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="239" href="forumdisplay.php?fid=239">六合彩及其他博彩資訊</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="233" href="forumdisplay.php?fid=233">麻雀娛樂</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="892" href="forumdisplay.php?fid=892">海外賽馬</a></li>
+							<li class="gid_list_style"><a class="inlineHotTopicCard" fid="236" href="forumdisplay.php?fid=236">澳門賽馬</a></li>
+						</ul>
+					</div>
+					<a href="index_forumgroup_more.php?gid=152" class="gid_more" data-gid="152" data-width="200" data-height="340" onclick="return false; ga_trackEvent(this,'更多 - 博彩娛樂','click');" style="background-color: rgb(243, 243, 243);">...<span class="gid_more_text">更多</span></a>
+				</div>
+	    </div>
+		</div>
+	</div>  <!-- End sections -->
+	
+	<div class="clear"></div>
+</div>
+
+<style type="text/css">
+#gid_group_restricted {
+	float:right; 
+	background-color:#FFF; 
+	border:1px solid #AFAFAF; 
+	display:inline-block; 
+	height:88px; 
+	width:240px;
+}
+#gid_group_restricted .gid_group_title {
+	height:38px;
+	line-height:38px;
+	padding:3px;
+}
+#gid_group_restricted .gid_group_title span {
+	background-image:url(https://n2.hk/d/images/r13/d_restricted.png);
+	background-repeat:no-repeat;
+	background-position:8px center;
+	background-size:25px 25px;
+	padding-left:37px;
+	font-size:20px;
+	font-weight:bold;
+	font-family:"微軟正黑體","Microsoft JhengHei","蘋果儷中黑","Apple LiGothic Medium","黑体","SimHei";	
+}
+#gid_group_restricted .section {
+	border:medium none;
+	float:left;
+	margin:3px;
+	overflow:hidden;
+	width:100px;
+}
+#gid_group_restricted .section .restricted_gid_title {
+	display:block;
+	font-family:"微軟正黑體","Microsoft JhengHei","蘋果儷中黑","Apple LiGothic Medium","黑体","SimHei";
+	font-size:16px;
+	font-weight:bold;
+	padding-left:10px;
+	text-decoration:none;
+	color:#000 !important;
+}
+</style>
+<div id="gid_group_restricted">
+	<div class="gid_group_title">
+		<span>更多</span>
+	</div>
+	<div id="group_74" class="section">
+		<a class="restricted_gid_title" href="index2.php?gid=74">資源交流</a>
+	</div>
+	<div id="group_79" class="section">
+		<a class="restricted_gid_title" href="index2.php?gid=79">成人討論</a>
+	</div>
+</div>
+<!-- end of main-->
+
+<div id="div-gpt-ad-1544418464342-0" data-google-query-id="CNK8zZOxnOECFQU6TwodcqwNwA">
+	
+<div id="google_ads_iframe_/1001609/Discuss_Web_Home_LB2_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/1001609/Discuss_Web_Home_LB2_0" title="3rd party ad content" name="google_ads_iframe_/1001609/Discuss_Web_Home_LB2_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="5" data-load-complete="true"></iframe></div></div>
+<!--
+<iframe src="https://www.discuss.com.hk/dfp_forum.php?au=Discuss_Web_Homepage_LB&amp;bsize=lb" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:728px; height:90px;" allowTransparency="true"></iframe>
+-->
+
+<!-- Start of Footer Area -->
+<div id="footer_area">
+  
+  <!-- start of footer -->
+  <div id="footer">
+    <img src="https://n2.hk/d/images/r13/slogan.png">
+		<p class="links">
+			<a href="member.php?action=clearcookies&amp;formhash=75523794">清除Cookies</a><span class="sp">|</span><a href="archiver/">純文字版本</a><span class="sp">|</span><a href="/legal.html">使用條款及免責聲明</a><span class="sp">|</span><a href="/privacy.html">私隱政策</a><span class="sp">|</span><a href="takedown/">移除政策</a><span class="sp">|</span><a href="contactus.php">聯絡我們</a><span class="sp">|</span><a href="contactus.php">廣告查詢</a><span class="sp">|</span><a href="faq.php">幫助</a>
+		</p>
+   	<div id="footer_right">
+   		<img src="./images/awards/discuss_caringcompany_logo.png" style="vertical-align: bottom;">
+    	<a href="https://www.networld.hk/apps/discuss/" target="_blank"><img src="https://n2.hk/d/images/r13/footer_app.png"></a>
+		</div>
+    <div id="footer_left">
+    	<p class="copyright">Copyright©2003-<script>document.write(new Date().getFullYear());</script>2019 Discuss.com.hk Limited. All Right Reserved.版權所有，不得轉載。</p>
+	    <p class="copyright">天氣資料由香港天文台提供</p>
+					<div>
+				This site is protected by reCAPTCHA and the Google
+				<a href="https://policies.google.com/privacy">Privacy Policy</a> and
+				<a href="https://policies.google.com/terms">Terms of Service</a> apply.
+			</div>
+			<style>
+				.grecaptcha-badge {display: none !important;}
+			</style>
+										Processed in 0.048188 second(s), 
+				4 queries,
+				S13, Gzip enabled<br>&nbsp;
+			    </div>
+    
+    <!--Google Analytics-->
+		<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4077994-2");
+		pageTracker._initData();
+		pageTracker._setDomainName("none");
+		pageTracker._setCustomVar(1,"gid","首頁",3);
+		pageTracker._setCustomVar(2,"fid","0",3);
+		pageTracker._trackPageview("/discuss?gid=0&amp;fid=0");
+		</script>
+		
+		
+		
+		
+	</div><!-- end of footer -->
+					<!-- Award ad -->
+	<style>
+    #footer_ad{ margin:2px auto 0px; text-align:center; border-bottom:5px solid #f90;}
+    .footer_ad_unit{ display:inline-block; margin:1px; }
+  </style>
+  <div id="footer_ad">
+    <div class="footer_ad_unit">
+      <a href="https://www.networld.hk/discuss-and-uwants-awarded-10-most-favorite-websites/" target="_blank"><img src="images/awards/discuss_media_award_239x67.png"></a>
+    </div>
+    <div class="footer_ad_unit">
+      <a href="https://www.networld.hk/discuss-and-price-rank-1st-on-marketing-magazines-digital-media-of-the-year/" target="_blank"><img src="images/awards/discuss_marketing_award_239x67.png"></a>
+    </div>
+    <div class="footer_ad_unit">
+      <a href="https://www.networld.hk/networld-wins-five-awards-at-the-spark-awards-2015/" target="_blank"><img src="images/awards/discuss_spark_award_239x67.png"></a>
+    </div>
+    <div class="footer_ad_unit">
+      <a><img src="images/awards/discuss_marketing_interactive_award_239x67.png"></a>
+    </div>
+  </div>
+	
+					
+	
+</div><!-- end of footer_area -->
+
+
+
+</div><!--WRAPPER-->
+</div><script src="//ad.crwdcntrl.net/5/c=12775/pe=y/callback=onAudiencesLoaded"></script><!--PAGE-->
+
+<!--added by oscar 20090225-->
+	<ul class="popupmenu_popup headermenu_popup" id="memcp_menu" style="display: none">
+		<li><a href="memcp.php">控制面板首頁</a></li>
+		<li><a href="memcp.php?action=profile&amp;typeid=5">編輯個人資料</a></li>
+				<li><a href="memcp.php?action=creditslog">積分記錄</a></li>
+					</ul>
+
+	<ul class="popupmenu_popup headermenu_popup" id="faq_menu" style="display: none">
+		<li><a href="faq.php">FAQ</a></li>
+		<li><a href="management.php">管理團隊</a></li>
+		<li><a href="contactus.php">廣告查詢</a></li>
+		<li><a href="archiver/">純文字版本</a></li>
+	</ul>
+
+<!--/added by oscar 20090225-->
+
+<img id="YBBJiSaJaX" src="https://n2.hk/ads/spacer.gif"><img id="yCUEjiKaa" src="https://n2.hk/aeiou/spacer.gif">
+<!--yahoo pixel-->
+<script src="include/javascript/discuss_map_obj.js?v=20140124" type="text/javascript"></script>
+
+<div id="hotTopicCard" style="top:0px; left:0px; display:none;"><span></span></div>
+<div id="forumgroupCard" style="top:0px; left:0px; display:none;"><span></span></div>
+<script src="include/javascript/hotTopicCardv5.js?v=20181212" type="text/javascript"></script>
+<link href="hotTopicCard_d.css?v=20190225" media="all" type="text/css" rel="stylesheet">
+<link href="forumgroupCard_d.css?v=20190225" media="all" type="text/css" rel="stylesheet">
+<div id="ab_div_px1"></div>
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 979459899;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript"></script><iframe name="google_cookie_match_frame" title="Google cookie match frame" width="1" height="1" src="https://bid.g.doubleclick.net/xbbe/pixel?d=KAE" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" style="display:none" scrolling="no"></iframe>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/979459899/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!--Lotame tag--><!--<script src="//tags.crwdcntrl.net/c/12782/cc_af.js" type="text/javascript"></script>--><script type="text/javascript" id="LOTCC_12782" src="https://tags.crwdcntrl.net/c/12782/cc.js?ns=_cc12782"></script>
+                 
+<script type="text/javascript" id="">var up_c=getcookie("up_c"),up_eu=getcookie("ui_uid_up"),up_domain="discuss.com.hk",up_ct=Math.round(new Date/1E3);if("undefined"===typeof up_c||up_c<up_ct-180){var up_d=new Date;up_d.setTime(up_d.getTime()+864E5);var up_expires=up_d.toUTCString();document.cookie="up_c\x3d"+up_ct+";expires\x3d"+up_expires+";domain\x3d"+up_domain+";path\x3d/"};</script><div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px;"><div class="grecaptcha-logo"><iframe src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdcyoUUAAAAAPHc-WXthGOeupB3LFqdbx2NYFz8&amp;co=aHR0cHM6Ly93d3cuZGlzY3Vzcy5jb20uaGs6NDQz&amp;hl=en&amp;v=v1552285980763&amp;size=invisible&amp;cb=n4ah3ryoi6h1" width="256" height="60" role="presentation" name="a-acuyxrfgiuwq" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div><iframe id="google_osd_static_frame_4237578560896" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe><iframe id="LOTCCFrame_1553533337444" src="https://bcp.crwdcntrl.net/5/c=12782/rand=838753614/pv=y/rt=ifr" title="empty" tabindex="-1" role="presentation" aria-hidden="true" style="border: 0px; width: 0px; height: 0px; display: block;"></iframe></body></html>

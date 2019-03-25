@@ -1,0 +1,2928 @@
+<html lang="en" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms no-csstransforms3d csstransitions fontface no-generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths no-touch"><head><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="async" src="https://reliancecorporateitparkltd.sc.omtrdc.net/b/ss/rcipl-prod/10/JS-2.10.0-L8Z7/s0814743654336?AQB=1&amp;ndh=1&amp;pf=1&amp;callback=s_c_il[1].doPostbacks&amp;et=1&amp;t=31%2F11%2F1969%2019%3A0%3A0%203%20300&amp;d.&amp;nsid=0&amp;jsonv=1&amp;.d&amp;ce=UTF-8&amp;ns=reliancecorporateitparkltd&amp;cdp=2&amp;pageName=Jio%204G%20LTE%20Network%20-%20Experience%20High%20Speed%204G%20Mobile%20Internet&amp;g=https%3A%2F%2Fwww.jio.com%2F&amp;cc=INR&amp;server=www.jio.com&amp;v101=5%3A30%20AM%7CThursday&amp;v103=New&amp;v104=https%3A%2F%2Fwww.jio.com%2F&amp;s=800x600&amp;c=24&amp;j=1.6&amp;v=N&amp;k=Y&amp;bw=800&amp;bh=600&amp;mcorgid=5DA635DC5A8590790A495C35%40AdobeOrg&amp;AQE=1"></script><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style><script src="https://connect.facebook.net/signals/config/593213407527035?v=2.8.42&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TTJVDJ"></script><script src="https://script.crazyegg.com/pages/scripts/0049/0528.js?0" async="" type="text/javascript"></script><script>
+Date=function(r){function n(n,e,t,a,u,i,f){var o;switch(arguments.length){case 0:o=new r(0);break;case 1:o=new r(n);break;default:t=t||1,a=a||0,u=u||0,i=i||0,f=f||0,o=new r(n,e,t,a,u,i,f)}return o}return n.parse=r.parse,n.UTC=r.UTC,n.toString=r.toString,n.prototype=r.prototype,n.now=function(){return 0},n}(Date),Math.exp=function(){function r(r){var n=new ArrayBuffer(8);return new Float64Array(n)[0]=r,0|new Uint32Array(n)[1]}function n(r){var n=new ArrayBuffer(8);return new Float64Array(n)[0]=r,new Uint32Array(n)[0]}function e(r,n){var e=new ArrayBuffer(8);return new Uint32Array(e)[1]=r,new Uint32Array(e)[0]=n,new Float64Array(e)[0]}var t=[.5,-.5],a=[.6931471803691238,-.6931471803691238],u=[1.9082149292705877e-10,-1.9082149292705877e-10];return function(i){var f,o=0,c=0,w=0,y=r(i),s=y>>31&1;if((y&=2147483647)>=1082535490){if(y>=2146435072)return isNaN(i)?i:0==s?i:0;if(i>709.782712893384)return 1/0;if(i<-745.1332191019411)return 0}if(y>1071001154){if(y<1072734898){if(1==i)return Math.E;c=i-a[s],w=u[s],o=1-s-s}else o=1.4426950408889634*i+t[s]|0,f=o,c=i-f*a[0],w=f*u[0];i=c-w}else{if(y<1043333120)return 1+i;o=0}f=i*i;var v=i-f*(.16666666666666602+f*(f*(6613756321437934e-20+f*(4.1381367970572385e-8*f-16533902205465252e-22))-.0027777777777015593));if(0==o)return 1-(i*v/(v-2)-i);var A=1-(w-i*v/(2-v)-c);return o>=-1021?A=e((o<<20)+r(A),n(A)):(A=e((o+1e3<<20)+r(A),n(A)),A*=9.332636185032189e-302)}}(),Math.random=function(){var r,n,e,t;return r=.8725217853207141,n=.520505596883595,e=.22893249243497849,t=1,function(){var a=2091639*r+2.3283064365386963e-10*t;return r=n,n=e,t=0|a,e=a-t}}(),Object.keys=function(r){return function(n){var e;return e=r(n),e.sort(),e}}(Object.keys);
+</script>
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>
+var empNum="";
+</script>
+<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
+<meta name="msvalidate.01" content="9A0C6B210AED8ED81CDAEF81376A54C4">
+<meta name="google-site-verification" content="G5wfZ75H8c4NAa6fuZ6whohP8KIq8LfegDcHycGchmc">	
+<meta name="google-site-verification" content="Lrt-athRvycq9qH1b1rIskkCVzCFFQSkfxud6A5KgVI">
+<meta name="google-site-verification" content="oGOT2VdgZ1EaeOGcmx6yuqyPC2DZFfKhpnBc6uua-ao">
+<title>Jio 4G LTE Network - Experience High Speed 4G Mobile Internet </title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="canonical" href="https://www.jio.com">
+<meta name="description" content="Jio – The largest 4G network in India offers high speed mobile internet connection &amp; an engaging digital ecosystem for a seamless digital experience.">
+<meta name="keywords" content="4G, 4G network, 4G services, 4G in India">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="/jiostaticresources/css/style.min.css?version=5.2">
+<link rel="stylesheet" href="/jiostaticresources/css/style1.min.css?version=5.2">
+<link rel="stylesheet" href="/jiostaticresources/css/style2.min.css?version=5.2">
+<link rel="stylesheet" href="/jiostaticresources/css/style3.min.css?version=5.2">
+<style>
+.footer.footer-n1 .ft-social ul li a span.footer-twitter-icon{
+/*background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -33px -91px;*/
+background: url(https://jep-asset.akamaized.net/jio/svgnew/sprite-social-icon.svg) 0px 0px;
+background-size: 132px 32px;
+width: 33px;
+height: 32px;
+}
+.footer.footer-n1 .ft-social ul li a span.footer-fbookter-icon{
+background: url(https://jep-asset.akamaized.net/jio/svgnew/sprite-social-icon.svg) -32px 0px;
+background-size: 132px 32px;
+width: 33px;
+height: 32px;
+}
+.footer.footer-n1 .ft-social ul li a span.footer-youtube-icon{
+background: url(https://jep-asset.akamaized.net/jio/svgnew/sprite-social-icon.svg) -99px 0px;
+background-size: 132px 32px;
+width: 33px;
+height: 32px;
+}
+.footer.footer-n1 .ft-social ul li a span.footer-ista-icon{
+background: url(https://jep-asset.akamaized.net/jio/svgnew/sprite-social-icon.svg) -66px 0px;
+background-size: 132px 32px;
+width: 33px;
+height: 32px;
+display: inline-block;
+vertical-align: bottom;
+}
+</style>
+<link rel="stylesheet" href="/jiostaticresources/css/detailpage-header.min.css?version=5.2">
+<script type="text/javascript" src="/jiostaticresources/js/jquery-1.9.1.min.js?version=5.2"></script> 
+<script type="text/javascript" src="/jiostaticresources/js/customjs/lazysizes.min.js?version=5.2" defer=""></script> 
+<script type="text/javascript" src="/jiostaticresources/js/customjs/ls.unveilhooks.min.js?version=5.2" defer=""></script>
+<script src="//assets.adobedtm.com/extensions/EPb3826f174b534354aaa5a9e9f1dab55d/AppMeasurement.min.js" async=""></script><script src="//assets.adobedtm.com/extensions/EPb3826f174b534354aaa5a9e9f1dab55d/AppMeasurement_Module_AudienceManagement.min.js" async=""></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/880597729/?random=0&amp;cv=9&amp;fst=0&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635471&amp;u_h=600&amp;u_w=800&amp;u_ah=600&amp;u_aw=800&amp;u_cd=24&amp;u_his=2&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;gtm=2wg241&amp;sendb=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.jio.com%2F&amp;tiba=Jio%204G%20LTE%20Network%20-%20Experience%20High%20Speed%204G%20Mobile%20Internet&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head><body><input type="hidden" id="EMIEnable" name="EMIEnable" value="true"> 
+<input type="hidden" id="empId" name="empId" value=""> 
+<script>
+function getQueryStringValue (key) { 
+return unescape(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + escape(key).replace(/[\.\+\*]/g, "\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1")); 
+}
+</script> 
+<input type="hidden" id="emiAmount" name="emiAmount" value="null"> 
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0049/0528.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<script type="text/javascript"> 
+var digitalData ={page:{pageName:'Jio 4G LTE Network - Experience High Speed 4G Mobile Internet',category:{primaryCategory:"",subCategory1:"",pageType:""},},user:{platform:"",homeCircle:"",loginStatus:"",bpid:"",hashedEmail:"",memberFlag:"",customerType:""},journey:{simType:"",journeyType:"",filterOption: "",sortOption:"",},};
+</script>
+<script src="//assets.adobedtm.com/launch-EN9388be1e2731408184916028a1b31208.min.js"></script>
+<style>
+/* css for sprite 20 aug */
+.top_bottom_space .custom-select .zelect:after{
+background: url(https://www.jio.com/sprite-icon-img.png) -94px -21px !important;
+}
+.main-tariff-container .td-list-plans li{
+background: none;
+position: relative;
+}
+.main-tariff-container .td-list-plans li:after{
+background: url(https://www.jio.com/sprite-icon-img.png) -44px -11px;
+width:21px;
+height:21px;
+content: '';
+display: inline-block;
+box-sizing: border-box;
+border: 0;
+top:6px;
+left:0px;
+position:absolute;
+}
+a.desktop-os{
+background: url(https://www.jio.com/sprite-icon-img.png) -108px -16px;
+width:33px;
+height:43px;
+background-position: 35px 42px;
+}
+/* css for sprite 20 aug end */
+</style>
+<style>
+.download-app{
+background-color:#2149a1;
+}
+.apple-iphone8-btn {width: 100%; left: 5.3%; right: 0; text-align: center; top: auto; bottom: 35%;}
+.apple-iphone8-btn li { width: 195px !important; margin: 0px auto !important; display: block !important; background:#2B2F85 !important; font-weight: 700 !important;}
+.apple-iphone8-btn li:first-child { margin-right: 20px !important;}
+.apple-iphone8-btn li.apple-iphone8-txt-link {padding: 0; width: auto !important; display: inline-block !important; background: none !important; margin: 15px 0px 0px 0px !important;}
+.apple-iphone8-btn li.width_170 { display: inline-block !important; padding-left: 0 !important; padding-right: 0 !important;}
+.apple-iphone8-btn li.apple-iphone8-txt-link { display: block !important;}
+.apple-iphone8-btn.no-txt-link li.apple-iphone8-txt-link { display: none !important;}
+@media (max-width: 800px){ 
+.apple-iphone8-btn {width: 200px; left: auto; right: 9%; bottom: 40%;}
+.apple-iphone8-btn li.width_170 { margin-top: 15px !important;}
+.apple-iphone8-btn li:first-child { margin-right: 0px !important;}
+}
+@media (max-width: 480px){
+.apple-iphone8-btn {width: 100%; left: 0%; bottom: 16%;}
+.apple-iphone8-btn li.apple-iphone8-txt-link {margin: 5px 0px 0px 0px !important;}
+.apple-iphone8-btn li.width_170 {width: 145px !important; padding-top: 7px !important; padding-bottom: 7px !important; font-size: 14px !important; margin-top: 0px !important;}
+}
+@media (max-width: 340px){
+.apple-iphone8-btn li.width_170 {width: 135px !important; font-size: 13px !important; padding-top: 5px !important; padding-bottom: 5px !important;}
+}
+</style>
+<style>
+.btn-wrap.btn-jio-dhan ul li { background:#fff !important; color:#474082 !important; font-weight: 700;}
+.btn-wrap.btn-jio-dhan { position: absolute; bottom: 6%; width: auto; top: auto; left: 50%; margin-left: -85px; right: auto;}
+.banner-tc-link { position: absolute; bottom: 6%; cursor: pointer; right: 80px; color:#fff; }
+.banner-tc-link:hover { text-decoration: underline;}
+.default_cursor {cursor: default !important;}
+.btn-wrap.btn-jio-dhan ul li { margin: 0;}
+.btn-wrap.btn-jio-dhan ul li.width_170 { width: 180px !important;}
+.mult-btns { margin-left: -182px !important;} 
+.btn-wrap.mult-btns.btn-jio-dhan ul li:first-child { margin-right: 20px;}
+.shop-wrap .shop-grid .top_bottom_space .custom-select .zelect .zelected{
+width: 100%;
+padding-right: 15px;
+} 
+@media (max-width: 800px){
+.banner-tc-link {right: 30px;}
+}
+@media (max-width: 480px){ 
+.btn-wrap.mult-btns.btn-jio-dhan ul li:first-child { margin-right: 0px;}
+.btn-wrap.btn-jio-dhan {bottom: 13%;}
+.banner-tc-link { bottom: 7%; right: auto; text-align: center; width: 100%; text-align: center;}
+.btn-wrap.btn-jio-dhan.mult-btns { left: 50%; margin-left: -140px !important;}
+.btn-wrap.btn-jio-dhan.mult-btns ul li.width_170 {width: 140px !important; padding: 7px 15px; float: left;}
+.mult-btns ul li:first-child.width_170 { border-top-right-radius: 0; border-bottom-right-radius: 0;}
+.mult-btns ul li:nth-child(2).width_170 { border-top-left-radius: 0; border-bottom-left-radius: 0; border-left: 1px solid #cecece;}
+}
+</style>
+<style>
+@media (max-width: 480px) {
+.btn-wrap.btn-hny3 {
+bottom: 20% !important;
+} }
+@media (max-width: 900px) {
+.btn-wrap.btn-hny3 {
+bottom: 15% !important;
+} }
+@media (max-width: 760px){
+.main-tariff-container .td-inner:last-child {
+border-top: 0px;
+margin-top: 0px;
+}
+}
+@media (max-width: 760px){
+.main-tariff-container .td-inner:first-child {
+border-bottom: 0px;
+margin-bottom: 0px;
+}
+}
+</style>
+<style>
+.dhan-offer-tc{ 
+width:100%;
+right:auto;
+text-align: center;
+bottom:6%;
+}
+.dhan-offer-btn{
+bottom:14% !important;
+}
+@media (max-width: 800px){
+.dhan-offer-tc-tab{
+right: auto;
+padding: 0px 10px;
+text-align: center;
+bottom:5%;
+}
+.dhan-offer-btn-tab{
+bottom:14% !important;
+}
+}
+@media (max-width:480px){
+.dhan-offer-btn-mob{
+bottom:20% !important;
+}
+.dhan-offer-tc-mobile{
+bottom:9%;
+font-size:12px;
+line-height:normal;
+padding: 0px 10px;
+}
+}
+.btn-wrap.btn-gst {position: absolute; bottom: 8%; width: auto; top: auto; left: 25%; margin-left: -9.4%; right: auto;} 
+.btn-wrap.btn-gst.gst-right-btn { position: absolute; right: 29%; margin-right: -17%; left: auto; } 
+.btn-wrap.btn-gst ul li.width_170 {min-width: 180px !important; font-weight: 700; } 
+.btn-wrap.btn-gst ul li{background:#03007f;}
+@media (max-width: 800px){ 
+.btn-wrap.btn-gst {bottom: 44%; left: 50%; margin-left: -11.6%;}
+.btn-wrap.btn-gst.gst-right-btn {bottom: 6%; right: auto; margin-right: 0; left: 18%;}
+}
+@media (max-width: 480px){ 
+.btn-wrap.btn-gst ul li.width_170 {min-width: 110px !important;}
+.btn-wrap.btn-gst, .btn-wrap.btn-gst.gst-right-btn{bottom: 54%; left: 50%; margin-left: -15.5%;}
+.btn-wrap.btn-gst.gst-right-btn { bottom: 37%;} 
+.btn-wrap.btn-gst ul li {padding: 4px 20px;}
+}
+</style>
+<style>
+#apps-new-banner .item img {
+width: 100%;
+opacity: 1;
+}
+.digital-gallery-10 #apps-new-banner .item .img3-desktop{
+height:auto !important;
+background-size:inherit;
+}
+@media (max-width:1300px){
+.digital-gallery-10{
+margin-top:0px !important;
+}
+}
+@media (max-width: 800px){
+.digital-gallery-10 #apps-new-banner .item .img3-tablet {
+background-size:inherit;
+height: auto !important;
+}
+.digital-gallery-10 #apps-new-banner .item .img3-mobile {
+height: auto !important;
+background-size:inherit;
+}
+} 
+#apps-new-banner .item img { 
+opacity: 1;
+}
+</style>
+<style>
+.iphoneX_btn {
+width: 100%;
+left: -7%;
+right: 0;
+text-align: center;
+top: auto;
+bottom: 20%;
+}
+.iphoneX_btn li.width_170 {
+display: inline-block !important;
+padding-left: 0 !important;
+padding-right: 0 !important;
+}
+.iphoneX_btn li:first-child {
+margin-right: 20px !important;
+}
+.iphoneX_btn li {
+width: 195px !important;
+margin: 0px auto;
+display: block;
+background: #2B2F85 !important;
+font-weight: 700;
+}
+@media (max-width: 800px){
+.iphoneX_btn {	
+left: 0;
+right: 0;
+bottom: 30%;
+}
+}
+@media (max-width: 767px){
+.iphoneX_btn li.width_170 {
+display: block !important;
+padding-left: 0 !important;
+padding-right: 0 !important;
+margin:0 auto !important;
+width:210px !important;
+}
+.iphoneX_btn li:first-child{
+margin-bottom:15px !important;
+} 
+.iphoneX_btn {	
+bottom: 25%;
+}	
+}
+@media (max-width: 500px){
+.iphoneX_btn {	
+bottom: 25%;
+}	
+}
+</style>
+<style>
+.partner-offer-section{
+max-width:1440px;
+margin:auto;
+}
+.partner-offer-margin{
+margin-bottom:40px;
+margin-top:30px;
+border-top: 1px solid #d7d7d9;
+border-bottom: 1px solid #d7d7d9;
+}
+.partner-offer-section img{
+cursor:pointer;
+}
+.partner-tab-img{display:none}
+#partner-mob{display:none}
+@media (min-width: 769px) and (max-width: 1440px) {
+#partner-tab{display:none}
+}
+@media (max-width: 768px){
+#partner-desktop{display:none}
+#partner-tab{display:block}
+.partner-tab-img{display:block}
+}
+@media (max-width: 500px){
+#partner-desktop{display:none}
+#partner-tab{display:none}
+.partner-tab-img{display:none}
+#partner-mob{display:block}
+}
+</style>
+<style>
+.btn-wrap.iphoneX-blue ul li {
+color: #2149a1;
+}
+.iphoneX_btn.iphoneX-blue li {
+background: #fff!important;
+}
+@media (max-width: 800px){
+.iphoneX_btn.iphoneX-blue {
+bottom: 20%;
+}
+}
+@media (max-width: 767px){
+.iphoneX_btn.iphoneX-blue {
+bottom: 12%;
+}
+}
+@media (max-width: 500px){
+.iphoneX_btn.iphoneX-blue {
+bottom: 12%;
+}
+}
+</style>
+<style>
+.btn-wrap.iphoneX-blue.smartphone-offer{
+left: 14%;
+bottom: 18%;
+}
+.btn-wrap.iphoneX-blue.smartphone-offer ul li {
+color: #fff;
+background: #2B2F85 !important;
+}
+@media (max-width: 800px){
+.btn-wrap.iphoneX-blue.smartphone-offer {
+bottom: 29%;
+left: 18%;
+}
+}
+@media (max-width: 500px){
+.btn-wrap.iphoneX-blue.smartphone-offer {
+bottom: 10%;
+left: 0%;
+}
+}
+@media (max-width: 320px){
+.btn-wrap.iphoneX-blue.smartphone-offer {
+bottom:8%;
+}
+}
+</style>
+<!-- svg img styles start -->
+<!--<revised css 30 oct>-->
+<style>
+/*@media (max-width: 480px){
+.digital-gallery-10 #apps-new-banner .item .img3-tablet{
+display: block;
+}
+.digital-gallery-10 #apps-new-banner .item .img3-mobile{
+display:none;
+}
+}*/
+</style>
+<!--<revised css 30 oct end>-->
+<!--<revised css 31 oct>-->
+<style>
+.download-app img.icon-download-myjioapp{
+max-width:390px; 
+padding:8px 30px;
+width:100%;
+height:auto;
+}
+a.apple-os, a.android-os{
+background: url(https://jep-asset.akamaized.net/jio/svg/os-logo.svg) no-repeat;
+background-size: 180px 43px;
+}
+a.android-os{
+background-position:-100px;
+}
+a.desktop-os{
+background: url(https://jep-asset.akamaized.net/jio/svg/sprite-icon-img.svg) -108px -16px;
+width: 33px;
+height: 43px;
+background-position: 35px 42px;
+background-size: 141px 44px;
+}
+.main-tariff-container .td-list-plans li {
+background: none;
+position: relative;
+}
+.main-tariff-container .td-list-plans li:after {
+background: url(https://jep-asset.akamaized.net/jio/svg/sprite-icon-img.svg) -46px -11px;
+width: 21px;
+height: 21px;
+content: '';
+display: inline-block;
+box-sizing: border-box;
+border: 0;
+top: 6px;
+left: 0px;
+position: absolute;
+background-size: 141px 44px;
+}
+.top_bottom_space .custom-select .zelect:after{
+background: url(https://jep-asset.akamaized.net/jio/svg/sprite-icon-img.svg) -113px -20px !important;
+background-size: 180px 43px !important;
+}
+.apps_gallery_wrap .item .tile-wrap span.myjio {
+background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -2px -16px;
+background-size: 200px 129px;
+width: 33px;
+height: 33px;
+}
+.apps_gallery_wrap .item .tile-wrap span.jiosecurity{
+background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -35px -16px;
+background-size: 200px 129px;
+width: 33px;
+height: 33px;
+}
+.apps_gallery_wrap .item .tile-wrap span.jiochat{
+background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -68px -16px;
+background-size: 200px 129px;
+width: 33px;
+height: 33px;
+}
+.apps_gallery_wrap .item .tile-wrap span.jiojion{
+background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -99px -16px;
+background-size: 200px 129px;
+width: 33px;
+height: 33px;
+}
+.apps_gallery_wrap .item .tile-wrap span.jiotv{
+background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -132px -16px;
+background-size: 200px 129px;
+width: 33px;
+height: 33px;
+}
+.apps_gallery_wrap .item .tile-wrap span.jiocinema{
+background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -165px -16px;
+background-size: 200px 129px;
+width: 33px;
+height: 33px;
+}
+.apps_gallery_wrap .item .tile-wrap span.jioxpress{
+background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -2px -48px;
+background-size: 200px 129px;
+width: 33px;
+height: 33px;
+}
+.apps_gallery_wrap .item .tile-wrap span.jiomusic{
+background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -35px -48px;
+background-size: 200px 129px;
+width: 33px;
+height: 33px;
+}
+.apps_gallery_wrap .item .tile-wrap span.jiomoney{
+background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -67px -48px;
+background-size: 200px 129px;
+width: 33px;
+height: 33px;
+}
+.apps_gallery_wrap .item .tile-wrap span.jiomags{
+background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -99px -48px;
+background-size: 200px 129px;
+width: 33px;
+height: 33px;
+}
+.apps_gallery_wrap .item .tile-wrap span.jiocloud{
+background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -132px -48px;
+background-size: 200px 129px;
+width: 33px;
+height: 33px;
+}
+.apps_gallery_wrap .item .tile-wrap span.jionewsletter{
+background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -165px -48px;
+background-size: 200px 129px;
+width: 33px;
+height: 33px;
+}
+.apps_gallery_wrap .item .tile-wrap span.jionet{
+background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -2px -81px;
+background-size: 200px 129px;
+width: 33px;
+height: 33px;
+}
+.footer.footer-n1 .ft-social ul li a span.footer-twitter-icon{
+/*background: url(https://jep-asset.akamaized.net/jio/svg/jio-apps-icon_03.svg) -33px -91px;*/
+background: url(https://jep-asset.akamaized.net/jio/svgnew/sprite-social-icon.svg) 0px 0px;
+background-size: 132px 32px;
+width: 33px;
+height: 32px;
+}
+.footer.footer-n1 .ft-social ul li a span.footer-fbookter-icon{
+background: url(https://jep-asset.akamaized.net/jio/svgnew/sprite-social-icon.svg) -32px 0px;
+background-size: 132px 32px;
+width: 33px;
+height: 32px;
+}
+.footer.footer-n1 .ft-social ul li a span.footer-youtube-icon{
+background: url(https://jep-asset.akamaized.net/jio/svgnew/sprite-social-icon.svg) -99px 0px;
+background-size: 132px 32px;
+width: 33px;
+height: 32px;
+}
+.footer.footer-n1 .ft-social ul li a span.footer-ista-icon{
+background: url(https://jep-asset.akamaized.net/jio/svgnew/sprite-social-icon.svg) -66px 0px;
+background-size: 132px 32px;
+width: 33px;
+height: 32px;
+display: inline-block;
+vertical-align: bottom;
+}
+</style>
+<style>
+.search-wrap #search-box .search-close-btn {
+background: url(https://jep-asset.akamaized.net/jio/svg/sprite-icon-img.svg) -66px -11px;
+width: 28px;
+height: 28px;
+content: '';
+display: inline-block;
+box-sizing: border-box;
+border: 0;
+top: 6px;
+right: 0px;
+position: absolute;
+background-size: 140px 44px;
+}
+/* added on 13112018 */
+.owl-buttons .owl-next:after, .owl-buttons .owl-prev:after{
+background-image: url(https://jep-asset.akamaized.net/jio/svgnew/arrow_right.svg);
+background-size:30px 30px;
+}
+.owl-buttons .owl-prev:after {
+background-image: url(https://jep-asset.akamaized.net/jio/svgnew/arrow_left.svg);
+background-size:30px 30px;
+}
+span.jiohealthhub{
+background: url(https://jep-asset.akamaized.net/jio/svgnew/jiohealthhub.svg) 0px 0px;
+background-size: 33px 33px;
+width: 33px;
+height: 33px;
+display: inline-block;
+vertical-align: bottom;
+}
+@media screen and (max-width: 1030px){
+.footer.footer-n1 .ft-nav .ft-menu-block h4:before{
+background: url(https://jep-asset.akamaized.net/jio/svgnew/plus-icon.svg) center center no-repeat;
+background-size: 12px 12px;
+}
+.footer.footer-n1 .ft-nav .ft-menu-block h4.closed:before{
+background: url(https://jep-asset.akamaized.net/jio/svgnew/plus-icon.svg) center center no-repeat;
+background-size: 12px 12px;
+}
+}
+@media (max-width: 600px){
+.footer.footer-n1 .ft-social li{
+padding:0px;
+}
+}
+</style>
+<!-- svg img styles end-->
+<style>
+.jio-btn {
+top: 50%;
+left: 50%;
+color: #474082;
+background-color: #fff;
+font-size: 18px;
+position: absolute;
+min-width: 180px;
+cursor: pointer;
+display: none;
+padding: 8px 25px;
+border-radius: 20px;
+border: none;
+font-weight: bold;
+}
+</style>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "Organization",
+"url": "https://www.jio.com",
+"sameAs" : [
+"https://www.facebook.com/Jio",
+"https://twitter.com/reliancejio",
+"https://www.youtube.com/channel/UC7x7gqeQQ5dazPAvDgC7TIw"
+]
+}
+</script>
+<style>
+body{touch-action: manipulation;}
+body,.footer.footer-n1 .ft-nav .ft-menu-content li a, .footer.footer-n1 .ft-nav .ft-menu-block h4, .footer.footer-n1 .ft-social li, 
+.footer.footer-n1 .copy-right, .shop-wrap .shop-grid .shop-grid-title-big
+{color: #333!important;}
+.apps_gallery_wrap .item {
+display: inline-block;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+-ms-box-sizing: border-box;
+-o-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+outline: 0;
+border: none;
+position: relative;
+vertical-align: top;
+width: 100%;
+}
+.apps_gallery_wrap .item .tile-wrap {
+background-color: #FFF;
+border-radius: 10px;
+overflow: hidden;
+position: relative;
+padding-bottom: 20px;
+margin: 0 10px 15px!important;
+min-height: 466px;
+box-shadow: 0 0 1px rgba(0,0,0,.1);
+border: 1px solid #ebebeb!important;
+-webkit-transition-duration: 1s;
+transition-duration: 1s;
+text-align: center;
+}
+</style>
+
+
+<script type="text/javascript">
+function downloadJSAtOnload() {
+var element = document.createElement("script");
+element.src = "/jiostaticresources/js/googleAnalytics.min.js?version=5.0";
+document.body.appendChild(element);
+}
+if (window.addEventListener)
+window.addEventListener("load", downloadJSAtOnload, false);
+else if (window.attachEvent)
+window.attachEvent("onload", downloadJSAtOnload);
+else window.onload = downloadJSAtOnload;
+</script>
+<!-- <script type="text/javascript" src="/jiostaticresources/js/googleAnalytics.min.js?version=5.2"></script>	-->
+<!-- End Data Layer -->
+<!-- Start Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TTJVDJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+var currentLocale="";
+var currentLocation="";
+var isLoggedIn="";
+var currentRandomIDGenerator="anonymous";
+var currentVisitor="prospect";
+//console.log(">>> "+currentVisitor);
+$(document).ready(function(){ 
+if(null!=document.getElementById("loggedIn") && "" != document.getElementById("loggedIn").value){
+isLoggedIn=document.getElementById("loggedIn").value;
+}if(null!=document.getElementById("randomIDGenerator") && "" != document.getElementById("randomIDGenerator").value){
+currentRandomIDGenerator=document.getElementById("randomIDGenerator").value;
+}if(null!=document.getElementById("currentVisitor") && "" != document.getElementById("currentVisitor").value){
+currentVisitor=document.getElementById("currentVisitor").value;
+}
+currentRandomIDGenerator=currentRandomIDGenerator.toLowerCase();
+currentVisitor=currentVisitor.toLowerCase();
+dataLayer = [{
+'Login': currentVisitor,
+'LoginId': currentRandomIDGenerator,
+'eventCategory': 'initialized',
+'eventAction': 'initialized',
+'eventLabel': 'initialized',
+'event': 'initialized',
+'Language' : 'en_US',
+'SelectCircle' : 'null',
+"ecommerce" : "initialized",
+"add" : "initialized",
+"actionField": "initialized",
+"products" : "initialized",
+"currencyCode" : "initialized",
+"id" : "initialized", 
+"name": "initialized", 
+"price": "initialized",
+"brand": "initialized",
+"category": "initialized",
+"checkout": "initialized",
+"click": "initialized",
+"detail": "initialized",
+"variant": "initialized",
+"quantity": "initialized",
+"virtualPageURL": "initialized",
+"virtualPageTitle": "initialized",
+"list": "initialized",
+"position": "initialized",
+"Coupon_Code":'null',
+"Partner":'null'
+}]; 
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TTJVDJ');
+});
+</script>
+<!-- End Google Tag Manager -->
+<div class="wrap-grp">
+<div class="wrap-on">
+<div id="wrap">
+<div class="ytlight-box-overlay" id="slide1-agm">
+<div class="ytlight-box">
+<div class="ytlight-box-close">X</div>
+<iframe width="100%" height="480" src="" frameborder="0" allowfullscreen="" id="playerID1"></iframe>
+</div>
+</div>
+<!-- Wrap Starts --> 
+<div class="main-bg">
+
+<style>
+/* css for sprite 20 aug */
+.site-header-wrap1 .header-logo .header-logo-bg .bg-color1{
+background: url(https://www.jio.com/sprite-icon-img.png) 0px 0px;
+/* remove inline css where image class at 'bg-color1' this class */
+}
+/* css for sprite 20 aug end */
+</style>
+<style>
+@media (max-width: 1030px){
+.quick-pay-drp-desktop {
+display: none !important;
+}
+}
+</style>
+<div class="header-container with-bg">
+<div class="wrapMaxWidth">
+<div class="site-header-wrap1" role="navigation">
+<div class="header-mobile-menu" onclick="myBurgerMenu(this)">
+<div class="bar1"></div>
+<div class="bar2"></div>
+<div class="bar3"></div>
+</div>
+<div class="quick-pay-drp">
+<div class="menu-drp-title">Quick Pay<!-- img src="assets/images/header/down-arrow.png" alt=""/--> </div>
+<div class="menu-drp-content">
+<a href="http://www.jio.com/zla/rechargenow" onclick="triggerslideGA('HP_Product','Shop','http://www.jio.com/zla/rechargenow','Recharge')">
+Recharge
+</a>
+<a href="/Jio/portal/payBillnow" onclick="triggerslideGA('HP_Product','Shop','/Jio/portal/payBillnow','Pay Bill')">
+Pay Bill
+</a>
+</div>
+</div>
+<div id="mobileLoginDiv" style="display:none;">
+<div class="menu-drp-title" id="loggeduserName"><!--img src="assets/images/header/down-arrow.png" alt=""/--> </div>
+<div class="menu-drp-content" style="width:176px;">
+<a href="/Jio/portal/myAccount" onclick="triggerslideGA('HP_Product','Shop','/Jio/portal/myAccount','My Account')">
+My Account
+</a>
+<a href="/Jio/portal/manageAccounts" onclick="triggerslideGA('HP_Product','Shop','/Jio/portal/manageAccounts','Manage Accounts')">
+Manage Accounts
+</a>
+<a href="/Jio/portal/aboutMe" onclick="triggerslideGA('HP_Product','Shop','/Jio/portal/aboutMe','Profile Settings')">
+Profile Settings
+</a>
+<a href="/Jio/portal/trackOrders" onclick="triggerslideGA('HP_Product','Shop','/Jio/portal/trackOrders','My Orders')">
+My Orders
+</a>
+<a href="/Jio/portal/manageSupport" onclick="triggerslideGA('HP_Product','Shop','/Jio/portal/manageSupport','Service Request')">
+Service Request
+</a>
+<a href="/Jio/portal/jioLogin?action=logout" class="Signout" onclick="triggerCommonGA('/Jio/portal/jioLogin?action=logout','/page-not-found.html','Sign out')">
+Sign out
+</a>
+</div>
+</div>
+<div class="header-logo">
+<a href="/" title="Jio">
+<div class="header-logo-bg">
+<div class="bg-color1" style="background-image:url('https://jep-asset.akamaized.net/jio/svg/jio-logo-blue.svg');"></div>
+<div class="bg-color2"></div>
+<div class="bg-color3"></div>
+</div>
+</a>
+</div>
+<div class="header-menu-wrap">
+<div class="header-left-menu">
+<ul>
+<li class="search-icon">
+<a title="" id="search-link" href="#">
+<span>Search</span> <img class="search-black-icon" src="https://jep-asset.akamaized.net/jio/svg/search.svg" alt="" width="" height="">
+</a>
+</li>
+<li class="home">
+<a href="/" title="">
+<span></span> <img class="home-black-icon" src="https://jep-asset.akamaized.net/jio/svg/home_gray.svg" alt="" width="" height="">
+</a>
+</li>
+<li class="activemenu">
+<a href="/en-in/4g-plans" onclick="triggerHeaderFooterGA('Header Clicks','Plans&nbsp;','/en-in/4g-plans',window.location.href)">Plans&nbsp;</a>
+</li>
+<li class="activemenu">
+<a href="/shop/en-in/c/jiofi" onclick="triggerHeaderFooterGA('Header Clicks','Devices','/shop/en-in/c/jiofi',window.location.href)">Devices</a> 
+</li>
+<li class="activemenu">
+<a href="/en-in/apps" onclick="triggerHeaderFooterGA('Header Clicks','Apps&nbsp;','/en-in/apps',window.location.href)">Apps&nbsp;</a>
+</li>
+<li class="activemenu">
+<a href="https://www.jio.com/Jio/portal/storeLocator" onclick="triggerHeaderFooterGA('Header Clicks','Find a Store','https://www.jio.com/Jio/portal/storeLocator',window.location.href)">Find a Store</a> 
+</li>
+<li class="activemenu">
+<a href="/en-in/jio-home-delivery-book-appointment.html" onclick="triggerHeaderFooterGA('Header Clicks','SIM HOME DELIVERY','/en-in/jio-home-delivery-book-appointment.html',window.location.href)">SIM HOME DELIVERY</a>
+</li>
+</ul>
+</div>
+<div class="header-right-menu">
+<ul>
+<li id="How can we help you?" class="activemenu">
+<a href="/en-in/selfhelp" onclick="triggerHeaderFooterGA('Header Clicks','Support','/en-in/selfhelp',window.location.href)">Support</a>
+</li>
+<li id="SignIn" class="activemenu">
+<a href="https://www.jio.com/JioWebApp/index.html?root=login" onclick="triggerHeaderFooterGA('Header Clicks','SignIn','https://www.jio.com/JioWebApp/index.html?root=login',window.location.href)">Sign In</a> 
+</li>
+<li id="addLi" class="activemenu quick-pay-drp-desktop"><a title="Quick Pay" href="javascript:void(0);">Quick Pay</a>
+<div class="menu-drp-content-desktop">
+<a href="http://www.jio.com/zla/rechargenow" onclick="triggerslideGA('HP_Product','Shop','http://www.jio.com/zla/rechargenow','Recharge')">
+Recharge
+</a>
+<a href="/Jio/portal/payBillnow" onclick="triggerslideGA('HP_Product','Shop','/Jio/portal/payBillnow','Pay Bill')">
+Pay Bill
+</a>
+</div>
+</li>
+<li class="activemenu quick-pay-drp-desktop" id="LoggedInLI" style="display:none;"><a title="Quick Pay" href="#"><strong class="name-select" id="loginUserName"></strong></a>
+<div class="menu-drp-content-desktop" style="width:160px;">
+<a href="/Jio/portal/myAccount" onclick="triggerslideGA('HP_Product','Shop','/Jio/portal/myAccount','My Account')">
+My Account
+</a>
+<a href="/Jio/portal/manageAccounts" onclick="triggerslideGA('HP_Product','Shop','/Jio/portal/manageAccounts','Manage Accounts')">
+Manage Accounts
+</a>
+<a href="/Jio/portal/aboutMe" onclick="triggerslideGA('HP_Product','Shop','/Jio/portal/aboutMe','Profile Settings')">
+Profile Settings
+</a>
+<a href="/Jio/portal/trackOrders" onclick="triggerslideGA('HP_Product','Shop','/Jio/portal/trackOrders','My Orders')">
+My Orders
+</a>
+<a href="/Jio/portal/manageSupport" onclick="triggerslideGA('HP_Product','Shop','/Jio/portal/manageSupport','Service Request')">
+Service Request
+</a>
+<a href="/Jio/portal/jioLogin?action=logout" class="Signout" onclick="triggerCommonGA('/Jio/portal/jioLogin?action=logout','/page-not-found.html','Sign out')">
+Sign out
+</a>
+</div>
+</li>
+<li class="activemenu">
+<a href="/shop/cart" onclick="triggerHeaderFooterGA('Header Clicks','Cart','/shop/cart',window.location.href)">Cart <strong id="cartCountNew">0</strong></a> 
+</li>
+
+<li class="search-icon">
+<a title="Search" id="search-link" href="#">
+<img class="search-black-icon" src="https://jep-asset.akamaized.net/jio/svg/search.svg" alt="" width="" height="">
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>	
+</div>
+</div>
+<div class="header-top-space"></div>
+<script>
+$(document).ready(function(){
+var randomnum = Math.random(); 
+var scheme = window.location.protocol;
+if('https:'==scheme){
+$.ajax({ url: '/Jio/authJsonData?param='+randomnum,
+success:function(result){
+var responseJSON = JSON.parse(result);
+var cartCount=responseJSON.cartReturnCount;
+if(cartCount==''){
+$('#cartCountNew').html('0');
+}else{
+$('#cartCountNew').html(responseJSON.cartReturnCount);
+}
+if(responseJSON.loginFlag=='true'){
+$('#randomIDGenerator').val(responseJSON.customerId);
+$('#currentVisitor').val('Customer');
+$('#addLi').hide(); 
+$("#LoggedInLI").show();
+var showChar;
+var spaceBreak=4;
+if($(window).width()>480 && $(window).width()<=640){
+showChar =20;
+}
+else if($(window).width()>375 && $(window).width()<=480){
+showChar=15;
+}
+else if($(window).width()>320 && $(window).width()<=375){
+showChar=10;
+}
+else if($(window).width()<=320){
+showChar=9;
+}
+else{
+showChar =25; 
+}
+var actualContent=responseJSON.firstName;
+var subStringContent= actualContent.substr(spaceBreak, actualContent.length-1);
+var spaceindex = subStringContent.indexOf(' ')+spaceBreak;
+if( spaceindex < showChar && spaceindex > spaceBreak){ /**if spaceindex is more than of responsive index maintain response size only */
+showChar = spaceindex;
+}
+if(actualContent.length > showChar) {
+var trimText = actualContent.substr(0, showChar);
+//console.log('trimText'+trimText+"...");
+$("#loginUserName").html(trimText+"...");
+$('#loggeduserName').html(trimText+"...");
+}else{
+//console.log('actualContent'+actualContent);
+$("#loginUserName").html(actualContent);
+$('#loggeduserName').html(actualContent);
+}
+//$("#loginUserName").html(responseJSON.firstName);
+//$('#loggeduserName').html(responseJSON.firstName);
+//$('#addLi').replaceWith($("#LoggedInLI").html()); 
+$('.quick-pay-drp').html($('#mobileLoginDiv').html());
+$('#SignIn').hide();
+}
+}
+});	
+}
+//Removing below unnecessary Divs
+$('.start-content1').remove();
+$('#anchor1').remove();
+$(".search-black-icon").click(function(){
+$('.search-wrap').show();
+});
+$(".search-close-btn").click(function(){
+$('.search-wrap').hide();
+});
+}); 
+</script>
+<!-- Start Content Container -->
+
+</div>
+<div class="homepage" role="main">
+<style>
+.carosel-spech-vdo{
+display: table;
+margin: 0 auto;
+width: 100%;
+left: 0 !important;
+text-align: center;
+}
+@media (max-width: 900px){
+.btn-wrap.btn-hny1.carosel-spech-vdo{top:43%}
+}
+@media (max-width: 640px){
+.btn-wrap.btn-hny1.carosel-spech-vdo{top:35%}
+}
+.download-app {
+background-color: #2149a1;
+width:100%;
+float:left;
+text-align:center;
+}
+@media (max-width:360px) {
+.download-app img {
+width: 100%;
+padding: 0px 35px;
+}
+}
+</style>
+<script type="text/javascript">
+var smallImageUrl='/mobileweb_400x640.jpg';
+var midImageUrl='/tablet_768x800.jpg';
+var bigImageUrl='/desktoooop_1440x650.jpg';
+</script>
+<div class="apps_banner_wrap digital-gallery-10">
+<div id="apps-new-banner" class="owl-carousel owl-theme" style="opacity: 0; display: block;">
+<div class="owl-wrapper-outer"><div class="owl-wrapper owl-origin" style="width: 10990px; left: 0px; display: block; transition: all 0ms ease 0s; transform: translate3d(-785px, 0px, 0px); transform-origin: 1177.5px center; perspective-origin: 1177.5px center;"><div class="owl-item owl-fade-out" style="width: 785px; position: relative; left: 785px;"><div class="item default_cursor" title="Jio Sim Home Delivery" onclick="location.href=('/en-in/jio-home-delivery-book-appointment.html')" style="cursor:pointer !important" data-slot="1">
+<img class="data-img" src="/mobileweb_400x640.jpg" title="Jio Sim Home Delivery Home Banner" data-sml="/mobileweb_400x640.jpg" data-med="/tablet_768x800.jpg" data-lrg="/desktoooop_1440x650.jpg">
+</div></div><div class="owl-item owl-fade-in" style="width: 785px;"><div class="item default_cursor" title="Jio Cinema Avengers" onclick="location.href=('http://bit.ly/jiowebsite')" style="cursor:pointer !important" data-slot="2">
+<img class="data-img" src="/website_banner_mobile_avengers_400_640_27122018.jpg" title="Jio JioCinema Avengers" data-sml="/website_banner_mobile_avengers_400_640_27122018.jpg" data-med="/website_banner_mobile_avengers_768_800_27122018.jpg" data-lrg="/website_banner_desktop_avengers_1440_650_27122018.jpg">
+</div></div><div class="owl-item" style="width: 785px;"><div class="item default_cursor" title="JioSaavn" onclick="location.href=('/en-in/apps/jio-saavn')" style="cursor:pointer !important" data-slot="3">
+<img class="data-img" src="/js-mobile-hp_400x640.jpg" title="JioSaavn" data-sml="/js-mobile-hp_400x640.jpg" data-med="/js-tab_hp-768x800.jpg" data-lrg="/js-desktop-hp_1440x650.jpg">
+</div></div><div class="owl-item" style="width: 785px;"><div class="item default_cursor" data-slot="4">
+<div class="pos_relative">
+<div class="img3-desktop">
+<button type="button" title="" class="jio-btn" style="top: 85%; left: 48%; color: rgb(255, 255, 255); font-size: 22px; background-color: rgb(246, 0, 0) !important; display: inline-block;" onclick="location.href=('https://www.jio.com/shop/buy-jio-phone-2?_ga=2.222901272.263597909.1536125678-487523261.1516170682')">
+KNOW MORE	
+</button>
+<button type="button" title="" class="jio-btn" style="top: 85%; left: 48%; color: rgb(255, 255, 255); font-size: 22px; background-color: rgb(246, 0, 0) !important; display: inline-block;" onclick="location.href=('https://www.jio.com/shop/buy-jio-phone-2?_ga=2.222901272.263597909.1536125678-487523261.1516170682')">
+KNOW MORE	
+</button>
+</div>
+<div class="img3-tablet">
+<button type="button" title="" class="jio-btn" style="top: 90%; left: 39%; color: rgb(255, 255, 255); font-size: 18px; background-color: rgb(246, 0, 0) !important; display: inline-block;" onclick="location.href=('https://www.jio.com/shop/buy-jio-phone-2?_ga=2.222901272.263597909.1536125678-487523261.1516170682')">
+KNOW MORE	
+</button>
+<button type="button" title="" class="jio-btn" style="top: 90%; left: 39%; color: rgb(255, 255, 255); font-size: 18px; background-color: rgb(246, 0, 0) !important; display: inline-block;" onclick="location.href=('https://www.jio.com/shop/buy-jio-phone-2?_ga=2.222901272.263597909.1536125678-487523261.1516170682')">
+KNOW MORE	
+</button>
+</div>
+<!--<tablet end>-->
+<!--<mobile>-->
+<div class="img3-mobile">
+<button type="button" title="" class="jio-btn" style="top: 87%; left: 30%; color: rgb(255, 255, 255); font-size: 15px; min-width: 130px; background-color: rgb(246, 0, 0) !important; display: inline-block;" onclick="location.href=('https://www.jio.com/shop/buy-jio-phone-2?_ga=2.222901272.263597909.1536125678-487523261.1516170682')">
+KNOW MORE	
+</button>
+<button type="button" title="" class="jio-btn" style="top: 87%; left: 30%; color: rgb(255, 255, 255); font-size: 15px; min-width: 130px; background-color: rgb(246, 0, 0) !important; display: inline-block;" onclick="location.href=('https://www.jio.com/shop/buy-jio-phone-2?_ga=2.222901272.263597909.1536125678-487523261.1516170682')">
+KNOW MORE	
+</button>
+</div>
+<img class="data-img" src="/flash-sale-28feb-mobile.jpg" alt="" title="" data-sml="/flash-sale-28feb-mobile.jpg" data-med="/flash-sale-28feb-tab.jpg" data-lrg="/flash-sale-28feb-desktop.jpg">
+</div>
+</div></div><div class="owl-item" style="width: 785px;"><div class="item default_cursor" title="1 Year unlimited voice + data" onclick="location.href=('http://www.jio.com/zla/rechargenow?ptab=PLANS&amp;planId=1004907')" style="cursor:pointer !important" data-slot="5">
+<img class="data-img" src="/mobile_web_400x640_jio_1699_annual_plan.jpg" title="one year unlimited voice &amp; data" data-sml="/mobile_web_400x640_jio_1699_annual_plan.jpg" data-med="/tab_768x800_jio_1699_annual_plan.jpg" data-lrg="/desktop_1440x650_jio_1699_annual_plan-new.jpg">
+</div></div><div class="owl-item" style="width: 785px;"><div class="item default_cursor" title="Jio Diwali Dhamaka" onclick="location.href=('/en-in/jio-special-offers')" style="cursor:pointer !important" data-slot="6">
+<img class="data-img" src="/jiospecialoffer_mobile_400x640px.jpg" title="Jio Diwali Dhamaka" data-sml="/jiospecialoffer_mobile_400x640px.jpg" data-med="/jiospecialoffer_offerpage_tab_768x800px.jpg" data-lrg="/jiospecialoffer_offer-page_desktop_1440x650px.jpg">
+</div></div><div class="owl-item" style="width: 785px;"><div class="item default_cursor" title="Jio GigaFiber" onclick="location.href=('https://gigafiber.jio.com/?utm_source=jiocom&amp;utm_medium=banner&amp;utm_campaign=register-interest&amp;utm_content=jiocom&amp;utm_term=20180815')" style="cursor:pointer !important" data-slot="7">
+<img class="data-img" src="/jio_giga_fiber_website_banner_mobbile_web_400_640_15082018.jpg" title="Jio GigaFiber" data-sml="/jio_giga_fiber_website_banner_mobbile_web_400_640_15082018.jpg" data-med="/jio_giga_fiber_website_banner_tabblet_768_800_15082018.jpg" data-lrg="/gigafiber-desktop_1440x650.jpg">
+</div></div></div></div>
+
+
+
+
+
+
+<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page"><span class=""></span></div><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+<div class="home-clear"></div>
+</div>
+<div class="download-app os-available">
+<a href="/Jio/portal/getMyJio" title=""><img src="https://jep-asset.akamaized.net/jio/svg/download_myJio.svg" alt="" width="" height="" class="icon-download-myjioapp"></a>
+</div>
+<script type="text/javascript">
+function rechargenow(){
+var href = window.location.href;
+if(href.indexOf("param1") != -1) {
+var param = href.split('param1=');
+window.open("/Jio/portal/primeRecharge?param1="+param[1],"_self");
+}else{ 
+var xhr = new XMLHttpRequest();
+var randomnum = Math.random();
+xhr.onload = function() {
+var obj = JSON.parse(this.responseText);
+if(!(obj.hasOwnProperty('success'))){
+if(obj.hasOwnProperty('sessionAttributes')&&obj.sessionAttributes.hasOwnProperty("user")&&obj.sessionAttributes.user.hasOwnProperty("subscriberId")){
+var subId = obj.sessionAttributes.user.subscriberId;
+if(subId){
+window.open("/Jio/portal/primeRecharge?refid="+subId,"_self");
+}else{
+window.open("/Jio/portal/primeRecharge" , "_self");
+}
+}else{
+window.open("/Jio/portal/primeRecharge" , "_self");
+}
+}
+else{
+window.open("/Jio/portal/primeRecharge" , "_self");
+}
+};
+xhr.onerror = function() {
+window.open("/Jio/portal/primeRecharge" , "_self");
+};
+xhr.open('GET','http://api.jio.com/v2/users/me?param='+randomnum, true);
+xhr.withCredentials = true;
+xhr.send(null);
+}
+}
+</script> 
+<div id="call_us_popup_txt">
+<span class="call_us_title">Questions? Call us</span>
+<span class="call_us_no">1800 88 99999</span>
+</div>
+<div id="call_us_popup">
+<div class="call_us_popup_wrap">
+</div>
+</div> 
+<div class="clear"></div>
+<div class="clear"></div>
+<style>
+.main-tariff-container .td-inner:first-child {
+border-right: 0px solid #ccc;
+}
+.main-tariff-container .td-inner:last-child {
+border-left: 0px solid #ccc;
+}
+</style>
+<div class="main-tariff-container">
+<div class="row tariff-heading">
+<h2>JIO TARIFF PLANS</h2>
+</div>
+<div class="table-tariff-panel">
+<table>
+<tbody><tr>
+<td valign="top">
+<div class="td-inner">
+<div class="round-txt-panel">
+<span class="round-txt">1</span>
+</div>
+<h3>FREE VOICE<br>PROMISE</h3>	
+<div class="td-list-plans">
+<ul>
+<li>
+Free Local Calls</li>
+<li>
+Free STD Calls</li>
+<li>
+Free Roaming Calls<br>
+(Incoming + Outgoing)</li>
+<li>
+To any network</li>
+<li>
+Anywhere in India</li>
+</ul>
+</div>
+</div>
+</td>
+<td valign="top">
+<div class="td-inner">
+<div class="round-txt-panel">
+<span class="round-txt">2</span>
+</div>
+<h3>EVERYDAY<br>MORE VALUE</h3>
+<div class="list-plans-img">
+<img class="lazyload" data-src="https://jep-asset.akamaized.net/jio/svg/every-day.svg" width="156px" height="160px"> 
+</div>
+<div class="info-title-bottom">
+20% more Data than<br>competition, always
+</div>
+</div>
+</td>
+<td valign="top">
+<div class="td-inner">
+<div class="round-txt-panel">
+<span class="round-txt">3</span>
+</div>
+<h3>JIO PRIME<br>MEMBERSHIP</h3>
+<div class="list-plans-img">
+<img class="lazyload" data-src="https://jep-asset.akamaized.net/jio/svg/jio-prime.svg" width="204px" height="160px">
+</div>
+<div class="info-title-bottom">
+Unlimited maza<br>Continue hoynga!
+</div>
+</div>
+</td>	
+</tr></tbody></table>
+</div></div>
+<style>
+.main-tariff-container .td-inner:first-child {
+border-right: 0px solid #ccc;
+}
+.main-tariff-container .td-inner:last-child {
+border-left: 0px solid #ccc;
+}
+</style>
+<div class="da-prime-network">
+<div class="desktop lazyload" title="4g network in india" data-bg="/desktop-worlds-largest-network-banner.jpg"></div>
+<div class="tablet lazyload" title="4g network in india" data-bg="/tab-worlds-largest-network-banner.jpg"></div>
+<div class="mobile lazyload" title="4g network in india" data-bg="/mobile-worlds-largest-network-banner-21apr.jpg"></div>
+<div class="da-prime-network-wrap">
+<div class="da-prime-network-txt">
+<h1>The World's Largest <div>Data Network</div> <span style="font-size:12px;">Based on Mobile Data Consumption</span></h1>
+<div class="prime-bottom-panel">
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="clear"></div>
+<div class="clear"></div>
+<div class="clear"></div>
+<div class="component-bg">
+<div class="container-shop">
+<div class="row shop-wrap">	
+<div class="row">	
+<div class="shop-grid-main-title" name="4gsmartphones" id="4gsmartphones">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-space"> 
+<h2 class="top-bottom">Affordable, cutting-edge devices</h2>
+</div>
+</div>	
+</div><!--end main title-->
+<div class="clear"></div>
+<!-- new html start here -->
+<div class="row">
+<style>
+.top-space-100{
+padding-top:100px !important;
+}
+#show-default-devices img{
+width:auto;
+max-width:100%;
+height:auto;
+}
+@media (max-width: 600px){
+.jio-apps-details .jio-table.explore .jio-td:first-child {
+padding: 106px 0px 0px 0px !important; 
+}
+}
+@media (max-width: 400px){
+.container-shop h2 {
+font-size: 20px !important; 
+}
+}
+.container-shop h2{font-size: 20px !important; line-height:26px !important;}
+</style>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 no-space clearfix">
+<div class="shop-grid">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-space">
+<div class="content" style="height:auto;">
+<div class="shop-grid-title-big text-center"><h2 id="jiohappynewyearoffer">Is your smartphone ready for Jio’s True 4G Internet?</h2></div>
+<div class="copy-space-top-n"><p>To enjoy our network at its fullest use a 4G-LTE smartphone.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 top_bottom_space">
+<!--<search filter>-->
+<div class="no-space">
+<div class="row">
+<div class="col-lg-6 col-sm-6 col-md-6 col-xs-12" style="z-index:4">
+<section id="custom-select1" class="custom-select">
+<select id="filter-brand" name="" placeholder="Select your Brand" onchange="filterRequest(this.value)" style="display: none;">
+<option selected="selected" value="All Devices" id="All Devices">Select Brand</option>
+<option value="LYF" id="1400169542647">LYF</option>
+<option value="Samsung" id="1400169548989">Samsung</option>
+<option value="Acer" id="1461055159731">Acer</option>
+<option value="AGM" id="1461078919322">AGM</option>
+<option value="Alcatel" id="1400169553275">Alcatel</option>
+<option value="Alive" id="1461078922454">Alive</option>
+<option value="Amazon" id="1461059382607">Amazon</option>
+<option value="Apple" id="1461056604885">Apple</option>
+<option value="Aqua" id="1461079062107">Aqua</option>
+<option value="Asus" id="1400169552686">Asus</option>
+<option value="Benq" id="1461063722924">Benq</option>
+<option value="Beldar" id="1461079000602">Beldar</option>
+<option value="BlackBerry" id="1461055120076">BlackBerry</option>
+<option value="Blackview" id="1461063715870">Blackview</option>
+<option value="BLU" id="1461059384215">BLU</option>
+<option value="BenWee" id="1461079000252">BenWee</option>
+<option value="CAT" id="1461079003014">CAT</option>
+<option value="Celkon" id="1400169549699">Celkon</option>
+<option value="Centric" id="1461063736295">Centric</option>
+<option value="Clout Mobile" id="1461079072555">Clout Mobile</option>
+<option value="Comio" id="1461063741648">Comio</option>
+<option value="Coolpad" id="1400169549128">Coolpad</option>
+<option value="Creo" id="1461059384474">Creo</option>
+<option value="Datawind" id="1461078984042">Datawind</option>
+<option value="Do Mobiles" id="1461079078900">Do Mobiles</option>
+<option value="Doogee" id="1461078984624">Doogee</option>
+<option value="Elephone" id="1461059385334">Elephone</option>
+<option value="Exmart" id="1461079079706">Exmart</option>
+<option value="Forme" id="1461079080377">Forme</option>
+<option value="G-Vill" id="1461063735206">G-Vill</option>
+<option value="Geepee" id="1461078985265">Geepee</option>
+<option value="GGS" id="1461078985488">GGS</option>
+<option value="Gionee" id="1400169549941">Gionee</option>
+<option value="Gome" id="1461081849039">Gome</option>
+<option value="Good One" id="1461059385356">Good One</option>
+<option value="Google" id="1461056988327">Google</option>
+<option value="Greenberry" id="1461079083980">Greenberry</option>
+<option value="Hi-Tech" id="1461059385379">Hi-Tech</option>
+<option value="Homtom" id="1461082235614">Homtom</option>
+<option value="HTC" id="1400169549930">HTC</option>
+<option value="Huawei" id="1400169549289">Huawei</option>
+<option value="Hyundai" id="1461063744899">Hyundai</option>
+<option value="Hyve" id="1461063747111">Hyve</option>
+<option value="iBall" id="1461055104193">iBall</option>
+<option value="iBerry" id="1461059385403">iBerry</option>
+<option value="Ikall" id="1461063812666">Ikall</option>
+<option value="Indus" id="1461063752759">Indus</option>
+<option value="Infinix" id="1461063813086">Infinix</option>
+<option value="Infocus" id="1400169551338">Infocus</option>
+<option value="Intex" id="1400169549501">Intex</option>
+<option value="i-Smart" id="1461079179572">i-Smart</option>
+<option value="Itel" id="1461054866670">Itel</option>
+<option value="Invens" id="1461078990490">Invens</option>
+<option value="iVooMi" id="1461063800584">iVooMi</option>
+<option value="Jivi" id="1461063801549">Jivi</option>
+<option value="Karbonn" id="1400169552457">Karbonn</option>
+<option value="Kekai" id="1461078989887">Kekai</option>
+<option value="Kenxinda" id="1461057198465">Kenxinda</option>
+<option value="Kult" id="1461057198506">Kult</option>
+<option value="Kara" id="1461063802473">Kara</option>
+<option value="Kodak" id="1461063798745">Kodak</option>
+<option value="Kyocera" id="1461063775775">Kyocera</option>
+<option value="Lava" id="1400169551891">Lava</option>
+<option value="LeEco" id="1461054866854">LeEco</option>
+<option value="Lephone" id="1461056779473">Lephone</option>
+<option value="Lemon" id="1461078920851">Lemon</option>
+<option value="Lenovo" id="1400169551255">Lenovo</option>
+<option value="LG" id="1400169551657">LG</option>
+<option value="Mafe" id="1461078991974">Mafe</option>
+<option value="Maze" id="1461078991070">Maze</option>
+<option value="Mediatek" id="1461079111206">Mediatek</option>
+<option value="Meizu" id="1461056947480">Meizu</option>
+<option value="Micromax" id="1400169552327">Micromax</option>
+<option value="Microsoft" id="1461059385802">Microsoft</option>
+<option value="Mobiistar" id="1461079119277">Mobiistar</option>
+<option value="Motorola" id="1400169549117">Motorola</option>
+<option value="M-Horse" id="1461078973335">M-Horse</option>
+<option value="Mphone" id="1461063788254">Mphone</option>
+<option value="MSG" id="1461078918353">MSG</option>
+<option value="M-Tech" id="1461079199445">M-Tech</option>
+<option value="Nextbit" id="1400169549381">Nextbit</option>
+<option value="Nokia" id="1461063787604">Nokia</option>
+<option value="NUU" id="1461079121570">NUU</option>
+<option value="Nubia" id="1461056946482">Nubia</option>
+<option value="Obi" id="1400169549583">Obi</option>
+<option value="Okwu" id="1461063786184">Okwu</option>
+<option value="Oneplus" id="1400169549109">Oneplus</option>
+<option value="Oppo" id="1461054897031">Oppo</option>
+<option value="Onida" id="1400169550804">Onida</option>
+<option value="Oukitel" id="1461063780983">Oukitel</option>
+<option value="Panasonic" id="1400169547149">Panasonic</option>
+<option value="Pepsi" id="1461063784347">Pepsi</option>
+<option value="Phicomm" id="1461059385855">Phicomm</option>
+<option value="Philips" id="1461059385828">Philips</option>
+<option value="Qiku" id="1461063787024">Qiku</option>
+<option value="Reach" id="1461055148791">Reach</option>
+<option value="Realme" id="1461077853769">Realme</option>
+<option value="Salora" id="1461079198302">Salora</option>
+<option value="Sansui" id="1400169549136">Sansui</option>
+<option value="Seeken" id="1461057221435">Seeken</option>
+<option value="Smartron" id="1400169551370">Smartron</option>
+<option value="Sony" id="1400169551264">Sony</option>
+<option value="Spice" id="1461057221662">Spice</option>
+<option value="Spinup" id="1461082286918">Spinup</option>
+<option value="SSky" id="1461079217654">SSky</option>
+<option value="STK" id="1461079217859">STK</option>
+<option value="Swipe" id="1461055105519">Swipe</option>
+<option value="Tambo" id="1461080200968">Tambo</option>
+<option value="TCL" id="1400169551745">TCL</option>
+<option value="Tecno" id="1461063744845">Tecno</option>
+<option value="Tenor" id="1461063741249">Tenor</option>
+<option value="TP-Link" id="1461057221893">TP-Link</option>
+<option value="Trio" id="1461079217932">Trio</option>
+<option value="Ui" id="1461078920166">Ui</option>
+<option value="Ulephone" id="1461057221955">Ulephone</option>
+<option value="Vernee" id="1461063740057">Vernee</option>
+<option value="Vertu" id="1461057221996">Vertu</option>
+<option value="Vivo" id="1400169551604">Vivo</option>
+<option value="Videocon" id="1400169549200">Videocon</option>
+<option value="Voto" id="1461079218008">Voto</option>
+<option value="Wibridge" id="1461059152295">Wibridge</option>
+<option value="Wickedleak" id="1461063789339">Wickedleak</option>
+<option value="Wishtel" id="1461057222038">Wishtel</option>
+<option value="World" id="1461063790743">World</option>
+<option value="Xiaomi" id="1461054866619">Xiaomi</option>
+<option value="Xolo" id="1400169551285">Xolo</option>
+<option value="Yuho" id="1461079218088">Yuho</option>
+<option value="Zen" id="1461054868216">Zen</option>
+<option value="Ziox" id="1400169549717">Ziox</option>
+<option value="Zopo" id="1461056863155">Zopo</option>
+<option value="ZTE" id="1461059382284">ZTE</option>
+</select><div class="zelect"><div class="zelected">Select Brand</div><div class="dropdown" style="display: none;"><div class="zearch-container"><input placeholder="Search" class="zearch"><div class="no-results" style="display: none;"></div></div><ol><li class="current">Select Brand</li><li>LYF</li><li>Samsung</li><li>Acer</li><li>AGM</li><li>Alcatel</li><li>Alive</li><li>Amazon</li><li>Apple</li><li>Aqua</li><li>Asus</li><li>Benq</li><li>Beldar</li><li>BlackBerry</li><li>Blackview</li><li>BLU</li><li>BenWee</li><li>CAT</li><li>Celkon</li><li>Centric</li><li>Clout Mobile</li><li>Comio</li><li>Coolpad</li><li>Creo</li><li>Datawind</li><li>Do Mobiles</li><li>Doogee</li><li>Elephone</li><li>Exmart</li><li>Forme</li><li>G-Vill</li><li>Geepee</li><li>GGS</li><li>Gionee</li><li>Gome</li><li>Good One</li><li>Google</li><li>Greenberry</li><li>Hi-Tech</li><li>Homtom</li><li>HTC</li><li>Huawei</li><li>Hyundai</li><li>Hyve</li><li>iBall</li><li>iBerry</li><li>Ikall</li><li>Indus</li><li>Infinix</li><li>Infocus</li><li>Intex</li><li>i-Smart</li><li>Itel</li><li>Invens</li><li>iVooMi</li><li>Jivi</li><li>Karbonn</li><li>Kekai</li><li>Kenxinda</li><li>Kult</li><li>Kara</li><li>Kodak</li><li>Kyocera</li><li>Lava</li><li>LeEco</li><li>Lephone</li><li>Lemon</li><li>Lenovo</li><li>LG</li><li>Mafe</li><li>Maze</li><li>Mediatek</li><li>Meizu</li><li>Micromax</li><li>Microsoft</li><li>Mobiistar</li><li>Motorola</li><li>M-Horse</li><li>Mphone</li><li>MSG</li><li>M-Tech</li><li>Nextbit</li><li>Nokia</li><li>NUU</li><li>Nubia</li><li>Obi</li><li>Okwu</li><li>Oneplus</li><li>Oppo</li><li>Onida</li><li>Oukitel</li><li>Panasonic</li><li>Pepsi</li><li>Phicomm</li><li>Philips</li><li>Qiku</li><li>Reach</li><li>Realme</li><li>Salora</li><li>Sansui</li><li>Seeken</li><li>Smartron</li><li>Sony</li><li>Spice</li><li>Spinup</li><li>SSky</li><li>STK</li><li>Swipe</li><li>Tambo</li><li>TCL</li><li>Tecno</li><li>Tenor</li><li>TP-Link</li><li>Trio</li><li>Ui</li><li>Ulephone</li><li>Vernee</li><li>Vertu</li><li>Vivo</li><li>Videocon</li><li>Voto</li><li>Wibridge</li><li>Wickedleak</li><li>Wishtel</li><li>World</li><li>Xiaomi</li><li>Xolo</li><li>Yuho</li><li>Zen</li><li>Ziox</li><li>Zopo</li><li>ZTE</li></ol></div></div>	
+</section>
+<div class="clear"></div>
+</div>
+<div class="col-lg-6 col-sm-6 col-md-6 col-xs-12 ">
+<section id="custom-select2" class="custom-select" style="display: none;">
+</section>
+</div>
+</div>
+</div>
+<!--<search filter end>-->
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-space">
+<div class="content top_space_10">
+<div class="show-text-space red box" id="show-own-devices" style="display:none;">
+<ul>	
+<li>
+<span><img src="https://jep-asset.akamaized.net/jio/svg/icon-green.svg" alt="" width="" height=""></span>
+<span>4G VoLTE</span>
+</li>
+<br class="clear">
+</ul>	
+<div class="text-first">Congratulations! <br> Your device is ready for a Jio SIM. 
+</div>
+<div class="text-second">	
+<div class="comptabile-device volte" style="display:none">
+Download MyJio App <br>Activate Jio SIM | Enjoy Jio Service.
+</div>
+<div class="comptabile-device lte" style="display:none">
+Download MyJio App <br>Activate Jio SIM | Install Jio4GVoice app to enjoy Jio Service.
+</div>
+</div>	
+<div class="img-section-icon comptabile-device">
+<a href="https://click.google-analytics.com/redirect?tid=UA-56816637-12&amp;url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fmyjio%2Fid1074964262&amp;aid=com.jio.myjio&amp;idfa=%{idfa}&amp;cs=jiocom&amp;cm=website&amp;cn=launch&amp;cc=20160713&amp;ck=main-app-page-itunes" title="" target="_blank"><img src="https://jep-asset.akamaized.net/jio/svg/app_store.svg" alt="" width="" height=""></a>
+<a href="https://play.google.com/store/apps/details?id=com.jio.myjio" title="" target="_blank"><img src="https://jep-asset.akamaized.net/jio/svg/google-play.svg" alt="" width="" height=""></a>
+</div>	
+</div>
+<!--display device image-->
+<div class="text-center" id="show-default-devices" style="display:block;">
+<img class="lazyload" alt="4g compatible smartphones" data-src="/default-device-image.jpg" width="" height="">
+</div>
+<!--show for iphone-->
+<div class="show-text-space green box" id="show-others-devices" style="display:none;">
+<ul>
+<li>
+<span>
+<img src="https://jep-asset.akamaized.net/jio/svg/icon-green.svg" width="" height="">
+</span>
+<span>4G LTE</span>
+</li>
+<li>
+<span>
+<img src="https://jep-asset.akamaized.net/jio/svg/icon-close.svg" width="" height="">
+</span>	
+<span>4G VoLTE</span>
+</li>
+<br class="clear">
+</ul>	
+<div class="text-first">Congratulations! <br> Your device is ready for a Jio SIM. </div>
+<div class="text-second">
+<div class="comptabile-device volte" style="display:none">
+Download MyJio App <br>Activate Jio SIM | Enjoy Jio Service.
+</div>
+<div class="comptabile-device lte" style="display:none">
+Download MyJio App <br>Activate Jio SIM | Install Jio4GVoice app to enjoy Jio Service.
+</div>
+</div>	
+<div class="img-section-icon comptabile-device">
+<a href="https://click.google-analytics.com/redirect?tid=UA-56816637-12&amp;url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fmyjio%2Fid1074964262&amp;aid=com.jio.myjio&amp;idfa=%{idfa}&amp;cs=jiocom&amp;cm=website&amp;cn=launch&amp;cc=20160713&amp;ck=main-app-page-itunes" title="" target="_blank"><img src="https://jep-asset.akamaized.net/jio/svg/app_store.svg" alt="" width="" height=""></a>
+<a href="https://play.google.com/store/apps/details?id=com.jio.myjio" title="" target="_blank"><img src="https://jep-asset.akamaized.net/jio/svg/google-play.svg" alt="" width="" height=""></a>
+</div>	
+</div>
+<div class="comptabile-device">	
+For best performance, ensure your phone has the latest software.	
+</div> 
+</div>
+</div>
+</div>
+</div>
+</div>
+<div onclick="location.href=('/en-in/jiophone?utm_source=jiocom&amp;utm_medium=devicebanner1&amp;utm_campaign=jiophone&amp;utm_term=20181004&amp;utm_content=register-interest')" class="col-lg-3 col-md-3 col-sm-6 col-xs-6 grid-fullwidth no-space" style="cover; cursor:pointer;">
+<div class="shop-grid hotspot lazyload" title="JioPhone Monsoon Hungama" data-bg="/jioooophone-298x398.jpg" style="background-position:center;background-size: cover">
+<div class="shop-grid-title" style="text-align:center; width:auto;">
+</div>
+</div>
+</div>
+<div onclick="location.href=('/shop/buy-apple-iphone-xs-apple-iphone-xs-max-apple-iphone-xr')" class="col-lg-3 col-md-3 col-sm-6 col-xs-6 grid-fullwidth no-space" style="cover; cursor:pointer;">
+<div class="shop-grid hotspot lazyload" title="IPhone XS" data-bg="/home_iphone-small-img.png" style="background-position:center;background-size: cover">
+<div class="shop-grid-title" style="text-align:center; width:auto;">
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 grid-fullwidth no-space">
+</div>
+</div>
+<!-- new html end here -->
+<!--end row public hotspot-->
+<!--end button-->
+</div>
+<!--end row shop wrap-->
+</div>
+<div style="text-align: center;font-size: medium;margin-top: -33px;">
+Disclaimer: RJIL does not sell devices. Devices are sold by the device manufacturers / retailers.
+</div>
+<script>
+/*Custom dropdown js start*/
+$(document).ready(function(){
+$(setup) 
+function setup() { 
+$('#custom-select select').zelect({ placeholder:'Select your State' })
+}; 
+}); 
+$(document).ready(function(){
+$(setup) 
+function setup() { 
+$('#custom-select1 select').zelect({ placeholder:'Brand' })
+}; 
+});
+$(document).ready(function(){
+$(setup) 
+function setup() { 
+$('#custom-select2 select').zelect({ placeholder:'Model' })
+}; 
+}); 
+/*Custom dropdown js ends*/
+function filterRequest(filterString) {
+if(filterString == 'All Devices') {
+//$(".grid-fullwidth").show();
+$("#show-own-devices").hide();
+$("#show-others-devices").hide();
+$("#show-default-devices").show();
+if($('#custom-select2').css('display') == 'block') {
+$('#custom-select2').css('display','none') ;
+}
+} else {
+$("#show-own-devices").hide();
+$("#show-others-devices").hide();
+$("#show-default-devices").show();
+if($('#custom-select2').css('display') == 'none') {
+$('#custom-select2').css('display','block') ;
+}
+//$(".grid-fullwidth").hide();
+var filterDeviceId = ".filter-brand-"+filterString;
+if($(filterDeviceId).css('display') == 'none') {
+$(filterDeviceId).css('display','block') ;
+}
+var brandId = $('#filter-brand option:selected').attr('id');
+var dataString = "selectedBrandId="+brandId;
+$.ajax({
+type : "GET",
+url : "/cs/Satellite?pagename=RIL/Shop/DisplayModels",
+data : dataString,
+cache : "false",
+success: function(data) {
+var result = $(data).find("#custom-select2").html() ;
+if(data){
+$("#custom-select2").html(data);
+$('#custom-select2 select').zelect({ placeholder:'Select Model' });
+}
+},
+error: function() {
+$("#custom-select2").html("Error");	
+}
+});
+}
+}
+//bellow script for display data from model search filter
+function filterByModel(model){
+$(".comptabile-device.volte").hide();
+$(".comptabile-device.lte").hide();
+var brandId = $('#filter-brand option:selected').attr('value')
+var dataString = "selectedBrandId="+brandId+"&selectedModelId="+model;
+$.ajax({
+type : "GET",
+url : "/cs/Satellite?pagename=RIL/Shop/GetModelType",
+data : dataString,
+cache : "false",
+success: function(data) {
+var modelType = data.trim();
+//console.log("modelType is"+modelType);
+var deviceDetails = modelType.split("&@&");
+var tempDeviceCompatibilityCheck="";
+var tempModelType="";
+tempModelType=deviceDetails[0];
+tempDeviceCompatibilityCheck=deviceDetails[1];	
+if(tempDeviceCompatibilityCheck=="noncompatibledevice"){
+$(".comptabile-device").hide();	
+}else{	
+//$(".comptabile-device").show();
+}
+if(tempModelType=="LTE") {
+//console.log("if condition modelType is"+modelType);
+$("#show-own-devices").hide();
+$("#show-others-devices").show();
+$("#show-default-devices").hide();
+$(".comptabile-device.lte").show();
+} else if(tempModelType=="VoLTE") {
+//console.log("lte CONDITIONmodelType is"+modelType);
+$("#show-others-devices").hide();
+$("#show-own-devices").show();
+$("#show-default-devices").hide();
+$(".comptabile-device.volte").show();
+} else {
+$("#show-own-devices").hide();
+$("#show-default-devices").show();
+$("#show-others-devices").hide();
+$(".comptabile-device.volte").hide();
+$(".comptabile-device.lte").hide();
+//console.log("not found:");
+}
+},
+error: function() {
+}
+});	
+/*
+var modelId = model[model.selectedIndex].id;
+var modelVal = model[model.selectedIndex].value;
+console.log(modelId);
+if(modelId.indexOf("Lte") !== -1) {
+$("#show-own-devices").hide();
+$("#show-others-devices").show();
+$("#show-default-devices").hide();
+} 
+else {
+$("#show-others-devices").hide();
+$("#show-own-devices").show();
+$("#show-default-devices").hide();
+}*/
+}
+</script>
+</div>
+<div id="app_wrapper" class="apps_gallery_wrap left-right-space">
+<h2 class="changefont">Compelling Apps &amp; Content</h2>
+<div id="app_sorting_wrapper">
+<div id="apps_gallery_cont">
+<div id="utility_section" class="app_sorting showapps" style="display: block;">
+<span class="view-all-txt"><a href="/en-in/apps">View all</a></span>
+<ul class="utility_slider owl-carousel owl-theme" style="opacity: 0; display: block;">
+<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 9884px; left: 0px; display: block; transition: all 800ms ease 0s; transform: translate3d(-353px, 0px, 0px);"><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/my-jio')">
+<img class="lazyload" data-src="/home-myjio-v5_904a06738a22262052d670a5f61174cf.jpg" alt="My Jio App - Recharge Plans" width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/my-jio')">
+<h2>
+<span class="myjio"></span>
+MyJio 
+</h2>
+<p>Manage your Jio Account.</p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://click.google-analytics.com/redirect?tid=UA-56816637-12&amp;url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fmyjio%2Fid1074964262&amp;aid=com.jio.myjio&amp;idfa=%{idfa}&amp;cs=jiocom&amp;cm=website&amp;cn=launch&amp;cc=20160713&amp;ck=main-app-page-itunes&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="market://details?id=com.jio.myjio" class="android-os androidUserAgent hide_on_desktop" target="_top" style="display: none;"></a><a href="https://play.google.com/store/apps/details?id=com.jio.myjio&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-playstore%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="android-os androidUserAgent hide_on_android" target="_blank"></a>
+</div>
+</div> 
+</li></div><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/jio-saavn')">
+<img class="lazyload" data-src="/promo-banner.432x270.jpg" alt="JioSaavn - Music" width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/jio-saavn')">
+<h2>
+<span class="jiomusic"></span>
+JioSaavn 
+</h2>
+<p></p><div>All your music. Anytime.Anywhere</div>
+<p></p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://itunes.apple.com/us/app/saavn-music-radio/id441813332&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="https://play.google.com/store/apps/details?id=com.jio.media.jiobeats&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-playstore%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="android-os androidUserAgent " target="_blank"></a><a href="https://www.jiosaavn.com/?utm_source=jiocom%26utm_medium=website%26utm_term=app-page-windows%26utm_content=20160712%26utm_campaign=launch" class="desktop-os DesktopUserAgent" target="_blank"></a>
+</div>
+</div> 
+</li></div><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/jio-tv')">
+<img class="lazyload" data-src="/home-jio-play-v5.jpg" alt="Jio TV App - India Live TV" width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/jio-tv')">
+<h2>
+<span class="jiotv"></span>
+JioTV 
+</h2>
+<p>Daily dose of entertainment.
+</p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://itunes.apple.com/in/app/jioplay/id1060965205?mt=8&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="market://details?id=com.jio.jioplay.tv" class="android-os androidUserAgent hide_on_desktop" target="_top" style="display: none;"></a><a href="https://play.google.com/store/apps/details?id=com.jio.jioplay.tv&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-playstore%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="android-os androidUserAgent hide_on_android" target="_blank"></a>
+</div>
+</div> 
+</li></div><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/jio-cinema')">
+<img class="lazyload" data-src="/jiocinema-applandingban.jpg" alt="Jio Cinema App - Watch Movies Online" width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/jio-cinema')">
+<h2>
+<span class="jiocinema"></span>
+JioCinema 
+</h2>
+<p></p><div>Movies, TV Shows, Music &amp; more</div>
+<p></p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://itunes.apple.com/in/app/jioondemand/id1067316596?mt=8&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="market://details?id=com.jio.media.ondemand" class="android-os androidUserAgent hide_on_desktop" target="_top" style="display: none;"></a><a href="https://play.google.com/store/apps/details?id=com.jio.media.ondemand&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-playstore%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="android-os androidUserAgent hide_on_android" target="_blank"></a><a href="https://www.jiocinema.com/?utm_source=jiocom%26utm_medium=website%26utm_term=app-page-windows%26utm_content=20160712%26utm_campaign=launch" class="desktop-os DesktopUserAgent" target="_blank"></a>
+</div>
+</div> 
+</li></div><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/jio-chat')">
+<img class="lazyload" data-src="/jio-chat-img2_a-12-21apr.jpg" alt="Jio Chat App - Instant Messaging App " width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/jio-chat')">
+<h2>
+<span class="jiochat"></span>
+JioChat 
+</h2>
+<p>An efficient way to stay connected.
+</p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://itunes.apple.com/in/app/jiochat/id981918884?mt=8&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="market://details?id=com.jiochat.jiochatapp" class="android-os androidUserAgent hide_on_desktop" target="_top" style="display: none;"></a><a href="https://play.google.com/store/apps/details?id=com.jiochat.jiochatapp&amp;hl=en&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-playstore%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="android-os androidUserAgent hide_on_android" target="_blank"></a>
+</div>
+</div> 
+</li></div><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/jio-mags')">
+<img class="lazyload" data-src="/home_jio-mags_v1.jpg" alt="Jio Mags App - Emagazine" width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/jio-mags')">
+<h2>
+<span class="jiomags"></span>
+JioMags 
+</h2>
+<p>There is always more to read.</p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://itunes.apple.com/in/app/jiomags/id1067783363?mt=8¿ &amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="market://details?id=com.jio.media.jiomags" class="android-os androidUserAgent hide_on_desktop" target="_top" style="display: none;"></a><a href="https://play.google.com/store/apps/details?id=com.jio.media.jiomags&amp;referrer=utm_source%3Djiocom&amp;utm_medium%3Dwebsite&amp;utm_term%3Dapp-page-playstore&amp;utm_content%3D20160601&amp;utm_campaign%3Dlaunch" class="android-os androidUserAgent hide_on_android" target="_blank"></a>
+</div>
+</div> 
+</li></div><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/jio-xpress-news')">
+<img class="lazyload" data-src="/jio-xpressnews-21apr.jpg" alt="Jio Mags App Thumbnail" width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/jio-xpress-news')">
+<h2>
+<span class="jioxpress"></span>
+JioXpressNews 
+</h2>
+<p>Stay Updated. Stay Ahead.
+</p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://itunes.apple.com/in/app/jioxpressnews/id1067320076?mt=8 &amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="market://details?id=com.jio.media.jioxpressnews" class="android-os androidUserAgent hide_on_desktop" target="_top" style="display: none;"></a><a href="https://play.google.com/store/apps/details?id=com.jio.media.jioxpressnews&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-playstore%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="android-os androidUserAgent hide_on_android" target="_blank"></a>
+</div>
+</div> 
+</li></div><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/jio-drive')">
+<img class="lazyload" data-src="/home-ji-odrive-ver1_da1.jpg" alt="Jio Drive App - File Transfer" width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/jio-drive')">
+<h2>
+<span class="jiocloud"></span>
+JioCloud 
+</h2>
+<p>Your files are one touch away.
+</p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://itunes.apple.com/in/app/jiodrive/id1001974993?mt=8 &amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="market://details?id=jio.cloud.drive" class="android-os androidUserAgent hide_on_desktop" target="_top" style="display: none;"></a><a href="https://play.google.com/store/apps/details?id=jio.cloud.drive&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-playstore%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="android-os androidUserAgent hide_on_android" target="_blank"></a><a href="https://www.jiocloud.com/downloadApp/?utm_source=jiocom%26utm_medium=website%26utm_term=app-page-windows%26utm_content=20160712%26utm_campaign=launch" class="desktop-os DesktopUserAgent" target="_blank"></a>
+</div>
+</div> 
+</li></div><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/jio-4g-voice')">
+<img class="lazyload" data-src="/home-jiojoin-ver1.jpg" alt="Jio 4GVoice App - Video Calling" width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/jio-4g-voice')">
+<h2>
+<span class="jiojion"></span>
+Jio4GVoice 
+</h2>
+<p></p><div>Get VoLTE &amp;RCS on any phone.</div>
+<p></p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://itunes.apple.com/in/app/jio4gvoice/id1100652705?mt=8&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="market://details?id=com.jio.join" class="android-os androidUserAgent hide_on_desktop" target="_top" style="display: none;"></a><a href="https://play.google.com/store/apps/details?id=com.jio.join&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-playstore%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="android-os androidUserAgent hide_on_android" target="_blank"></a>
+</div>
+</div> 
+</li></div><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/jio-money')">
+<img class="lazyload" data-src="/home-jio-money-v6_7598755d987243adecc1592889f44115.jpg" alt="Jio Money App - Transfer Money" width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/jio-money')">
+<h2>
+<span class="jiomoney"></span>
+JioMoney 
+</h2>
+<p>Experience cashfree living.</p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://itunes.apple.com/app/apple-store/id1140892768?pt=95623818&amp;ct=JioSecurity_jio.com&amp;mt=8&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="market://details?id=com.corpay.mwallet" class="android-os androidUserAgent hide_on_desktop" target="_top" style="display: none;"></a><a href="https://play.google.com/store/apps/details?id=com.corpay.mwallet&amp;hl=en&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-playstore%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="android-os androidUserAgent hide_on_android" target="_blank"></a>
+</div>
+</div> 
+</li></div><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/jio-security')">
+<img class="lazyload" data-src="/home-jio-security-v5_78909aa345f6122cf3929ecf050db170.jpg" alt="Jio Security App - Anti Theft App" width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/jio-security')">
+<h2>
+<span class="jiosecurity"></span>
+JioSecurity 
+</h2>
+<p>Protect phone, secure data.</p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://itunes.apple.com/in/app/jiosecurity/id1140892768?mt=8 &amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="market://details?id=com.jio.myjio" class="android-os androidUserAgent hide_on_desktop" target="_top" style="display: none;"></a><a href="https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-playstore%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="android-os androidUserAgent hide_on_android" target="_blank"></a>
+</div>
+</div> 
+</li></div><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/jio-newspaper')">
+<img class="lazyload" data-src="/home-jio-news-v5.jpg" alt="Jio NewsPaper App - Current News" width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/jio-newspaper')">
+<h2>
+<span class="jionewsletter"></span>
+JioNewsPaper 
+</h2>
+<p>Your digital newsstand.
+</p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://itunes.apple.com/us/app/jionewspaper/id1068208255?mt=8&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="market://details?id=com.jio.jionews" class="android-os androidUserAgent hide_on_desktop" target="_top" style="display: none;"></a><a href="https://play.google.com/store/apps/details?id=com.jio.jionews&amp;hl=en&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-playstore%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="android-os androidUserAgent hide_on_android" target="_blank"></a>
+</div>
+</div> 
+</li></div><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/jionet')">
+<img class="lazyload" data-src="/ap-ji-onet-vers1_4e.jpg" alt="Jio Net App - Wifi" width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/jionet')">
+<h2>
+<span class="jionet"></span>
+JioNet 
+</h2>
+<p>Connect to JioNet Wi-Fi.</p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://itunes.apple.com/us/app/jionet/id1052147091?ls=1&amp;mt=8&amp;referrer=utm_source%3Djiocom&amp;utm_medium%3Dwebsite&amp;utm_term%3Dapp-page-itunes&amp;utm_content%3D20160601&amp;utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="market://details?id=com.jio.mhood.jionet" class="android-os androidUserAgent hide_on_desktop" target="_top" style="display: none;"></a><a href="https://play.google.com/store/apps/details?id=com.jio.mhood.jionet&amp;referrer=utm_source%3Djiocom&amp;utm_medium%3Dwebsite&amp;utm_term%3Dapp-page-playstore&amp;utm_content%3D20160601&amp;utm_campaign%3Dlaunch" class="android-os androidUserAgent hide_on_android" target="_blank"></a>
+</div>
+</div> 
+</li></div><div class="owl-item" style="width: 353px;"><li class="item"> 
+<div class="tile-wrap">
+<div class="apps_pic" onclick="location.href=('/en-in/apps/jio-healthhub')">
+<img class="lazyload" data-src="/jiohealthhub-aplandingv1.jpg" alt="Jio Music App - Listen Songs Online" width="" height="">
+</div>
+<div class="apps_info" onclick="location.href=('/en-in/apps/jio-healthhub')">
+<h2>
+<span class="jiohealthhub"></span>
+JioHealthHub 
+</h2>
+<p>Access tests, doctors &amp; reports.
+</p>
+<hr>
+</div>
+<div class="os-icons">Available for<br><a href="https://itunes.apple.com/in/app/jiohealthhub/id1056115951?mt=8&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="apple-os iosUserAgent" target="_blank"></a><a href="https://play.google.com/store/apps/details?id=com.hh.healthhub" class="android-os androidUserAgent hide_on_desktop" target="_top" style="display: none;"></a><a href="https://play.google.com/store/apps/details?id=com.hh.healthhub&amp;referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-playstore%26utm_content%3D20160601%26utm_campaign%3Dlaunch" class="android-os androidUserAgent hide_on_android" target="_blank"></a>
+</div>
+</div> 
+</li></div></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></ul>
+</div></div></div></div>
+<div class="clear"></div>	
+<div class="partner-offer-section">
+<div class="partner-offer-margin">
+<div class="col-lg-12 col-md-12 no-space" onclick="location.href=('/en-in/brand-partners')">
+<div id="partner-desktop">
+<img alt="Partners Offer" src="/spcl-partner-offers-dsk-1440x650px.jpg" class="img-responsive" width="" height="">
+</div>
+</div>
+<div class="col-sm-12 col-xs-12 no-space" onclick="location.href=('/en-in/brand-partners')">
+<div id="partner-tab" class="partner-tab-img">
+<img alt="Partners Offer" src="/spcl-ptner-offers-tb-768x800px.jpg" class="img-responsive" width="" height="">
+</div>
+</div>
+<div class="col-xs-12 no-space" id="partner-mob" onclick="location.href=('/en-in/brand-partners')">
+<img alt="Partners Offer" src="/spcl-patner-offers-mb-400x640px.jpg" class="img-responsive" width="" height="">
+</div>
+</div>
+</div>
+<div class="clear"></div>	
+<h2 class="community_experiences_title changefont" style="text-transform:uppercase;">Buzz about Jio</h2> 
+<div class="container-fluid-gallery flow-hidden flow-hidden-new " style="height: 0px;">
+<div class="devider-grid">
+<div class="devider deviderV deviderV1"></div>
+<div class="devider deviderV deviderV2"></div>
+<div class="devider deviderV deviderV3"></div>
+<div class="devider deviderH deviderH1"></div>
+<div class="devider deviderH deviderH2"></div>
+<div class="devider deviderH deviderH3"></div>
+<div class="devider deviderH deviderH4"></div>
+<div class="devider deviderH deviderH5"></div>
+<div class="devider deviderH deviderH6"></div>
+<div class="devider deviderH deviderH7"></div>
+<div class="devider deviderH deviderH8"></div>
+</div>
+<div class="story-img lazyload active" id="thumb1" data-bg="/story_01_bg_v5-21apr.jpg">
+</div>
+<div class="story-img lazyload" id="thumb2" data-bg="/story-02-2-21apr.jpg">
+</div>
+<div class="story-img lazyload" id="thumb3" data-bg="/08.jpg">
+</div>
+<div class="story-img lazyload" id="thumb4" data-bg="/payments_made_easy-story4-1366x561-21apr.jpg">
+</div>
+<div class="story-img lazyload" id="thumb5" data-bg="/story-5%5B1%5D-21apr.jpg">
+</div>
+<div class="story-img lazyload" id="thumb6" data-bg="/story-6%5B1%5D.jpg">
+</div>
+<div class="story-img lazyload" id="thumb7" data-bg="/my_reading_partner-story7-1366x561-21apr.jpg">
+</div>
+<div class="story-img lazyload" id="thumb8" data-bg="/part_of_real-time_news-story8-1366x561-21apr.jpg">
+</div>
+<div class="story-img lazyload" id="thumb9" data-bg="/story-9.jpg">
+</div>
+<div class="story-img lazyload" id="thumb10" data-bg="/home_story10_bg_v1.jpg">
+</div>
+<div class="story-img lazyload" id="thumb11" data-bg="/05.jpg">
+</div>
+<div class="story-img lazyload" id="thumb12" data-bg="/story-12_v5%5B1%5D.jpg">
+</div>
+<div id="grid-lines" class="row no-space" style="height:100%">
+<div class="gallery-tile owl-carousel owl-theme" style="opacity: 0; display: block;">
+<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 18840px; left: 0px; display: block; transition: all 0ms ease 0s; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 785px;"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 thumb item" onmouseover="javascript:showanyproduct('thumb1')">
+<div class="story-img-mob lazyload" title="Jio Music App Background - Pritesh Ambavane" data-bg="/story-01.jpg"></div>	
+<div class="content"><h2>Pritesh Ambavane</h2></div> 
+<div class="story tile-first1" style="background-color:#f4ba49;">
+<div class="story-count">1/12</div> 
+<h3 style="color:#666 !important;">Not too far from special event</h3>
+<div class="img-thumb">
+<img class="lazyload" alt="Jio Music App Background - Pritesh Ambavane" data-src="/st-ory1-pe-rson_v5-21apr.jpg" width="100" height="100">	
+</div> 
+<div class="inner-content">
+<div style="color:#666 !important;">Pritesh Ambavane<br><small>Entertainment<span></span></small></div>
+</div>
+<div class="no-info">1/16</div>
+</div> 
+</div></div><div class="owl-item" style="width: 785px;"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 thumb item" onmouseover="javascript:showanyproduct('thumb2')">
+<div class="story-img-mob lazyload" title="Jio Cinema App Background - Nikhil Mali" data-bg="/home-story-02-1-bg-v5.jpg"></div>	
+<div class="content"><h2>Nikhil Mali</h2></div> 
+<div class="story" style="background-color:#006cad;">
+<div class="story-count">2/12</div> 
+<h3 style="color:#fff !important;">Theatrical movie experience</h3>
+<div class="img-thumb">
+<img class="lazyload" alt="Jio Cinema App Background - Nikhil Mali" data-src="/sto-ry2_perso-n-v5-21apr.jpg" width="100" height="100">	
+</div> 
+<div class="inner-content">
+<div style="color:#fff !important;">Nikhil Mali<br><small>Entertainment<span></span></small></div>
+</div>
+<div class="no-info">2/16</div>
+</div> 
+</div></div><div class="owl-item" style="width: 785px;"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 thumb item" onmouseover="javascript:showanyproduct('thumb3')">
+<div class="story-img-mob lazyload" title="Jio TV App Background - Arif" data-bg="/jio.com-story-03-1_242296387e02d72c2a665fc3280d808b.jpg"></div>	
+<div class="content"><h2>Arif</h2></div> 
+<div class="story" style="background-color:#eddd30;">
+<div class="story-count">3/12</div> 
+<h3 style="color:#666 !important;">Nail-biting match on JioTV</h3>
+<div class="img-thumb">
+<img class="lazyload" alt="Jio TV App Background - Arif" data-src="/story3_person_v5_3aprl-21apr.jpg" width="100" height="100">	
+</div> 
+<div class="inner-content">
+<div style="color:#666 !important;">Arif<br><small>Entertainment<span></span></small></div>
+</div>
+<div class="no-info">3/16</div>
+</div> 
+</div></div><div class="owl-item" style="width: 785px;"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 thumb item" onmouseover="javascript:showanyproduct('thumb4')">
+<div class="story-img-mob lazyload" title="Jio Money App Review - C D James" data-bg="/pay-ments_m-ade_ea-sy-stor-y4-1000x561-.jpg"></div>	
+<div class="content"><h2>C.D James</h2></div> 
+<div class="story" style="background-color:#b47e5a;">
+<div class="story-count">4/12</div> 
+<h3 style="color:#fff !important;">Payments made easy</h3>
+<div class="img-thumb">
+<img class="lazyload" alt="Jio Money App Review - C D James" data-src="/sto-ry4_perso-21apr.jpg" width="100" height="100">	
+</div> 
+<div class="inner-content">
+<div style="color:#fff !important;">C.D James<br><small>Travel<span></span></small></div>
+</div>
+<div class="no-info">4/16</div>
+</div> 
+</div></div><div class="owl-item" style="width: 785px;"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 thumb item" onmouseover="javascript:showanyproduct('thumb5')">
+<div class="story-img-mob lazyload" title="Jio 4GVoice App Review - Rakesh Rawat" data-bg="/story-05-1-bg-v5_3apr.jpg"></div>	
+<div class="content"><h2>Rakesh Rawat</h2></div> 
+<div class="story" style="background-color:#f44949;">
+<div class="story-count">5/12</div> 
+<h3 style="color:#fff !important;">Always Connected</h3>
+<div class="img-thumb">
+<img class="lazyload" alt="Jio 4GVoice App Review - Rakesh Rawat" data-src="/st-ory5_pers-on_v5%5B1%5D.jpg" width="100" height="100">	
+</div> 
+<div class="inner-content">
+<div style="color:#fff !important;">Rakesh Rawat<br><small>Travel<span></span></small></div>
+</div>
+<div class="no-info">5/16</div>
+</div> 
+</div></div><div class="owl-item" style="width: 785px;"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 thumb item" onmouseover="javascript:showanyproduct('thumb6')">
+<div class="story-img-mob lazyload" title="My Jio App Review - Sanket" data-bg="/story-06-1-bg-v5.jpg"></div>	
+<div class="content"><h2>Sanket</h2></div> 
+<div class="story" style="background-color:#ffc000;">
+<div class="story-count">6/12</div> 
+<h3 style="color:#666 !important;">Multitasking, my forte</h3>
+<div class="img-thumb">
+<img class="lazyload" alt="My Jio App Review - Sanket" data-src="/st-ory6_pers-on_v5%5B1%5D.jpg" width="100" height="100">	
+</div> 
+<div class="inner-content">
+<div style="color:#666 !important;">Sanket<br><small>Travel<span></span></small></div>
+</div>
+<div class="no-info">6/16</div>
+</div> 
+</div></div><div class="owl-item" style="width: 785px;"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 thumb item" onmouseover="javascript:showanyproduct('thumb7')">
+<div class="story-img-mob lazyload" title="Jio Mags App Review - Priti Bhushan" data-bg="/my_reading_partner-story7-10.jpg"></div>	
+<div class="content"><h2>Priti Bhushan</h2></div> 
+<div class="story tile-second1" style="background-color:#c1bfd8;">
+<div class="story-count">7/12</div> 
+<h3 style="color:#666 !important;">My reading partner</h3>
+<div class="img-thumb">
+<img class="lazyload" alt="Jio Mags App Review - Priti Bhushan" data-src="/stor-y7_perso-n_v5%5B1%5D.jpg" width="100" height="100">	
+</div> 
+<div class="inner-content">
+<div style="color:#666 !important;">Priti Bhushan<br><small>Travel<span></span></small></div>
+</div>
+<div class="no-info">7/16</div>
+</div> 
+</div></div><div class="owl-item" style="width: 785px;"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 thumb item" onmouseover="javascript:showanyproduct('thumb8')">
+<div class="story-img-mob lazyload" title="Jio XpressNews App Review - Monalisa Singh" data-bg="/pa-rt-of-real-tim-e-news-stor-1000x561-.jpg"></div>	
+<div class="content"><h2>Monalisa Singh</h2></div> 
+<div class="story" style="background-color:#ff3d00;">
+<div class="story-count">8/12</div> 
+<h3 style="color:#fff !important;">Part of real-time news</h3>
+<div class="img-thumb">
+<img class="lazyload" alt="Jio XpressNews App Review - Monalisa Singh" data-src="/st-ory8_pe-rson_v5%5B1%5D.jpg" width="100" height="100">	
+</div> 
+<div class="inner-content">
+<div style="color:#fff !important;">Monalisa Singh<br><small>Event<span></span></small></div>
+</div>
+<div class="no-info">8/16</div>
+</div> 
+</div></div><div class="owl-item" style="width: 785px;"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 thumb item" onmouseover="javascript:showanyproduct('thumb9')">
+<div class="story-img-mob lazyload" title="Jio Chat App Review - Amit Abhishek" data-bg="/story-09-bg-v5_3apr.jpg"></div>	
+<div class="content"><h2>Amit Abhishek</h2></div> 
+<div class="story tile-thrid1" style="background-color:#f4ba49;">
+<div class="story-count">9/12</div> 
+<h3 style="color:#666 !important;">Special moments shared</h3>
+<div class="img-thumb">
+<img class="lazyload" alt="Jio Chat App Review - Amit Abhishek" data-src="/sto-ry9_pe-rson-v5.jpg" width="100" height="100">	
+</div> 
+<div class="inner-content">
+<div style="color:#666 !important;">Amit Abhishek<br><small>Travel<span></span></small></div>
+</div>
+<div class="no-info">9/16</div>
+</div> 
+</div></div><div class="owl-item" style="width: 785px;"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 thumb item" onmouseover="javascript:showanyproduct('thumb10')">
+<div class="story-img-mob lazyload" title="Jio Drive App Review - Yogesh Bansode" data-bg="/sto-ry-10-bg-v5_3apr_ab.jpg"></div>	
+<div class="content"><h2>Yogesh Bansode</h2></div> 
+<div class="story" style="background-color:#541d66;">
+<div class="story-count">10/12</div> 
+<h3 style="color:#fff !important;">My world on JioCloud</h3>
+<div class="img-thumb">
+<img class="lazyload" alt="Jio Drive App Review - Yogesh Bansode" data-src="/story10_person-v5_3apr%5B1%5D.jpg" width="100" height="100">	
+</div> 
+<div class="inner-content">
+<div style="color:#fff !important;">Yogesh Bansode<br><small>Utility<span></span></small></div>
+</div>
+<div class="no-info">10/16</div>
+</div> 
+</div></div><div class="owl-item" style="width: 785px;"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 thumb item" onmouseover="javascript:showanyproduct('thumb11')">
+<div class="story-img-mob lazyload" title="Jio Chat App Review - Victor Mascarenhas" data-bg="/home-story-11-bg-v5_b8.jpg"></div>	
+<div class="content"><h2>Victor Mascarenhas</h2></div> 
+<div class="story" style="background-color:#6df1e4;">
+<div class="story-count">11/12</div> 
+<h3 style="color:#666 !important;">Chatting continues</h3>
+<div class="img-thumb">
+<img class="lazyload" alt="Jio Chat App Review - Victor Mascarenhas" data-src="/st-ory11_per-son_v5%5B1%5D.jpg" width="100" height="100">	
+</div> 
+<div class="inner-content">
+<div style="color:#666 !important;">Victor Mascarenhas<br><small>Utility<span></span></small></div>
+</div>
+<div class="no-info">11/16</div>
+</div> 
+</div></div><div class="owl-item" style="width: 785px;"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 thumb item" onmouseover="javascript:showanyproduct('thumb12')">
+<div class="story-img-mob lazyload" title="Jio Mags App Review - Oeindrila Biswas" data-bg="/jio.com-story-12-1_3.jpg"></div>	
+<div class="content"><h2>Oeindrila Biswas</h2></div> 
+<div class="story" style="background-color:#4f1b24;">
+<div class="story-count">12/12</div> 
+<h3 style="color:#fff !important;">Mytime with JioMags</h3>
+<div class="img-thumb">
+<img class="lazyload" alt="Jio Mags App Review - Oeindrila Biswas" data-src="/sto-ry12_per-son_v5%5B1%5D.jpg" width="100" height="100">	
+</div> 
+<div class="inner-content">
+<div style="color:#fff !important;">Oeindrila Biswas<br><small>Travel<span></span></small></div>
+</div>
+<div class="no-info">12/16</div>
+</div> 
+</div></div></div></div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev disabled"></div><div class="owl-next"></div></div></div></div>
+</div>
+</div> 
+<div class="clear"></div>
+</div>
+</div>
+<!-- container end -->
+</div>
+<!-- Wrap end -->
+<div class="wrap-in">
+<div class="clear"></div>
+<div class="new-version footer-container without-bg with-bg">
+<div class="wrapMaxWidth">
+<div class="footer footer-n1">
+<div class="ft-nav">
+<ul>
+<li>
+<div class="ft-menu-block">
+<h4>Our offerings</h4>
+<ul class="ft-menu-content">
+<li>
+<a href="/en-in/4g-plans" class="lyfsectionlink">
+Plans
+</a>
+</li>
+<li>
+<a href="/en-in/apps" class="lyfsectionlink">
+Apps
+</a>
+</li>
+<li>
+<a class="lyfsectionlink" href="/shop/en-in/c/jiofi" target="_blank" onclick="triggerCommonGA('/shop/en-in/c/jiofi',window.location.href,'Devices')">
+Devices
+</a>
+</li>
+<li>
+<a href="/jio-tunes" class="lyfsectionlink">
+JioTunes
+</a>
+</li>
+<li>
+<a class="lyfsectionlink" href="https://www.jio.com/JioWebApp/index.html?root=autoPay&amp;source=JIO" target="_blank" onclick="triggerCommonGA('https://www.jio.com/JioWebApp/index.html?root=autoPay&amp;source=JIO',window.location.href,'Jio Auto Pay')">
+Jio Auto Pay
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="ft-menu-block">
+<h4>Support</h4>
+<ul class="ft-menu-content">
+<li>
+<a href="/support/en-in/selfhelp.html" class="lyfsectionlink" onclick="triggerCommonGA('/support/en-in/selfhelp.html','/page-not-found.html','FAQ')">
+FAQ
+</a>
+</li>
+<li>
+<a href="/en-in/contact-us" class="lyfsectionlink">
+Contact Us
+</a>
+</li>
+<li>
+<a href="https://www.jio.com/JioWebApp/index.html?root=login" class="lyfsectionlink" onclick="triggerCommonGA('https://www.jio.com/JioWebApp/index.html?root=login','/page-not-found.html','My Account')">
+My Account
+</a>
+</li>
+<li>
+<a href="/Jio/portal/storeLocator" class="lyfsectionlink" onclick="triggerCommonGA('/Jio/portal/storeLocator','/page-not-found.html','Find A Store')">
+Find A Store
+</a>
+</li>
+<li>
+<a href="/Jio/portal/serviceCenterLocator?" class="lyfsectionlink" onclick="triggerCommonGA('/Jio/portal/serviceCenterLocator?','/page-not-found.html','Service Center')">
+Service Center
+</a>
+</li>
+<li>
+<a href="/Jio/portal/trackOrders" class="lyfsectionlink" onclick="triggerCommonGA('/Jio/portal/trackOrders','/page-not-found.html','Track Order - SIM')">
+Track Order - SIM
+</a>
+</li>
+<li>
+<a href="/shop/viewOrderDetails" class="lyfsectionlink" onclick="triggerCommonGA('/shop/viewOrderDetails','/page-not-found.html','Track Order - Devices')">
+Track Order - Devices
+</a>
+</li>
+<li>
+<a href="/en-in/survey/feedback.html" class="lyfsectionlink" onclick="triggerCommonGA('/en-in/survey/feedback.html','/page-not-found.html','Feedback')">
+Feedback
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="ft-menu-block">
+<h4>Our company</h4>
+<ul class="ft-menu-content">
+<li>
+<a class="lyfsectionlink" href="/en-in/why-jio" target="_blank" onclick="triggerCommonGA('/en-in/why-jio',window.location.href,'Why Jio')">
+Why Jio
+</a>
+</li>
+<li>
+<a class="lyfsectionlink" href="https://careers.jio.com/?_ga=2.75455506.1412552817.1506325533-278711781.1506325533" target="_blank" onclick="triggerCommonGA('https://careers.jio.com/?_ga=2.75455506.1412552817.1506325533-278711781.1506325533',window.location.href,'Careers')">
+Careers
+</a>
+</li>
+<li>
+<a class="lyfsectionlink" href="http://www.ril.com/" target="_blank" onclick="triggerCommonGA('http://www.ril.com/',window.location.href,'Reliance Industries')">
+Reliance Industries
+</a>
+</li>
+<li>
+<a class="lyfsectionlink" href="http://www.reliancefoundation.org/" target="_blank" onclick="triggerCommonGA('http://www.reliancefoundation.org/',window.location.href,'Reliance Foundation')">
+Reliance Foundation
+</a>
+</li>
+<li>
+<a class="lyfsectionlink" href="https://www.mylyf.com" target="_blank" onclick="triggerCommonGA('https://www.mylyf.com',window.location.href,'LYF Smartphone<sup>+</sup>')">
+LYF Smartphone<sup>+</sup>
+</a>
+</li>
+<li>
+<a class="lyfsectionlink" href="http://www.ril.com/OurBusinesses/Jio/Jio-Investor-Relations.aspx" target="_blank" onclick="triggerCommonGA('http://www.ril.com/OurBusinesses/Jio/Jio-Investor-Relations.aspx',window.location.href,'Investor Relations')">
+Investor Relations
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="ft-menu-block">
+<h4>Legal</h4>
+<ul class="ft-menu-content">
+<li>
+<a href="/en-in/terms-conditions" class="lyfsectionlink">
+Terms &amp; Conditions
+</a>
+</li>
+<li>
+<a href="/en-in/privacy-policy" class="lyfsectionlink">
+Policies
+</a>
+</li>
+<li>
+<a href="/en-in/regulatory" class="lyfsectionlink">
+Regulatory
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="ft-menu-block">
+<h4>Useful links</h4>
+<ul class="ft-menu-content">
+<li>
+<a href="/en-in/press-release" class="lyfsectionlink">
+Press Release
+</a>
+</li>
+<li>
+<a href="/en-in/regulatory/calldata" class="lyfsectionlink">
+Call Failure Data
+</a>
+</li>
+<li>
+<a href="/en-in/brand-partners" class="lyfsectionlink">
+Partner Offers
+</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="ft-social">
+<ul>
+<li>Connect with us :</li>
+<li><a target="_blank" href="https://twitter.com/reliancejio">
+<span class="footer-twitter-icon"></span> 
+</a></li>
+<li><a target="_blank" href="https://www.facebook.com/Jio">
+<span class="footer-fbookter-icon"></span> 
+</a></li>
+<li><a target="_blank" href="https://www.instagram.com/reliancejio/">
+<span class="footer-ista-icon"></span> 
+</a></li>
+<li><a target="_blank" href="https://www.youtube.com/channel/UC7x7gqeQQ5dazPAvDgC7TIw?disable_polymer=true">
+<span class="footer-youtube-icon"></span> 
+</a></li>
+</ul>	
+</div>
+<div class="copy-right">
+Copyright © 2019 Reliance Jio Infocomm Ltd. All rights reserved.
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+JIO = function(){
+this.config = {
+// Add any config stuff from template vars here
+}
+};
+var jio = new JIO();
+</script>
+<script>
+function confirm_logout() {
+var xmlhttp;
+if (window.XMLHttpRequest) {
+xmlhttp = new XMLHttpRequest();
+} else {
+xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+}
+xmlhttp.onreadystatechange = function() {
+if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+//window.location = '/JioApp/faces/oracle/webcenter/portalapp/pages/jioLogin.jspx?action=logout';
+window.location = '/Jio/portal/jioLogin?action=logout';
+}
+}
+xmlhttp.open("GET", "/cs/Satellite?pagename=RIL/Cart/ClearSession");
+xmlhttp.send();
+}
+</script>
+<script type="text/javascript" src="/jiostaticresources/js/app.min.js?version=5.2"></script>
+<div class="search-wrap" style="display:none">
+<div class="site-header-wrap1">
+<div id="search-box">
+<input name="searchtext" id="searchtxt" placeholder="search" type="search" autofocus="autofocus" class="ui-autocomplete-input" autocomplete="off">
+<!-- <input type="text" autocomplete="off" spellcheck="false" placeholder="Search" id="searchtxt" name="searchtxt"> -->
+<div class="search-close-btn"></div>
+</div>
+<div id="countcls" class="total-search-result"></div>
+<div id="resultrow" class="search-result" style="max-width: 930px !important;">
+</div>
+</div>
+</div>
+<style>
+.ui-widget-content{
+max-width: 930px !important;
+}
+</style>
+<script type="text/javascript">
+var requestsearch;
+var jsonString = null;
+var responseTime = 0;
+var nosOfResults;
+function getSearchData(searchVal) {
+var jsonString;
+searchText = searchVal.toLowerCase().trim();
+searchText = encodeURIComponent(searchText);
+$("#countcls").empty();
+$("#resultrow").empty();
+$("#resultcount").empty();
+if (!requestsearch) {
+requestsearch = $.get('/cs/Satellite?pagename=RIL/Util/Search', {
+searchText: searchText
+}, function(responseText) {
+if(responseText!=''){
+jsonString = JSON.parse(responseText);
+populateSearchResult(jsonString);
+}
+requestsearch = null;
+});
+}
+if ($('#resultrow').find('.sp-container').height() > 0) {
+$('#resultrow').find('.sp-viewport').css('height', '320px');
+$('#resultrow').find('.sp-scrollbar').show()
+.css('height', '320px')
+.find('.sp-thumb').css('height', '90px');
+} else {
+$('#resultrow').find('.sp-scrollbar').hide();
+}
+}
+function populateSearchResult(jsonString) {
+var prodTitle;
+var prodUrl;
+var prodDescription;
+var colorCount = "1";
+var productType;
+var jsonDataRow ="";
+var jsonResultObj;
+var highLightClass ;
+var resultCount = "0";
+var appendData;
+for (var count = 0; count < jsonString.results.length; count++) {
+resultCount++;
+highLightClass = "odd-result";
+if (count % 2 == 0) {
+highLightClass = "even-result";
+}
+jsonResultObj = jsonString.results[count];
+prodUrl = jsonResultObj.url;
+prodDescription = jsonResultObj.description;
+prodTitle = jsonResultObj.title;
+productType = jsonResultObj.type;
+if(prodDescription.length>127){
+prodDescription=prodDescription.substring(0,127);
+prodDescription=prodDescription+".....";
+}
+if((productType=="faq" || productType=="Faq")){
+if (prodUrl.indexOf("how-to-videos") !=-1) {
+jsonDataRow += "<div class=\"search-result-list\" onclick=\"location.href=('" + prodUrl + "')\"><div class=\"search-result-pic\"><img src='http://www.jio.com/vid-icon-v1.png'></div><h2>" + prodTitle +
+"</h2><p>" + prodDescription + "</p></div>";
+}else{
+jsonDataRow += "<div class=\"search-result-list\" onclick=\"location.href=('" + prodUrl + "')\"><div class=\"search-result-pic\"><img src='/search-faq.png'></div><h2>" + prodTitle +
+"</h2><p>" + prodDescription + "</p></div>";	
+}
+}
+/* else if(productType=="forum" || productType=="Forum"){
+jsonDataRow += "<div class=\"search-result-list\" onclick=\"location.href=('" + prodUrl + "')\"><div class=\"search-result-pic\"><img src='/searchcommunities.png'></div><h2>" + prodTitle +
+"</h2><p>" + prodDescription + "</p></div>";
+}
+else if(productType=="services" || productType=="Services" )
+{
+jsonDataRow += "<div class=\"search-result-list\" onclick=\"location.href=('" + prodUrl + "')\"><div class=\"search-result-pic\"><img src='/searchsim.png'></div><h2>" + prodTitle +
+"</h2><p>" + prodDescription + "</p></div>";
+}
+else
+{
+jsonDataRow += "<div class=\"search-result-list\" onclick=\"location.href=('" + prodUrl + "')\"><div class=\"search-result-pic\"><img src='/search-faq.png'></div><h2>" + prodTitle +
+"</h2><p>" + prodDescription + "</p></div>";
+} */
+}
+$("#resultrow").append(jsonDataRow);
+if (resultCount != 0) {
+appendData = resultCount + " Results";
+} else {
+appendData = "<h2> No Results Found</h2>";
+$("#resultrow").empty();
+}
+$("#countcls").append(appendData);
+$(".search-result, .total-search-result").fadeIn(500);
+}
+$("#searchtxt").autocomplete({
+source: "/cs/Satellite?pagename=RIL/Util/Search",
+select: function(event, ui) {
+getSearchData(ui.item.value);
+}
+});
+function searchGTM() {
+$("#resultrow").on('click', '.margin-bottom-10', function() {
+var articleName = ($(this).find(".prodtitle").text());
+var articleRank = ($('#resultrow div.margin-bottom-10').index(this));
+offers.dataLayerPushValue('Search Clicks', articleName, searchText, articleRank + 1);
+});
+}
+$(window).scroll(function() {
+var a = $(window).scrollTop();
+a >= 1 && $(".ui-widget-content").css({
+display: "none"
+})
+});
+</script><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span>
+<noscript>
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-TTJVDJ"
+height="0" width="0" style="display:none;visibility:hidden">
+</iframe>
+</noscript>
+<script>
+</script>
+<script>
+var isMobile = (/iPhone|iPad|iPod| Phone/i.test(navigator.userAgent)) ? true : false;
+var androidTemp = (/Android| Phone/i.test(navigator.userAgent)) ? true : false;
+var webkit =(/webkit| webkit/i.test(navigator.userAgent)) ? true : false;
+if(androidTemp == true)
+{
+$(".iosUserAgent").hide();
+$(".apple-os").hide();
+$(".hide_on_android").hide()
+$(".DesktopUserAgent").hide();
+//console.log("android phone");
+// Link to Android redirection comes here
+}
+else if(isMobile == true)
+{ 
+$(".androidUserAgent").hide();
+$(".android-os").hide();
+$(".DesktopUserAgent").hide();
+//console.log("iphone"); 
+}
+else if(webkit == true)
+{
+$(".hide_on_desktop").hide()
+//$(".androidUserAgent").hide();
+//console.log("webkit1");
+//Link to iPhone redirection comes here 
+}
+else
+{
+//console.log("Unable to detect" + navigator.userAgent);
+}
+</script> 
+<script type="text/javascript">
+if(typeof _satellite != "undefined"){
+_satellite.pageBottom();
+}
+</script> 
+<input type="hidden" id="Homepage" value="yes">
+<script src="/jiostaticresources/js/jquery-mobile-custom-min.js?version=5.2"></script>
+<script>
+$.fn.dataImg = function(options) {
+var settings = $.extend({
+sml: 400,
+med: 800,
+lrg: 1000,
+resize: false
+}, options );
+var elements = $(this);
+function getSrc(element) {
+var screen = $(window).width();
+if (screen > settings.med) { 
+return element.data('lrg');
+}
+else if (screen <= settings.med && screen > settings.sml) {
+return element.data('med');
+}
+return element.data('sml');
+}
+function breakpoints() {
+elements.each(function () {
+var e = $(this);
+var src = getSrc(e);
+if(src != undefined){
+if (e.is('img')) {
+e.attr('src', src);
+if(src == smallImageUrl || src == midImageUrl || src == bigImageUrl) {
+$('img').each(function(){
+var img = new Image();
+img.onload = function() {
+// console.log($(this).attr('src') + ' - done!');
+if($(this).attr('src') === smallImageUrl ||
+$(this).attr('src') === midImageUrl || $(this).attr('src') === bigImageUrl) {
+setTimeout(function(){ $('html').show(); }, 1000);
+}
+}
+img.src = $(this).attr('src');
+});
+}
+} else {
+e.css('background-image', 'url(' + src + ')');
+}
+} 
+});
+}breakpoints();
+if(settings.resize == true){
+$(window).resize(function(){
+breakpoints();
+});
+}
+};
+</script>
+<script>
+$(function () {
+$('.data-img').dataImg({
+sml: 600,
+med: 800,
+lrg: 1000,
+resize: true,
+bgImg: true
+});
+});
+</script>
+<script type="text/javascript">
+$(window).load(function() {
+console.log("show....");
+$(".jio-btn").css("display", "inline-block");
+});
+</script>
+<script>
+//$(".active").prevAll().addClass("test");
+//$(".active").addClass("intro");
+//SLIDER
+var owl = $("#apps-new-banner");
+if( owl.length ){
+owl.owlCarousel({
+navigation : true,
+items : 1, //10 items above 1000px browser width
+itemsDesktop : [1000,1], //5 items between 1000px and 901px
+itemsDesktopSmall : [900,1], // betweem 900px and 601px
+itemsTablet: [600,1], //2 items between 600 and 0
+itemsMobile : false, // itemsMobile disabled - inherit from itemsTablet option
+autoPlay : 5000,
+transitionStyle : "fade",
+//afterMove: moved, // this command for call external functin into owl slider
+});
+}
+var owlKeyBoard = $('#apps-new-banner').data('owlCarousel');
+$(document.documentElement).keyup(function(event) {
+// handle cursor keys
+if (event.keyCode == 37) {
+owlKeyBoard.prev();
+} else if (event.keyCode == 39) {
+owlKeyBoard.next();
+}
+});
+/*function moved() {
+var owl = $(".owl-carousel").data('owlCarousel');
+console.log(owl.currentItem)
+console.log(owl.itemsAmount)
+$(".active").prevAll().addClass("blue");
+if (owl.currentItem + 1 === owl.itemsAmount) {
+setTimeout(function(){ $(".owl-page").removeClass("blue") }, 7000);
+}
+}*/
+</script>
+<script>
+$(document).ready(function(){
+$('.play_video1').click(function(){
+$('#slide1-agm').fadeIn();
+$('#playerID1').attr('src','https://www.youtube.com/embed/S5Am64K-56c?start=3820&enablejsapi=1&version=3&playerapiid=ytplayer');
+//$(".ytlight-box-overlay .ytlight-box .ytlight-box-close").delay(2000).fadeIn();
+});
+$('#slide1-agm .ytlight-box .ytlight-box-close').click(function(){
+$('#slide1-agm').fadeOut();
+$('#playerID1')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
+//$('iframe').attr('src', $('iframe').attr('src'));
+});
+/*$('#ytlight-video').click(function(){
+//$('.ytlight-box-overlay').fadeIn();
+$('#ytlight-box-overlay1').fadeIn();
+//$(".ytlight-box-overlay .ytlight-box .ytlight-box-close").delay(2000).fadeIn();
+})
+$('#play_video, .play_video1').click(function(){
+//$('.ytlight-box-overlay').fadeIn();
+$('#ytlight-box-overlay1').fadeIn();
+$('#playerID1').attr('src','null');
+//$('#ytlight-box-overlay1').fadeIn();
+//$(".ytlight-box-overlay .ytlight-box .ytlight-box-close").delay(2000).fadeIn();
+})
+$('#play_video, .play_video2').click(function(){
+//$('.ytlight-box-overlay').fadeIn();
+$('#ytlight-box-overlay2').fadeIn();
+//$('#ytlight-box-overlay1').fadeIn();
+//$(".ytlight-box-overlay .ytlight-box .ytlight-box-close").delay(2000).fadeIn();
+})
+$('.ytlight-box-overlay .ytlight-box .ytlight-box-close').click(function(){
+//$('.ytlight-box-overlay1').fadeOut();
+$('#ytlight-box-overlay1').fadeOut();
+$('#ytlight-box-overlay2').fadeOut();
+$('#playerID1')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
+$('#playerID2')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
+//$('iframe').attr('src', $('iframe').attr('src'));
+});
+$('.play_video_new').click(function(){
+$('#slide1-agm').fadeIn();
+});
+$('#slide1-agm .ytlight-box .ytlight-box-close').click(function(){
+$('#slide1-agm').fadeOut();
+$('#playerID1')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
+});*/
+// Below functions are broken down in to parts as there are 2 videos on HomePage - Ends
+$(window).scroll(function() { 
+var scroll = $(window).scrollTop();
+if (scroll >= 500) { 
+$(".mini-header").addClass("darkHeader")
+} else {
+$(".mini-header").removeClass("darkHeader");
+}
+});	
+$(".app_sorting").css({"display":"none"});
+$(".app_sorting.showapps").css({"display":"block"}); 
+});
+$(document).ready( function() {
+var h = $(window).height();
+var scale = 0.80; 
+$(".flow-hidden").css('height', h * scale);
+//$("#slideshow > div:gt(0)").hide();
+/*setInterval(function() { 
+$('#slideshow > div:first')
+.fadeOut(3000)
+.next()
+.fadeIn(3000)
+.end()
+.appendTo('#slideshow');
+}, 6000); */
+}); 
+if (!("ontouchstart" in document.documentElement)) {
+document.documentElement.className += " no-touch";
+}
+if($(window).width() > 1030)
+{
+function showanyproduct(onlynoneproduct) {
+$('.story-img').each(function(index) {
+if ($(this).attr("id") == onlynoneproduct) {
+$(this).stop().fadeIn();
+$(this).addClass("active");
+}
+else {
+$(this).stop().fadeOut();
+$(this).removeClass("active");	
+}
+});
+};
+};
+if($(window).width() < 1030)
+{
+var owl = $(".gallery-tile"); 
+if( owl.length ){
+owl.owlCarousel({
+navigation : true,
+rewindNav : false, 
+items : 1,
+itemsDesktop : [1000,1],
+itemsDesktopSmall : [900,1], 
+itemsTablet: [600,1],
+itemsMobile : false, 
+afterAction: function(){ 
+if ( this.itemsAmount > this.visibleItems.length ) {
+$('.next').show();
+$('.prev').show();
+$('.next').removeClass('disabled');
+$('.prev').removeClass('disabled');
+if ( this.currentItem == 0 ) {
+$('.prev').addClass('disabled');
+}
+if ( this.currentItem == this.maximumItem ) {
+$('.next').addClass('disabled');
+}
+} else {
+$('.next').hide();
+$('.prev').hide();
+}
+}
+});
+};
+};
+if($(window).width() < 760)
+{
+var owl = $(".lyf_devices, .trending_slider, .entertainment_slider, .social_slider, .news_slider "); 
+if( owl.length ){
+owl.owlCarousel({
+navigation : true,
+rewindNav : false, 
+items : 1, 
+itemsDesktop : [1000,1],
+itemsDesktopSmall : [900,1], 
+itemsTablet: [600,1], 
+itemsMobile : false, 
+afterAction: function(){ 
+if ( this.itemsAmount > this.visibleItems.length ) {
+$('.next').show();
+$('.prev').show();
+$('.next').removeClass('disabled');
+$('.prev').removeClass('disabled');
+if ( this.currentItem == 0 ) {
+$('.prev').addClass('disabled');
+}
+if ( this.currentItem == this.maximumItem ) {
+$('.next').addClass('disabled');
+}
+} else {
+$('.next').hide();
+$('.prev').hide();
+}
+}
+});
+};	
+};
+$('#call_us_popup, img.call_popup_close_btn').on('click', function (e) {
+$('#call_us_popup_txt').delay(1000).toggleClass("call-showup"); 
+});
+function showanyone(thechoseonlynone) {
+$('.app_sorting').each(function(index) {
+if ($(this).attr("id") == thechoseonlynone) {
+$(this).show();	
+}
+else {
+$(this).hide();
+}
+});
+};
+$(document).ready(function() {
+$('.sorting_list a').click(function() {
+$('.sorting_list a.active').removeClass('active');
+$(this).addClass('active');
+});
+});
+$(document).ready(function(){
+$('.lyf_devices, .trending_slider').each(function(){ 
+var highestBox = 0;
+$('.item, .tile-wrap', this).each(function(){
+if($(this).height() > highestBox) {
+highestBox = $(this).height(); 
+}
+}); 
+$('.item, .tile-wrap',this).height(highestBox);
+}); 
+});
+var owl = $(".utility_slider");
+if( owl.length ){
+owl.owlCarousel({
+navigation : true,
+items : 4, //10 items above 1000px browser width
+itemsDesktop : [1024,3], //5 items between 1000px and 901px
+itemsDesktopSmall : [900,2], // betweem 900px and 601px
+itemsTablet: [600,1], //2 items between 600 and 0
+itemsMobile : false, // itemsMobile disabled - inherit from itemsTablet option
+autoPlay : 5000,
+afterAction: function(){ 
+if ( this.itemsAmount > this.visibleItems.length ) {
+$('.next').show();
+$('.prev').show();
+$('.next').removeClass('disabled');
+$('.prev').removeClass('disabled');
+if ( this.currentItem == 0 ) {
+$('.prev').addClass('disabled');
+}
+if ( this.currentItem == this.maximumItem ) {
+$('.next').addClass('disabled');
+}
+} else {
+$('.next').hide();
+$('.prev').hide();
+}
+}
+});
+}
+</script>
+
+ 
+<input type="hidden" id="currentVisitor" value="">
+<input type="hidden" id="randomIDGenerator" value="">
+<script type="text/javascript" id="">var _GTM_Counter=0,_emailid,_subject,_phoneno,_test,_junkCategory,_junkAction,_junklabel,_Category,_Action,_label,_appbannerslot,_appcounter,_appbanneraction,_appbannerlabel;_test="";
+function _GTM_CheckjQuery_1(){if(window.jQuery&&1==jQuery("script[src*\x3dgtm]").length){_GTM_Counter=0;_GTM_MoreInfo_Clicks();_appcounter=setInterval(function(){0<jQuery("#apps-new-banner .owl-item .item").length&&(clearInterval(_appcounter),setTimeout(function(){jQuery("#apps-new-banner .owl-item .item").each(function(a){jQuery(this).attr("data-slot",a+1);jQuery(this).click(function(){var a=jQuery(this).attr("onclick");a=a.split("/");a=a[a.length-1];a=a.substring(a.indexOf('"'),a.indexOf("'"));
+_appbanneraction="apps";_appbannerlabel=a;_appbannerslot=jQuery(this).attr("data-slot");console.log(a);dataLayer.push({event:"appsbanner"})})})},1E3))},300);if(-1<location.href.indexOf("www.jio.com/Jio/portal/myAccount"))jQuery(document).on("click",function(){setTimeout(function(){if(0<dataLayer.length)for(var a=dataLayer.length-1;0<=a;a--)if(void 0!=dataLayer[a].eventCategory&&void 0!=dataLayer[a].eventAction&&void 0!=dataLayer[a].eventLabel){_junkCategory=dataLayer[a].eventCategory;_junkAction=
+dataLayer[a].eventAction;_junklabel=dataLayer[a].eventLabel;break}if("Prepaid|Browse Plan"==_junkAction||"Prepaid|Top Up"==_junkAction||"My Plans - Recharge"==_junkAction||"Usage Summary-Carousel Views"==_junkAction||"My Statement"==_junklabel)"My Statement"==_junklabel||"My Statement"==_junkAction?(JmyaccountAction="mystatement",_event="myaccount"):"My Plans - Recharge"==_junkAction?(JmyaccountAction="myplans",_event="myaccount"):"Usage Summary-Carousel Views"==_junkAction?(JmyaccountAction="usagesummary",
+_event="myaccount"):"Prepaid|Browse Plan"==_junkAction||"Prepaid|Top Up"==_junkAction?(JmyaccountAction="recharge",_event="myaccount"):JmyaccountAction="notfound","My Statement"==_junklabel?(JmyaccountLabel="initiate",_event="myaccount"):"My Statement"==_junkAction?(JmyaccountLabel="success",_event="myaccount"):"My Plans - Recharge"==_junkAction?(JmyaccountLabel="recharge",_event="myaccount"):"Usage Summary-Carousel Views"==_junkAction?(JmyaccountLabel="carouselviews",_event="myaccount"):"Prepaid|Browse Plan"==
+_junkAction?(JmyaccountLabel="browseplans",_event="myaccount"):"Prepaid|Top Up"==_junkAction?(JmyaccountLabel="topup",_event="myaccount"):JmyaccountLabel="notfound",dataLayer.push({event:_event,JmyaccountLabel:JmyaccountLabel,JmyaccountAction:JmyaccountAction})},500)});jQuery(document).on("click",".rechargeTabs a",function(){dataLayer.push({event:"myaccount",JmyaccountAction:"browseplans",JmyaccountLabel:jQuery(this).text().toLowerCase().trim()})});jQuery(document).on("click",".slide-cta a",function(){dataLayer.push({event:"testimonials",
+JAction:"testimonials",JLabel:jQuery(this).text().trim(),jLink:jQuery(this).attr("href")})});-1<location.href.indexOf("/en-in/contact-us")&&(jQuery(document).on("click",".login-button input",function(){_emailid=btoa(jQuery("#userEmail").val());setTimeout(function(){var a=jQuery(".error-massage:visible").length,b=jQuery("#Failure:visible").length;(0<a||b)&&dataLayer.push({event:"care",JAction:"email",JLabel:"failure",JEmail:_emailid,JGeneralData:jQuery(".error-massage:visible").text()+jQuery("#Failure:visible").text()})},
+500)}),jQuery(document).ajaxStart(function(a,b,c){_emailid=btoa(jQuery("#userEmail").val());_subject=jQuery("#subj").val()}),jQuery(document).ajaxSuccess(function(a,b,c){a=jQuery("#Failure:visible").length;-1<b.responseText.trim().toLowerCase().indexOf("success")?dataLayer.push({event:"care",JAction:"email",JLabel:"success",JEmail:_emailid,JGeneralData:_subject}):a?dataLayer.push({event:"care",JAction:"email",JLabel:"failure",JEmail:_emailid,JGeneralData:jQuery(".error-massage:visible").text()+jQuery("#Failure:visible").text()}):
+dataLayer.push({event:"care",JAction:"email",JLabel:"failure",JEmail:_emailid,JGeneralData:b.responseText.trim().toLowerCase()})}));if("/"==location.pathname)jQuery(document).on("click",".login-button input",function(){_emailid=btoa(jQuery("#email").val()||"notfilled");_phoneno=btoa(jQuery("#phoneNo").val()||"notfilled");var a;var b=setInterval(function(){var c=jQuery(".error-massage:visible").length;0<c?(dataLayer.push({event:"leadsubmission",JCategory:"RegisterInterestFailure",JAction:"submit",
+JLabel:"failure",JEmail:_emailid+"||"+_phoneno,JGeneralData:jQuery(".error-massage:visible").text()}),clearInterval(b)):0<jQuery(".thankyou-appicon li:visible").length?(dataLayer.push({event:"leadsubmission",JCategory:"RegisterInterest",JAction:"submit",JLabel:"success",JEmail:_emailid+"||"+_phoneno,JGeneralData:"Lead created successfully"}),clearInterval(b)):5E3<a?clearInterval(b):a+=500},500)});jQuery(document).on("click",".que",function(){var a=location.pathname.split("/");a=a[a.length-1];dataLayer.push({event:"appfaqs",
+appAction:"clicks",appLabel:"faqs",jProduct:a,jLink:jQuery(this).text().trim().toLowerCase()})});jQuery(document).on("click",".get-connect",function(){-1<jQuery(this).text().toLowerCase().indexOf("register")&&dataLayer.push({event:"registerinterest",JCategory:"registerinterestinitiate",JLabel:"initiate"});"/en-in/apps"==location.pathname&&dataLayer.push({event:"appicon",appAction:"click",appLabel:"downarrowicon"})});jQuery(".mobile-menu-container li").on("click",function(){dataLayer.push({event:"mobilenav",
+jLink:jQuery(this).find("a").attr("href")})});jQuery(document).on("click",".tile-wrap",function(){dataLayer.push({event:"appexploremore",appAction:"exploremore",appLabel:0!=jQuery(this).find("h2").length?jQuery(this).find("h2").text().trim().toLowerCase():"notfound",jLink:jQuery(this).attr("onclick")?jQuery(this).attr("onclick").attr("href").substring(jQuery(this).attr("onclick").attr("href").indexOf("('")+2,jQuery(this).attr("onclick").attr("href").indexOf("')")):"notfound"})});jQuery(document).on("click",
+".os-available a",function(){var a=location.pathname.split("/");a=a[a.length-1];var b="";-1<jQuery(this).find("img").attr("src").indexOf("app-store")?b="ios":-1<jQuery(this).attr("href").indexOf("play")&&-1<jQuery(this).attr("href").indexOf("google")?b="android":-1<jQuery(this).find("img").attr("src").indexOf("goto-desktop")&&(b="desktop");dataLayer.push({event:"appdownload",appAction:"downloadbody",appLabel:b,jProduct:a,jLink:jQuery(this).attr("href")})});jQuery(document).on("click",".app-img",function(){var a=
+location.pathname.split("/");a=a[a.length-1];var b="";-1<jQuery(this).find("img").attr("src").indexOf("app-store")?b="ios":-1<jQuery(this).attr("href").indexOf("play")&&-1<jQuery(this).attr("href").indexOf("google")?b="android":-1<jQuery(this).find("img").attr("src").indexOf("goto-desktop")&&(b="desktop");dataLayer.push({event:"appdownload",appAction:"downloadheader",appLabel:b,jProduct:a,jLink:jQuery(this).attr("href")})});jQuery(document).on("click","#toggle a",function(){dataLayer.push({event:"appsubnav",
+appAction:"floatingnav",appLabel:0<jQuery(this).length?jQuery(this).text().trim().toLowerCase():"notfound",jLink:jQuery(this).attr("href")})});_GTM_Counter=0}else 1500>=_GTM_Counter&&(_GTM_Counter+=300,_GTM_CheckjQuery_1())}
+function bannerSlots(){0<jQuery(".thumbnail-img-list li").length?(setTimeout(function(){jQuery(".thumbnail-img-list li").each(function(a){jQuery(this).attr("data-slot",a+1)})},500),jQuery(".containt-area a").each(function(a){jQuery(this).attr("data-slot",a+1)}),_GTM_Counter=0):1500>=_GTM_Counter&&(_GTM_Counter+=300,bannerSlots())}
+function _GTM_MoreInfo_Clicks(){var a="MoreInfoDefault";jQuery(document).on("click","a:contains(More Information)",function(){a=-1<location.pathname.indexOf("/cs/jio/index.html")?0!=jQuery(this).parents(".homepage__product__main:eq(0)").length?jQuery(this).parents(".homepage__product__main:eq(0)").find("h3").text().trim():"DEFAULT":0!=jQuery(this).parents(".content:eq(0)").length?jQuery(this).parents(".content:eq(0)").find(".shop-grid-title-big").text().trim():"DEFAULT";dataLayer.push({event:"moreinfo",
+eventAction:a.toUpperCase(),eventLabel:location.pathname})})}_GTM_CheckjQuery_1();function _LoginFailures(a,b){dataLayer.push({event:"loginfailures",eventAction:a.toUpperCase(),eventLabel:b});return!1}function _getSuccessLabel(){var a=google_tag_manager["GTM-TTJVDJ"].macro(17);if("My Statement"==a)return"success"}
+function _getundefinedValues(){if(0<dataLayer.length)for(var a=dataLayer.length-1;0<=a;a--)if(void 0!=dataLayer[a].eventCategory&&void 0!=dataLayer[a].eventAction&&void 0!=dataLayer[a].eventLabel){""!=dataLayer[a].eventCategory&&(_Category=dataLayer[a].eventCategory);""!=dataLayer[a].eventAction&&(_Action=dataLayer[a].eventAction);""!=dataLayer[a].eventLabel&&(_label=dataLayer[a].eventLabel);break}};</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","593213407527035");fbq("track","PageView");fbq("track","Lead");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=593213407527035&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">var new_GTM_Counter=0;_test="";function new_GTM_CheckjQuery_1(){window.jQuery&&1==jQuery("script[src*\x3dgtm]").length?(new_GTM_Counter=0,new_GTM_Trigger_Events()):1500>=new_GTM_Counter&&(new_GTM_Counter=_GTM_Counter+300,new_GTM_CheckjQuery_1())}function new_bannerSlots(){}
+function new_GTM_Trigger_Events(){if("/"==location.pathname)jQuery("#submitbutton").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:jQuery(this).val().trim().toLowerCase(),new_General_Data:"banner"})}),jQuery(".ios_icon_new img").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:"ios",new_General_Data:"appdownloads"})}),jQuery(".android__icon_new img").on("click",
+function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:"android",new_General_Data:"appdownloads"})}),jQuery("a:contains(Postpaid)").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:"postpaid",new_General_Data:"plans"})}),jQuery("a:contains(Prepaid)").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:"prepaid",
+new_General_Data:"plans"})}),jQuery("#plan2 .see-all-plan").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:"postpaid - see all plans",new_General_Data:"plans"})}),jQuery("#plan1 .see-all-plan").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:"prepaid - see all plans",new_General_Data:"plans"})}),jQuery("#ytlight-video").on("click",function(){dataLayer.push({event:"new_homepagebanner",
+new_Category:"Homepage",new_Action:"clicks",new_Label:jQuery(this).val().trim().toLowerCase(),new_General_Data:"video"})}),jQuery(".brands-logo-container a").on("click",function(){var a=jQuery(this).attr("href");a=a.substring(a.indexOf("?sb\x3d")+4,a.length).toLowerCase();dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:"partnerDevices",new_General_Data:a})}),jQuery(".hotspot:eq(0)").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",
+new_Action:"clicks",new_Label:jQuery(this).find(".shop-grid-title").text().trim().toLowerCase(),new_General_Data:"Not Passed"})}),jQuery(".hotspot:eq(1)").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:jQuery(this).find(".shop-grid-title").text().trim().toLowerCase(),new_General_Data:"Not Passed"})}),jQuery(".view-link,.view-all-txt").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",
+new_Label:jQuery(this).text().trim().toLowerCase(),new_General_Data:"Not Passed"})}),jQuery(".owl-item .apps_pic,.owl-item .apps_info").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:"appTile",new_General_Data:jQuery(this).parents(".owl-item").find("h2").text().trim().toLowerCase()})}),jQuery(".owl-item .android-os").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:"download-android",
+new_General_Data:jQuery(this).parents(".owl-item").find("h2").text().trim().toLowerCase()})}),jQuery(".owl-item .apple-os").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:"download-ios",new_General_Data:jQuery(this).parents(".owl-item").find("h2").text().trim().toLowerCase()})}),jQuery(".call_txt_no a").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:"call",
+new_General_Data:jQuery(this).text().trim().toLowerCase()})}),jQuery(".download-app a").click(function(){var a=jQuery(this).attr("href");a=a.split("/");a=a[a.length-1];dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:a})}),jQuery(".btn-prime").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Homepage",new_Action:"clicks",new_Label:jQuery(this).val()})}),jQuery(".img-responsive").on("click",function(){dataLayer.push({event:"new_homepagebanner",
+new_Category:"Homepage",new_Action:"clicks",new_Label:"Special Partner Offers-Know More"})}),jQuery(".jio-btn").on("click",function(){var a=jQuery(this).closest(".jio-btn").text().trim(),b=jQuery(this).attr("onclick");"location.href\x3d('https://www.jio.com/en-in/jio-home-delivery-book-appointment.html')"==b?dataLayer.push({event:"new_homepagebanner",new_Category:"Banner",new_Action:"mainbannerclicks",new_Label:"250 Million On Jio|"+a}):"location.href\x3d('https://www.jio.com/en-in/jiophone')"==b?
+dataLayer.push({event:"new_homepagebanner",new_Category:"Banner",new_Action:"mainbannerclicks",new_Label:"250 Million On Jio|"+a}):"location.href\x3d('https://www.jio.com/en-in/jio-diwali-dhamaka-offer')"==b?dataLayer.push({event:"new_homepagebanner",new_Category:"Banner",new_Action:"mainbannerclicks",new_Label:"250 Million On Jio|"+a}):"location.href\x3d('https://www.jio.com/shop/buy-apple-iphone-xs-apple-iphone-xs-max-pre-order-apple-iphone-xr')"==b?dataLayer.push({event:"new_homepagebanner",new_Category:"Banner",
+new_Action:"mainbannerclicks",new_Label:"iPhone XR|"+a}):"location.href\x3d('https://www.jio.com/shop/buy-jio-phone-2?_ga\x3d2.222901272.263597909.1536125678-487523261.1516170682')"==b&&dataLayer.push({event:"new_homepagebanner",new_Category:"Banner",new_Action:"mainbannerclicks",new_Label:"JioPhone2 Flash Sale|"+a})}),jQuery(".jio-prime-network-banner").on("click",function(){var a=jQuery(this).attr("onclick");a=a.split("/");a=a[a.length-1].replace("'","");dataLayer.push({event:"new_homepagebanner",
+new_Category:"Homepage",new_Action:"clicks",new_Label:a})});else if("/en-in/brand-partners"==location.pathname||"/en-in/retail-partners"==location.pathname)jQuery(".owl-item img").on("click",function(){dataLayer.push({event:"new_homepagebanner",new_Category:"Banner",new_Action:"Brand Partner",new_Label:"rechargeNow"})});else if("/en-in/4g-plans"==location.pathname||"/jio-phone-recharge-plans"==location.pathname||"/jio-link-recharge-plans"==location.pathname||"/jio-top-up-recharge-plans"==location.pathname||
+"/jio-add-on-plans"==location.pathname||"/jio-isd-recharge-plans"==location.pathname||"/jio-international-roaming-recharge-plans"==location.pathname||"/postpaid-4g-plans"==location.pathname||"/jio-isd-plans"==location.pathname||"/jio-international-roaming-plans"==location.pathname)jQuery("h3:contains(Terms and Conditions)").on("click",function(){dataLayer.push({event:"new_planspage",new_Category:"Plan Listing Page",new_Action:jQuery(this).text().trim(),new_Label:"NA"})}),jQuery("li:contains(Prepaid) a").on("click",
+function(){dataLayer.push({event:"new_planspage",new_Category:"Plan Listing Page",new_Action:"Prepaid PDF Download",new_Label:jQuery(this).text().trim().toLowerCase()})}),jQuery("li:contains(Postpaid) a").on("click",function(){dataLayer.push({event:"new_planspage",new_Category:"Plan Listing Page",new_Action:"Postpaid PDF Download",new_Label:jQuery(this).text().trim().toLowerCase()})}),jQuery("li:contains(International tariff) a").on("click",function(){dataLayer.push({event:"new_planspage",new_Category:"Plan Listing Page",
+new_Action:"Internation PDF Download",new_Label:jQuery(this).text().trim().toLowerCase()})}),jQuery(".banner-holder img").on("click",function(){dataLayer.push({event:"new_planspage",new_Category:"Banner",new_Action:"Plans",new_Label:"Jio Prime Banner"})});else if("/en-in/devices"==location.pathname)jQuery(".shop-grid").on("click",function(){dataLayer.push({event:"new_devicespage",new_Category:"Devices",new_Action:"clicks",new_Label:jQuery(this).find(".shop-grid-title").text().trim().toLowerCase(),
+new_General_Data:jQuery(".drop-city-plan select option:selected").text().trim().toLowerCase()})});else if("/en-in/regulatory/calldata"==location.pathname)jQuery(".pdf-container div[onclick*\x3dpdf]").on("click",function(){dataLayer.push({event:"regulatory_calldata",new_Category:"Regulatory Reports",new_Action:"CallData",new_Label:"pdf",new_General_Data:jQuery(this).text().trim().toLowerCase()})});else if("/en-in/register-interest"==location.pathname)jQuery(".thumb-box").on("click",function(){dataLayer.push({event:"Register_Interest",
+new_Category:"Register Interest",new_Action:"Click",new_Label:jQuery(this).text().trim().toLowerCase()})});else if("/preview/jiofi"==location.pathname){jQuery(".text-center").on("click",function(){dataLayer.push({event:"jiofi offer",new_Category:"JioFi Offer Page",new_Action:"Banner Clicks",new_Label:jQuery(this).text()})});jQuery(".btn-fi-com").on("click",function(){dataLayer.push({event:"jiofi offer",new_Category:"JioFi Offer Page",new_Action:"FloatingNav",new_Label:jQuery(this).val()})});jQuery(".title-info").on("click",
+function(){dataLayer.push({event:"jiofi offer",new_Category:"JioFi Offer Page",new_Action:"Discover Jiofi Features",new_Label:jQuery(this).find("p").text()})});var g=" ";jQuery(".accordion-header4").on("click",function(){g=jQuery(this).find("h3").text();dataLayer.push({event:"jiofi offer",new_Category:"JioFi Offer Page",new_Action:"JioFi- A user friendly device",new_Label:g})});jQuery(".accordion-content4 li").on("click",function(){var a=jQuery(this).text();dataLayer.push({event:"jiofi offer",new_Category:"JioFi Offer Page",
+new_Action:"JioFi- A user friendly device",new_Label:g+"|"+a})});jQuery("#slick-slide00,#slick-slide01,#slick-slide02,#slick-slide03").on("click",function(){var a=jQuery(this).text();a=a.substring(1,a.length);dataLayer.push({event:"jiofi offer",new_Category:"JioFi Offer Page",new_Action:"Become a Voice + Data Hotspot",new_Label:a})});jQuery(".que").on("click",function(){dataLayer.push({event:"jiofi offer",new_Category:"JioFi Offer Page",new_Action:"FAQ's",new_Label:jQuery(this).text()})})}else if("/shop/jiofi-999-festive-offer"==
+location.pathname)jQuery(".submenu-left-title,.subnav-right a,#mobilemenu-toggle a").on("click",function(){dataLayer.push({event:"jiofi festiv",new_Category:"JioFi 999 Offer",new_Action:"FloatingNav",new_Label:jQuery(this).text()})}),jQuery(".btn-wrap li").on("click",function(){dataLayer.push({event:"jiofi festiv",new_Category:"JioFi 999 Offer",new_Action:"Banner Clicks",new_Label:jQuery(this).text()})}),jQuery(".btn-wrap-set").on("click",function(){dataLayer.push({event:"jiofi festiv",new_Category:"JioFi 999 Offer",
+new_Action:"Check Availability",new_Label:""})}),jQuery(".cart-btn.delayed-button").on("click",function(){dataLayer.push({event:"jiofi festiv",new_Category:"JioFi 999 Offer",new_Action:"Add to Cart",new_Label:""})});else if("/en-in/digital-campus"==location.pathname||"/digitizecampus-form"==location.pathname)jQuery("#btn-down-camp").on("click",function(){dataLayer.push({event:"Digital Campus Interest",new_Category:"Digital Campus Interest",new_Action:jQuery(this).val()})}),jQuery(".learn-more").on("click",
+function(){dataLayer.push({event:"Digital Campus Interest",new_Category:"Digital Campus Interest",new_Action:jQuery(this).text()})}),jQuery(".btn-fi-com").on("click",function(){dataLayer.push({event:"Digital Campus Interest",new_Category:"Digital Campus Interest",new_Action:jQuery(this).val()})}),jQuery(".share_list a").on("click",function(){dataLayer.push({event:"Digital Campus Interest",new_Category:"Digital Campus Interest",new_Action:"Share",new_Label:jQuery(this).attr("title")})}),jQuery(".share_list a").on("click",
+function(){dataLayer.push({event:"Digital Campus Interest",new_Category:"Digital Campus Interest",new_Action:"Share",new_Label:"whatsapp"})}),jQuery(".login-buttonyes a").on("click",function(){dataLayer.push({event:"Digital Campus Interest",new_Category:"Digital Campus Interest",new_Action:"Share",new_Label:jQuery(this).text()})});else if("/shop/en-in/c/jiofi"==location.pathname||"/shop/en-in/c/smartphones"==location.pathname)jQuery(".slick-slide").on("click",function(){dataLayer.push({event:"devicebanner",
+new_Category:"Banner",new_Action:"Devices",new_Label:jQuery(this).find("img").attr("alt")})});else if("/shop/en-in/wind-7s-black/p/581108403"==location.pathname||"/shop/en-in/wind-4s-black/p/581107932"==location.pathname)jQuery(document).ready(function(){var a=jQuery(location).attr("href").toUpperCase();a=a.split("/");var b=a[a.length-3],c=a[a.length-1];jQuery("body").on("click",".jcarousel-container .jcarousel-item ",function(){var a=jQuery(this).find("h3").text(),d=jQuery(this).find("a").attr("href");
+d=d.split("/");d=d[d.length-1];dataLayer.push({event:"devicebanner",new_Category:"Similar Product Click",new_Action:b+"|"+c,new_Label:a+"|"+d})})});else if("/jio-prime"==location.pathname)jQuery(".jio-prime-maskhead a").on("click",function(){dataLayer.push({event:"devicebanner",new_Category:"Banner",new_Action:"Jio Prime",new_Label:"Jio Prime Banner"})});else if("/en_US/jio-buzz.html"==location.pathname)jQuery(".plustext,#previewUpload,.btn.btn-default").on("click",function(){dataLayer.push({event:"new_planspage",
+new_Category:"Jio Buzz Campaign",new_Action:"Click",new_Label:jQuery(this).text()})});else if("/en-in/jio-fiber"==location.pathname)jQuery("#btn-down-camp").on("click",function(){dataLayer.push({event:"JioFiber",new_Category:"JioFiber",new_Action:"I Am Interested"})}),jQuery(".owl-item .apps_pic,.owl-item .apps_info").on("click",function(){dataLayer.push({event:"JioFiber",new_Category:"JioFiber",new_Action:"clicks",new_Label:"appTile",new_General_Data:jQuery(this).parents(".owl-item").find("h2").text().trim().toLowerCase()})}),
+jQuery(".owl-item .android-os").on("click",function(){dataLayer.push({event:"JioFiber",new_Category:"JioFiber",new_Action:"clicks",new_Label:"download-android",new_General_Data:jQuery(this).parents(".owl-item").find("h2").text().trim().toLowerCase()})}),jQuery(".owl-item .apple-os").on("click",function(){dataLayer.push({event:"JioFiber",new_Category:"JioFiber",new_Action:"clicks",new_Label:"download-ios",new_General_Data:jQuery(this).parents(".owl-item").find("h2").text().trim().toLowerCase()})});
+else if("/Jio/portal/recharge"==location.pathname)jQuery("body").on("click","#pt1\\:r3\\:0\\:cb2",function(){dataLayer.push({event:"Recharge",new_Category:"Recharge",new_Action:"Quick Pay Proceed",new_Label:" "})});else if("/en-in/selfhelp"==location.pathname){jQuery("body").on("click",".trending-question li a",function(){var a=jQuery(this).text().trim();dataLayer.push({event:"FAQ",new_Category:"FAQ",new_Action:"Popular Questions",new_Label:"",new_General_Data:a,FAQ:"Popular questions"})});var k=
+"",l="";jQuery("document").ready(function(){jQuery("body").on("click",".ddlevel1 li ",function(){k=jQuery(this).find("h2").text().trim()});jQuery("body").on("click",".ddlevel2 li ",function(){l=jQuery(this).find("a").text().trim()});jQuery("body").on("click",".ddlevel3 li ",function(){var a=jQuery(this).find("a").text().trim();dataLayer.push({event:"FAQ",new_Category:"FAQ",new_Action:k,new_Label:l,new_General_Data:a,FAQ:"Navigated questions"})})});jQuery("body").on("click",".grid-link a",function(){dataLayer.push({event:"Self Help",
+new_Category:"Care",new_Action:jQuery(this).text()})});var m;jQuery("body").on("click",".ddlevel-items li",function(){m=jQuery(this).find("a").text();sessionStorage.setItem("item",m)})}else if("/guidedhelp-v1.html"==location.pathname){var n;jQuery(document).ready(function(){var a=jQuery(location).attr("href"),b=/faqid=([^]+)/;a=b.exec(a);n=a[1]});jQuery("body").on("click","#ytlight-video",function(){var a=jQuery(this).val(),b=sessionStorage.getItem("item");dataLayer.push({event:"Self Help",new_Category:"Care",
+new_Action:a,new_Label:b+"|"+n})})}else if("/en-in/refer-a-friend"==location.pathname)jQuery(".primary-btn").on("click",function(){dataLayer.push({event:"devicebanner",new_Category:"Refer A Friend",new_Action:jQuery(this).text(),new_Label:""})});else if("/en-in/jio-gst.html"==location.pathname)jQuery("#gst-knowledge-partner").on("click",function(){dataLayer.push({event:"devicebanner",new_Category:"Jio Enterprise Prime Program",new_Action:"Jio GST",new_Label:""})}),jQuery("#webinar-series").on("click",
+function(){dataLayer.push({event:"devicebanner",new_Category:"Jio Enterprise Prime Program",new_Action:"Webinar Series",new_Label:""})}),jQuery("#rethink-telecom").on("click",function(){dataLayer.push({event:"devicebanner",new_Category:"Jio Enterprise Prime Program",new_Action:"2x Data",new_Label:""})}),jQuery("#enterprise-prime-program").on("click",function(){dataLayer.push({event:"devicebanner",new_Category:"Jio Enterprise Prime Program",new_Action:"Program Benefits",new_Label:""})}),jQuery(".gst-webinar li").on("click",
+function(){dataLayer.push({event:"devicebanner",new_Category:"Jio Enterprise Prime Program",new_Action:"Webinar Series",new_Label:jQuery(this).find(".text-wrap").text()})});else if("/en-in/jio-home-delivery"==location.pathname)jQuery(".tabs-cont-jio-beats a").on("click",function(){var a=jQuery(this).text().trim();dataLayer.push({event:"Home Delivery",new_Category:"Home Delivery",new_Action:"FloatingNav|"+a,new_Label:""})}),jQuery(".btn-action").on("click",function(){dataLayer.push({event:"Home Delivery",
+new_Category:"Home Delivery",new_Action:"Easy Steps Book Now",new_Label:""})}),jQuery(".btn-action-delivered").on("click",function(){dataLayer.push({event:"Home Delivery",new_Category:"Home Delivery",new_Action:"Home Delivered Book Now",new_Label:""})}),jQuery(".os-available img").on("click",function(){var a=jQuery(this).attr("src"),b="/app-store.png";a==b?dataLayer.push({event:"Home Delivery",new_Category:"Home Delivery",new_Action:"Download MyJio App",new_Label:"download-ios"}):dataLayer.push({event:"Home Delivery",
+new_Category:"Home Delivery",new_Action:"Download MyJio App",new_Label:"download-android"})}),jQuery(".que").on("click",function(){dataLayer.push({event:"Home Delivery",new_Category:"Home Delivery",new_Action:"FAQ's",new_Label:jQuery(this).text()})});else if("/en-in/helpful-tips"==location.pathname)jQuery(".item.show_pop").on("click",function(){var a=jQuery(this).closest("li").find("h3").text().toLowerCase().trim();dataLayer.push({event:"Self Help",new_Category:"Jio Helpful Tips",new_Action:a})});
+else if("/en-in/book-jio-phone"==location.pathname)jQuery("body").on("click",".lg-banner img",function(){dataLayer.push({event:"Webview-Jio Phone Prebook",new_Category:"Banner",new_Action:"Jio Phone",new_Label:"Register Now"})}),jQuery("body").on("click",".sm-txt a",function(){dataLayer.push({event:"Webview-Jio Phone Prebook",new_Category:"JioPhone Homepage",new_Action:"FloatingNav",new_Label:jQuery(this).text().toLowerCase().trim()})}),jQuery("body").on("click","#btn-play2",function(){dataLayer.push({event:"Webview-Jio Phone Prebook",
+new_Category:"JioPhone Homepage",new_Action:jQuery(this).text().toLowerCase().trim(),new_Label:""})}),jQuery("body").on("click",".tech-more-btn.margin-top-20",function(){var a=jQuery(this).text().toLowerCase().trim();"show more"!=a?dataLayer.push({event:"Webview-Jio Phone Prebook",new_Category:"JioPhone Homepage",new_Action:"show more",new_Label:""}):dataLayer.push({event:"Webview-Jio Phone Prebook",new_Category:"JioPhone Homepage",new_Action:"show less",new_Label:""})});else if("/en-in/apps/jio-security"==
+location.pathname)jQuery("body").on("click",".sm-screen-txt a",function(){dataLayer.push({event:"appfaqs",appAction:"clicks",appLabel:"JioSecurity-"+jQuery(this).text(),jProduct:"jio-security"})});else if("/shop/buy-apple-watch-series-3-cellular"==location.pathname){jQuery(".apple-banner-txt a,.apple-banner-txt.btn_panel_apple p").on("click",function(){var a=jQuery(this).text();dataLayer.push({event:"appleWatchSeries",new_Category:"Apple Watch Series 3",new_Action:"Banner Click|"+a,new_Label:"NA"})});
+jQuery("body").on("click",".apple_watch_super_category.text-center .iwatch-tile,.owl-item.selected .iwatch-tile",function(){var a=jQuery(".apple_watch_super_selected_category.active .iwatch-series-title,.owl-item.selected .iwatch-series-title").find("h4").text();dataLayer.push({event:"appleWatchSeries",new_Category:"Apple Watch Series 3",new_Action:"Select Apple Watch",new_Label:a})});jQuery(".icompare.text-center a,.compare-watch a").on("click",function(){var a=jQuery(this).text();a=a.split("\x3e");
+a=a[a.length-2];dataLayer.push({event:"appleWatchSeries",new_Category:"Apple Watch Series 3",new_Action:a,new_Label:"NA"})});var c,e,f;jQuery("body").on("click",".apl-device-item.text-center.active #iwatch-btn",function(){c=jQuery(".apl-device-size .active").text();e=jQuery(".apple_watch_super_selected_category.active .iwatch-series-title").find("h4").text();f=jQuery(".apl-device-item.text-center.active .device-title").text();var a=jQuery(this).val();dataLayer.push({event:"appleWatchSeries",new_Category:"Apple Watch Series 3",
+new_Action:a,new_Label:e+"|"+f+"|"+c})});jQuery(".tabs-cont-jio-beats a,#btn1").on("click",function(){dataLayer.push({event:"appleWatchSeries",new_Category:"Apple Watch Series 3",new_Action:"Floating NAV",new_Label:jQuery(this).text()})});jQuery("body").on("click",".jio-beats-logo",function(){dataLayer.push({event:"appleWatchSeries",new_Category:"Apple Watch Series 3",new_Action:"Floating NAV",new_Label:jQuery(this).find("span").text()})});jQuery("body").on("click",".item.text-center .iwatch-device-btn.active",
+function(){c=jQuery(".iwatch-details.show .tabs-option.selected").text();e=jQuery(".owl-item.selected .iwatch-series-title").find("h4").text();f=jQuery(".iwatch-device-btn.active").closest(".apple-series-wrap").find("h4").text();var a=jQuery(this).val();dataLayer.push({event:"appleWatchSeries",new_Category:"Apple Watch Series 3",new_Action:a,new_Label:e+"|"+f+"|"+c})})}else if("/postpaid"==location.pathname)jQuery("body").on("click",".btn_nav_top a",function(){dataLayer.push({event:"postpaidPage",
+new_Category:"PostPaid Page",new_Action:"Get Now|FloatingNav",new_Label:"NA"})}),jQuery("body").on("click",".section a",function(){var a=jQuery(this).attr("href");"https://www.jio.com/en-in/jio-home-delivery-book-appointment.html"==a?dataLayer.push({event:"postpaidPage",new_Category:"PostPaid Page",new_Action:"Get Now|Hello Jio PostPaid",new_Label:"NA"}):"http://www.jio.com/postpaid-4g-plans"==a?dataLayer.push({event:"postpaidPage",new_Category:"PostPaid Page",new_Action:"Get Now|Best tarrifs in India \x26 abroad",
+new_Label:"NA"}):"http://www.jio.com/jio-isd-plans"==a?dataLayer.push({event:"postpaidPage",new_Category:"PostPaid Page",new_Action:"Get Now|International Calling",new_Label:"NA"}):"http://www.jio.com/jio-international-roaming-plans"==a&&dataLayer.push({event:"postpaidPage",new_Category:"PostPaid Page",new_Action:"Get Now|Roam abroad like home",new_Label:"NA"})}),jQuery("body").on("click",".postpaid-container .postpaid-btn.aos-init.aos-animate",function(){jQuery(this).find("span");dataLayer.push({event:"postpaidPage",
+new_Category:"PostPaid Page",new_Action:"Get Now|Join JIO without changing your number",new_Label:"NA"})}),jQuery("body").on("click",".postpaid-container .postpaid-container-table-cell.aos-init.aos-animate",function(){var a=jQuery(this).find("img").attr("src");"/sec-11-getnow-v02.png"==a&&dataLayer.push({event:"postpaidPage",new_Category:"PostPaid Page",new_Action:"Get Now|Convert from prepaid to postpaid",new_Label:"NA"})});else if("/digital-ganesh-puja"==location.pathname||"/contribute-now"==location.pathname)jQuery("body").on("click",
+".ganesh-btn",function(){dataLayer.push({event:"primeshop",new_Category:"Ganesh Puja",new_Action:jQuery(this).val().trim(),new_Label:"NA"})});var p,q,h,r,t,u,v;jQuery("body").on("click",".cls_skNav1 .cls_skPtCur",function(){c=jQuery(this).text().toLowerCase()});jQuery("body").on("click",".cls_skNav2  .cls_skPtCur",function(){e=jQuery(this).text().toLowerCase()});jQuery("body").on("click",".cls_skNav3  .cls_skPtCur",function(){f=jQuery(this).text().toLowerCase();dataLayer.push({event:"primeshop",new_Category:"jio prime shop",
+new_Action:"search|navigation click",new_Label:c+"|"+e+"|"+f})});jQuery("body").on("click",".cls_skSearchBtn",function(){p=jQuery(".cls_skSearchInput").val().toLowerCase();dataLayer.push({event:"primeshop",new_Category:"jio prime shop",new_Action:"search|free text",new_Label:p})});jQuery("body").on("keypress",".cls_skSearchInput",function(a){a=a.keyCode||a.which;var b=jQuery(".cls_skSearchInput").val().toLowerCase();"13"==a&&dataLayer.push({event:"primeshop",new_Category:"jio prime shop",new_Action:"search|free text",
+new_Label:b})});jQuery("body").on("click",".cls_skAICuratedcardbody",function(){q=jQuery(this).find("h1").text().toLowerCase();dataLayer.push({event:"primeshop",new_Category:"jio prime shop",new_Action:"search|category tile click",new_Label:q})});jQuery("body").on("click",".cls_skNoPdtImag ,.cls_skAnalyticsPdtName",function(){dataLayer.push({event:"primeshop",new_Category:"jio prime shop",new_Action:"deals",new_Label:"NA"})});jQuery("body").on("click",".cls_skPdtDetails.cls_skBoxFlex.cls_skAlignItemsCenter.cls_skBackVisibilityHidden.cls_skPreserve3d.cls_skTransform8Sec",
+function(){h=jQuery(this).find("h1").text().toLowerCase();"deals central"!=h&&dataLayer.push({event:"primeshop",new_Category:"jio prime shop",new_Action:"product click",new_Label:"NA",productName:h})});jQuery("body").on("click",".cls_skFavHeart",function(){var a=jQuery(".cls_skPdtName").text().toLowerCase();dataLayer.push({event:"primeshop",new_Category:"jio prime shop",new_Action:"product page|wishlist",new_Label:"NA",productName:a})});jQuery("body").on("click",".cls_skFavIcon.cls_skFavAttachForDesktop",
+function(){var a=jQuery(".cls_skPdtName").text().toLowerCase();dataLayer.push({event:"primeshop",new_Category:"jio prime shop",new_Action:"product page|share",new_Label:"NA",productName:a})});jQuery("body").on("click",".cls_skBuyNow",function(){r=jQuery(this).text().toLowerCase();t=jQuery(".cls_skRetailerLogo").text();u=jQuery(".cls_skPdtPrice").text();var a=u.replace(/\D/g,"");v=jQuery(".cls_skPdtName").text().toLowerCase();dataLayer.push({event:"primeshop",new_Category:"jio prime shop",new_Action:"product page|"+
+r,new_Label:t,eventValue:a,productName:v})});jQuery("body").on("click",".header-menu-wrap a,#pt1\\:pt_pgl6 a,#pt1\\:pt_pgl88 a,.row.header-nav li,.quick-pay-drp a,.quick-pay-drp div,.digi-mob-headerright a,#sub_nav1 a,#pt1\\:pt_pgl3 a,.header-container a",function(){var a=jQuery(this).text().toLowerCase().replace(/\d/," ").trim(),b="plans;devices;apps;why jio;support;find a store;login;quick pay;recharge;pay bill;my account;manage accounts;profile settings;my orders;service request;sign out;cart;sign in;get new sim".split(";");
+0<=jQuery.inArray(a,b)&&dataLayer.push({event:"HeaderClick2",new_Category:"HeaderClicks",new_Action:a})});jQuery(".header-menu-wrap img,.row.header-nav img,.digi-mob-logoimg img").on("click",function(){var a=jQuery(this).attr("src"),b="/digitalhome-white-icon.png",c="/medias/home-white-icon.png?context\x3dbWFzdGVyfGltYWdlc3w2MTB8aW1hZ2UvcG5nfGltYWdlcy9oN2IvaDZlLzg4MTIxMTcwMzI5OTAucG5nfDUzMmY3ZTRmZGYyZmY0NTkxZjkyYjc2ZDZkMWE1Mjc2ZTM5YzQwN2UxY2E4MWMxNzA1OWQyYmRjOTE5YTMwZTg",e="/support/en-in/images/digitalhome-white-icon_tcm19-21806.png",
+d="/medias/logo-jio.png?context\x3dbWFzdGVyfGltYWdlc3wxNjgwfGltYWdlL3BuZ3xpbWFnZXMvaGJiL2hjOS84ODAxMTQzODQ4OTkwLnBuZ3w0NjA4NzViNWJhMjExNjQ2NmRkMjY0MTZjOTlmMzU5N2RkYmQyMTNhYTU3ZTE2MGE3YzdjMDYzMTU2NGY2MzU2",f="/medias/mobile-logo.png?context\x3dbWFzdGVyfGltYWdlc3wxNjgwfGltYWdlL3BuZ3xpbWFnZXMvaDNiL2g3Zi84ODA3MjAyNDIyODE0LnBuZ3wyOWU1MjJhYjU2NGM4NDUwOWI5MzQ2MWQ0MGQwNzlhZmY1OGU0YmFlYTQwMzcwNzAzYTgzZTdlMzlhOTE3OTFk";a==b||a==c||a==e?dataLayer.push({event:"HeaderClick2",new_Category:"HeaderClicks",new_Action:"homeicon"}):
+(a==d||a==f)&&dataLayer.push({event:"HeaderClick2",new_Category:"HeaderClicks",new_Action:"jiologo"})});jQuery(".headerHomeLink").on("click",function(){labelValue="homeicon";dataLayer.push({event:"HeaderClick2",new_Category:"HeaderClicks",new_Action:labelValue})});jQuery(".logoImage,.bg-color3,#pt1\\:pt_gil12").on("click",function(){labelValue="jiologo";dataLayer.push({event:"HeaderClick2",new_Category:"HeaderClicks",new_Action:labelValue})});jQuery(".iconSearch,.headerSearchLink,.searchLinkTemp,.search-black-icon").on("click",
+function(){dataLayer.push({event:"HeaderClick2",new_Category:"HeaderClicks",new_Action:"Search"})});jQuery("#search-link-mobile").on("click",function(){dataLayer.push({event:"HeaderClick2",new_Category:"HeaderClicks",new_Action:"Search"})});jQuery(".ft-nav a,.sitelyffooter a,#pt1\\:pgl16 a:not(pt1\\:image1,pt1\\:image2,pt1\\:image3,pt1\\:image4,pt1\\:commandLink10)").on("click",function(){var a=jQuery(this).text().toLowerCase().trim();dataLayer.push({event:"Footer",new_Category:"FooterClicks",new_Action:a,
+new_Label:""})});jQuery(".ft-social li a:eq(0),.iconTwitter,#pt1\\:pt_gil1").on("click",function(){dataLayer.push({event:"Footer",new_Category:"FooterClicks",new_Action:"Connect with us",new_Label:"Twitter"})});jQuery("body").on("click",".ft-social li a:eq(1),.iconFacebook,#pt1\\:t_gil1",function(){dataLayer.push({event:"Footer",new_Category:"FooterClicks",new_Action:"Connect with us",new_Label:"Facebook"})});jQuery("body").on("click",".ft-social li a:eq(2),.iconYoutube,#pt1\\:pt_gil11",function(){dataLayer.push({event:"Footer",
+new_Category:"FooterClicks",new_Action:"Connect with us",new_Label:"Youtube"})});jQuery(document).ready(function(){jQuery("#showLocalities").on("click",function(){dataLayer.push({event:"devicebanner",new_Category:"Device Details",new_Action:"View Details",new_Label:""})});jQuery("#selectBank").on("change",function(){var a=jQuery(this).find("option:selected").text();dataLayer.push({event:"devicebanner",new_Category:"Device Details",new_Action:"View Details",new_Label:a})})});jQuery("#prod-return-policy a").on("click",
+function(){dataLayer.push({event:"devicebanner",new_Category:"Device Details",new_Action:"Product Return Policy",new_Label:jQuery(this).text()})})}new_GTM_CheckjQuery_1();</script><script src="/jiostaticresources/js/googleAnalytics.min.js?version=5.0"></script><iframe sandbox="allow-scripts allow-same-origin" title="Adobe ID Syncing iFrame" id="destination_publishing_iframe_reliancecorporateit_0" name="destination_publishing_iframe_reliancecorporateit_0_name" src="https://reliancecorporateit.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.jio.com%2F" style="display: none; width: 0px; height: 0px;"></iframe><iframe src="https://bid.g.doubleclick.net/xbbe/pixel?d=KAE" style="display: none;"></iframe></body></html>

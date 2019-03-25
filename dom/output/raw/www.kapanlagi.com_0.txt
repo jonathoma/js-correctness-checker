@@ -1,0 +1,1841 @@
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="id" lang="id"><head><iframe sandbox="allow-scripts allow-same-origin" id="665cbffb4118ad" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="//ads.pubmatic.com/AdServer/js/showad.js#PIX&amp;kdntuid=1&amp;p=156536">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="375cc1d7791349e" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="//ads.pubmatic.com/AdServer/js/showad.js#PIX&amp;kdntuid=1&amp;p=156536">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="3643ca76f688911" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="//acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="376ce2b46e0a7c8" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="//acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="3616403eea1d84" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="//ads.pubmatic.com/AdServer/js/showad.js#PIX&amp;kdntuid=1&amp;p=156536">
+    </iframe>
+	<meta charset="utf-8">
+	<meta http-equiv="Cache-Control" content="no-cache">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Expires" content="Tue, 22 Jan 2013 02:30:01 GMT">
+	<meta http-equiv="Refresh" content="900">
+	<meta name="description" content="KapanLagi.com, situs entertainment terbesar di Indonesia. Berita, gosip, foto, game, kartu ucapan, resensi film, musik, dan banyak lagi. Kalau bukan sekarang, Kapan Lagi?">
+	<meta name="keywords" content="berita, infotainment, gossip, gosip, artis, artis indonesia, indonesia, game, entertainment, film, bioskop, resensi, musik, zodiac, kartu ucapan, kartu, kartu lebaran">
+	<meta property="fb:admins" content="1048538409">
+	<meta property="fb:app_id" content="166048096750307">
+	
+    <link rel="manifest" href="/manifest.json">
+	<link href="https://cdns.klimg.com/kapanlagi.com/v5/i/favicon.ico" rel="shortcut icon">
+	<link rel="dns-prefetch" href="https://cdns.klimg.com/">
+	<link rel="alternate" type="application/atom+xml" title="KapanLagi.com Atom Feed" href="/feed/entertainment.xml">
+	<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.kapanlagi.com/">
+	<link rel="canonical" href="https://www.kapanlagi.com/">
+	<link rel="apple-touch-icon" href="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/apple-touch-icon.png">
+	<link rel="apple-touch-icon" href="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/apple-touch-icon-precomposed.png">
+	<link rel="apple-touch-icon" href="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon" href="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon" href="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/apple-touch-icon-152x152-precomposed.png">
+	<title>Kalau Bukan Sekarang, Kapan Lagi? - KapanLagi.com</title>
+	<!--CSS--><link rel="stylesheet" type="text/css" href="https://cdns.klimg.com/a.kapanlagi.com/v5/css/9h/home-v8/entertainment.css"><!--ENDOFCSS-->
+	<!--JS--><script type="text/javascript" async="" src="https://sb.scorecardresearch.com/c2/15220176/cs.js"></script><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script type="text/javascript" src="https://beacon.krxd.net/optout_check?callback=Krux.ns.creativemediaworkspteltd.kxjsonp_optOutCheck"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_2019032001.js"></script><script type="text/javascript" src="https://cdn.krxd.net/userdata/get?pub=b1365729-3683-487d-b7e5-6ba0649b92f6&amp;kxfp=cba6f660a48582ce86daf7904114233676b2c557&amp;technographics=1&amp;callback=Krux.ns.creativemediaworkspteltd.kxjsonp_userdata"></script><script type="text/javascript" src="https://beacon.krxd.net/optout_check?callback=Krux.ns.creativemediaworkspteltd.kxjsonp_optOutCheck"></script><script type="text/javascript" src="https://consumer.krxd.net/consent/set/b1365729-3683-487d-b7e5-6ba0649b92f6?idt=device&amp;dt=kxcookie&amp;dc=1&amp;al=1&amp;tg=1&amp;cd=1&amp;sh=1&amp;re=0&amp;callback=Krux.ns.creativemediaworkspteltd.kxjsonp_consent_set_1"></script><script type="text/javascript" src="https://consumer.krxd.net/consent/get/b1365729-3683-487d-b7e5-6ba0649b92f6?idt=device&amp;dt=kxcookie&amp;callback=Krux.ns.creativemediaworkspteltd.kxjsonp_consent_get_0"></script><script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//cdn.krxd.net/ctjs/controltag.js.09ebc571a022d419934530eaf14c8a78"></script><script async="" type="text/javascript" src="//ads.pubmatic.com/AdServer/js/pwt/156536/524/pwt.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag/thxtgja3i.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//js.revsci.net/gateway/gw.js?auto=t&amp;csid=F09828&amp;bpid=kapanlagi_id" async=""></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=001561947424278099921:ob4zpl7smv0"></script><script src="https://connect.facebook.net/signals/config/1178703115477182?v=2.8.42&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/plugins/identity.js?v=2.8.42" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://certify-js.alexametrics.com/atrk.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5Q9XWN9"></script><script type="text/javascript" src="https://cdns.klimg.com/a.kapanlagi.com/v5/js/9f/home-v8/entertainment.js"></script><!--ENDOFJS-->
+	<!--TEMPASSETS--><!--ENDOFTEMPASSETS-->
+	
+	<!--BEGIN KLY GLOBAL OBJECT-->
+			<script type="text/javascript">
+			window.kly = {};
+		window.kly.env = "production";
+		window.kly.baseAssetsUrl = "";
+		window.kly.gtm = {
+			"adblockExists":"no",
+			"articleId":"",
+			"articleTitle":"",
+			"category":"Homepage",
+			"editors":"",
+			"editorialType":"",
+			"embedVideo":"",
+			"pageTitle":"Kalau Bukan Sekarang, Kapan Lagi? - KapanLagi.com",
+			"publicationDate":"",
+			"publicationTime":"",
+			"subCategory":"root",
+			"subSubCategory":"",
+			"tag":"",
+			"authors":{
+				"type":"",
+				"names":""
+			},
+			"numberOfWords":"",
+			"enabled":true,
+			"log":false,
+			"imageCreation":false,
+			"type":"",
+			"videos":"",
+			"partner":"",
+			"isSEO":false,
+			"contributors":"",
+			"reporters":"",
+			"photographers":""
+		};
+		window.kly.platform = "Desktop";
+		window.kly.pageType = "Homepage";
+		window.kly.channel = {
+			"id":0,
+			"name":"KapanLagi",
+			"full_slug":"\/"
+		};
+		window.kly.category = {
+			"id":0,
+			"name":"KapanLagi",
+			"full_slug":"\/"
+		};
+		window.kly.article = {
+			"id":"",
+			"title":"",
+			"type":"",
+			"shortDescription":"",
+			"keywords":"",
+			"isAdvertorial":false,
+			"isMultipage":false,
+			"isAdultContent":false,
+			"verifyAge":false,
+			"publishDate":""
+		};
+		window.kly.site = "Kapanlagi";
+		window.kly.related_system = "tag";
+
+			</script>
+			<!--ENDOF KLY GLOBAL OBJECT-->
+	
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5Q9XWN9');</script>
+	<!-- End Google Tag Manager -->
+	
+	<!--GACODE-->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)                
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		
+		ga('create', 'UA-77158561-1', 'auto');
+		ga('send', 'pageview');
+		
+		ga('create', 'UA-71410836-1', 'auto', 'KLNKL');
+		ga('KLNKL.send', 'pageview');       
+	</script>       
+	<!--ENDOFGACODE-->
+	
+	<!-- BEGIN CRITEO LOADER -->
+	<script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+	<script>
+		window.Criteo = window.Criteo || {};
+		window.Criteo.events = window.Criteo.events || [];
+	</script>
+	<!-- END CRITEO LOADER -->
+	
+	<!-- Start Alexa Certify Javascript -->
+	<script type="text/javascript">
+	_atrk_opts = { atrk_acct:"ry1us1FYxz20cv", domain:"kapanlagi.com",dynamic: true};
+	(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+	</script>
+	<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=ry1us1FYxz20cv" style="display:none" height="1" width="1" alt="" /></noscript>
+	<!-- End Alexa Certify Javascript -->
+	
+	<!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1178703115477182', {
+	em: 'insert_email_variable,'
+	});
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=1178703115477182&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- DO NOT MODIFY -->
+	<!-- End Facebook Pixel Code -->
+	
+	<!-- One OneSignal Push notification -->
+	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+	<script>
+		var OneSignal = window.OneSignal || [];
+		OneSignal.push(["init", {
+			appId: "80bff213-0b34-45c6-ac8d-2210ec2e348e", /*Sesuai App ID Desktop/Mobile*/
+			autoRegister: false,
+			notifyButton: {
+				enable: false /* Set to false to hide */
+			},
+			promptOptions: {
+				actionMessage: "Dapatkan berita dan foto selebriti lebih cepat dengan aktifkan notifikasi Kapanlagi.com	",
+				acceptButtonText: "Ya",
+				cancelButtonText: "Tidak"
+			},
+			welcomeNotification: {
+				"title": "KapanLagi.com",
+				"message": "Terima kasih sudah mengaktifkan notifikasi"
+			}
+		}]);
+		OneSignal.push(function(){
+			OneSignal.showHttpPrompt();
+		});
+	</script>
+	<!-- End One OneSignal Push notification -->
+	
+<script src="https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150703" async=""></script><script type="text/javascript" src="https://x-kln.inventorycdn.com/js?cookie=rh_kln" async=""></script><script src="https://www.google.com/cse/static/element/af400e744a60d2b3/cse_element__id.js?usqp=CAI%3D" type="text/javascript"></script><link type="text/css" rel="stylesheet" href="https://www.google.com/cse/static/element/af400e744a60d2b3/default+id.css"><link type="text/css" rel="stylesheet" href="https://www.google.com/cse/static/style/look/v2/default.css"><style type="text/css">.gsc-control-cse{font-family:arial, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-control-cse{border-color:#FFFFFF;background-color:#FFFFFF}input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus{border-color:#D9D9D9}.gsc-search-button-v2,.gsc-search-button-v2:hover,.gsc-search-button-v2:focus{border-color:#666666;background-color:#CECECE;background-image:none;filter:none}.gsc-search-button-v2 svg{fill:#FFFFFF}.gsc-tabHeader.gsc-tabhInactive{border-color:#CCCCCC;background-color:#FFFFFF}.gsc-tabHeader.gsc-tabhActive{border-color:#CCCCCC;border-bottom-color:#FFFFFF;background-color:#FFFFFF}.gsc-tabsArea{border-color:#CCCCCC}.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-webResult.gsc-result:hover,.gsc-imageResult:hover{border-color:#FFFFFF;background-color:#FFFFFF}.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#0000CC}.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b{color:#0000CC}.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#0000CC}.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#0000CC}.gsc-cursor-page{color:#0000CC}a.gsc-trailing-more-results:link{color:#0000CC}.gs-webResult .gs-snippet,.gs-imageResult .gs-snippet,.gs-fileFormatType{color:#000000}.gs-webResult div.gs-visibleUrl,.gs-imageResult div.gs-visibleUrl{color:#008000}.gs-webResult div.gs-visibleUrl-short{color:#008000}.gs-webResult div.gs-visibleUrl-short{display:none}.gs-webResult div.gs-visibleUrl-long{display:block}.gs-promotion div.gs-visibleUrl-short{display:none}.gs-promotion div.gs-visibleUrl-long{display:block}.gsc-cursor-box{border-color:#FFFFFF}.gsc-results .gsc-cursor-box .gsc-cursor-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#0000CC;}.gsc-results .gsc-cursor-box .gsc-cursor-current-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#0000CC;}.gsc-webResult.gsc-result.gsc-promotion{border-color:#336699;background-color:#FFFFFF}.gsc-completion-title{color:#0000CC}.gsc-completion-snippet{color:#000000}.gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link *,.gs-promotion .gs-snippet a:link{color:#0000CC}.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited *,.gs-promotion .gs-snippet a:visited{color:#0000CC}.gs-promotion a.gs-title:hover,.gs-promotion a.gs-title:hover *,.gs-promotion .gs-snippet a:hover{color:#0000CC}.gs-promotion a.gs-title:active,.gs-promotion a.gs-title:active *,.gs-promotion .gs-snippet a:active{color:#0000CC}.gs-promotion .gs-snippet,.gs-promotion .gs-title .gs-promotion-title-right,.gs-promotion .gs-title .gs-promotion-title-right *{color:#000000}.gs-promotion .gs-visibleUrl,.gs-promotion .gs-visibleUrl-short{color:#008000}.gcsc-find-more-on-google{color:#0000CC}.gcsc-find-more-on-google-magnifier{fill:#0000CC}</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:0 9px}.gsib_a{padding-right:8px;padding-left:8px}.gsst_a{padding-top:5.5px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.kapanlagi.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.kapanlagi.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019032001.js" async=""></script><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-32/html/container.html"></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5Q9XWN9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<center>
+	<div id="v5-container">
+		<div class="header-all">
+				
+<!--DFP TOP FRAME CODE-->
+<div id="div-gpt-ad-kapanlagi-topfrm-oop"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-topfrm_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 1px; height: 1px;"></div></div>
+<!--END DFP TOP FRAME CODE-->
+
+				<!--ANNOUNCEMENT-->
+				<div id="v5-announcement">
+<!--DFP BILLBOARD CODE-->
+<div id="div-gpt-ad-kapanlagi-billboard-oop" style="text-align: center; display: inline-block;"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-billboard_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 1px; height: 1px;"></div></div>
+<!--END DFP BILLBOARD CODE-->
+</div>
+				<!--ENDOFANNOUNCEMENT-->
+						<div class="all-header clearfix">
+								<!--LOGO-->
+								<div class="all-logo pull-left">
+									<a href="/"><img src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/KLlogo.png" alt="KapanLagi.com"></a>									
+								</div>
+								<!--ENDOFLOGO-->
+								<!--TECHBARNEW-->
+								<div class="all-search-box pull-right clearfix">
+									<link rel="stylesheet" type="text/css" href="https://cdns.klimg.com/a.kapanlagi.com/v5/css/allsearchbox3.css">
+									<script>
+										(function() {
+											var cx = '001561947424278099921:ob4zpl7smv0';
+											var gcse = document.createElement('script');
+											gcse.type = 'text/javascript';
+											gcse.async = true;
+											gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+											var s = document.getElementsByTagName('script')[0];
+											s.parentNode.insertBefore(gcse, s);
+										})();
+										function myCallback() {
+											$(".gsc-input").attr("placeholder", "Topik berita apa yang Anda cari?");
+										}
+										window.__gcse = {
+											callback: myCallback
+										};
+									</script>
+									<div id="___gcse_0"><div class="gsc-control-searchbox-only gsc-control-searchbox-only-in" dir="ltr"><form class="gsc-search-box gsc-search-box-tools" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" class="gsc-search-box"><tbody><tr><td class="gsc-input"><div class="gsc-input-box" id="gsc-iw-id1"><table cellspacing="0" cellpadding="0" id="gs_id50" class="gstl_50 gsc-input" style="width: 100%; padding: 0px;"><tbody><tr><td id="gs_tti50" class="gsib_a"><input autocomplete="off" type="text" size="10" class="gsc-input" name="search" title="cari" id="gsc-i-id1" placeholder="Penelusuran Khusus" dir="ltr" spellcheck="false" x-webkit-grammar="builtin:search" lang="in" style="width: 100%; padding: 0px; border: none; margin: 0px; height: auto; background: url(&quot;https://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png&quot;) left center no-repeat rgb(255, 255, 255); text-indent: 48px; outline: none;"></td><td class="gsib_b"><div class="gsst_b" id="gs_st50" dir="ltr"><a class="gsst_a" href="javascript:void(0)" title="Kosongkan kotak penelusuran" role="button" style="display: none;"><span class="gscb_a" id="gs_cb50" aria-hidden="true">×</span></a></div></td></tr></tbody></table></div></td><td class="gsc-search-button"><button class="gsc-search-button gsc-search-button-v2"><svg width="13" height="13" viewBox="0 0 13 13"><title>cari</title><path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path></svg></button></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="hasil akhir">&nbsp;</div></td></tr></tbody></table></form></div></div>
+								</div>
+								<!--ENDOFTECHBARNEW-->
+						</div>
+						<!--LEADERBOARD-->
+						<div id="v8-leaderboard" style="margin: 0px;text-align: center;width: 100%;">
+<!--DFP LEADERBOARD CODE-->
+<div id="div-gpt-ad-kapanlagi-lb-direct-oop" style="text-align: center; display: inline-block;"></div>
+<div id="div-gpt-ad-kapanlagi-lb" style="text-align: center;" data-google-query-id="CIvNp4C4nOECFctGXgodtH4LDg"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-lb_0__container__" style="border: 0pt none; margin: auto; text-align: center;"><iframe id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-lb_0" title="3rd party ad content" name="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-lb_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" data-google-container-id="2" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>
+<!--END DFP LEADERBOARD CODE-->
+</div>
+						<!--ENDOFLEADERBOARD-->
+						
+						<!--MENUBARNEW-->
+						<div class="all-menu-navbar">
+							<div class="navbar-menu-box" id="v8-menubar" style="height: 40px;">
+								<ul class="list-navbar-kl clearfix"><li class="active"><a style="font-size:17px;" href="/">HOME</a></li><li class=""><a style="font-size:17px;" href="/showbiz/selebriti/" target="_top">ARTIS</a></li><li class=""><a style="font-size:17px;" href="/showbiz/hollywood/" target="_top">HOLLYWOOD</a></li><li class=""><a style="font-size:17px;" href="/showbiz/film/" target="_top">FILM</a></li><li class=""><a style="font-size:17px;" href="https://musik.kapanlagi.com/" target="_top">MUSIK</a></li><li class=""><a style="font-size:17px;" href="/dangdut/" target="_top">DANGDUT</a></li><li class=""><a style="font-size:17px;" href="/showbiz/asian-star/" target="_top">ASIAN STAR</a></li><li class=""><a style="font-size:17px;" href="/foto/" target="_top">FOTO</a></li><li class=""><a style="font-size:17px;" href="https://kuis.kapanlagi.com/" target="_top">KUIS</a></li><li class=""><a style="font-size:17px;" href="/trending/" target="_top">TRENDING</a></li><li class=""><a style="font-size:17px;" href="https://video.kapanlagi.com/" target="_top">KLY TV</a></li><li class=""><a style="font-size:17px;" href="https://selebriti.kapanlagi.com/" target="_top">PROFIL</a></li></ul>
+							</div>
+				
+<!--DFP NEWSTAG1 CODE-->
+<div id="div-gpt-ad-kapanlagi-newsTag1-oop" data-google-query-id="CJHNp4C4nOECFctGXgodtH4LDg"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-newsTag1_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 1px; height: 1px;"></div></div>
+<!--END DFP NEWSTAG1 CODE-->
+
+				
+<!--DFP NEWSTAG2 CODE-->
+<div id="div-gpt-ad-kapanlagi-newsTag2-oop" data-google-query-id="CJLNp4C4nOECFctGXgodtH4LDg"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-newsTag2_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 1px; height: 1px;"></div></div>
+<!--END DFP NEWSTAG2 CODE-->
+
+						</div>
+						<!--ENDOFMENUBARNEW-->
+			</div>
+		<!--CONTENT-->
+		<div id="v5-content" class="kl-artikel-infinite clearfix">
+			
+<!--HM_LEFT_COLUMN-->
+<div class="kl-artikel-masonry kl-artikel-box kl-artikel-bleft">
+    
+	<div class="kl-artikel-berita-img kl-home-leftrecomendations" style="margin-bottom: 40px;">
+		<div class="title-home-leftrecomendations">
+			<h1>REKOMENDASI</h1>
+		</div>
+		<!--leftrecomendations home-->
+		<div class="leftrecomendations-loader noajaxloader" data-limit="7" data-offset="0" data-classes="list-berita-kl clearfix" data-itemwrapper-classes="clearfix link-trigger"></div>
+		<!--end leftrecomendations home-->
+	</div>
+	
+    <div style="margin-bottom: 35px;">
+		<a href="https://bit.ly/2BijNUJ" target="_blank">
+			<img src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/g/gateway_pmi_v2.jpg">	
+		</a>	
+	</div>
+    <div class="title-home-whazzup"><h1>LATEST UPDATE</h1></div>
+    <div class="kl-artikel-berita-img">
+			<ul class="list-berita-kl clearfix" id="home-left-load">
+				
+
+			<!--native video slot1-->
+			<div class="nativevideos-slotv2">
+				<div class="nativevideos1-loader" data-limit="1" data-offset="0" data-classes="slot-native-lg"></div>
+				<!-- <div class="nativevideos1-loader" data-limit="3" data-offset="1" data-classes="swiper-native swiper-ls" data-itemwrapper-classes="swiper-slide"></div> -->
+			</div>
+			<!--end native video slot1-->
+
+	<li>
+				<div class="clearfix link-trigger">
+					<a href="https://musik.kapanlagi.com/berita/bertabur-bintang-deretan-line-up-yang-ramaikan-lazada-super-party-ac219f.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/bertaburbintangderetanlineupyangramaikanlazadasuperpartyhl300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/bertaburbintangderetanlineupyangramaikanlazadasuperpartyhl300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="https://musik.kapanlagi.com/berita/bertabur-bintang-deretan-line-up-yang-ramaikan-lazada-super-party-ac219f.html">Bertabur Bintang, Deretan Line-Up yang Ramaikan Lazada Super Party</a></p>
+						<p class="small"><span class="link-berita">MUSIK</span><span class="minute-kl link-reg">11 jam yang lalu</span>
+						<a class="link-open" target="_blank" href="https://musik.kapanlagi.com/berita/bertabur-bintang-deretan-line-up-yang-ramaikan-lazada-super-party-ac219f.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/selebriti/ungkap-maia-estianty-down-10-tahun-al-ghazali-ayah-sekarang-dapat-pelajaran-643125.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/alghazali2403191.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/alghazali2403191.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/selebriti/ungkap-maia-estianty-down-10-tahun-al-ghazali-ayah-sekarang-dapat-pelajaran-643125.html">Ungkap Maia Estianty Down 10 Tahun, Al Ghazali: Ayah Sekarang Dapat Pelajaran</a></p>
+						<p class="small"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">13 jam yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/selebriti/ungkap-maia-estianty-down-10-tahun-al-ghazali-ayah-sekarang-dapat-pelajaran-643125.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-13-aksi-yang-se-jong-lindungi-shin-hye-sun-e5e243.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode13aksiyangsejonglindungishinhyesunhl300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode13aksiyangsejonglindungishinhyesunhl300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-13-aksi-yang-se-jong-lindungi-shin-hye-sun-e5e243.html">Sinopsis Drama STILL 17 Episode 13, Aksi Yang Se Jong Lindungi Shin Hye Sun</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">22 jam yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-still-17-episode-13-aksi-yang-se-jong-lindungi-shin-hye-sun-e5e243.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-12-romantisnya-yang-se-jong-38-shin-hye-sun-18381e.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode12romantisnyayangsejongshinhyesunhl300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode12romantisnyayangsejongshinhyesunhl300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-12-romantisnya-yang-se-jong-38-shin-hye-sun-18381e.html">Sinopsis Drama STILL 17 Episode 12, Romantisnya Yang Se Jong &amp; Shin Hye Sun</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">1 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-still-17-episode-12-romantisnya-yang-se-jong-38-shin-hye-sun-18381e.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-11-mencoba-melawan-trauma-7ca947.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode11mencobamelawantraumahl300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode11mencobamelawantraumahl300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-11-mencoba-melawan-trauma-7ca947.html">Sinopsis Drama STILL 17 Episode 11, Mencoba Melawan Trauma</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">1 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-still-17-episode-11-mencoba-melawan-trauma-7ca947.html"></a></p>
+					</div>
+				</div>
+			</li>
+
+			<!--native video slot2-->
+			<div class="nativevideos-slotv2">
+				<div class="nativevideos2-loader" data-limit="1" data-offset="0" data-classes="slot-native-lg"></div>
+				<!-- <div class="nativevideos2-loader" data-limit="3" data-offset="1" data-classes="swiper-native swiper-ls" data-itemwrapper-classes="swiper-slide"></div> -->
+			</div>
+			<!--end native video slot1-->
+
+	<li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/film/internasional/sinopsis-pet-sematary-film-horor-unik-yang-rilis-bulan-april-173214.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/petsemataryparamountpicture2.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/petsemataryparamountpicture2.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/film/internasional/sinopsis-pet-sematary-film-horor-unik-yang-rilis-bulan-april-173214.html">Sinopsis 'PET SEMATARY', Film Horor Unik Yang Rilis Bulan April</a></p>
+						<p class="small"><span class="link-berita">FILM</span><span class="minute-kl link-reg">1 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/film/internasional/sinopsis-pet-sematary-film-horor-unik-yang-rilis-bulan-april-173214.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/heboh-kasus-jung-joon-young-youtuber-ini-ngaku-pernah-dilecehkan-idol-pria-006581.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/grazygraceyoutube.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/grazygraceyoutube.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/heboh-kasus-jung-joon-young-youtuber-ini-ngaku-pernah-dilecehkan-idol-pria-006581.html">Heboh Kasus Jung Joon Young, YouTuber Ini Ngaku Pernah Dilecehkan Idol Pria</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">1 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/heboh-kasus-jung-joon-young-youtuber-ini-ngaku-pernah-dilecehkan-idol-pria-006581.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sm-entertainment-persiapkan-girls-generation-dan-nct-generasi-kedua-5f2e70.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/nct127.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/nct127.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sm-entertainment-persiapkan-girls-generation-dan-nct-generasi-kedua-5f2e70.html">SM Entertainment Persiapkan Girl's Generation dan NCT Generasi Kedua</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">1 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sm-entertainment-persiapkan-girls-generation-dan-nct-generasi-kedua-5f2e70.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/rusak-barang-bukti-jung-joon-young-reset-hape-sebelum-serahkan-ke-polisi-5807d4.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/jungjoonyoungthefact.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/jungjoonyoungthefact.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/rusak-barang-bukti-jung-joon-young-reset-hape-sebelum-serahkan-ke-polisi-5807d4.html">Rusak Barang Bukti, Jung Joon Young Reset Hape Sebelum Serahkan ke Polisi</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">1 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/rusak-barang-bukti-jung-joon-young-reset-hape-sebelum-serahkan-ke-polisi-5807d4.html"></a></p>
+					</div>
+				</div>
+			</li><div class="kl-artikel-berita link-trigger">
+				<!-- <a href="https://plus.kapanlagi.com/foto/baru-dibuka-sederet-kelakuan-penumpang-mrt-ini-bikin-ngelus-dada.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/photonews/baru-dibuka-sederet-kelakuan-penumpang--0ef6e3.jpg" width="300" height="150"></a> -->
+				<a href="https://plus.kapanlagi.com/foto/baru-dibuka-sederet-kelakuan-penumpang-mrt-ini-bikin-ngelus-dada.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/photonews/baru-dibuka-sederet-kelakuan-penumpang--0ef6e3.jpg" width="300" height="150"></a>
+				<div class="deskrip-berita">
+					<p><a href="https://plus.kapanlagi.com/foto/baru-dibuka-sederet-kelakuan-penumpang-mrt-ini-bikin-ngelus-dada.html">Baru Dibuka, Sederet Kelakuan penumpang MRT Ini Bikin Ngelus Dada</a></p>
+					<p class="big"><span class="link-berita link-reg">KAPANLAGI PLUS FOTO</span>
+					<a class="link-open open-big" target="_blank" href="https://plus.kapanlagi.com/foto/baru-dibuka-sederet-kelakuan-penumpang-mrt-ini-bikin-ngelus-dada.html"></a></p>
+				</div>
+			</div><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/hollywood/barack-obama-kirim-ucapan-selamat-atas-pertunanagan-jennifer-lopez-alex-rodriguez-f8185f.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/3obm2303.1.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/3obm2303.1.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/hollywood/barack-obama-kirim-ucapan-selamat-atas-pertunanagan-jennifer-lopez-alex-rodriguez-f8185f.html">Barack Obama Kirim Ucapan Selamat atas Pertunanagan Jennifer Lopez - Alex Rodriguez</a></p>
+						<p class="small"><span class="link-berita">HOLLYWOOD</span><span class="minute-kl link-reg">1 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/hollywood/barack-obama-kirim-ucapan-selamat-atas-pertunanagan-jennifer-lopez-alex-rodriguez-f8185f.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/selebriti/deretan-seleb-indonesia-yang-ngefans-idol-korea-37b806.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/collagekp3.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/collagekp3.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/selebriti/deretan-seleb-indonesia-yang-ngefans-idol-korea-37b806.html">Deretan Selebriti Indonesia yang Ngefans Idol Korea</a></p>
+						<p class="small"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">1 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/selebriti/deretan-seleb-indonesia-yang-ngefans-idol-korea-37b806.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/selebriti/dulu-tak-peduli-politik-tahun-ini-nia-dinata-janji-nggak-golput-f7c76e.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/picsart_032312.40.47.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/picsart_032312.40.47.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/selebriti/dulu-tak-peduli-politik-tahun-ini-nia-dinata-janji-nggak-golput-f7c76e.html">Dulu Tak Peduli Politik, Tahun Ini Nia Dinata Janji Nggak Golput</a></p>
+						<p class="small"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">1 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/selebriti/dulu-tak-peduli-politik-tahun-ini-nia-dinata-janji-nggak-golput-f7c76e.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-goblin-episode-16-akhir-cerita-cinta-gong-yoo-38-kim-go-eun-0a4fe3.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramagoblinepisode16akhirceritacintagongyookimeuntakhl300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramagoblinepisode16akhirceritacintagongyookimeuntakhl300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-goblin-episode-16-akhir-cerita-cinta-gong-yoo-38-kim-go-eun-0a4fe3.html">Sinopsis Drama Goblin Episode 16, Akhir Cerita Cinta Gong Yoo &amp; Kim Go Eun</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">1 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-goblin-episode-16-akhir-cerita-cinta-gong-yoo-38-kim-go-eun-0a4fe3.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-goblin-episode-15-cinta-kim-go-eun-22683648220-gong-yoo-kembali-bersemi-ec2037.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramagoblinepisode15cintakimgoeungongyookembalibersemihl300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramagoblinepisode15cintakimgoeungongyookembalibersemihl300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-goblin-episode-15-cinta-kim-go-eun-22683648220-gong-yoo-kembali-bersemi-ec2037.html">Sinopsis Drama GOBLIN Episode 15, Cinta Kim Go Eun-Gong Yoo Kembali Bersemi</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-goblin-episode-15-cinta-kim-go-eun-22683648220-gong-yoo-kembali-bersemi-ec2037.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-10-ketakutan-yang-se-jong-67adb3.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode10300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode10300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-10-ketakutan-yang-se-jong-67adb3.html">Sinopsis Drama STILL 17 Episode 10, Ketakutan Yang Se Jong</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-still-17-episode-10-ketakutan-yang-se-jong-67adb3.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-9-kedekatan-shin-hye-sun-dan-yang-se-jong-3e84a5.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode9300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode9300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-9-kedekatan-shin-hye-sun-dan-yang-se-jong-3e84a5.html">Sinopsis Drama STILL 17 Episode 9, Kedekatan Shin Hye Sun dan Yang Se Jong</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-still-17-episode-9-kedekatan-shin-hye-sun-dan-yang-se-jong-3e84a5.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/selebriti/billy-syahputra-anggap-angela-lee-hanya-teman-29b73a.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/billy_s1thumb.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/billy_s1thumb.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/selebriti/billy-syahputra-anggap-angela-lee-hanya-teman-29b73a.html">Billy Syahputra Anggap Angela Lee Hanya Teman</a></p>
+						<p class="small"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/selebriti/billy-syahputra-anggap-angela-lee-hanya-teman-29b73a.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/selebriti/baik-dengan-anggia-chan-vicky-anggap-ngambek-9b812c.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/vicky1thumb.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/vicky1thumb.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/selebriti/baik-dengan-anggia-chan-vicky-anggap-ngambek-9b812c.html">Terkait DM ke Cewek Lain, Vicky Prasetyo Anggap Anggia Chan Hanya Ngambek</a></p>
+						<p class="small"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/selebriti/baik-dengan-anggia-chan-vicky-anggap-ngambek-9b812c.html"></a></p>
+					</div>
+				</div>
+			</li><div class="kl-artikel-berita link-trigger">
+				<!-- <a href="/foto/berita-foto/indonesia/berpose-bak-balerina-dian-sastrowardoyo-tunjukkan-keanggunannya.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/photonews/berpose-bak-balerina-dian-sastrowardoyo-d54c3e.jpg" width="300" height="150"></a> -->
+				<a href="/foto/berita-foto/indonesia/berpose-bak-balerina-dian-sastrowardoyo-tunjukkan-keanggunannya.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/photonews/berpose-bak-balerina-dian-sastrowardoyo-d54c3e.jpg" width="300" height="150"></a>
+				<div class="deskrip-berita">
+					<p><a href="/foto/berita-foto/indonesia/berpose-bak-balerina-dian-sastrowardoyo-tunjukkan-keanggunannya.html">Berpose Bak Balerina, Dian Sastrowardoyo Tunjukkan Keanggunannya</a></p>
+					<p class="big"><span class="link-berita link-reg">FOTO INDONESIA</span>
+					<a class="link-open open-big" target="_blank" href="/foto/berita-foto/indonesia/berpose-bak-balerina-dian-sastrowardoyo-tunjukkan-keanggunannya.html"></a></p>
+				</div>
+			</div><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-8-yang-se-jong-kembali-tersenyum-a5d787.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode8300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode8300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-8-yang-se-jong-kembali-tersenyum-a5d787.html">Sinopsis Drama STILL 17 Episode 8, Yang Se Jong Kembali Tersenyum</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-still-17-episode-8-yang-se-jong-kembali-tersenyum-a5d787.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/film/internasional/potret-us-film-thriller-jenaka-yang-bikin-deg-degan-19e961.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/usuniversalstudio2.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/usuniversalstudio2.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/film/internasional/potret-us-film-thriller-jenaka-yang-bikin-deg-degan-19e961.html">Potret 'US', Film Thriller Jenaka Yang Bikin Deg-degan</a></p>
+						<p class="small"><span class="link-berita">FILM</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/film/internasional/potret-us-film-thriller-jenaka-yang-bikin-deg-degan-19e961.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/film/internasional/potret-us-film-thriller-jenaka-yang-bikin-deg-degan-bd35c2.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/usuniversalstudio2.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/usuniversalstudio2.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/film/internasional/potret-us-film-thriller-jenaka-yang-bikin-deg-degan-bd35c2.html">Potret 'US', Film Thriller Jenaka Yang Bikin Deg-degan</a></p>
+						<p class="small"><span class="link-berita">FILM</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/film/internasional/potret-us-film-thriller-jenaka-yang-bikin-deg-degan-bd35c2.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/lucunya-lee-dong-wook-tak-bisa-berhenti-menangis-karena-ini-f54d06.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/leedongwookdanyooinnasaatsyutingtvn.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/leedongwookdanyooinnasaatsyutingtvn.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/lucunya-lee-dong-wook-tak-bisa-berhenti-menangis-karena-ini-f54d06.html">Lucunya Lee Dong Wook Tak Bisa Berhenti Menangis Karena Ini!</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/lucunya-lee-dong-wook-tak-bisa-berhenti-menangis-karena-ini-f54d06.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/spring-lagu-baru-park-bom-yang-rajai-tangga-lagu-dunia-ee1b3d.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/parkbominstagram.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/parkbominstagram.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/spring-lagu-baru-park-bom-yang-rajai-tangga-lagu-dunia-ee1b3d.html">'SPRING', Lagu Baru Park Bom Yang Rajai Tangga Lagu Dunia</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/spring-lagu-baru-park-bom-yang-rajai-tangga-lagu-dunia-ee1b3d.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/televisi/rilis-teaser-pendek-serial-strager-things-ungkap-tanggal-tayang-season-ketiga-54e691.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/strangerthingsnetflix4.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/strangerthingsnetflix4.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/televisi/rilis-teaser-pendek-serial-strager-things-ungkap-tanggal-tayang-season-ketiga-54e691.html">Rilis Teaser Pendek, Serial 'STRAGER THINGS' Ungkap Tanggal Tayang Season Ketiga</a></p>
+						<p class="small"><span class="link-berita">TELEVISI</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/televisi/rilis-teaser-pendek-serial-strager-things-ungkap-tanggal-tayang-season-ketiga-54e691.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/capai-20-juta-subscriber-blackpink-kembali-pecahkan-rekor-49ee2b.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/blackpinelle2.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/blackpinelle2.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/capai-20-juta-subscriber-blackpink-kembali-pecahkan-rekor-49ee2b.html">Capai 20 Juta Subscriber, Blackpink Kembali Pecahkan Rekor!</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/capai-20-juta-subscriber-blackpink-kembali-pecahkan-rekor-49ee2b.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/rapat-investor-yg-entertainment-selesai-digelar-ini-hasilnya-5d628c.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/yangminsukkoreaboo3.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/yangminsukkoreaboo3.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/rapat-investor-yg-entertainment-selesai-digelar-ini-hasilnya-5d628c.html">Rapat Investor YG Entertainment Selesai Digelar, Ini Hasilnya!</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/rapat-investor-yg-entertainment-selesai-digelar-ini-hasilnya-5d628c.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/film/indonesia/suka-film-horor-berikut-deretan-film-horo-yang-bakal-tayang-di-bulan-april-0af6a8.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/posterfilmhoror_kapanlagi_rita.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/posterfilmhoror_kapanlagi_rita.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/film/indonesia/suka-film-horor-berikut-deretan-film-horo-yang-bakal-tayang-di-bulan-april-0af6a8.html">Suka Film Horor? Berikut Deretan Film Horor Yang Bakal Tayang di Bulan April</a></p>
+						<p class="small"><span class="link-berita">FILM</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/film/indonesia/suka-film-horor-berikut-deretan-film-horo-yang-bakal-tayang-di-bulan-april-0af6a8.html"></a></p>
+					</div>
+				</div>
+			</li><div class="kl-artikel-berita link-trigger">
+				<!-- <a href="https://musik.kapanlagi.com/galeri/berita-foto/indonesia/formasi-baru-kangen-band-tetep-berkarya-tanpa-babang-tampan.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/photonews/formasi-baru-kangen-band-tetep-berkarya-10b813.jpg" width="300" height="150"></a> -->
+				<a href="https://musik.kapanlagi.com/galeri/berita-foto/indonesia/formasi-baru-kangen-band-tetep-berkarya-tanpa-babang-tampan.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/photonews/formasi-baru-kangen-band-tetep-berkarya-10b813.jpg" width="300" height="150"></a>
+				<div class="deskrip-berita">
+					<p><a href="https://musik.kapanlagi.com/galeri/berita-foto/indonesia/formasi-baru-kangen-band-tetep-berkarya-tanpa-babang-tampan.html">Formasi Baru Kangen Band, Tetep Berkarya Tanpa Babang Tampan!</a></p>
+					<p class="big"><span class="link-berita link-reg">FOTO INDONESIA</span>
+					<a class="link-open open-big" target="_blank" href="https://musik.kapanlagi.com/galeri/berita-foto/indonesia/formasi-baru-kangen-band-tetep-berkarya-tanpa-babang-tampan.html"></a></p>
+				</div>
+			</div><li>
+				<div class="clearfix link-trigger">
+					<a href="https://musik.kapanlagi.com/berita/chester-bennington-ulang-tahun-istri-semoga-kau-menari-di-surga-a6711e.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/istrichesterbenningtonucapkanselamatulangtahuntwitter2.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/istrichesterbenningtonucapkanselamatulangtahuntwitter2.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="https://musik.kapanlagi.com/berita/chester-bennington-ulang-tahun-istri-semoga-kau-menari-di-surga-a6711e.html">Chester Bennington Ulang Tahun, Istri: Semoga Kau Menari di Surga</a></p>
+						<p class="small"><span class="link-berita">MUSIK</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="https://musik.kapanlagi.com/berita/chester-bennington-ulang-tahun-istri-semoga-kau-menari-di-surga-a6711e.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/selebriti/tahan-tangis-tsania-marwa-rindu-anak-anaknya-a26d05.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/tsania1thumb.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/tsania1thumb.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/selebriti/tahan-tangis-tsania-marwa-rindu-anak-anaknya-a26d05.html">Tahan Tangis, Tsania Marwa Rindu Anak-Anaknya</a></p>
+						<p class="small"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/selebriti/tahan-tangis-tsania-marwa-rindu-anak-anaknya-a26d05.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/selebriti/jenita-janet-jajal-filler-terobosan-baru-algenesss-100-bahan-alami-5786d4.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/janetdermaster300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/janetdermaster300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/selebriti/jenita-janet-jajal-filler-terobosan-baru-algenesss-100-bahan-alami-5786d4.html">Jenita Janet Jajal Filler Terobosan Baru 'Algenesss', 100% Bahan Alami!</a></p>
+						<p class="small"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/selebriti/jenita-janet-jajal-filler-terobosan-baru-algenesss-100-bahan-alami-5786d4.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-7-permintaan-maaf-shin-hye-sun-17ba81.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode7300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode7300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-7-permintaan-maaf-shin-hye-sun-17ba81.html">Sinopsis Drama STILL 17 Episode 7, Permintaan Maaf Shin Hye Sun</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-still-17-episode-7-permintaan-maaf-shin-hye-sun-17ba81.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/surat-penahanan-resmi-dirilis-jung-joon-young-ditempatkan-di-penjara-2e5e1d.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/jjy22032.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/jjy22032.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/surat-penahanan-resmi-dirilis-jung-joon-young-ditempatkan-di-penjara-2e5e1d.html">Surat Penahanan Resmi Dirilis, Jung Joon Young Ditempatkan di Penjara</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/surat-penahanan-resmi-dirilis-jung-joon-young-ditempatkan-di-penjara-2e5e1d.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-6-ketegaran-shin-hye-sun-hadapi-masalah-7c1e0c.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode6300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode6300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-6-ketegaran-shin-hye-sun-hadapi-masalah-7c1e0c.html">Sinopsis Drama STILL 17 Episode 6, Ketegaran Shin Hye Sun Hadapi Masalah</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-still-17-episode-6-ketegaran-shin-hye-sun-hadapi-masalah-7c1e0c.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="https://musik.kapanlagi.com/berita/super-party-is-coming-yuk-nonton-live-streaming-aksi-keren-dua-lipa-075c37.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/superpartyiscomingyuknontonlivestreamingaksikerendualipahl300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/superpartyiscomingyuknontonlivestreamingaksikerendualipahl300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="https://musik.kapanlagi.com/berita/super-party-is-coming-yuk-nonton-live-streaming-aksi-keren-dua-lipa-075c37.html">Super Party is Coming, Yuk Nonton Live Streaming Aksi Keren Dua Lipa</a></p>
+						<p class="small"><span class="link-berita">MUSIK</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="https://musik.kapanlagi.com/berita/super-party-is-coming-yuk-nonton-live-streaming-aksi-keren-dua-lipa-075c37.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-5-kepedihan-shin-hye-sun-usai-ditolak-0953ba.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode5300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode5300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-5-kepedihan-shin-hye-sun-usai-ditolak-0953ba.html">Sinopsis Drama STILL 17 Episode 5, Kepedihan Shin Hye Sun Usai Ditolak</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">2 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-still-17-episode-5-kepedihan-shin-hye-sun-usai-ditolak-0953ba.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/selebriti/honey-moon-ke-swiss-reino-barack-kunjungi-pabrik-pembuatan-jam-mewah-506b56.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/3rb2203.1.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/3rb2203.1.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/selebriti/honey-moon-ke-swiss-reino-barack-kunjungi-pabrik-pembuatan-jam-mewah-506b56.html">Honey Moon ke Swiss, Reino Barack Kunjungi Pabrik Pembuatan Jam Mewah</a></p>
+						<p class="small"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">3 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/selebriti/honey-moon-ke-swiss-reino-barack-kunjungi-pabrik-pembuatan-jam-mewah-506b56.html"></a></p>
+					</div>
+				</div>
+			</li><div class="kl-artikel-berita link-trigger">
+				<!-- <a href="/foto/berita-foto/indonesia/pesona-sensual-marion-jola-mana-yang-paling-oke.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/photonews/pesona-sensual-marion-jola-mana-yang-pa-9aa579.jpg" width="300" height="150"></a> -->
+				<a href="/foto/berita-foto/indonesia/pesona-sensual-marion-jola-mana-yang-paling-oke.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/photonews/pesona-sensual-marion-jola-mana-yang-pa-9aa579.jpg" width="300" height="150"></a>
+				<div class="deskrip-berita">
+					<p><a href="/foto/berita-foto/indonesia/pesona-sensual-marion-jola-mana-yang-paling-oke.html">Pesona Sensual Marion Jola, Mana yang Paling Oke?</a></p>
+					<p class="big"><span class="link-berita link-reg">FOTO INDONESIA</span>
+					<a class="link-open open-big" target="_blank" href="/foto/berita-foto/indonesia/pesona-sensual-marion-jola-mana-yang-paling-oke.html"></a></p>
+				</div>
+			</div><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-4-gembiranya-shin-hye-sun-pulang-ke-rumah-6fb415.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode4300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode4300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-4-gembiranya-shin-hye-sun-pulang-ke-rumah-6fb415.html">Sinopsis Drama STILL 17 Episode 4, Gembiranya Shin Hye Sun Pulang ke Rumah</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">3 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-still-17-episode-4-gembiranya-shin-hye-sun-pulang-ke-rumah-6fb415.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-3-transformasi-yang-se-jong-e301b1.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode3300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode3300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-3-transformasi-yang-se-jong-e301b1.html">Sinopsis Drama Still 17 Episode 3, Transformasi Yang Se Jong</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">3 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-still-17-episode-3-transformasi-yang-se-jong-e301b1.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="https://musik.kapanlagi.com/berita/memilih-dia-ungkapan-hati-bunga-citra-lestari-yang-sedang-gelisah-c4a6e3.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/bclmemilihnew300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/bclmemilihnew300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="https://musik.kapanlagi.com/berita/memilih-dia-ungkapan-hati-bunga-citra-lestari-yang-sedang-gelisah-c4a6e3.html">'Memilih Dia', Ungkapan Hati Bunga Citra Lestari yang Sedang Gelisah</a></p>
+						<p class="small"><span class="link-berita">MUSIK</span><span class="minute-kl link-reg">3 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="https://musik.kapanlagi.com/berita/memilih-dia-ungkapan-hati-bunga-citra-lestari-yang-sedang-gelisah-c4a6e3.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-2-pencarian-jati-diri-park-si-eun-daa1d6.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode2300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode2300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-2-pencarian-jati-diri-park-si-eun-daa1d6.html">Sinopsis Drama STILL 17 Episode 2, Pencarian Jati Diri Park Si Eun</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">3 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-still-17-episode-2-pencarian-jati-diri-park-si-eun-daa1d6.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-1-cinta-pertama-bersemi-di-sma-c37e5d.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode1300.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/sinopsisdramastill17episode1300.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/sinopsis-drama-still-17-episode-1-cinta-pertama-bersemi-di-sma-c37e5d.html">Sinopsis Drama STILL 17 Episode 1, Cinta Pertama Bersemi di SMA</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">3 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/sinopsis-drama-still-17-episode-1-cinta-pertama-bersemi-di-sma-c37e5d.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/film/internasional/sutradara-russo-bersaudara-akui-manipulasi-trailer-film-avengers-endgame-4aed6c.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/avengersendgametonystarkimdbmarvelstudios.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/avengersendgametonystarkimdbmarvelstudios.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/film/internasional/sutradara-russo-bersaudara-akui-manipulasi-trailer-film-avengers-endgame-4aed6c.html">Sutradara Russo Bersaudara Akui Manipulasi Trailer Film AVENGERS: ENDGAME</a></p>
+						<p class="small"><span class="link-berita">FILM</span><span class="minute-kl link-reg">3 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/film/internasional/sutradara-russo-bersaudara-akui-manipulasi-trailer-film-avengers-endgame-4aed6c.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/selebriti/selama-hamil-aura-kasih-tak-pernah-ribet-masalah-pakaian-dan-makanan-2b5970.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/aura_kasih20190312018agus.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/aura_kasih20190312018agus.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/selebriti/selama-hamil-aura-kasih-tak-pernah-ribet-masalah-pakaian-dan-makanan-2b5970.html">Selama Hamil Aura Kasih Tak Pernah Ribet Masalah Pakaian dan Makanan</a></p>
+						<p class="small"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">3 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/selebriti/selama-hamil-aura-kasih-tak-pernah-ribet-masalah-pakaian-dan-makanan-2b5970.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="https://musik.kapanlagi.com/berita/dukung-jokowi-slank-akan-meriahkan-konser-di-gbk-02c6a3.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/slank1thumb.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/slank1thumb.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="https://musik.kapanlagi.com/berita/dukung-jokowi-slank-akan-meriahkan-konser-di-gbk-02c6a3.html">Dukung Jokowi, SLANK Akan Meriahkan Konser di GBK</a></p>
+						<p class="small"><span class="link-berita">MUSIK</span><span class="minute-kl link-reg">3 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="https://musik.kapanlagi.com/berita/dukung-jokowi-slank-akan-meriahkan-konser-di-gbk-02c6a3.html"></a></p>
+					</div>
+				</div>
+			</li><li>
+				<div class="clearfix link-trigger">
+					<a href="/showbiz/asian-star/lakukan-v-live-brand-new-boys-bocorkan-tanggal-debut-314a43.html" class="img-box-l">
+						<!--<img class="lazy_loaded_img" data-src="https://cdns.klimg.com/resized/75x75/p/brandnewboyssaatlakukanvlivenaver.jpg" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" width="75" height="75" />-->
+                        <img class="" src="https://cdns.klimg.com/resized/75x75/p/brandnewboyssaatlakukanvlivenaver.jpg" width="75" height="75">
+					</a>
+					<div class="deskrip-berita">
+						<p><a href="/showbiz/asian-star/lakukan-v-live-brand-new-boys-bocorkan-tanggal-debut-314a43.html">Lakukan V Live, Brand New Boys Bocorkan Tanggal Debut</a></p>
+						<p class="small"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">3 hari yang lalu</span>
+						<a class="link-open" target="_blank" href="/showbiz/asian-star/lakukan-v-live-brand-new-boys-bocorkan-tanggal-debut-314a43.html"></a></p>
+					</div>
+				</div>
+			</li><div class="kl-artikel-berita link-trigger">
+				<!-- <a href="https://plus.kapanlagi.com/foto/futuristik-masjid-di-doha-ini-didesain-bak-pesawat-luar-angkasa.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/photonews/futuristik-masjid-di-doha-ini-didesain--2c2493.jpg" width="300" height="150"></a> -->
+				<a href="https://plus.kapanlagi.com/foto/futuristik-masjid-di-doha-ini-didesain-bak-pesawat-luar-angkasa.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/photonews/futuristik-masjid-di-doha-ini-didesain--2c2493.jpg" width="300" height="150"></a>
+				<div class="deskrip-berita">
+					<p><a href="https://plus.kapanlagi.com/foto/futuristik-masjid-di-doha-ini-didesain-bak-pesawat-luar-angkasa.html">Futuristik, Masjid di Doha Ini Didesain Bak Pesawat Luar Angkasa</a></p>
+					<p class="big"><span class="link-berita link-reg">KAPANLAGI PLUS FOTO</span>
+					<a class="link-open open-big" target="_blank" href="https://plus.kapanlagi.com/foto/futuristik-masjid-di-doha-ini-didesain-bak-pesawat-luar-angkasa.html"></a></p>
+				</div>
+			</div>
+			</ul>
+		</div>
+</div>
+<!--ENDOF_HM_LEFT_COLUMN-->
+<!--HM_MID_COLUMN-->
+<div class="kl-artikel-masonry kl-artikel-box kl-artikel-bcenter" id="home-mid-load">
+    <div class="title-artikel-kl"><h1>HEADLINES</h1></div>
+    <div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/foto/berita-foto/indonesia/ultah-seru-bunga-citra-lestari-dihadiri-banyak-artis-papan-atas.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/photonews/ultah-seru-bunga-citra-lestari-dihadiri-a3ec66.jpg" width="300" height="150"  /></a> -->
+            <a href="/foto/berita-foto/indonesia/ultah-seru-bunga-citra-lestari-dihadiri-banyak-artis-papan-atas.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/photonews/ultah-seru-bunga-citra-lestari-dihadiri-a3ec66.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/foto/berita-foto/indonesia/ultah-seru-bunga-citra-lestari-dihadiri-banyak-artis-papan-atas.html">Ultah Seru Bunga Citra Lestari, Dihadiri Banyak Artis Papan Atas </a></p>
+				<p class="big"><span class="link-berita">FOTO INDONESIA</span><span class="minute-kl link-reg">4 detik yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/foto/berita-foto/indonesia/ultah-seru-bunga-citra-lestari-dihadiri-banyak-artis-papan-atas.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/showbiz/selebriti/ungkap-maia-estianty-down-10-tahun-al-ghazali-ayah-sekarang-dapat-pelajaran-643125.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/ungkap-maia-estianty-down-10-tahun-al-g-643125.jpg" width="300" height="150"  /></a> -->
+            <a href="/showbiz/selebriti/ungkap-maia-estianty-down-10-tahun-al-ghazali-ayah-sekarang-dapat-pelajaran-643125.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/ungkap-maia-estianty-down-10-tahun-al-g-643125.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/showbiz/selebriti/ungkap-maia-estianty-down-10-tahun-al-ghazali-ayah-sekarang-dapat-pelajaran-643125.html">Ungkap Maia Estianty Down 10 Tahun, Al Ghazali: Ayah Sekarang Dapat Pelajaran</a></p>
+				<p class="big"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">13 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/showbiz/selebriti/ungkap-maia-estianty-down-10-tahun-al-ghazali-ayah-sekarang-dapat-pelajaran-643125.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/showbiz/selebriti/gelar-syukuran-ruben-onsu-mengaku-belum-tahu-jenis-kelamin-anak-keduanya-ce58a8.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/gelar-syukuran-ruben-onsu-mengaku-belum-ce58a8.jpg" width="300" height="150"  /></a> -->
+            <a href="/showbiz/selebriti/gelar-syukuran-ruben-onsu-mengaku-belum-tahu-jenis-kelamin-anak-keduanya-ce58a8.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/gelar-syukuran-ruben-onsu-mengaku-belum-ce58a8.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/showbiz/selebriti/gelar-syukuran-ruben-onsu-mengaku-belum-tahu-jenis-kelamin-anak-keduanya-ce58a8.html">Gelar Syukuran, Ruben Onsu Mengaku Belum Tahu Jenis Kelamin Anak Keduanya</a></p>
+				<p class="big"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">25 menit yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/showbiz/selebriti/gelar-syukuran-ruben-onsu-mengaku-belum-tahu-jenis-kelamin-anak-keduanya-ce58a8.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="https://plus.kapanlagi.com/kemenpar-angkat-potensi-wisata-alam-bondowoso-lewat-fgd-a7d1ba.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/kemenpar-angkat-potensi-wisata-alam-bon-a7d1ba.jpg" width="300" height="150"  /></a> -->
+            <a href="https://plus.kapanlagi.com/kemenpar-angkat-potensi-wisata-alam-bondowoso-lewat-fgd-a7d1ba.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/kemenpar-angkat-potensi-wisata-alam-bon-a7d1ba.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="https://plus.kapanlagi.com/kemenpar-angkat-potensi-wisata-alam-bondowoso-lewat-fgd-a7d1ba.html">Kemenpar Angkat Potensi Wisata Alam Bondowoso Lewat FGD</a></p>
+				<p class="big"><span class="link-berita">KAPANLAGI PLUS</span><span class="minute-kl link-reg">1 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="https://plus.kapanlagi.com/kemenpar-angkat-potensi-wisata-alam-bondowoso-lewat-fgd-a7d1ba.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/showbiz/bollywood/lucky-fans-indonesia-ini-selfie-bareng-kareena-kapoor-di-panggung-awards-malaysia-f9b05d.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/lucky-fans-indonesia-ini-selfie-bareng--f9b05d.jpg" width="300" height="150"  /></a> -->
+            <a href="/showbiz/bollywood/lucky-fans-indonesia-ini-selfie-bareng-kareena-kapoor-di-panggung-awards-malaysia-f9b05d.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/lucky-fans-indonesia-ini-selfie-bareng--f9b05d.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/showbiz/bollywood/lucky-fans-indonesia-ini-selfie-bareng-kareena-kapoor-di-panggung-awards-malaysia-f9b05d.html">Lucky! Fans Indonesia Ini Selfie Bareng Kareena Kapoor di Panggung Awards Malaysia</a></p>
+				<p class="big"><span class="link-berita">BOLLYWOOD</span><span class="minute-kl link-reg">3 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/showbiz/bollywood/lucky-fans-indonesia-ini-selfie-bareng-kareena-kapoor-di-panggung-awards-malaysia-f9b05d.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="https://plus.kapanlagi.com/5-alasan-pensimu-harus-sukses-dari-perencanaan-b8226f.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/5-alasan-pensimu-harus-sukses-dari-pere-b8226f.jpg" width="300" height="150"  /></a> -->
+            <a href="https://plus.kapanlagi.com/5-alasan-pensimu-harus-sukses-dari-perencanaan-b8226f.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/5-alasan-pensimu-harus-sukses-dari-pere-b8226f.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="https://plus.kapanlagi.com/5-alasan-pensimu-harus-sukses-dari-perencanaan-b8226f.html">5 Alasan Pensimu Harus Sukses dari Perencanaan</a></p>
+				<p class="big"><span class="link-berita">KAPANLAGI PLUS</span><span class="minute-kl link-reg">4 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="https://plus.kapanlagi.com/5-alasan-pensimu-harus-sukses-dari-perencanaan-b8226f.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/showbiz/bollywood/tunggu-9-jam-di-bandara-satria-mulia-sukses-bikin-boomerang-bareng-kareena-kapoor-6128a7.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/tunggu-9-jam-di-bandara-satria-mulia-su-6128a7.jpg" width="300" height="150"  /></a> -->
+            <a href="/showbiz/bollywood/tunggu-9-jam-di-bandara-satria-mulia-sukses-bikin-boomerang-bareng-kareena-kapoor-6128a7.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/tunggu-9-jam-di-bandara-satria-mulia-su-6128a7.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/showbiz/bollywood/tunggu-9-jam-di-bandara-satria-mulia-sukses-bikin-boomerang-bareng-kareena-kapoor-6128a7.html">Tunggu 9 Jam di Bandara, Satria Mulia Sukses Bikin Boomerang Bareng Kareena Kapoor</a></p>
+				<p class="big"><span class="link-berita">BOLLYWOOD</span><span class="minute-kl link-reg">4 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/showbiz/bollywood/tunggu-9-jam-di-bandara-satria-mulia-sukses-bikin-boomerang-bareng-kareena-kapoor-6128a7.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/foto/berita-foto/indonesia/lanjut-jalan-di-swiss-syahrini-peluk-reino-dan-pamer-view-kamar.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/photonews/lanjut-jalan-di-swiss-syahrini-peluk-re-3022df.jpg" width="300" height="150"  /></a> -->
+            <a href="/foto/berita-foto/indonesia/lanjut-jalan-di-swiss-syahrini-peluk-reino-dan-pamer-view-kamar.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/photonews/lanjut-jalan-di-swiss-syahrini-peluk-re-3022df.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/foto/berita-foto/indonesia/lanjut-jalan-di-swiss-syahrini-peluk-reino-dan-pamer-view-kamar.html">Lanjut Jalan di Swiss, Syahrini Peluk Reino dan Pamer View Kamar</a></p>
+				<p class="big"><span class="link-berita">FOTO INDONESIA</span><span class="minute-kl link-reg">5 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/foto/berita-foto/indonesia/lanjut-jalan-di-swiss-syahrini-peluk-reino-dan-pamer-view-kamar.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/showbiz/selebriti/ikutan-hapus-foto-dan-unfollow-evi-masamba-arif-hajrianto-curhat-di-instagram-712dc8.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/ikutan-hapus-foto-dan-unfollow-evi-masa-712dc8.jpg" width="300" height="150"  /></a> -->
+            <a href="/showbiz/selebriti/ikutan-hapus-foto-dan-unfollow-evi-masamba-arif-hajrianto-curhat-di-instagram-712dc8.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/ikutan-hapus-foto-dan-unfollow-evi-masa-712dc8.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/showbiz/selebriti/ikutan-hapus-foto-dan-unfollow-evi-masamba-arif-hajrianto-curhat-di-instagram-712dc8.html">Ikutan Hapus Foto dan Unfollow Evi Masamba, Arif Hajrianto Curhat di Instagram</a></p>
+				<p class="big"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">10 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/showbiz/selebriti/ikutan-hapus-foto-dan-unfollow-evi-masamba-arif-hajrianto-curhat-di-instagram-712dc8.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="https://plus.kapanlagi.com/bata-young-designers-challenge-2019-siap-lahirkan-desainer-bintang-baru-7d6e8b.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/bata-young-designers-challenge-2019-sia-7d6e8b.jpg" width="300" height="150"  /></a> -->
+            <a href="https://plus.kapanlagi.com/bata-young-designers-challenge-2019-siap-lahirkan-desainer-bintang-baru-7d6e8b.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/bata-young-designers-challenge-2019-sia-7d6e8b.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="https://plus.kapanlagi.com/bata-young-designers-challenge-2019-siap-lahirkan-desainer-bintang-baru-7d6e8b.html">Bata Young Designers Challenge 2019 Siap Lahirkan Desainer Bintang Baru</a></p>
+				<p class="big"><span class="link-berita">KAPANLAGI PLUS</span><span class="minute-kl link-reg">11 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="https://plus.kapanlagi.com/bata-young-designers-challenge-2019-siap-lahirkan-desainer-bintang-baru-7d6e8b.html"></a></p>
+			</div>
+		</div><!--TRENDING--><div class="kl-box-trending"></div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="https://plus.kapanlagi.com/5-persiapan-penting-sebelum-menyaksikan-aksi-2268364732artis-lapangan-hijau22683648482-favorit-80bc4.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/5-persiapan-penting-sebelum-menyaksikan-80bc44.jpg" width="300" height="150"  /></a> -->
+            <a href="https://plus.kapanlagi.com/5-persiapan-penting-sebelum-menyaksikan-aksi-2268364732artis-lapangan-hijau22683648482-favorit-80bc4.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/5-persiapan-penting-sebelum-menyaksikan-80bc44.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="https://plus.kapanlagi.com/5-persiapan-penting-sebelum-menyaksikan-aksi-2268364732artis-lapangan-hijau22683648482-favorit-80bc4.html">5 Persiapan Penting Sebelum Menyaksikan Aksi Artis Lapangan Hijau Favorit</a></p>
+				<p class="big"><span class="link-berita">KAPANLAGI PLUS</span><span class="minute-kl link-reg">11 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="https://plus.kapanlagi.com/5-persiapan-penting-sebelum-menyaksikan-aksi-2268364732artis-lapangan-hijau22683648482-favorit-80bc4.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="https://plus.kapanlagi.com/war-sambil-ngemil-anti-berantakan-tanda-kamu-sah-jadi-gamer-jagoan-99d060.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/war-sambil-ngemil-anti-berantakan-tanda-99d060.jpg" width="300" height="150"  /></a> -->
+            <a href="https://plus.kapanlagi.com/war-sambil-ngemil-anti-berantakan-tanda-kamu-sah-jadi-gamer-jagoan-99d060.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/war-sambil-ngemil-anti-berantakan-tanda-99d060.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="https://plus.kapanlagi.com/war-sambil-ngemil-anti-berantakan-tanda-kamu-sah-jadi-gamer-jagoan-99d060.html">War Sambil Ngemil Anti Berantakan, Tanda Kamu Sah Jadi Gamer Jagoan</a></p>
+				<p class="big"><span class="link-berita">KAPANLAGI PLUS</span><span class="minute-kl link-reg">11 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="https://plus.kapanlagi.com/war-sambil-ngemil-anti-berantakan-tanda-kamu-sah-jadi-gamer-jagoan-99d060.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="https://plus.kapanlagi.com/ratusan-bola-merah-raksasa-penuhi-kepulauan-indonesia-di-tmii-ada-apa-ya-a66d6f.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/ratusan-bola-merah-raksasa-penuhi-kepul-a66d6f.jpg" width="300" height="150"  /></a> -->
+            <a href="https://plus.kapanlagi.com/ratusan-bola-merah-raksasa-penuhi-kepulauan-indonesia-di-tmii-ada-apa-ya-a66d6f.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/ratusan-bola-merah-raksasa-penuhi-kepul-a66d6f.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="https://plus.kapanlagi.com/ratusan-bola-merah-raksasa-penuhi-kepulauan-indonesia-di-tmii-ada-apa-ya-a66d6f.html">Ratusan Bola Merah Raksasa Penuhi Kepulauan Indonesia di TMII, Ada Apa Ya?</a></p>
+				<p class="big"><span class="link-berita">KAPANLAGI PLUS</span><span class="minute-kl link-reg">11 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="https://plus.kapanlagi.com/ratusan-bola-merah-raksasa-penuhi-kepulauan-indonesia-di-tmii-ada-apa-ya-a66d6f.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/showbiz/selebriti/bertengkar-hingga-saling-unfollow-evi-masamba-tegaskan-tak-akan-cerai-dengan-arif-0d9f95.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/bertengkar-hingga-saling-unfollow-evi-m-0d9f95.jpg" width="300" height="150"  /></a> -->
+            <a href="/showbiz/selebriti/bertengkar-hingga-saling-unfollow-evi-masamba-tegaskan-tak-akan-cerai-dengan-arif-0d9f95.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/bertengkar-hingga-saling-unfollow-evi-m-0d9f95.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/showbiz/selebriti/bertengkar-hingga-saling-unfollow-evi-masamba-tegaskan-tak-akan-cerai-dengan-arif-0d9f95.html">Bertengkar Hingga Saling Unfollow, Evi Masamba Tegaskan Tak Akan Cerai dengan Arif</a></p>
+				<p class="big"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">11 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/showbiz/selebriti/bertengkar-hingga-saling-unfollow-evi-masamba-tegaskan-tak-akan-cerai-dengan-arif-0d9f95.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/showbiz/selebriti/maia-estianty-bakal-jenguk-ahmad-dhani-di-penjara-al-ghazali-buka-suara-308a1f.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/maia-estianty-bakal-jenguk-ahmad-dhani--308a1f.jpg" width="300" height="150"  /></a> -->
+            <a href="/showbiz/selebriti/maia-estianty-bakal-jenguk-ahmad-dhani-di-penjara-al-ghazali-buka-suara-308a1f.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/maia-estianty-bakal-jenguk-ahmad-dhani--308a1f.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/showbiz/selebriti/maia-estianty-bakal-jenguk-ahmad-dhani-di-penjara-al-ghazali-buka-suara-308a1f.html">Maia Estianty Bakal Jenguk Ahmad Dhani di Penjara? Al Ghazali Buka Suara</a></p>
+				<p class="big"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">12 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/showbiz/selebriti/maia-estianty-bakal-jenguk-ahmad-dhani-di-penjara-al-ghazali-buka-suara-308a1f.html"></a></p>
+			</div>
+		</div><div class="kl-box-most-liked"></div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/showbiz/asian-star/fan-meeting-di-jakarta-aksi-menari-park-bo-gum-bikin-gemas-593007.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/fan-meeting-di-jakarta-aksi-menari-park-593007.jpg" width="300" height="150"  /></a> -->
+            <a href="/showbiz/asian-star/fan-meeting-di-jakarta-aksi-menari-park-bo-gum-bikin-gemas-593007.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/fan-meeting-di-jakarta-aksi-menari-park-593007.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/showbiz/asian-star/fan-meeting-di-jakarta-aksi-menari-park-bo-gum-bikin-gemas-593007.html">Fan Meeting di Jakarta, Aksi Menari Park Bo Gum Bikin Gemas</a></p>
+				<p class="big"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">14 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/showbiz/asian-star/fan-meeting-di-jakarta-aksi-menari-park-bo-gum-bikin-gemas-593007.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/showbiz/selebriti/ariel-noah-38-luna-maya-hadir-di-ultah-bcl-reaksi-aming-langsung-peluk-bersamaan-88f109.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/ariel-noah-38-luna-maya-hadir-di-ultah--88f109.jpg" width="300" height="150"  /></a> -->
+            <a href="/showbiz/selebriti/ariel-noah-38-luna-maya-hadir-di-ultah-bcl-reaksi-aming-langsung-peluk-bersamaan-88f109.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/ariel-noah-38-luna-maya-hadir-di-ultah--88f109.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/showbiz/selebriti/ariel-noah-38-luna-maya-hadir-di-ultah-bcl-reaksi-aming-langsung-peluk-bersamaan-88f109.html">Ariel NOAH &amp; Luna Maya Hadir di Ultah BCL, Aming Langsung Peluk Bersamaan</a></p>
+				<p class="big"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">15 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/showbiz/selebriti/ariel-noah-38-luna-maya-hadir-di-ultah-bcl-reaksi-aming-langsung-peluk-bersamaan-88f109.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/dangdut/konser-lida-2019-top-21-grup-3-beni-harus-pulang-c7964b.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/konser-lida-2019-top-21-grup-3-beni-har-c7964b.jpg" width="300" height="150"  /></a> -->
+            <a href="/dangdut/konser-lida-2019-top-21-grup-3-beni-harus-pulang-c7964b.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/konser-lida-2019-top-21-grup-3-beni-har-c7964b.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/dangdut/konser-lida-2019-top-21-grup-3-beni-harus-pulang-c7964b.html">Konser LIDA 2019 Top 21 Grup 3, Beni Harus Pulang</a></p>
+				<p class="big"><span class="link-berita">DANDGUT</span><span class="minute-kl link-reg">16 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/dangdut/konser-lida-2019-top-21-grup-3-beni-harus-pulang-c7964b.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/showbiz/selebriti/selamat-intan-nuraini-melahirkan-anak-ketiga-berjenis-kelamin-laki-laki-315ecb.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/selamat-intan-nuraini-melahirkan-anak-k-315ecb.jpg" width="300" height="150"  /></a> -->
+            <a href="/showbiz/selebriti/selamat-intan-nuraini-melahirkan-anak-ketiga-berjenis-kelamin-laki-laki-315ecb.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/selamat-intan-nuraini-melahirkan-anak-k-315ecb.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/showbiz/selebriti/selamat-intan-nuraini-melahirkan-anak-ketiga-berjenis-kelamin-laki-laki-315ecb.html">Selamat, Intan Nuraini Melahirkan Anak Ketiga Berjenis Kelamin Laki-Laki</a></p>
+				<p class="big"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">17 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/showbiz/selebriti/selamat-intan-nuraini-melahirkan-anak-ketiga-berjenis-kelamin-laki-laki-315ecb.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/showbiz/asian-star/bikin-baper-park-bo-gum-berikan-pelukan-dan-hadiah-untuk-fans-2d9fa3.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/bikin-baper-park-bo-gum-berikan-pelukan-938a9a.jpg" width="300" height="150"  /></a> -->
+            <a href="/showbiz/asian-star/bikin-baper-park-bo-gum-berikan-pelukan-dan-hadiah-untuk-fans-2d9fa3.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/bikin-baper-park-bo-gum-berikan-pelukan-938a9a.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/showbiz/asian-star/bikin-baper-park-bo-gum-berikan-pelukan-dan-hadiah-untuk-fans-2d9fa3.html">Bikin Baper! Park Bo Gum Berikan Pelukan dan Hadiah Untuk Fans</a></p>
+				<p class="big"><span class="link-berita">ASIAN STARS</span><span class="minute-kl link-reg">17 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/showbiz/asian-star/bikin-baper-park-bo-gum-berikan-pelukan-dan-hadiah-untuk-fans-2d9fa3.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/dangdut/disebut-ega-noviantika-sebagai-sahabat-benarkah-rafly-dacademy-sampai-marah-f5f182.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/disebut-ega-noviantika-sebagai-sahabat--f5f182.jpg" width="300" height="150"  /></a> -->
+            <a href="/dangdut/disebut-ega-noviantika-sebagai-sahabat-benarkah-rafly-dacademy-sampai-marah-f5f182.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/disebut-ega-noviantika-sebagai-sahabat--f5f182.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/dangdut/disebut-ega-noviantika-sebagai-sahabat-benarkah-rafly-dacademy-sampai-marah-f5f182.html">Disebut Ega Noviantika Sebagai Sahabat, Benarkah Rafly D'Academy Sampai Marah?</a></p>
+				<p class="big"><span class="link-berita">DANDGUT</span><span class="minute-kl link-reg">18 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/dangdut/disebut-ega-noviantika-sebagai-sahabat-benarkah-rafly-dacademy-sampai-marah-f5f182.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/showbiz/selebriti/jarang-bersama-dikabarkan-putus-ternyata-al-ghazali-38-alyssa-daguise-ldr-an-d0043c.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/jarang-bersama-dikabarkan-putus-ternyat-d0043c.jpg" width="300" height="150"  /></a> -->
+            <a href="/showbiz/selebriti/jarang-bersama-dikabarkan-putus-ternyata-al-ghazali-38-alyssa-daguise-ldr-an-d0043c.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/jarang-bersama-dikabarkan-putus-ternyat-d0043c.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/showbiz/selebriti/jarang-bersama-dikabarkan-putus-ternyata-al-ghazali-38-alyssa-daguise-ldr-an-d0043c.html">Jarang Bersama - Dikabarkan Putus, Ternyata Al Ghazali &amp; Alyssa Daguise LDR-an</a></p>
+				<p class="big"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">18 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/showbiz/selebriti/jarang-bersama-dikabarkan-putus-ternyata-al-ghazali-38-alyssa-daguise-ldr-an-d0043c.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/dangdut/konser-grup-4-top-21-lida-2019-siapa-yang-akan-pulang-kampung-0d8a83.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/konser-grup-4-top-21-lida-2019-siapa-ya-0d8a83.jpg" width="300" height="150"  /></a> -->
+            <a href="/dangdut/konser-grup-4-top-21-lida-2019-siapa-yang-akan-pulang-kampung-0d8a83.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/konser-grup-4-top-21-lida-2019-siapa-ya-0d8a83.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/dangdut/konser-grup-4-top-21-lida-2019-siapa-yang-akan-pulang-kampung-0d8a83.html">Konser Grup 4 Top 21 LIDA 2019 Siapa yang Akan Pulang Kampung?</a></p>
+				<p class="big"><span class="link-berita">DANDGUT</span><span class="minute-kl link-reg">19 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/dangdut/konser-grup-4-top-21-lida-2019-siapa-yang-akan-pulang-kampung-0d8a83.html"></a></p>
+			</div>
+		</div><div class="kl-artikel-berita link-trigger">
+			<!-- <a href="/showbiz/selebriti/al-ghazali-ungkap-kondisi-ahmad-dhani-di-penjara-sakit-sampai-harus-diinfus-6b7f57.html" ><img class="lazy_loaded_img" src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/1px_white.jpg" data-src="https://cdns.klimg.com/resized/300x150/p/headline/al-ghazali-ungkap-kondisi-ahmad-dhani-d-d8e515.jpg" width="300" height="150"  /></a> -->
+            <a href="/showbiz/selebriti/al-ghazali-ungkap-kondisi-ahmad-dhani-di-penjara-sakit-sampai-harus-diinfus-6b7f57.html"><img class="" src="https://cdns.klimg.com/resized/300x150/p/headline/al-ghazali-ungkap-kondisi-ahmad-dhani-d-d8e515.jpg" width="300" height="150"></a>
+			<div class="deskrip-berita">
+				<p><a href="/showbiz/selebriti/al-ghazali-ungkap-kondisi-ahmad-dhani-di-penjara-sakit-sampai-harus-diinfus-6b7f57.html">Al Ghazali Ungkap Kondisi Ahmad Dhani di Penjara, Sakit Sampai Harus Diinfus</a></p>
+				<p class="big"><span class="link-berita">SELEBRITI</span><span class="minute-kl link-reg">20 jam yang lalu</span>
+				<a class="link-open open-big" target="_blank" href="/showbiz/selebriti/al-ghazali-ungkap-kondisi-ahmad-dhani-di-penjara-sakit-sampai-harus-diinfus-6b7f57.html"></a></p>
+			</div>
+		</div>
+</div>
+<!--ENDOF_HM_MID_COLUMN-->
+		</div>
+		<!--ENDOFCONTENT-->
+		<!--RIGHTCONTENT-->
+		<div id="v5-rightcontent" class="kl-artikel-box kl-artikel-bright">
+			<!--SHOWCASE1-->
+			<div id="v5-showcase1">
+<!--DFP SHOWCASE1 CODE-->
+<div id="div-gpt-ad-kapanlagi-sc1" data-google-query-id="CIzNp4C4nOECFctGXgodtH4LDg"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-sc1_0__container__" style="border: 0pt none; margin: auto; text-align: center;"><iframe id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-sc1_0" title="3rd party ad content" name="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-sc1_0" width="300" height="600" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" data-google-container-id="3" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>
+<!--END DFP SHOWCASE1 CODE-->
+</div>
+			<!--ENDOFSHOWCASE1-->
+			<!--SHOWCASE2-->
+			<div id="v5-showcase2">
+<!--DFP SHOWCASE2 CODE-->
+<div id="div-gpt-ad-kapanlagi-sc2" data-google-query-id="CKORq4C4nOECFctGXgodtH4LDg"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-sc2_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 300px; height: 250px;"><iframe frameborder="0" src="https://tpc.googlesyndication.com/safeframe/1-0-32/html/container.html" id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-sc2_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="300" height="250" data-is-safeframe="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="4" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>
+<!--END DFP SHOWCASE2 CODE-->
+</div>
+			<!--ENDOFSHOWCASE2-->
+			
+			<!--HM_RIGHT_COLUMN-->
+<!--HM_RIGHT_RECOMMENDATION1-->
+
+
+<div class="homepage-recommendations-box home-right-box kl-artikel-berita-img recommendations-section1">
+	<div class="homepage-recommendations-title">
+		<h1>REKOMENDASI</h1>
+	</div>
+	<div class="recommendations-loader noajaxloader" data-limit="10" data-offset="0" data-classes="list-berita-kl clearfix" data-itemwrapper-classes="clearfix link-trigger"></div>
+</div>
+
+	
+<!--ENDOF_HM_RIGHT_RECOMMENDATION1-->
+<!--MARCOMMPROMOTION-->
+<div class="home-right-box" id="v5-marcommpromotion">
+
+<!--DFP MARCOMM1 CODE-->
+<div id="div-gpt-ad-kapanlagi-marcomm1-oop" data-google-query-id="CI7Np4C4nOECFctGXgodtH4LDg"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-marcomm1_0__container__" style="border: 0pt none; margin: auto; text-align: center;"><iframe id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-marcomm1_0" title="3rd party ad content" name="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-marcomm1_0" width="1" height="1" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom; display: none;" data-load-complete="true" data-google-container-id="5"></iframe><div>                                        <a href="https://bit.ly/2ULtBys" target="_blank"> 							<img src="https://tpc.googlesyndication.com/pagead/imgad?id=CICAgKD7tPWa5QEQARgBMgixDpnwsOZCsA" width="300" height="90" alt="" title="" border="0"> 					</a> 					                                        <div id="beacon_132092166" style="position: absolute; left: 0px; top: 0px; visibility: hidden;">       						<img src="https://bit.ly/2Fq36cx" style="display:none;visibility:hidden" width="0" height="0"> 					</div> 					<!-- 					<div id="beacon_132092166" style="position: absolute; left: 0px; top: 0px; visibility: hidden;">       						<img src="https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstbJYk7_W-lYPrVqs5ao_ol9p7oeHcugtNTubMc9Ooq6vMwxJe_KF2rjger4Y-oF0xRjqWydLk8IaTF1-_ak6-QwgOOG1xqC6B5hODOxDcAG9LMvuVnipKz4fLlbscj0h5oWAfEEySIQ-N64XnxfLDJinUWzQa0ooLwUfwFcvZ9Nek01CzCW3SG0P9CYUUjNwVN_xb71wMlgsfDsgcYe2TWT9T4ZT2E0UG2qnO3oFywLlAe9r7-f1m88jo6DcJqeOR1kvVaau_FIroUfF4dWdynG-IFOw&sai=AMfl-YT60jVYxzY44sC31Uq-TRfOd-MrC7hbWSaQaqeMfctZEmgXO1NDFNwsdtrNOWA3A4qZsMuWj8faNMnUfLDx5DEc4-ZwNBwTQkXctzlvKsUvYyr3mm55Ax1uAlXw&sig=Cg0ArKJSzDK9cquLkPp3EAE&urlfix=1&adurl=https://cdns.klimg.com/d.kapanlaginetwork.com/banner/asset/img/pixel.png" style="display:none;visibility:hidden" width="0" height="0" /> 					</div> 					--></div></div></div>
+<!--END DFP MARCOMM1 CODE-->
+
+</div><br class="clear">
+<!--ENDOFMARCOMMPROMOTION-->
+<!--HM_RIGHT_DPDRIGATEWAY-->
+<!--<div class="home-right-box ex-home-dpdrigateway"></div>-->
+<!--ENDOF_HM_RIGHT_DPDRIGATEWAY-->
+<!--HM_RIGHT_FIXED_LINK-->
+<div class="kl-berita-list-name">
+	<div class="title-foto-terbaru">
+		<h6>JANGAN LEWATKAN FOTO TERBARU</h6>
+	</div>
+	<ul class="list-berita-name-kl list-border-tb">
+		<li><a href="/foto/selebriti/indonesia/" target="_blank">Foto Selebriti Indonesia</a></li>
+		<li><a href="/foto/selebriti/hollywood/" target="_blank">Foto Selebriti Hollywood</a></li>
+		<li><a href="/foto/berita-foto/indonesia/" target="_blank">Berita Foto Indonesia</a></li>
+		<li><a href="/foto/berita-foto/internasional/" target="_blank">Berita Foto Internasional</a></li>
+		<li><a href="/foto/berita-foto/asian-star/" target="_blank">Berita Foto K-Pop</a></li>
+		<li><a href="https://plus.kapanlagi.com/foto/" target="_blank">Foto Unik</a></li>
+	</ul>
+</div> 
+<!--ENDOF_HM_RIGHT_FIXED_LINK-->
+<!--HM_RIGHT_RECOMMENDATION2-->
+
+
+<div class="homepage-recommendations-box home-right-box kl-artikel-berita-img recommendations-section2">
+	<div class="recommendations-loader noajaxloader" data-limit="10" data-offset="10" data-classes="list-berita-kl clearfix" data-itemwrapper-classes="clearfix link-trigger"></div>
+</div>
+
+	
+<!--ENDOF_HM_RIGHT_RECOMMENDATION2-->
+<!--EXOAGENCY-->
+<div id="v5-marcommpromotion2">
+
+<!--DFP MARCOMM2 CODE-->
+<div id="div-gpt-ad-kapanlagi-marcomm2-oop" data-google-query-id="CI_Np4C4nOECFctGXgodtH4LDg"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-marcomm2_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 1px; height: 1px;"></div></div>
+<!--END DFP MARCOMM2 CODE-->
+
+</div><br class="clear">
+<!--ENDOFEXOAGENCY-->
+<!--HM_RIGHT_RECOMMENDATION2-->
+
+
+<div class="homepage-recommendations-box home-right-box kl-artikel-berita-img recommendations-section3">
+	<div class="recommendations-loader noajaxloader" data-limit="10" data-offset="20" data-classes="list-berita-kl clearfix" data-itemwrapper-classes="clearfix link-trigger"></div>
+</div>
+
+	
+<!--ENDOF_HM_RIGHT_RECOMMENDATION2-->
+<!--HM_RIGHT_SLOT_1-->
+<div class="home-right-box home-right-slot-1"></div>
+<!--ENDOF_HM_RIGHT_SLOT_1-->
+<!--HM_RIGHT_SLOT_2-->
+<div class="home-right-box home-right-slot-2"></div>
+<!--ENDOF_HM_RIGHT_SLOT_2-->
+<!--HM_RIGHT_FIXED_LINK2-->
+<div class="home-right-box kl-berita-list-name">
+	<div class="title-foto-terbaru">
+		<h6>UPDATE HIBURAN TERBARU HARI INI</h6>
+	</div>
+	<ul class="list-berita-name-kl list-border-tb">
+		<li><a href="https://video.kapanlagi.com/" target="_blank">VIDEO Eksklusif Terbaru</a></li>
+		<li><a href="https://kepo.kapanlagi.com/ " target="_blank">BERITA Terupdate Kiriman Pembaca</a></li>
+		<li><a href="https://plus.kapanlagi.com/" target="_blank">KONTEN UNIK dan MENARIK Terbaru</a></li>
+		<li><a href="/trending/" target="_blank">KABAR Terhangat</a></li>
+		<li><a href="/tag/viral/ " target="_blank">KABAR VIRAL Terupdate</a></li>
+	</ul>
+</div> 
+<!--ENDOF_HM_RIGHT_FIXED_LINK2-->
+<!--HM_RIGHT_SLOT_3-->
+<div class="home-right-box home-right-slot-3"></div>
+<!--ENDOF_HM_RIGHT_SLOT_3-->
+<!--HM_RIGHT_SLOT_4-->
+<div class="home-right-box home-right-slot-4"></div>
+<!--ENDOF_HM_RIGHT_SLOT_4-->
+<!--HM_RIGHT_SLOT_5-->
+<div class="home-right-box home-right-slot-5"></div>
+<!--ENDOF_HM_RIGHT_SLOT_5-->
+<!--HM_RIGHT_SLOT_6-->
+<div class="home-right-box home-right-slot-6"></div>
+<!--ENDOF_HM_RIGHT_SLOT_6-->
+<!--ENDOF_HM_RIGHT_COLUMN-->
+		</div>
+		<!--ENDOFRIGHTCONTENT-->
+		<br class="clear">
+		<div id="v5-bottomcontent"><div class="kl-home-next">
+			<a href="index2.html">BERITA SELANJUTNYA</a>
+		</div></div>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				/*channel*/
+				$(".click-channel-more").click(function(){
+					$(this).toggleClass('active');
+					if ($(this).hasClass("active")){
+						$(".list-channelbottom, .content-channel").addClass('open');
+					}
+					else{
+						$(".list-channelbottom, .content-channel").removeClass('open');
+					}
+				});
+				/*end channel*/
+			});
+		</script>
+		<!--channelbar-new-->
+		<div class="channel-barv3">
+			<div class="list-channeltop">
+				<div class="title-channel">KAPANLAGI NETWORK</div>
+				<div class="content-channel">
+					<ul class="list-channelv3 list-unstyled">
+						<li class="active"><a target="_blank" href="/">KAPANLAGI</a></li>
+						<li><a target="_blank" href="https://www.merdeka.com/">MERDEKA</a></li>
+						<li><a target="_blank" href="https://www.liputan6.com/">LIPUTAN6</a></li>
+						<li><a target="_blank" href="https://www.fimela.com/">FIMELA</a></li>
+						<li><a target="_blank" href="https://www.otosia.com/">OTOSIA</a></li>
+						<li><a target="_blank" href="https://www.bola.net/">BOLA.NET</a></li>
+						<li><a target="_blank" href="https://www.dream.co.id/">DREAM.CO.ID</a></li>
+					</ul>
+				</div>
+				<a class="click-channel-more" href="javascript:void(0);">
+					<span class="text-more">MORE</span>
+				</a>
+			</div>
+			<div class="list-channelbottom">
+				<ul class="list-channelv3 list-unstyled">
+					<li><a target="_blank" href="https://www.brilio.net/">BRILIO.NET</a></li>
+					<li><a target="_blank" href="https://www.bola.com/">BOLA.COM</a></li>
+                    <li><a target="_blank" href="https://www.famous.id/">FAMOUS.ID</a></li>
+                    
+				</ul>
+			</div>
+		</div>
+		<!--end channelbar-new-->
+		<!--FOOTER-->
+			<div class="v6-footer">
+				<a href="/" class="logo-footer"><img src="https://cdns.klimg.com/kapanlagi.com/v5/i/channel/entertainment/logo-Kapanlagi-footer.png"></a>
+				<ul class="sosmed-footer clearfix">
+					<li><a href="https://app.kapanlagi.com/account/" class="img-sf account">
+						<span style="visibility:hidden">Account</span></a>
+					</li>
+					<li><a href="https://www.facebook.com/kapanlagicom" class="img-sf facebook">
+						<span style="visibility:hidden">Facebook</span></a>
+					</li>
+					<li><a href="https://www.twitter.com/kapanlagicom" class="img-sf twitter">
+						<span style="visibility:hidden">Twitter</span></a>
+					</li>
+					<li><a href="https://www.youtube.com/user/KapanLagicomVideo" class="img-sf youtube">
+						<span style="visibility:hidden">Youtube</span></a>
+					</li>
+					<li><a href="https://plus.google.com/+KapanlagiDotCom" class="img-sf googleplus">
+						<span style="visibility:hidden">Google Plus</span></a>
+					</li>
+					<li><a href="https://instagram.com/kapanlagicom" class="img-sf instagram">
+						<span style="visibility:hidden">Instagram</span></a>
+					</li>
+					<li><a href="https://app.kapanlagi.com/newsletter/" class="img-sf mail">
+						<span style="visibility:hidden">Newsletter</span></a>
+					</li>
+					<li>
+						<a href="https://app.kapanlagi.com/feed/" class="img-sf rss">
+							<span style="visibility:hidden">Rss</span>
+						</a>
+					</li>
+				</ul>
+				<ul class="list-bottom-footer clearfix">
+					<li><a href="https://company.kapanlagi.com/advertisers/">IKLAN</a></li>
+					<li><a href="https://company.kapanlagi.com/contact/">KONTAK</a></li>
+					<li><a href="https://company.kapanlagi.com/tos/">DISCLAIMER</a></li>
+					<li><a href="https://company.kapanlagi.com/privacy-policy/">PRIVACY</a></li>
+					<li><a href="https://company.kapanlagi.com/kode-etik/">KODE ETIK</a></li>
+					<li><a href="https://company.kapanlagi.com/">KAMI</a></li>
+					<li><a href="https://company.kapanlagi.com/pedoman-media-siber/">PEDOMAN MEDIA SIBER</a></li>
+					<li><a href="https://company.kapanlagi.com/redaksi/">REDAKSI</a></li>
+					<li><a href="/feed/">RSS</a></li>
+					<li><a href="https://company.kapanlagi.com/career/">KARIR</a></li>
+					<li><a href="/sitemap.html">SITEMAP</a></li>
+				</ul>
+				<div class="copyright">
+					Copyright © 2019 kapanlagi.com KLY KapanLagi Youniverse All Right Reserved
+				</div>
+			</div>
+			<!--ENDOFFOOTER-->
+	</div>
+</center>
+
+
+<!--DFP BOTTOM FRAME CODE-->
+<div id="div-gpt-ad-kapanlagi-bottomfrm-oop"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-bottomfrm_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 1px; height: 1px;"></div></div>
+<!--END DFP BOTTOM FRAME CODE-->
+
+
+<!--DFP POPUP CODE-->
+<div id="div-gpt-ad-kapanlagi-popup-oop" data-google-query-id="CJPNp4C4nOECFctGXgodtH4LDg"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-pop_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 1px; height: 1px;"></div></div>
+<!--END DFP POPUP CODE-->
+
+
+<!--DFP SKINAD CODE-->
+<div id="div-gpt-ad-kapanlagi-skinad-oop"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-skin_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 1px; height: 1px;"></div></div>
+<!--END DFP SKINAD CODE-->
+
+
+<!--DFP LEFT EDGE FLOATING CODE-->
+<div id="div-gpt-ad-kapanlagi-lFloating-oop" data-google-query-id="CJfNp4C4nOECFctGXgodtH4LDg"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-lFloating_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 1px; height: 1px;"></div></div>
+<!--END DFP LEFT EDGE FLOATING CODE-->
+
+
+<!--DFP RIGHT EDGE FLOATING CODE-->
+<div id="div-gpt-ad-kapanlagi-rFloating-oop"></div>
+<!--END DFP RIGHT EDGE FLOATING CODE-->
+
+
+<!-- AudienceScience Async Data Collection Tag --> 
+<script>
+(function() {
+ var csid = "F09828";
+ var bpid = "kapanlagi_id";
+ var e = document.createElement("script");
+ var s = document.getElementsByTagName("script")[0];
+ e.src = "//js.revsci.net/gateway/gw.js?auto=t&csid=" + csid + "&bpid=" + bpid;
+ e.async = true;
+ s.parentNode.insertBefore(e, s);
+})();
+</script>
+<!-- End AudienceScience Data Collection Tag -->
+
+
+<!--DFP RECOMMENDATION ADS CODE-->
+<div id="div-gpt-ad-kapanlagi-recommend-slot-2-oop" data-google-query-id="CJTNp4C4nOECFctGXgodtH4LDg"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-recommend-slot-2_0__container__" style="border: 0pt none; margin: auto; text-align: center;"><iframe id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-recommend-slot-2_0" title="3rd party ad content" name="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-recommend-slot-2_0" width="1" height="1" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom; display: none;" data-load-complete="true" data-google-container-id="b"></iframe></div></div>
+<div id="div-gpt-ad-kapanlagi-recommend-slot-3-oop" data-google-query-id="CJXNp4C4nOECFctGXgodtH4LDg"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-recommend-slot-3_0__container__" style="border: 0pt none; margin: auto; text-align: center;"><iframe id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-recommend-slot-3_0" title="3rd party ad content" name="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-recommend-slot-3_0" width="1" height="1" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom; display: none;" data-load-complete="true" data-google-container-id="c"></iframe></div></div>
+<div id="div-gpt-ad-kapanlagi-recommend-slot-9-oop" data-google-query-id="CJbNp4C4nOECFctGXgodtH4LDg"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-recommend-slot-9_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 1px; height: 1px;"></div></div>
+<!--END DFP RECOMMENDATION ADS CODE-->
+
+<!--DFP CODE-->
+<script type="text/javascript">
+(function(){
+	var useSSL = 'https:' == document.location.protocol;
+	var src = (useSSL ? 'https:' : 'http:') +
+	'//a.kapanlagi.com/v5/js/0k/0/dfp.js?' + Math.floor(new Date().getTime() / (300 * 1000));
+	document.write('<scr' + 'ipt async="async" src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script async="async" src="https://a.kapanlagi.com/v5/js/0k/0/dfp.js?5178452"></script>
+<!--END DFP CODE-->
+
+
+
+
+<script type="text/javascript" id="">window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===location.protocol?"https:":"http:")+"//cdn.krxd.net/controltag/thxtgja3i.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script>
+
+<script type="text/javascript" id="">Krux("ns:creativemediaworkspteltd","consent:set",{dc:!0,al:!0,tg:!0,cd:!0,sh:!0,re:!1},function(a,b){a?console.error(a):console.log("Successfully set consent flags.")});</script>
+  
+<script type="text/javascript" id="">window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);(function(){function c(b){b="kxcreativemediaworkspteltd_"+b;try{var a=window.localStorage}catch(d){a=null}return a?a[b]||"":navigator.cookieEnabled?(a=document.cookie.match(b+"\x3d([^;]*)"))&&unescape(a[1])||"":""}Krux.user=c("user");Krux.segments=c("segs")?c("segs").split(","):[]})();</script>
+<div id="div-gpt-ad-kapanlagi-immersive-oop" data-google-query-id="CIrNp4C4nOECFctGXgodtH4LDg"><div id="google_ads_iframe_/36504930/www.kapanlagi.com/dfp-immersive_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 1px; height: 1px;"></div></div><table cellspacing="0" cellpadding="0" class="gstl_50 gssb_c" style="width: 652px; display: none; top: 71px; left: 8px; position: absolute;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table><div id="dmp-tracker-container" style="display:none;visibility:hidden;"></div><div class="kxhead" data-id="thxtgja3i" style="display:none !important;"><span class="kxtag kxinvisible" data-id="37822"><script>
+(function() {
+    /* Standard but configurable DTC */
+    var comDomain, domain, level, libUtil, pathLevel, prefix, toSet;
+    libUtil = Krux('require:util.library-tag');
+    toSet = {};
+    level = 1;
+    while (level <= Number('5')) {
+        pathLevel = Krux('scrape.url_path', level);
+        if (pathLevel) {
+            if ('false' === 'true') {
+                pathLevel = ("" + pathLevel).replace(
+                    /\.(?:html?|php[0-9]?|aspx?|cfg|py)$/i, '');
+            }
+            toSet["page_attr_url_path_" + level] = pathLevel;
+        }
+        level++;
+    }
+    toSet['page_attr_meta_keywords'] = Krux('scrape.meta_name', 'keywords');
+    prefix = libUtil.resolvePrefix('none', 'undefined',
+        'undefined');
+    toSet = Krux('prefix:attr', toSet, prefix);
+    domain = Krux('get', 'domain');
+    comDomain = domain.match(/\.([^\.]+\.com)$/);
+    if (comDomain) {
+        domain = comDomain[1];
+    }
+    toSet['page_attr_domain'] = domain;
+    Krux('set', toSet);
+}).call();
+</script></span><span class="kxtag kxinvisible" data-id="37823"><script>
+(function(){
+
+	var params = Krux('require:util').urlParams();
+	
+	Krux ('set', { 
+	'page_attr_utm_source': params.utm_source,
+	'page_attr_utm_medium': params.utm_medium,
+	'page_attr_utm_campaign': params.utm_campaign,
+	'page_attr_utm_content': params.utm_content,
+	'page_attr_utm_term': params.utm_term 
+	});
+	
+})();
+</script></span><span class="kxtag kxinvisible" data-id="38439"><script>
+(function() {
+    /* Selective Attribute DataLayer Library Tag */
+    var _, allAttr, allowedList, attr, attributes, dataLayerIngester, dataObj,
+        isAllowed, keepCase, libUtil, omitKeys, pageAttr, prefix, toSet, trim,
+        userAttr, util, value,
+        hasProp = {}.hasOwnProperty;
+    _ = Krux('require:underscore');
+    util = Krux('require:util');
+    libUtil = Krux('require:util.library-tag');
+    dataLayerIngester = Krux('require:scrape').ingestDataLayer;
+
+    /* Safe copy of dataLayer object */
+    dataObj = Krux('scrape.javascript', 'kmklabs.gtm');
+
+    /* String trimming helper function */
+    trim = function(attr) {
+        return ("" + attr).replace(/^\s+|\s+$/g, '');
+    };
+
+    /* Attribute configs */
+    pageAttr = _.map('articleId,Category,subCategory,subSubCategory,tag,type'.split(','), trim);
+    userAttr = _.map('login_status,userId,userID,user_type'.split(','), trim);
+
+    /* Create a array of attributes striping any empty strings */
+    allAttr = _.without(pageAttr.concat(userAttr), '');
+
+    /* Configuration settings */
+    keepCase = 'false' === 'true';
+    omitKeys = 'authors.type'.split(',');
+
+    /* Resolve Prefix */
+    prefix = libUtil.resolvePrefix('text', 'kly',
+        '');
+
+    /* Function to varify if attribute should be used */
+    isAllowed = function(value, whitelist) {
+        var i, len, str, x;
+        str = "" + value;
+        if (!((value != null) && str.length > 0)) {
+            return false;
+        }
+        for (i = 0, len = whitelist.length; i < len; i++) {
+            x = whitelist[i];
+            if (value.match(x) != null) {
+                return true;
+            }
+        }
+        return false;
+    };
+
+    /* Get a full list of attributes usting the dataLayer tool */
+    attributes = dataLayerIngester(dataObj, {
+        omitKeys: libUtil.removeFalsyStrings(omitKeys.concat(libUtil.EXCLUDE_KEYS_CONFIG)),
+        omitValues: libUtil.EXCLUDE_VALUES_CONFIG,
+        caseSensitive: keepCase,
+        useFullPath: 'false' === 'true',
+        useLastValue: 'false' === 'true',
+        customDelimited: [/./],
+        altDelimiter: ',',
+        userKeys: _.map(userAttr, function(exp) {
+            return new RegExp("(^|\\.)" + exp + "$");
+        }),
+        optimizeNames: true
+    });
+
+    /* Only set Attributes in the allowed list */
+    allowedList = _.map(allAttr, function(name) {
+        return new RegExp("(_attr_|_attr_" + prefix + "|\\.)" + (keepCase ?
+            name : libUtil.normalizeAttrName(name, {
+                removeDot: false
+            })) + "$");
+    });
+    toSet = {};
+    for (attr in attributes) {
+        if (!hasProp.call(attributes, attr)) continue;
+        value = attributes[attr];
+        if (isAllowed(attr, allowedList)) {
+            toSet[attr] = value;
+        }
+    }
+    toSet = Krux('prefix:attr', toSet, prefix);
+    Krux('set', toSet);
+}).call();
+</script></span><span class="kxtag kxinvisible" data-id="38440"><script>
+(function() {
+    /* Selective Attribute DataLayer Library Tag */
+    var _, allAttr, allowedList, attr, attributes, dataLayerIngester, dataObj,
+        isAllowed, keepCase, libUtil, omitKeys, pageAttr, prefix, toSet, trim,
+        userAttr, util, value,
+        hasProp = {}.hasOwnProperty;
+    _ = Krux('require:underscore');
+    util = Krux('require:util');
+    libUtil = Krux('require:util.library-tag');
+    dataLayerIngester = Krux('require:scrape').ingestDataLayer;
+
+    /* Safe copy of dataLayer object */
+    dataObj = Krux('scrape.javascript', 'kmklabs');
+
+    /* String trimming helper function */
+    trim = function(attr) {
+        return ("" + attr).replace(/^\s+|\s+$/g, '');
+    };
+
+    /* Attribute configs */
+    pageAttr = _.map('site,platform,isAdultContent'.split(','), trim);
+    userAttr = _.map('false'.split(','), trim);
+
+    /* Create a array of attributes striping any empty strings */
+    allAttr = _.without(pageAttr.concat(userAttr), '');
+
+    /* Configuration settings */
+    keepCase = 'false' === 'true';
+    omitKeys = 'false'.split(',');
+
+    /* Resolve Prefix */
+    prefix = libUtil.resolvePrefix('text', 'kly',
+        '');
+
+    /* Function to varify if attribute should be used */
+    isAllowed = function(value, whitelist) {
+        var i, len, str, x;
+        str = "" + value;
+        if (!((value != null) && str.length > 0)) {
+            return false;
+        }
+        for (i = 0, len = whitelist.length; i < len; i++) {
+            x = whitelist[i];
+            if (value.match(x) != null) {
+                return true;
+            }
+        }
+        return false;
+    };
+
+    /* Get a full list of attributes usting the dataLayer tool */
+    attributes = dataLayerIngester(dataObj, {
+        omitKeys: libUtil.removeFalsyStrings(omitKeys.concat(libUtil.EXCLUDE_KEYS_CONFIG)),
+        omitValues: libUtil.EXCLUDE_VALUES_CONFIG,
+        caseSensitive: keepCase,
+        useFullPath: 'false' === 'true',
+        useLastValue: 'false' === 'true',
+        customDelimited: [/./],
+        altDelimiter: ',',
+        userKeys: _.map(userAttr, function(exp) {
+            return new RegExp("(^|\\.)" + exp + "$");
+        }),
+        optimizeNames: true
+    });
+
+    /* Only set Attributes in the allowed list */
+    allowedList = _.map(allAttr, function(name) {
+        return new RegExp("(_attr_|_attr_" + prefix + "|\\.)" + (keepCase ?
+            name : libUtil.normalizeAttrName(name, {
+                removeDot: false
+            })) + "$");
+    });
+    toSet = {};
+    for (attr in attributes) {
+        if (!hasProp.call(attributes, attr)) continue;
+        value = attributes[attr];
+        if (isAllowed(attr, allowedList)) {
+            toSet[attr] = value;
+        }
+    }
+    toSet = Krux('prefix:attr', toSet, prefix);
+    Krux('set', toSet);
+}).call();
+</script></span><span class="kxtag kxinvisible" data-id="38441"><script>
+(function() {
+    /* Selective Attribute DataLayer Library Tag */
+    var _, allAttr, allowedList, attr, attributes, dataLayerIngester, dataObj,
+        isAllowed, keepCase, libUtil, omitKeys, pageAttr, prefix, toSet, trim,
+        userAttr, util, value,
+        hasProp = {}.hasOwnProperty;
+    _ = Krux('require:underscore');
+    util = Krux('require:util');
+    libUtil = Krux('require:util.library-tag');
+    dataLayerIngester = Krux('require:scrape').ingestDataLayer;
+
+    /* Safe copy of dataLayer object */
+    dataObj = Krux('scrape.javascript', 'kly.gtm');
+
+    /* String trimming helper function */
+    trim = function(attr) {
+        return ("" + attr).replace(/^\s+|\s+$/g, '');
+    };
+
+    /* Attribute configs */
+    pageAttr = _.map('articleId,Category,subCategory,subSubCategory,tag,type'.split(','), trim);
+    userAttr = _.map('login_status,userId,userID,user_type'.split(','), trim);
+
+    /* Create a array of attributes striping any empty strings */
+    allAttr = _.without(pageAttr.concat(userAttr), '');
+
+    /* Configuration settings */
+    keepCase = 'false' === 'true';
+    omitKeys = 'authors.type'.split(',');
+
+    /* Resolve Prefix */
+    prefix = libUtil.resolvePrefix('text', 'kly',
+        '');
+
+    /* Function to varify if attribute should be used */
+    isAllowed = function(value, whitelist) {
+        var i, len, str, x;
+        str = "" + value;
+        if (!((value != null) && str.length > 0)) {
+            return false;
+        }
+        for (i = 0, len = whitelist.length; i < len; i++) {
+            x = whitelist[i];
+            if (value.match(x) != null) {
+                return true;
+            }
+        }
+        return false;
+    };
+
+    /* Get a full list of attributes usting the dataLayer tool */
+    attributes = dataLayerIngester(dataObj, {
+        omitKeys: libUtil.removeFalsyStrings(omitKeys.concat(libUtil.EXCLUDE_KEYS_CONFIG)),
+        omitValues: libUtil.EXCLUDE_VALUES_CONFIG,
+        caseSensitive: keepCase,
+        useFullPath: 'false' === 'true',
+        useLastValue: 'false' === 'true',
+        customDelimited: [/./],
+        altDelimiter: ',',
+        userKeys: _.map(userAttr, function(exp) {
+            return new RegExp("(^|\\.)" + exp + "$");
+        }),
+        optimizeNames: true
+    });
+
+    /* Only set Attributes in the allowed list */
+    allowedList = _.map(allAttr, function(name) {
+        return new RegExp("(_attr_|_attr_" + prefix + "|\\.)" + (keepCase ?
+            name : libUtil.normalizeAttrName(name, {
+                removeDot: false
+            })) + "$");
+    });
+    toSet = {};
+    for (attr in attributes) {
+        if (!hasProp.call(attributes, attr)) continue;
+        value = attributes[attr];
+        if (isAllowed(attr, allowedList)) {
+            toSet[attr] = value;
+        }
+    }
+    toSet = Krux('prefix:attr', toSet, prefix);
+    Krux('set', toSet);
+}).call();
+</script></span><span class="kxtag kxinvisible" data-id="38442"><script>
+(function() {
+    /* Selective Attribute DataLayer Library Tag */
+    var _, allAttr, allowedList, attr, attributes, dataLayerIngester, dataObj,
+        isAllowed, keepCase, libUtil, omitKeys, pageAttr, prefix, toSet, trim,
+        userAttr, util, value,
+        hasProp = {}.hasOwnProperty;
+    _ = Krux('require:underscore');
+    util = Krux('require:util');
+    libUtil = Krux('require:util.library-tag');
+    dataLayerIngester = Krux('require:scrape').ingestDataLayer;
+
+    /* Safe copy of dataLayer object */
+    dataObj = Krux('scrape.javascript', 'kly');
+
+    /* String trimming helper function */
+    trim = function(attr) {
+        return ("" + attr).replace(/^\s+|\s+$/g, '');
+    };
+
+    /* Attribute configs */
+    pageAttr = _.map('site,platform,isAdultContent'.split(','), trim);
+    userAttr = _.map('false'.split(','), trim);
+
+    /* Create a array of attributes striping any empty strings */
+    allAttr = _.without(pageAttr.concat(userAttr), '');
+
+    /* Configuration settings */
+    keepCase = 'false' === 'true';
+    omitKeys = 'false'.split(',');
+
+    /* Resolve Prefix */
+    prefix = libUtil.resolvePrefix('text', 'kly',
+        '');
+
+    /* Function to varify if attribute should be used */
+    isAllowed = function(value, whitelist) {
+        var i, len, str, x;
+        str = "" + value;
+        if (!((value != null) && str.length > 0)) {
+            return false;
+        }
+        for (i = 0, len = whitelist.length; i < len; i++) {
+            x = whitelist[i];
+            if (value.match(x) != null) {
+                return true;
+            }
+        }
+        return false;
+    };
+
+    /* Get a full list of attributes usting the dataLayer tool */
+    attributes = dataLayerIngester(dataObj, {
+        omitKeys: libUtil.removeFalsyStrings(omitKeys.concat(libUtil.EXCLUDE_KEYS_CONFIG)),
+        omitValues: libUtil.EXCLUDE_VALUES_CONFIG,
+        caseSensitive: keepCase,
+        useFullPath: 'false' === 'true',
+        useLastValue: 'false' === 'true',
+        customDelimited: [/./],
+        altDelimiter: ',',
+        userKeys: _.map(userAttr, function(exp) {
+            return new RegExp("(^|\\.)" + exp + "$");
+        }),
+        optimizeNames: true
+    });
+
+    /* Only set Attributes in the allowed list */
+    allowedList = _.map(allAttr, function(name) {
+        return new RegExp("(_attr_|_attr_" + prefix + "|\\.)" + (keepCase ?
+            name : libUtil.normalizeAttrName(name, {
+                removeDot: false
+            })) + "$");
+    });
+    toSet = {};
+    for (attr in attributes) {
+        if (!hasProp.call(attributes, attr)) continue;
+        value = attributes[attr];
+        if (isAllowed(attr, allowedList)) {
+            toSet[attr] = value;
+        }
+    }
+    toSet = Krux('prefix:attr', toSet, prefix);
+    Krux('set', toSet);
+}).call();
+</script></span><span class="kxtag kxinvisible" data-id="38571"><script>
+(function() {
+    /* Generic Scrape Tag - Configurable Data Collection */
+    var _, filterValues, libUtil, prefix, scrapeConfig, toSet;
+    _ = Krux('require:underscore');
+    libUtil = Krux('require:util.library-tag');
+    toSet = {};
+    filterValues = function(val) {
+        var i, item, len, ref, str, x;
+        if (_.isArray(val)) {
+            return _.compact((function() {
+                var i, len, results;
+                results = [];
+                for (i = 0, len = val.length; i < len; i++) {
+                    item = val[i];
+                    results.push(filterValues(item));
+                }
+                return results;
+            })());
+        }
+        str = "" + val;
+        if (!((val != null) && str.length > 0)) {
+            return;
+        }
+        ref = libUtil.EXCLUDE_VALUES_CONFIG;
+        for (i = 0, len = ref.length; i < len; i++) {
+            x = ref[i];
+            if (str.match(x) != null) {
+                return;
+            }
+        }
+        return val;
+    };
+    scrapeConfig = function(config, type) {
+        var attr, i, len, parts, ref, results, value;
+        ref = libUtil.removeFalsyStrings(config);
+        results = [];
+        for (i = 0, len = ref.length; i < len; i++) {
+            attr = ref[i];
+            parts = attr.split('|');
+            if (parts.length === 1 && 'js_global'.match(/(dom|javascript)/)) {
+                continue;
+            }
+            if (parts.length === 1) {
+                parts.unshift(libUtil.normalizeAttrName(parts[0]));
+            }
+            value = filterValues(Krux('scrape.js_global', parts[1]));
+            if (value) {
+                results.push(toSet[type + "_attr_" + parts[0]] = value);
+            } else {
+                results.push(void 0);
+            }
+        }
+        return results;
+    };
+    scrapeConfig('authors_names|kmklabs.gtm.authors.names,authors_names|kly.gtm.authors.names', 'page');
+    scrapeConfig('undefined', 'user');
+    prefix = libUtil.resolvePrefix('text', 'kly',
+        'undefined');
+    toSet = Krux('prefix:attr', toSet, prefix);
+    Krux('set', toSet);
+}).call();
+</script></span><span class="kxtag kxinvisible" data-id="38904"><script>
+(function() {
+    /* Standard but configurable DTC */
+    var comDomain, domain, level, libUtil, pathLevel, prefix, toSet;
+    libUtil = Krux('require:util.library-tag');
+    toSet = {};
+    level = 1;
+    while (level <= Number('3')) {
+        pathLevel = Krux('scrape.url_path', level);
+        if (pathLevel) {
+            if ('false' === 'true') {
+                pathLevel = ("" + pathLevel).replace(
+                    /\.(?:html?|php[0-9]?|aspx?|cfg|py)$/i, '');
+            }
+            toSet["page_attr_url_path_" + level] = pathLevel;
+        }
+        level++;
+    }
+    toSet['page_attr_meta_keywords'] = Krux('scrape.meta_name', 'keywords');
+    prefix = libUtil.resolvePrefix('text', 'kly',
+        'undefined');
+    toSet = Krux('prefix:attr', toSet, prefix);
+    domain = Krux('get', 'domain');
+    comDomain = domain.match(/\.([^\.]+\.com)$/);
+    if (comDomain) {
+        domain = comDomain[1];
+    }
+    toSet['page_attr_domain'] = domain;
+    Krux('set', toSet);
+}).call();
+</script></span></div><iframe src="https://onesignal.com/webPushAnalytics" style="display: none;"></iframe><iframe id="google_osd_static_frame_2648252368292" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body><iframe id="kx-proxy-thxtgja3i" src="https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=thxtgja3i&amp;kxt=https%3A%2F%2Fwww.kapanlagi.com&amp;kxcl=cdn&amp;kxp=" style="display: none; visibility: hidden; height: 0; width: 0;"></iframe></html>
