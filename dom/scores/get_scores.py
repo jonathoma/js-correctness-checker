@@ -80,5 +80,15 @@ def main():
         for modified in modified_screenshot_scores:
             f.write("modified, " + str(modified) + "\n")
 
+    # Do naive vs our DOM comparison
+    naive_data = read_data("naive_output.txt")
+    naive_dom_scores, _, _ = get_diff_scores(naive_data)
+    with open("naive_comparison.txt", 'w') as f:
+        f.write("type, score\n")
+        for custom in live_dom_scores:
+            f.write("custom, " + str(custom) + "\n")
+        for naive in naive_dom_scores:
+            f.write("naive, " + str(naive) + "\n")
+
 if __name__ == "__main__":
     main()
