@@ -17,12 +17,15 @@ const url = "https://" + argv['url'];
 const filename = argv['filename'] + argv['url'];
 const numSamples = argv['numSamples'];
 const timeout = argv['timeout'] * 1000;
+const script = fs.readFileSync('download_sample.js', 'utf-8');
 
 async function get_dom(counter) {
-    const script = fs.readFileSync('download_sample.js').toString();
     const chrome = await chromelauncher.launch({
-        port: 9222,                                       
-        chromeFlags: ['--headless']
+        port: 9222,
+        chromeFlags: [
+            // '--headless', 
+            // '--js-flags=--stack-trace-limit 10000'
+        ]
     });
     const client = await CDP();
     const {DOM, Console, Network, Page, Runtime, Security} = client;
@@ -32,6 +35,10 @@ async function get_dom(counter) {
             action: 'continue'
         });
     }); 
+    let network_requests = new Set(); 
+    Network.requestWillBeSent((params) => {
+        network_requests.add(params.request.url);
+    });
     try {
         await DOM.enable();
         await Network.enable();
@@ -41,17 +48,27 @@ async function get_dom(counter) {
         await Security.enable();
         
         await Security.setOverrideCertificateErrors({override: true});
+        await Network.clearBrowserCache();
+        await Network.clearBrowserCookies();
         await Network.setCacheDisabled({cacheDisabled: true});
-        await Page.addScriptToEvaluateOnLoad({ scriptSource: script });
         await Page.navigate({url: url});
         await Page.loadEventFired();
-        
-        const result = await Runtime.evaluate({
-            expression: 'document.documentElement.outerHTML;'
+        await Network.disable();
+
+        await Runtime.evaluate({
+            expression: script
         });
-        const html = result.result.value;
-        
-        fs.writeFileSync(filename + "_" + counter + ".txt", html);
+        let html = await Runtime.evaluate({
+            expression: 'document.documentElement.serializeWithStyles();'
+        });
+        html = html.result.value;
+        const network_data = Array.from(network_requests).sort().join('\n');
+        const {data} = await Page.captureScreenshot();
+
+        // Write screenshot, network request data, and captured DOM to files
+        fs.writeFileSync(filename + "_dom_" + counter + ".txt", html);
+        fs.writeFileSync(filename + "_network_" + counter + ".txt", network_data);
+        fs.writeFileSync(filename + "_screenshot_" + counter + ".png", Buffer.from(data, 'base64'));
     } catch (err) {
         console.error(err);
     } finally {
@@ -62,7 +79,7 @@ async function get_dom(counter) {
 
 (async function() {
     for (let i = 0; i < numSamples; i++) {
-        setTimeout(get_dom, timeout * i, i);
+        await get_dom(i);
     }
 })();
 

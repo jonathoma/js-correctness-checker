@@ -1,5 +1,4 @@
 Element.prototype.serializeWithStyles = (function () {  
-
     // Mapping between tag names and css default values lookup tables. This allows to exclude default values in the result.
     var defaultStylesByTagName = {};
 
@@ -8,14 +7,7 @@ Element.prototype.serializeWithStyles = (function () {
 
     // This list determines which css default values lookup tables are precomputed at load time
     // Lookup tables for other tag names will be automatically built at runtime if needed
-    var tagNames = ["A","ABBR","ADDRESS","AREA","ARTICLE","ASIDE","AUDIO","B","BASE","BDI","BDO","BLOCKQUOTE","BODY","BR","BUTTON","CANVAS","CAPTION","CENTER","CITE","CODE","COL","COLGROUP","COMMAND","DATALIST","DD","DEL","DETAILS","DFN","DIV","DL","DT","EM","EMBED","FIELDSET","FIGCAPTION","FIGURE","FONT","FOOTER","FORM","H1","H2","H3","H4","H5","H6","HEAD","HEADER","HGROUP","HR","HTML","I","IFRAME","IMG","INPUT","INS","KBD","KEYGEN","LABEL","LEGEND","LI","LINK","MAP","MARK","MATH","MENU","META","METER","NAV","NOBR","NOSCRIPT","OBJECT","OL","OPTION","OPTGROUP","OUTPUT","P","PARAM","PRE","PROGRESS","Q","RP","RT","RUBY","S","SAMP","SCRIPT","SECTION","SELECT","SMALL","SOURCE","SPAN","STRONG","STYLE","SUB","SUMMARY","SUP","SVG","TABLE","TBODY","TD","TEXTAREA","TFOOT","TH","THEAD","TIME","TITLE","TR","TRACK","U","UL","VAR","VIDEO","WBR"];
-
-    // Precompute the lookup tables.
-    for (var i = 0; i < tagNames.length; i++) {
-        if(!noStyleTags[tagNames[i]]) {
-            defaultStylesByTagName[tagNames[i]] = computeDefaultStyleByTagName(tagNames[i]);
-        }
-    }
+    var tagNames = ["A","ABBR","ADDRESS","AREA","ARTICLE","ASIDE","AUDIO","B","BASE","BDI","BDO","BLOCKQUOTE","BODY","BR","BUTTON","CANVAS","CAPTION","CENTER","CITE","CODE","COL","COLGROUP","COMMAND","DATALIST","DD","DEL","DETAILS","DFN","DIV","DL","DT","EM","EMBED","FIELDSET","FIGCAPTION","FIGURE","FONT","FOOTER","FORM","H1","H2","H3","H4","H5","H6","HEAD","HEADER","HGROUP","HR","HTML","I", "IFRAME", "IMG","INPUT","INS","KBD","KEYGEN","LABEL","LEGEND","LI","LINK","MAP","MARK","MATH","MENU","META","METER","NAV","NOBR","NOSCRIPT","OBJECT","OL","OPTION","OPTGROUP","OUTPUT","P","PARAM","PRE","PROGRESS","Q","RP","RT","RUBY","S","SAMP","SCRIPT","SECTION","SELECT","SMALL","SOURCE","SPAN","STRONG","STYLE","SUB","SUMMARY","SUP","SVG","TABLE","TBODY","TD","TEXTAREA","TFOOT","TH","THEAD","TIME","TITLE","TR","TRACK","U","UL","VAR","VIDEO","WBR"];
 
     function computeDefaultStyleByTagName(tagName) {
         var defaultStyle = {};
@@ -36,10 +28,17 @@ Element.prototype.serializeWithStyles = (function () {
         return defaultStylesByTagName[tagName];
     }
 
+    // Precompute the lookup tables.
+    for (var i = 0; i < tagNames.length; i++) {
+        if(!noStyleTags[tagNames[i]]) {
+            defaultStylesByTagName[tagNames[i]] = computeDefaultStyleByTagName(tagNames[i]);
+        }
+    }
+
     return function serializeWithStyles() {
         if (this.nodeType !== Node.ELEMENT_NODE) { throw new TypeError(); }
         var cssTexts = [];
-        var elements = this.querySelectorAll("*");
+        var elements = document.querySelectorAll("*");
         for ( var i = 0; i < elements.length; i++ ) {
             var e = elements[i];
             if (!noStyleTags[e.tagName]) {
@@ -54,42 +53,10 @@ Element.prototype.serializeWithStyles = (function () {
                 }
             }
         }
-        var result = this.outerHTML;
+        var result = document.documentElement.outerHTML;
         for ( var i = 0; i < elements.length; i++ ) {
             elements[i].style.cssText = cssTexts[i];
         }
         return result;
     }
 })();
-
-function removeScripts() {
-    var scripts = document.getElementsByTagName('script');
-    for(var i = 0; i < scripts.length; i++)
-    {
-        scripts[i].parentItem.removeChild(scripts[i]);
-    }
-}
-
-function download(filename, text) {
-  var element = document.createElement('a');
-  element.setAttribute('href', 'data:text/plain;charset=utf-8,' + 
-  encodeURIComponent(text));
-  element.setAttribute('download', filename);
-  element.style.display = 'none';
-  document.body.appendChild(element);
-  element.click();
-  document.body.removeChild(element);
-}
-
-function main(filename, serialize=1, strip=0) {
-    if (strip) {
-      removeScripts();
-    }
-    if (serialize) {
-      document.documentElement.serializeWithStyles();
-    } 
-    // var text = document.documentElement.outerHTML;
-    // download(filename, text);
-};
-
-main("test.txt");
