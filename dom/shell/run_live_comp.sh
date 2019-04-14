@@ -2,7 +2,7 @@
 
 get() {
     echo "FETCHING LIVE SAMPLES"
-    numSamples=3
+    numSamples=2
     for site in ../replay_data/modified/*; do
         url=${site##*/}
         node get_samples.js --url $url --numSamples $numSamples --filename output/live/
@@ -14,7 +14,7 @@ get() {
 compare() {
     echo "COMPARING LIVE SAMPLES"
     files=()
-    for file in output/naive/*; do
+    for file in output/live/*; do
         file=${file##*/}
         file=${file%%_*_[0-9].txt}
         file=${file%%_*_[0-9].png}
@@ -22,8 +22,7 @@ compare() {
     done
     inputs=($(printf "%s\n" "${files[@]}" | sort -u))
     for input in ${inputs[@]}; do
-        echo $input
-        node compare_dom.js --input output/naive/$input
+        node compare_samples.js --input output/live/$input
         wait
     done
 }
