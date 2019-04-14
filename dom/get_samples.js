@@ -1,5 +1,5 @@
 // Node script to get a specified number of DOM samples 
-// from a website with a timeout using Chrome Remote Interface.
+// from a website using Chrome Remote Interface.
 
 const fs = require('fs');
 const chromelauncher = require('chrome-launcher');
@@ -10,14 +10,12 @@ const argv = require('minimist')(process.argv.slice(2),
 	    default: {
 		"filename": "output/",
 		"numSamples" : 1,
-		"timeout" : 5,
 	    }
 	});
 const url = "https://" + argv['url'];
 const filename = argv['filename'] + argv['url'];
 const numSamples = argv['numSamples'];
-const timeout = argv['timeout'] * 1000;
-const script = fs.readFileSync('download_sample.js', 'utf-8');
+const script = fs.readFileSync('serialize.js', 'utf-8');
 
 async function get_dom(counter) {
     const chrome = await chromelauncher.launch({
