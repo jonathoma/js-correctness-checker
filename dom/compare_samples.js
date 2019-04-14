@@ -1,6 +1,6 @@
 require('module-alias/register');
-const domCompare = require("@dom-compare");
-const compare = domCompare.compare;
+const dom_compare = require("@dom-compare");
+const compare = dom_compare.compare;
 const fs = require('fs');
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
@@ -11,10 +11,12 @@ const PNG = require('pngjs').PNG;
 const argv = require('minimist')(process.argv.slice(2), opts = {
     boolean: [
         "strip",
-        "verbose"
+        "verbose",
+        "simple"
     ],
     default: {
         "strip" : 0, 
+        "simple" : 0,
         "verbose": 0, 
         "input": "output/output"
     }
@@ -30,39 +32,48 @@ function get_dom_from_file(filename, strip=false) {
     return document;
 }
 
-function compare_dom(input, verbose, strip) {
-    // Compare DOM trees
+function compare_dom(input, verbose, strip, simple) {
     let dom_0 = get_dom_from_file(input + "_dom" + "_0.txt", strip);
     let dom_1 = get_dom_from_file(input + "_dom" + "_1.txt", strip);
-    let comp = compare(dom_0, dom_1);
+    let comp = compare(dom_0, dom_1, simple);
     if (verbose) {
         console.log(comp.getDifferences());
     }
-    console.log("nodes %d dom_differences %d\n%f", 
+    if (comp.getTotalNodes() < 10) {
+        // Could not load page, exit early.
+        return false;
+    }
+    console.log("nodes %d dom_differences %d", 
         comp.getTotalNodes(), 
         comp.getDiffNodes(), 
-        comp.getSummary()
     );
+    return true;
 }
 
 function compare_requests(input) {
-    // Compare network requests
-    let net_0 = fs.readFileSync(input + "_network" + "_0.txt", 'utf8'); 
-    let net_1 = fs.readFileSync(input + "_network" + "_1.txt", 'utf8'); 
-    net_0 = net_0.split("\n").sort().join("\n");
-    net_1 = net_1.split("\n").sort().join("\n");
-    let changes = jsdiff.diffLines(net_0, net_1); 
-    let total_reqs = net_0.split("\n").length;
+    let net_0 = fs.readFileSync(input + "_network" + "_0.txt", 'utf8').split("\n").sort(); 
+    let net_1 = fs.readFileSync(input + "_network" + "_1.txt", 'utf8').split("\n").sort(); 
+    if (net_0.length < net_1.length) { // swap so net_0 is larger
+        let temp = net_0;
+        net_0 = net_1;
+        net_1 = temp;
+    }
+    let total_reqs = net_1.length;
+    let changes = jsdiff.diffLines(net_0.join("\n"), net_1.join("\n")); 
+    let diffs = 0;
+    for (let i = 0; i < changes.length; i++) {
+        if (changes[i].removed) {
+            diffs++;
+        }
+    }
     console.log("requests %d network_differences %d", 
         total_reqs, 
-        changes.length
+        diffs
     );
-    console.log(changes.length / total_reqs);
 }
 
 
 function compare_screenshots(input) {
-    // Compare screenshots
     let pic_data_0 = fs.readFileSync(input + "_screenshot" + "_0.png"); 
     let pic_data_1 = fs.readFileSync(input + "_screenshot" + "_1.png");
     let pic_0 = new PNG.sync.read(pic_data_0);
@@ -73,15 +84,17 @@ function compare_screenshots(input) {
         total_pixels,
         num_pixels_diff
     );
-    console.log(num_pixels_diff / total_pixels);
 }
 
 (function main() {
     let strip = argv['strip'];
     let verbose = argv['verbose'];
     let input = argv['input'];
-    compare_dom(input, verbose, strip);
-    compare_requests(input);
-    compare_screenshots(input);
+    let simple = argv['simple'];
+    console.log(input.split('/').pop()); // log name of input
+    if (compare_dom(input, verbose, strip, simple)) {
+        compare_requests(input);
+        compare_screenshots(input);
+    }
 })();
 
