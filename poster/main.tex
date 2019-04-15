@@ -12,10 +12,10 @@
 
 \usetheme{confposter} % Use the confposter theme supplied with this template
 
-\setbeamercolor{block title}{fg=blue,bg=white} % Colors of the block titles
+\setbeamercolor{block title}{fg=jblue,bg=white} % Colors of the block titles
 \setbeamercolor{block body}{fg=black,bg=white} % Colors of the body of blocks
-\setbeamercolor{block alerted title}{fg=white,bg=dblue!70} % Colors of the highlighted block titles
-\setbeamercolor{block alerted body}{fg=black,bg=dblue!10} % Colors of the body of highlighted blocks
+\setbeamercolor{block alerted title}{fg=white,bg=jblue!80} % Colors of the highlighted block titles
+\setbeamercolor{block alerted body}{fg=black,bg=jblue!10} % Colors of the body of highlighted blocks
 % Many more colors are available for use in beamerthemeconfposter.sty
 
 %-----------------------------------------------------------
@@ -78,11 +78,11 @@
 %----------------------------------------------------------------------------------------
 
 \begin{alertblock}{Problem}
-Live code is always in a continuous state of improvement and being rewritten. As such, source code for web pages also changes drastically over time, and it is important to know what it really means for a web page to be the same as another or the same as a previous version of itself. 
+Code is always being rewritten and in constant need of further improvement. As such, source code for web pages changes drastically over time, and it is important to know what it really means for a web page to be the same as another or the same as a previous version of itself. In order to proceed, we introduce a core browser concept.
 
 \begin{columns}
 \begin{column}{\halfcolwid}
-The main entity we are concerned with is the Document Object Model (DOM) tree, which keeps track of the structure of the web page at a high level. 
+The main entity we are concerned with is the Document Object Model (DOM) tree, which keeps track of the structure of the web page at a high level and is modified as the page loads. 
 \end{column}
 
 \begin{column}{\halfcolwid} % Begin a column which is two columns wide (column 2)
@@ -92,7 +92,7 @@ The main entity we are concerned with is the Document Object Model (DOM) tree, w
 \end{figure}
 \end{column}
 \end{columns}
-There is a need for an approach and implementation of a more useful way to check differences between two web pages than a naive diff of the source text or checking for DOM tree equality. We also wish to get a better understanding for how the DOM differs over different sites as well as environments, which will be explained below.
+There is a need for an approach and implementation of a more useful way to check differences between two web pages than a naive diff of the source code text. We also wish to get a better understanding of how the DOM differs over different sites as well as environments, which will be explained below.
 \end{alertblock}
 
 %----------------------------------------------------------------------------------------
@@ -100,13 +100,13 @@ There is a need for an approach and implementation of a more useful way to check
 %----------------------------------------------------------------------------------------
 
 \begin{block}{Objective}
-In this project, I wrote a correctness checker to determine how similar two web pages are from the perspective of a user visiting either page by creating a program to compare the resulting post-load DOM trees of loading two web pages and can quantify how similar they are. Using this tool, we aim to form a better idea of how real web pages change. 
+In this project, I wrote a tool to determine how similar two web pages are from the perspective of a user visiting either page. This was achieved by comparing the resulting post-load DOM trees of loading two web pages and quantifying how similar they were. Using this tool, we aim to form a better idea of how real web pages change over time. 
 
 The major steps for this project included:
 \begin{itemize}
-    \item Loading a site, dumping the post-load DOM and parsing this into a virtual DOM tree that can be manipulated effectively. 
-    \item Comparing the two trees and reporting the differences.
-    \item Automating and batching this process with several websites and across different environments and graphing the results.
+    \item Navigating to a site and dumping the DOM after loading.
+    \item Comparing two loads and reporting the differences.
+    \item Automating the process across several websites and graphing results.
 \end{itemize}
 \end{block}
 
@@ -115,9 +115,9 @@ The major steps for this project included:
 %----------------------------------------------------------------------------------------
 \vspace{-0.5cm}
 \begin{block}{Methodology}
-To evaluate the appearance of the DOM in addition to the structure, we make a first pass over the source code and serialize the computed CSS styles into the DOM to use as an additional check. 
+To evaluate the appearance of the DOM in addition to the structure, we make a first pass over the source code and serialize the computed CSS styles into the DOM. We also make use of a more discerning algorithm for comparison than a naive tree diff. 
 
-In addition to comparing two loads of the same web page in a standard live setup, we wanted to explore how the DOM changes in a replay environment using the mahimahi tool \cite{netravali_sivaraman_winstein_das_goyal_balakrishnan_2014}. After recording replay data for $\sim 100$ randomly chosen websites, we performed the comparison within these replay environments. We also constructed modified versions of the replay environments by manually removing sources of non-determinism from the included JavaScript scripts. 
+In addition to comparing two loads of the same web page in a standard live setup, we wanted to explore how the DOM changes in a replay environment using the mahimahi tool \cite{netravali_sivaraman_winstein_das_goyal_balakrishnan_2014}. After recording replay data for $\sim 100$ websites randomly chosen from the Alexa top 1000, we performed the comparison within these replay environments. We also constructed modified versions of the replay environments by manually removing sources of non-determinism from any included JavaScript files. 
 \end{block}
 
 %----------------------------------------------------------------------------------------
@@ -129,34 +129,6 @@ In addition to comparing two loads of the same web page in a standard live setup
 \begin{column}{\onecolwid} % Begin a column which is two columns wide (column 2)
 
 %----------------------------------------------------------------------------------------
-%	ALGORITHM
-%----------------------------------------------------------------------------------------
-
-%\begin{block}{Comparison Algorithm}
-
-%For the comparison algorithm, we check the longest common subsequence formed by two nodes' children, and only comparing the matching nodes. While this algorithm has greater time complexity ($O(n^2)$ compared to $O(n)$ for a naive recursive method), the DOM trees are usually no greater than 1000 nodes, and the comparison still ran fairly quickly. Finally, to check our results and strengthen the existing comparison, we added comparisons of the network requests fired by each load as well as the resulting screenshots of the websites after loading.
-
-%\vspace{0.75cm}
-%\begin{algorithm}[H]
-%\begin{algorithmic}
-%% \IF{!compare\_attrs(left\_root, right\_root)}
-%\FOR{$i=1$ to $N$}
-%\FOR{$j=1$ to $JJJJ$}
-%\STATE $energy[i*JJJ+j] =$ 
-%$ interpolate(AAA[i*JJJ+j], ZZZ)$
-%\ENDFOR
-%\ENDFOR
-%\end{algorithmic}
-%\caption{pseudocode for DOM comparison}
-%\label{alg:seq}
-%\end{algorithm}
-
-
-% For the DOM comparison, we check the number of nodes compared and report the number of unmatched nodes in the maximum size tree. For comparing the fired network requests, we again report the number of unmatched network requests as a fraction of the total (discarding duplicates and requests that do not affect the DOM). Finally, to compare the screenshots, we used a simple image edit distance library and normalized this with respect to the image size. 
-
-%\end{block}
-
-%----------------------------------------------------------------------------------------
 %	RESULTS
 %----------------------------------------------------------------------------------------
 
@@ -166,25 +138,30 @@ First, we justify why a smarter DOM comparison is necessary. The following graph
 
 \begin{figure}
 \vspace{0.5cm}
-\includegraphics[width=0.6\linewidth]{naive_comparison_plot.png}
+\includegraphics[width=0.8\linewidth]{naive_comparison_plot.png}
+\vspace{-1.5cm}
 \caption{How our comparison performs compared to a naive approach}
 \end{figure}
 
-As seen, our approach identifies many additional differences and gives a higher signal for if a web page has changed. 
+As seen, our approach identifies many additional differences that the naive approach suppresses to determine if a web page has changed. 
 
-Having established the viability of this approach, we now compare the differences between the three classes of comparisons: comparison with live loads, loads within a replay environment, and reloads within the modified replay environment.
+Having established the viability of this approach, we now compare the differences between the three classes of comparisons: comparison with live loads, loads within a replay environment, and finally loads within a modified replay environment.
 
 \begin{figure}
 \vspace{0.5cm}
-\includegraphics[width=0.9\linewidth]{dom_plot.png}
+\includegraphics[width=0.8\linewidth]{dom_plot.png}
+\vspace{-1.5cm}
 \caption{DOM comparison across environments}
 \end{figure}
+
+We can see that the DOM differs significantly more in the live loads than those done in a replay environment.
 
 Finally, we show how the logged network requests change across the different environments for reference.
 
 \begin{figure}
 \vspace{0.5cm}
 \includegraphics[width=0.8\linewidth]{network_plot.png}
+\vspace{-1.5cm}
 \caption{Network request comparison across environments}
 \end{figure}
 
@@ -204,9 +181,9 @@ Finally, we show how the logged network requests change across the different env
 
 \begin{block}{Discussion}
 
-The results show that more than 70\% of the  live web pages sampled change across back-to-back loads. Existing work supports the general trend of this data of only roughly 22\% of websites having the same DOM structure on back to back loads \cite{ruamviboonsuk_netravali_uluyol_madhyastha_2017}. 
+The results show that almost all live web pages sampled change across back-to-back loads with this comparison. Existing work suggested a general trend of only roughly 22\% of websites having the same DOM structure on back to back loads \cite{ruamviboonsuk_netravali_uluyol_madhyastha_2017}, but this figure did not account for changes in style or attributes of the DOM elements.
 
-Additionally, while the replay environment helps decrease the detected changes in the DOM as well as in the network requests sent, there are still sources of non-determinism that cause the DOM to change. In the modified replay environments supplied, we see less change, but there are still sources of differences present that are being investigated. 
+Additionally, while the replay environment helps decrease the detected changes in both the DOM  and the network requests sent, there are still sources of non-determinism that cause changes. In the modified replay environments supplied, we see less change, but there are still sources of differences present that are currently being investigated. 
 
 \end{block}
 
@@ -216,10 +193,9 @@ Additionally, while the replay environment helps decrease the detected changes i
 
 \begin{block}{Next Steps}
 
-Future questions for extending this project include optimization of the existing tool, a better characterization of the types of differences that appear, and extending the modified replay environment to account for more sources of non-determinism. 
-%A development of a unified metric that incorporates both the DOM changes and network request changes and accurately reports the differences would be useful. 
+Some areas for future exploration include optimization of the existing tool, a better characterization of the types of differences that appear, and extension of the modified replay environment to account for more sources of non-determinism.  
 
-Another application of this would be for further use in the field of web page optimization research. This project could be used to evaluate the correctness of existing work, where rewriting source code is common to gain improvements in speed and memory usage. This project provides useful information to users to determine how their rewrites have affected the content of the rewritten web pages.
+This tool can also be applied in web page optimization research, where it could be used to evaluate the correctness of existing work. Rewriting source code is common in this field to gain improvements in speed and memory usage. This project would provide useful information to determine how users' modifications have affected the content of the rewritten web pages.
 \end{block}
 
 %----------------------------------------------------------------------------------------
@@ -229,8 +205,8 @@ Another application of this would be for further use in the field of web page op
 \begin{block}{References}
 \vspace{-0.5cm}
 \nocite{*} % Insert publications even if they are not cited in the poster
-\small{\bibliographystyle{unsrt}
-\bibliography{sample}}
+\footnotesize{\bibliographystyle{unsrt}
+\bibliography{capstone}}
 
 \end{block}
 
@@ -246,7 +222,7 @@ Another application of this would be for further use in the field of web page op
 
 \begin{alertblock}{Acknowledgements}
 
-\small{\rmfamily{I would like to thank Prof. Harsha Madhyastha, Ayush Goel, and the Engineering Honors Program for guiding and helping me to complete this project.
+\small{\rmfamily{I would like to thank Prof. Harsha Madhyastha, Ayush Goel, and the Engineering Honors Program for mentorship and guidance throughout this project.
 }} \\
 
 \begin{itemize}
@@ -254,10 +230,10 @@ Another application of this would be for further use in the field of web page op
 \end{itemize}
 \end{alertblock}
 
-\vspace{-2cm}
+\vspace{-2.5cm}
 \begin{center}
 \begin{figure}
-\includegraphics[width=0.4\linewidth]{CoE-Honors-vert.png}
+\includegraphics[width=0.45\linewidth]{CoE-Honors-vert.png}
 \end{figure}
 \end{center}
 
