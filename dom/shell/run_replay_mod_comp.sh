@@ -3,7 +3,7 @@
 get() {
     echo "FETCHING MODIFIED SAMPLES"
     numSamples=2
-    for site in ../replay_data/modified/*; do
+    for site in replay_data/modified/*; do
         url=${site##*/}
         mm-webreplay $site node get_samples.js --url $url --numSamples $numSamples --filename output/modified/
         wait

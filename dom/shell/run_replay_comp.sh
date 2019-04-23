@@ -4,10 +4,10 @@
 
 record() {
     echo "RECORDING RAW SAMPLES"
-    for site in ../replay_data/modified/*; do
+    for site in replay_data/modified/*; do
         url=${site##*/}
         node get_samples.js --url $url --filename output/raw/ --numSamples 1
-        mm-webrecord ../replay_data/raw/$url chromium-browser --ignore-certificate-errors $url
+        mm-webrecord replay_data/raw/$url chromium-browser --ignore-certificate-errors $url
         wait
         echo $url
     done
@@ -16,7 +16,7 @@ record() {
 get() {
     echo "FETCHING RAW SAMPLES"
     numSamples=2
-    for site in ../replay_data/raw/*; do
+    for site in replay_data/raw/*; do
         url=${site##*/}
         timeout 60s mm-webreplay $site node get_samples.js --url $url --filename output/raw/ --numSamples $numSamples
         wait

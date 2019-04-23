@@ -3,8 +3,8 @@
 library(ggplot2)
 library(wesanderson)
  
-output <- "dom_plot.png"
-data <- read.csv("../scores/dom_scores.txt", header=TRUE, sep=",")
+output <- "plots/dom_plot.png"
+data <- read.csv("scores/dom_scores.txt", header=TRUE, sep=",")
 png(output, height=2.5, width=5, units="in", res=300)
 ggplot(data, aes(x=data$score, colour=data$type)) +
     stat_ecdf(pad=TRUE) +
@@ -32,8 +32,8 @@ ggplot(data, aes(x=data$score, colour=data$type)) +
         plot.margin=unit(c(0.5,0.5,0.5,0.5),"cm"))
 .junk <- dev.off()
  
-output <- "network_plot.png"
-data <- read.csv("../scores/network_scores.txt", header=TRUE, sep=",")
+output <- "plots/network_plot.png"
+data <- read.csv("scores/network_scores.txt", header=TRUE, sep=",")
 png(output, height=2.5, width=5, units="in", res=300)
 ggplot(data, aes(x=data$score, colour=data$type)) +
     stat_ecdf(pad=TRUE) +
@@ -61,8 +61,8 @@ ggplot(data, aes(x=data$score, colour=data$type)) +
         plot.margin=unit(c(0.5,0.5,0.5,0.5),"cm"))
 .junk <- dev.off()
 
-output <- "screenshot_plot.png"
-data <- read.csv("../scores/screenshot_scores.txt", header=TRUE, sep=",")
+output <- "plots/screenshot_plot.png"
+data <- read.csv("scores/screenshot_scores.txt", header=TRUE, sep=",")
 png(output, height=2.5, width=5, units="in", res=300)
 ggplot(data, aes(x=data$score, colour=data$type)) +
     stat_ecdf(pad=TRUE) +
@@ -90,8 +90,8 @@ ggplot(data, aes(x=data$score, colour=data$type)) +
         plot.margin=unit(c(0.5,0.5,0.5,0.5),"cm"))
 .junk <- dev.off()
 
-output <- "naive_comparison_plot.png"
-data <- read.csv("../scores/naive_comparison.txt", header=TRUE, sep=",")
+output <- "plots/naive_comparison_plot.png"
+data <- read.csv("scores/naive_comparison.txt", header=TRUE, sep=",")
 png(output, height=2.5, width=5, units="in", res=300)
 ggplot(data, aes(x=data$score, colour=data$type)) +
     stat_ecdf(pad=TRUE) +
@@ -120,8 +120,8 @@ ggplot(data, aes(x=data$score, colour=data$type)) +
 .junk <- dev.off()
 
 
-output <- "naive_comparison_plot.png"
-data <- read.csv("../scores/naive_comparison.txt", header=TRUE, sep=",")
+output <- "plots/naive_comparison_plot.png"
+data <- read.csv("scores/naive_comparison.txt", header=TRUE, sep=",")
 png(output, height=2.5, width=5, units="in", res=300)
 ggplot(data, aes(x=data$score, colour=data$type)) +
     stat_ecdf(pad=TRUE) +

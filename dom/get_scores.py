@@ -68,19 +68,19 @@ def write_naive_data(f, live_scores, naive_scores):
 
 
 def main():
-    raw_data = read_data("raw_output.txt")
-    modified_data = read_data("modified_output.txt")
-    live_data = read_data("live_output.txt")
+    raw_data = read_data("scores/raw_output.txt")
+    modified_data = read_data("scores/modified_output.txt")
+    live_data = read_data("scores/live_output.txt")
 
     raw_dom_scores, raw_network_scores, raw_screenshot_scores = get_diff_scores(raw_data)
     modified_dom_scores, modified_network_scores, modified_screenshot_scores = get_diff_scores(modified_data)
     live_dom_scores, live_network_scores, live_screenshot_scores = get_diff_scores(live_data)
 
-    write_file("dom_scores.txt", live_dom_scores, raw_dom_scores, modified_dom_scores)
-    write_file("network_scores.txt", live_network_scores, raw_network_scores, modified_network_scores)
-    write_file("screenshot_scores.txt", live_screenshot_scores, raw_screenshot_scores, modified_screenshot_scores)
+    write_file("scores/dom_scores.txt", live_dom_scores, raw_dom_scores, modified_dom_scores)
+    write_file("scores/network_scores.txt", live_network_scores, raw_network_scores, modified_network_scores)
+    write_file("scores/screenshot_scores.txt", live_screenshot_scores, raw_screenshot_scores, modified_screenshot_scores)
 
-    naive_data = read_data("naive_output.txt")
+    naive_data = read_data("scores/naive_output.txt")
     naive_dom_scores, _, _ = get_diff_scores(naive_data)
     write_file("naive_comparison.txt", live_dom_scores, naive_dom_scores, [], naive=True)
 

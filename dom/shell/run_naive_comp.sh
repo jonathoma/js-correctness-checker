@@ -3,7 +3,7 @@
 get() {
     echo "FETCHING NAIVE SAMPLES"
     numSamples=2
-    for site in ../replay_data/modified/*; do
+    for site in replay_data/modified/*; do
         url=${site##*/}
         node get_samples.js --url $url --numSamples $numSamples --filename output/naive/
         wait
