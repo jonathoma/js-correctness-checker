@@ -16,6 +16,7 @@ const url = "https://" + argv['url'];
 const filename = argv['filename'] + argv['url'];
 const numSamples = argv['numSamples'];
 const script = fs.readFileSync('serialize.js', 'utf-8');
+const MINIMUM_LENGTH = 5000;
 
 async function get_dom(counter) {
     const chrome = await chromelauncher.launch({
@@ -34,8 +35,12 @@ async function get_dom(counter) {
         });
     }); 
     let network_requests = new Set(); 
-    Network.requestWillBeSent((params) => {
-        network_requests.add(params.request.url);
+    Network.responseReceived((params) => {
+        let length = params.response.headers['content-length'];
+        if (length && length > MINIMUM_LENGTH) {
+            // console.log("Request", params.response.url, params.requestId, length);
+            network_requests.add(params.response.url);
+        }
     });
     try {
         await DOM.enable();
@@ -60,7 +65,8 @@ async function get_dom(counter) {
             expression: 'document.documentElement.serializeWithStyles();'
         });
         html = html.result.value;
-        const network_data = Array.from(network_requests).sort().join('\n');
+        network_requests = Array.from(network_requests).sort();
+        let network_data = network_requests.join("\n");
         const {data} = await Page.captureScreenshot();
 
         // Write screenshot, network request data, and captured DOM to files
