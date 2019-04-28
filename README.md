@@ -1,8 +1,22 @@
-# pagecomp
+#
+pagecomp
 
 Building a checker to compare postload Javascript DOMs.
 
 The process of DOM comparison is undergone in several steps, which I will outline below.
+
+## DOM Comparison
+
+In this project, I wrote a tool to determine how similar two web pages are from the perspective of a user visiting either page. This was achieved by comparing the resulting post-load DOM trees of loading two web pages and quantifying how similar they were. Using this tool, we aim to form a better idea of how real web pages change over time.
+
+To evaluate the appearance of the DOM in addition to the structure, we make a first pass over the source code and serialize the computed CSS styles into the DOM. We also make use of a more discerning algorithm for comparison than a naive tree diff.
+
+## Network Comparison 
+
+Toward the end of this project, we became interested in confirming the validity of our DOM comparison method, and so wished to add sanity checks by comparing network requests sent and received as well as screenshots of the loaded websites. In doing so, we found some discrepancies that needed further explanation.
+
+In refining the metric we used for network requests comparison, we originally recorded all the network requests sent until the load event fired, immediately disabled the network and stored all the urls fetched. Upon closer inspection, we found many false positive differences due to tracking and analytics scripts that would create requests (using volatile data like time stamps), but not use the results of these requests to actually modify the DOM. As such, as a quick fix, we noticed that these requests returned extremely small resources, and set a minimum size threshold for recording the network request. This change greatly increased the number of matching network requests, and closer to the estimates from our DOM comparison as well.
+
 
 ## File structure
 
