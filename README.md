@@ -71,7 +71,7 @@ In refining the metric we used for network requests comparison, we originally re
 
 ## Automation
 
-        ./shell/run_live_comp.sh > scores/live_output.txt
+        ./shell/run_*_comp.sh
 
 
 ## Plotting Results

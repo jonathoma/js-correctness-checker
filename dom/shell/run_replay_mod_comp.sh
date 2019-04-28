@@ -27,5 +27,5 @@ compare() {
     done
 }
 
-# get
-compare
+get
+compare > scores/modified_output.txt

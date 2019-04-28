@@ -28,4 +28,4 @@ compare() {
 }
 
 # get
-compare
+compare > scores/live_output.txt

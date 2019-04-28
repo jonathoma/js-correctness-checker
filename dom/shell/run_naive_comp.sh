@@ -27,5 +27,5 @@ compare() {
     done
 }
 
-# get
-compare
+get
+compare > scores/naive_output.txt

@@ -41,5 +41,5 @@ compare() {
 }
 
 # record
-# get
-compare
+get
+compare > scores/raw_output.txt
