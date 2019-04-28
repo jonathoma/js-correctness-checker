@@ -1,5 +1,4 @@
-#
-pagecomp
+# pagecomp
 
 Building a checker to compare postload Javascript DOMs.
 
