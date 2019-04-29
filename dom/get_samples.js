@@ -16,7 +16,7 @@ const url = "https://" + argv['url'];
 const filename = argv['filename'] + argv['url'];
 const numSamples = argv['numSamples'];
 const script = fs.readFileSync('serialize.js', 'utf-8');
-const MINIMUM_LENGTH = 5000;
+const MINIMUM_LENGTH = 100;
 
 async function get_dom(counter) {
     const chrome = await chromelauncher.launch({
@@ -37,8 +37,11 @@ async function get_dom(counter) {
     let network_requests = new Set(); 
     Network.responseReceived((params) => {
         let length = params.response.headers['content-length'];
+        if (!length) {
+            length = params.response.headers['Content-Length'];
+        }
         if (length && length > MINIMUM_LENGTH) {
-            // console.log("Request", params.response.url, params.requestId, length);
+            console.log("Request", params.response.url, params.requestId, length);
             network_requests.add(params.response.url);
         }
     });
