@@ -7,8 +7,8 @@ pixels 802560 screenshot_differences 31984
 www.6.cn
 www.afreecatv.com
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.aliyun.com
 nodes 47 dom_differences 15
 requests 218 network_differences 6
@@ -19,20 +19,20 @@ requests 240 network_differences 18
 pixels 802560 screenshot_differences 2480
 www.as.com
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.babytree.com
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.baidu.com
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.bankmellat.ir
 nodes 3966 dom_differences 0
-requests 70 network_differences 1
-pixels 802560 screenshot_differences 0
+requests 66 network_differences 0
+pixels 718080 screenshot_differences 0
 www.bestbuy.com
 nodes 3203 dom_differences 136
 requests 131 network_differences 2
@@ -51,20 +51,20 @@ requests 215 network_differences 14
 pixels 802560 screenshot_differences 6131
 www.bzw315.com
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.championat.com
 nodes 2793 dom_differences 34
 requests 117 network_differences 14
 pixels 802560 screenshot_differences 0
 www.chip.de
-nodes 2843 dom_differences 23
-requests 61 network_differences 7
-pixels 802560 screenshot_differences 0
+nodes 2314 dom_differences 21
+requests 46 network_differences 6
+pixels 718080 screenshot_differences 115
 www.cimaclub.com
 nodes 111 dom_differences 0
-requests 10 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.cnbeta.com
 nodes 2288 dom_differences 57
 requests 200 network_differences 6
@@ -75,17 +75,17 @@ requests 168 network_differences 7
 pixels 802560 screenshot_differences 0
 www.coccoc.com
 nodes 111 dom_differences 0
-requests 10 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.dailymail.co.uk
 www.dhgate.com
 nodes 1267 dom_differences 11
 requests 91 network_differences 3
 pixels 802560 screenshot_differences 0
 www.digikala.com
-nodes 6089 dom_differences 135
-requests 244 network_differences 2
-pixels 802560 screenshot_differences 143
+nodes 65 dom_differences 3
+requests 219 network_differences 19
+pixels 401100 screenshot_differences 220336
 www.digitaltrends.com
 nodes 980 dom_differences 55
 requests 132 network_differences 12
@@ -105,48 +105,48 @@ requests 102 network_differences 7
 pixels 452550 screenshot_differences 0
 www.eastday.com
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.ebc.net.tw
 nodes 111 dom_differences 0
-requests 10 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.eksisozluk.com
 nodes 1453 dom_differences 26
 requests 124 network_differences 9
 pixels 802560 screenshot_differences 0
 www.elpais.com
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.ensonhaber.com
 nodes 2619 dom_differences 144
 requests 196 network_differences 2
 pixels 802560 screenshot_differences 5158
 www.filehippo.com
 nodes 111 dom_differences 0
-requests 10 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.food.tmall.com
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.g2a.com
 nodes 3274 dom_differences 11
 requests 130 network_differences 11
 pixels 802560 screenshot_differences 0
 www.geeksforgeeks.org
 nodes 111 dom_differences 0
-requests 10 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.globo.com
 nodes 4047 dom_differences 26
 requests 99 network_differences 7
 pixels 802560 screenshot_differences 0
 www.gmarket.co.kr
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.hespress.com
 nodes 3746 dom_differences 12
 requests 179 network_differences 5
@@ -154,12 +154,12 @@ pixels 802560 screenshot_differences 0
 www.hola.com
 www.hp.com
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.icicibank.com
-nodes 3094 dom_differences 19
-requests 116 network_differences 9
-pixels 802560 screenshot_differences 79754
+nodes 2945 dom_differences 30
+requests 83 network_differences 7
+pixels 718080 screenshot_differences 105949
 www.imdb.com
 nodes 1974 dom_differences 0
 requests 85 network_differences 4
@@ -174,9 +174,9 @@ nodes 1480 dom_differences 8
 requests 118 network_differences 4
 pixels 802560 screenshot_differences 423137
 www.jio.com
-nodes 1740 dom_differences 22
-requests 41 network_differences 4
-pixels 802560 screenshot_differences 320581
+nodes 1452 dom_differences 29
+requests 25 network_differences 6
+pixels 718080 screenshot_differences 170
 www.jrj.com.cn
 www.kapanlagi.com
 nodes 1416 dom_differences 18
@@ -188,97 +188,97 @@ requests 152 network_differences 9
 pixels 802560 screenshot_differences 41070
 www.lifebuzz.com
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.mail.ru
 nodes 115 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.mama.cn
 www.mlb.com
-nodes 2753 dom_differences 15
-requests 77 network_differences 9
-pixels 802560 screenshot_differences 0
+nodes 2753 dom_differences 17
+requests 32 network_differences 2
+pixels 718080 screenshot_differences 0
 www.naija.ng
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.naver.jp
 nodes 111 dom_differences 0
-requests 10 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.netflix.com
 nodes 550 dom_differences 0
-requests 14 network_differences 2
-pixels 802560 screenshot_differences 0
+requests 10 network_differences 0
+pixels 718080 screenshot_differences 0
 www.ngacn.cc
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.ok.ru
-nodes 2654 dom_differences 41
-requests 135 network_differences 5
-pixels 802560 screenshot_differences 0
+nodes 255 dom_differences 25
+requests 85 network_differences 24
+pixels 718080 screenshot_differences 8650
 www.orange.fr
-nodes 2151 dom_differences 36
-requests 83 network_differences 6
-pixels 802560 screenshot_differences 0
+nodes 2150 dom_differences 8
+requests 27 network_differences 1
+pixels 718080 screenshot_differences 0
 www.pantip.com
-nodes 4311 dom_differences 15
-requests 137 network_differences 5
-pixels 802560 screenshot_differences 154874
+nodes 4308 dom_differences 15
+requests 104 network_differences 9
+pixels 718080 screenshot_differences 57274
 www.pastebin.com
 nodes 115 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.pchome.com.tw
 nodes 1616 dom_differences 197
 requests 227 network_differences 14
 pixels 802560 screenshot_differences 4055
 www.pixiv.net
-nodes 310 dom_differences 9
-requests 40 network_differences 3
-pixels 802560 screenshot_differences 429276
+nodes 307 dom_differences 19
+requests 30 network_differences 1
+pixels 718080 screenshot_differences 793
 www.pornq.com
-nodes 1094 dom_differences 315
-requests 193 network_differences 4
-pixels 802560 screenshot_differences 0
+nodes 1021 dom_differences 319
+requests 60 network_differences 5
+pixels 718080 screenshot_differences 148
 www.rbc.ru
-nodes 1851 dom_differences 18
-requests 120 network_differences 13
-pixels 802560 screenshot_differences 2189
+nodes 1824 dom_differences 22
+requests 39 network_differences 15
+pixels 718080 screenshot_differences 1771
 www.rediff.com
-nodes 1331 dom_differences 22
-requests 63 network_differences 3
-pixels 802560 screenshot_differences 0
+nodes 1250 dom_differences 31
+requests 37 network_differences 0
+pixels 718080 screenshot_differences 0
 www.ria.ru
 nodes 3308 dom_differences 389
 requests 178 network_differences 14
 pixels 802560 screenshot_differences 0
 www.ruten.com.tw
 nodes 2957 dom_differences 23
-requests 108 network_differences 3
-pixels 802560 screenshot_differences 35
+requests 79 network_differences 0
+pixels 718080 screenshot_differences 47
 www.rutube.ru
 nodes 111 dom_differences 0
-requests 10 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.sahibinden.com
-nodes 2065 dom_differences 0
-requests 97 network_differences 2
-pixels 802560 screenshot_differences 0
+nodes 2065 dom_differences 4
+requests 82 network_differences 4
+pixels 718080 screenshot_differences 16
 www.shaparak.ir
 nodes 539 dom_differences 0
-requests 39 network_differences 1
-pixels 802560 screenshot_differences 0
+requests 38 network_differences 0
+pixels 718080 screenshot_differences 0
 www.sina.com.cn
 nodes 6819 dom_differences 15
 requests 140 network_differences 9
 pixels 802560 screenshot_differences 5922
 www.slideshare.net
 nodes 1196 dom_differences 0
-requests 29 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 17 network_differences 0
+pixels 718080 screenshot_differences 0
 www.smzdm.com
 nodes 3768 dom_differences 59
 requests 186 network_differences 8
@@ -286,28 +286,24 @@ pixels 802560 screenshot_differences 42529
 www.so.com
 www.sohu.com
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.sportbox.ru
 nodes 136 dom_differences 0
-requests 10 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.sports.ru
 nodes 5011 dom_differences 526
 requests 154 network_differences 19
 pixels 802560 screenshot_differences 392
 www.strava.com
 nodes 192 dom_differences 0
-requests 19 network_differences 1
-pixels 802560 screenshot_differences 0
-www.t-online.de
-nodes 3463 dom_differences 29
-requests 152 network_differences 12
-pixels 802560 screenshot_differences 0
+requests 6 network_differences 0
+pixels 718080 screenshot_differences 0
 www.techradar.com
 nodes 1501 dom_differences 0
-requests 23 network_differences 4
-pixels 802560 screenshot_differences 0
+requests 4 network_differences 0
+pixels 718080 screenshot_differences 0
 www.telegraf.com.ua
 nodes 2437 dom_differences 50
 requests 217 network_differences 5
@@ -317,17 +313,17 @@ nodes 5782 dom_differences 29
 requests 221 network_differences 13
 pixels 802560 screenshot_differences 0
 www.telewebion.com
-nodes 608 dom_differences 13
-requests 25 network_differences 2
-pixels 802560 screenshot_differences 0
+nodes 571 dom_differences 93
+requests 2 network_differences 0
+pixels 718080 screenshot_differences 504
 www.thestartmagazine.com
 nodes 111 dom_differences 0
-requests 10 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.tistory.com
-nodes 585 dom_differences 24
-requests 80 network_differences 1
-pixels 802560 screenshot_differences 0
+nodes 487 dom_differences 35
+requests 74 network_differences 4
+pixels 718080 screenshot_differences 648965
 www.tokopedia.com
 nodes 4425 dom_differences 13
 requests 216 network_differences 8
@@ -336,22 +332,26 @@ www.tomshardware.com
 nodes 178 dom_differences 38
 requests 202 network_differences 30
 pixels 802560 screenshot_differences 653435
+www.t-online.de
+nodes 3463 dom_differences 29
+requests 152 network_differences 12
+pixels 802560 screenshot_differences 0
 www.uidai.gov.in
 nodes 111 dom_differences 0
-requests 10 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.uniqlo.tmall.com
 nodes 136 dom_differences 0
-requests 12 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.uol.com.br
 nodes 111 dom_differences 0
-requests 10 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.upornia.com
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.uzone.id
 nodes 1097 dom_differences 11
 requests 98 network_differences 7
@@ -374,26 +374,26 @@ nodes 912 dom_differences 20
 requests 174 network_differences 7
 pixels 802560 screenshot_differences 465411
 www.wunderground.com
-nodes 1105 dom_differences 26
-requests 49 network_differences 4
-pixels 802560 screenshot_differences 68835
+nodes 1104 dom_differences 35
+requests 41 network_differences 5
+pixels 718080 screenshot_differences 845
 www.xda-developers.com
 nodes 2337 dom_differences 51
 requests 316 network_differences 28
 pixels 802560 screenshot_differences 0
 www.xiami.com
-nodes 1623 dom_differences 0
-requests 108 network_differences 2
-pixels 802560 screenshot_differences 95170
+nodes 42 dom_differences 9
+requests 90 network_differences 8
+pixels 718080 screenshot_differences 231660
 www.yahoo.co.jp
 nodes 1566 dom_differences 18
-requests 55 network_differences 5
-pixels 802560 screenshot_differences 0
+requests 45 network_differences 3
+pixels 718080 screenshot_differences 0
 www.youdao.com
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0
 www.youth.cn
 nodes 136 dom_differences 0
-requests 9 network_differences 0
-pixels 802560 screenshot_differences 0
+requests 1 network_differences 0
+pixels 718080 screenshot_differences 0

@@ -16,7 +16,7 @@ const url = "https://" + argv['url'];
 const filename = argv['filename'] + argv['url'];
 const numSamples = argv['numSamples'];
 const script = fs.readFileSync('serialize.js', 'utf-8');
-const MINIMUM_LENGTH = 100;
+const MINIMUM_LENGTH = 500;
 
 async function get_dom(counter) {
     const chrome = await chromelauncher.launch({

@@ -18,6 +18,12 @@ get() {
     numSamples=2
     for site in replay_data/raw/*; do
         url=${site##*/}
+        # Code to only run a certain subset of websites
+        # echo ${url:4:8}
+        # if [[ ${url:4:8} < "digikala" ]];
+        # then
+        #     continue
+        # fi
         timeout 60s mm-webreplay $site node get_samples.js --url $url --filename output/raw/ --numSamples $numSamples
         wait
         echo $url $?
